@@ -25,5 +25,113 @@
         "explanation": "大量のテキストデータを学習し、人間のような文章を生成したり、質問に答えたりできる人工知能モデルの総称です。"
       }
     ]
+  },
+  "https://www.itmedia.co.jp/aiplus/articles/2603/04/news111.html": {
+    "title": "さくらインターネットが「AI検定」を開始、基礎学習教材も無料公開で全ビジネスパーソンのAIリテラシー向上を後押し",
+    "tags": "AI",
+    "sentiment": "positive",
+    "sentiment_text": "明るい話題",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2603/04/news111.html",
+    "summary_bullets": [
+      "さくらインターネットが、AIの基礎知識を問う「AI検定」を開始し、学習教材を無料で公開した。",
+      "これにより、国内のAI人材育成が加速し、多様な業界でAI活用の裾野が広がる社会的な影響が期待される。",
+      "今後、企業が主導するAIリテラシー標準化の動きや、無償のAI教育コンテンツ提供がトレンドとなる可能性が高い。"
+    ],
+    "insight": "AIリテラシーは特定の専門家だけでなく、全ビジネスパーソンにとって必須のスキルとなりつつあります。この無料教材と検定は、自身のAI知識を体系的に学び、キャリアアップに繋げる絶好の機会と捉えるべきです。",
+    "action_plan": "さくらインターネットが公開したAI検定の概要を確認し、無料教材を使ってAIの基礎知識を学び始めましょう。また、チームや部署内でAIリテラシー向上のための情報共有や勉強会を企画し、組織全体のデジタル変革を加速させましょう。",
+    "image_keyword": "AI learning platform, corporate training, digital certification",
+    "technical_terms": [
+      {
+        "term": "AI検定",
+        "explanation": "人工知能に関する基礎的な知識や概念を問う資格試験。個人のAIリテラシーを客観的に評価する。"
+      },
+      {
+        "term": "AIリテラシー",
+        "explanation": "人工知能の基本的な仕組み、活用方法、倫理的側面などを理解し、適切に利用できる能力。"
+      }
+    ]
+  },
+  "https://www.itmedia.co.jp/enterprise/articles/2603/03/news160.html": {
+    "title": "米軍AI導入戦略の舞台裏：AnthropicとOpenAI、交渉決裂と合意の分かれ道",
+    "tags": "AI",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 5,
+    "time_ago": "6時間前",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2603/03/news160.html",
+    "summary_bullets": [
+      "米国防総省のAI導入計画において、Anthropicは交渉決裂し、OpenAIは提携合意に至るという対照的な結果が出た。",
+      "この結果は、AI技術の性能だけでなく、政府機関特有の倫理規定、セキュリティ要件、および企業文化との適合性がビジネス成功の鍵を握ることを示唆している。",
+      "今後、政府・軍事機関におけるAIの導入はさらに加速すると予測され、技術だけでなくガバナンスと信頼性が主要な選定基準となるだろう。"
+    ],
+    "insight": "政府機関とのAI契約は、単なる技術提供にとどまらず、企業の倫理的スタンス、セキュリティ体制、そして複雑な交渉に対応できる組織体制が問われることを理解し、戦略的に準備する必要があります。",
+    "action_plan": "自社のAI関連技術が特定の産業分野や政府機関の厳しい要件に合致するか、法的・倫理的ガイドラインと照らし合わせて評価を見直してみましょう。",
+    "image_keyword": "Pentagon AI integration, military AI technology, government AI deal",
+    "technical_terms": [
+      {
+        "term": "AI",
+        "explanation": "人工知能の略で、人間のように学習・判断・推論を行うコンピューターシステム。"
+      },
+      {
+        "term": "Anthropic",
+        "explanation": "Claudeシリーズで知られる、安全性と倫理に重点を置いたAIモデルを開発する企業。"
+      },
+      {
+        "term": "OpenAI",
+        "explanation": "ChatGPTなどで知られる、高性能なLLM（大規模言語モデル）を開発する主要なAI企業。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/pickup/6571974?source=rss": {
+    "title": "Apple、次世代M5チップ搭載「MacBook Air」を発表：AI時代のパフォーマンスを再定義",
+    "tags": "Hardware",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "7時間前",
+    "url": "https://news.yahoo.co.jp/pickup/6571974?source=rss",
+    "summary_bullets": [
+      "Appleが最新のM5チップを搭載した新型MacBook Airを発表し、処理性能とAI機能を大幅に強化した。",
+      "ビジネスユーザーやクリエイターは、より高度なタスクやAI駆動型アプリケーションを効率的に実行できるようになり、生産性向上に貢献する。",
+      "PC市場全体でAI機能搭載モデルへの移行が加速する中、高性能モバイルデバイスが今後のビジネスにおける競争優位性を左右するトレンドを形成する。"
+    ],
+    "insight": "M5チップ搭載MacBook Airの登場は、高性能なAI処理能力がビジネスツールの標準となる時代の到来を明確に示しています。企業は、従業員がAIを最大限に活用できるようなデバイス環境を整えることが、今後の生産性向上と競争力維持に不可欠であると認識すべきです。",
+    "action_plan": "自社のIT戦略において、AIワークロードに対応可能な高性能デバイスへの投資計画を見直してみましょう。特にクリエイティブ部門やデータ分析部門向けに、M5チップ搭載MacBook Airのような最新デバイスの導入がもたらす生産性向上効果を具体的に評価し、パイロット導入を検討することをお勧めします。",
+    "image_keyword": "MacBook Air M5, Apple Laptop, AI PC",
+    "technical_terms": [
+      {
+        "term": "M5チップ",
+        "explanation": "Appleが独自に設計・開発した次世代のSoC（System on a Chip）。CPU、GPU、Neural Engineなどを統合し、前世代と比較して格段に高い処理性能と電力効率、特にAIタスク処理能力を向上させています。"
+      },
+      {
+        "term": "MacBook Air",
+        "explanation": "Appleが提供する軽量かつ薄型のノートPCシリーズ。高い携帯性とパフォーマンスを両立しており、ビジネス用途から学生、一般ユーザーまで幅広い層に支持されています。"
+      }
+    ]
+  },
+  "https://www.gizmodo.jp/2026/03/machi-ya-mechwallet-review2-908168.html": {
+    "title": "キャッシュレス時代の財布問題に終止符？『Mech Wallet』が提示するスマート収納の新常識",
+    "tags": "Hardware",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://www.gizmodo.jp/2026/03/machi-ya-mechwallet-review2-908168.html",
+    "summary_bullets": [
+      "キャッシュレス化が進む中で依然として存在する「財布の肥大化」という課題に対し、「Mech Wallet」がコンパクトな収納と高い利便性を提供する。",
+      "消費者のライフスタイル変化に対応した製品開発が、一見ニッチな課題から新たな市場機会を生み出す可能性を示唆。",
+      "スマートガジェットと日常品が融合し、利便性と機能性を両立させたパーソナルアイテムの需要が増加するトレンドが加速すると予測される。"
+    ],
+    "insight": "既存の課題に対する新しいアプローチ（キャッシュレスなのに財布が厚くなる問題）は、一見ニッチに見えても、消費者の潜在的な不満を解決することで大きな市場を創出し得るため、自社の製品やサービスにおいて「あたりまえ」を見直す視点が重要である。",
+    "action_plan": "自社の顧客が抱える「当たり前」の中に隠された小さな不満や課題を書き出し、テクノロジーやデザインで解決できないかブレインストーミングし、新たなビジネスチャンスを模索してみましょう。",
+    "image_keyword": "Smart wallet, minimalist EDC, futuristic wallet",
+    "technical_terms": [
+      {
+        "term": "キャッシュレス",
+        "explanation": "現金を使わず、クレジットカードや電子マネー、QRコード決済などで支払いを行うこと。"
+      }
+    ]
   }
 }
