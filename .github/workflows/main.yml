@@ -1,0 +1,47 @@
+name: Daily News Update
+
+on:
+  schedule:
+    # 毎日 UTC 22:00 (JST 07:00) に実行
+    - cron: '0 22 * * *'
+  # GitHubの画面上から手動で実行できるようにする
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-generativeai feedparser beautifulsoup4
+
+      - name: Run update_news.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python update_news.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add index.html article_cache.json
+          # 変更がある場合のみコミットとプッシュを行う
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-update news: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
