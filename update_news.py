@@ -27,11 +27,11 @@ except ImportError:
 
 # 取得するニュースのRSSフィードをタブごとに指定
 CATEGORIES = [
-    {"id": "tab-ai", "name": "AI", "rss": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"},
-    {"id": "tab-robotics", "name": "ロボット", "rss": "https://news.yahoo.co.jp/rss/topics/it.xml"},
-    {"id": "tab-semiconductor", "name": "半導体", "rss": "https://news.google.com/rss/search?q=%E5%8D%8A%E5%B0%8E%E4%BD%93&hl=ja&gl=JP&ceid=JP:ja"},
-    {"id": "tab-gadget", "name": "ガジェット", "rss": "https://www.gizmodo.jp/index.xml"},
-    {"id": "tab-security", "name": "セキュリティ", "rss": "https://rss.itmedia.co.jp/rss/2.0/news_security.xml"}
+    {"id": "tab-game", "name": "ゲーム", "rss": "https://automaton-media.com/feed/"},
+    {"id": "tab-book", "name": "本（マンガ・小説）", "rss": "https://natalie.mu/comic/feed/news"},
+    {"id": "tab-movie", "name": "映画", "rss": "https://eiga.com/news/feed.xml"},
+    {"id": "tab-music", "name": "音楽", "rss": "https://natalie.mu/music/feed/news"},
+    {"id": "tab-coffee", "name": "コーヒー（カフェ）", "rss": "https://news.yahoo.co.jp/rss/categories/life.xml"}
 ]
 
 # 更新するHTMLファイルのパス
@@ -141,7 +141,7 @@ def analyze_news_with_gemini(entry, time_ago):
     model = genai.GenerativeModel('gemini-2.5-flash')
     
     prompt = f"""
-あなたは先進的なAI・テクノロジーニュースメディアの凄腕エディターです。
+あなたはポップで読者をワクワクさせるエンタメメディアの凄腕エディターです。
 以下のニュース記事情報を分析し、指定されたフォーマットのJSONのみを返してください。不要なテキスト（マークダウンの```jsonや説明文）を含めないでください。
 
 【ニュース情報】
@@ -155,21 +155,21 @@ def analyze_news_with_gemini(entry, time_ago):
 ・JSONの文法エラー（特に配列の最後の要素の後の余計なカンマ）は絶対に含めないでください。
 ・追加コメントやマークダウン（```json 等）は一切不要です。
 {{
-  "title": "記事のタイトルをベースに、読者を惹きつける洗練された日本語タイトルに調整",
-  "tags": "AI / LLM", "Robotics", "SaaS", "Hardware"などのような1〜2単語の英語またはカタカナのジャンルタグ（必ず文字列で1つだけ指定）,
+  "title": "記事のタイトルをベースに、読者を惹きつけるワクワクする日本語タイトルに調整",
+  "tags": "Game", "Anime", "Movie", "Cafe"などのような1〜2単語の英語またはカタカナのジャンルタグ（必ず文字列で1つだけ指定）,
   "sentiment": "positive", "negative", "neutral" のいずれか（明るい話題はpositive、懸念はnegative、一般的な製品発表などはneutral）,
-  "sentiment_text": "「明るい話題」「懸念される話題」「注目の話題」など、sentimentに合わせた日本語テキスト",
-  "rating": 3〜5の整数（ビジネスにおける重要度）,
+  "sentiment_text": "「神アプデ」「期待の新作」「注目の話題」など、sentimentに合わせたポップな日本語テキスト",
+  "rating": 3〜5の整数（エンタメとしての期待度・注目度）,
   "time_ago": "{time_ago}",
   "url": "{entry.link}",
   "summary_bullets": [
-    "ニュースのもっとも重要なポイント（簡潔な1行）",
-    "ビジネスや社会への影響（簡潔な1行）",
-    "今後のトレンドや予測（簡潔な1行）"
+    "ニュースのもっともワクワクするポイント（簡潔な1行）",
+    "ファンにとっての重要情報（簡潔な1行）",
+    "今後の展開や期待（簡潔な1行）"
   ],
-  "insight": "ビジネスマンがこのニュースから得るべきインサイト（洞察）（1文程度で説得力のある内容）",
-  "action_plan": "このニュースを読んで、読者が今日からできる具体的なアクション案（「〜を見直してみましょう」「〜を書き出してみましょう」等）",
-  "image_keyword": "記事の内容を的確に表す英語の画像検索キーワード2〜3語（例: futuristic robot, cyber security network, smart tech office）",
+  "insight": "このニュース・作品の見どころや魅力（Fascinating Point）（1〜2文程度で魅力が伝わる内容）",
+  "action_plan": "読者が次に見るべき関連作品やおすすめの行動（Next Step）（「〜をチェックしてみましょう」「原作を読んでみよう」等）",
+  "image_keyword": "記事の内容を的確に表す英語の画像検索キーワード2〜3語（例: pop culture, fantasy movie, cafe style）",
   "technical_terms": [
     {{"term": "専門用語1(あれば。タイトルや要約に含まれるもの)", "explanation": "初心者向けの簡単な解説"}},
     {{"term": "専門用語2(あれば)", "explanation": "初心者向けの簡単な解説"}}
@@ -304,7 +304,7 @@ def generate_article_html(article_data, element_id, thumb_url):
                                     d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z"
                                     fill="currentColor" />
                             </svg>
-                            10秒でわかる要約
+                            10秒でわかる！エンタメハイライト
                         </div>
                         <ul class="summary-list">
                             {summary_html.strip()}
@@ -312,7 +312,7 @@ def generate_article_html(article_data, element_id, thumb_url):
                     </div>
 
                     <div class="business-insight">
-                        <div class="insight-title">Business Insight</div>
+                        <div class="insight-title">Fascinating Point</div>
                         <div class="insight-text">{article_data.get('insight', '')}</div>
                     </div>
 
@@ -322,7 +322,7 @@ def generate_article_html(article_data, element_id, thumb_url):
                                 <path
                                     d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
                             </svg>
-                            今日からできるアクション
+                            Next Step（次のおすすめ行動）
                         </div>
                         <div class="action-text">{article_data.get('action_plan', '')}</div>
                     </div>
