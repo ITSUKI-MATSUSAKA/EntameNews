@@ -16,5 +16,243 @@
     "action_plan": "コミック第1巻をいますぐ手に入れて、声優陣が紡ぐ物語の世界に飛び込もう！彼らが演じるキャラクターを想像しながら読むのも楽しいぞ！",
     "image_keyword": "voice actor manga, detective suspense",
     "technical_terms": []
+  },
+  "https://automaton-media.com/articles/newsjp/nagoshi-20260307-427236/": {
+    "title": "え、マジで!? 『龍が如く』生みの親・名越スタジオに激震！一体どうなる、新作は!?",
+    "tags": "Game",
+    "sentiment": "negative",
+    "sentiment_text": "まさかの展開！未来はどうなる！？",
+    "rating": 4,
+    "time_ago": "12時間前",
+    "url": "https://automaton-media.com/articles/newsjp/nagoshi-20260307-427236/",
+    "summary_bullets": [
+      "『龍が如く』を手がけた名越スタジオ、まさかの資金提供打ち切り報道でゲーム業界に激震！",
+      "NetEaseからの資金提供ストップで、開発中の新作『PROJECT: SHINE』の行方が不透明に！",
+      "名越スタジオの未来と、伝説的クリエイターたちの次なる一手から目が離せない！"
+    ],
+    "insight": "『龍が如く』シリーズを築き上げた名越稔洋氏が率いるスタジオが直面するこの困難。業界全体が注目する彼らの次なる一手は、日本のゲーム開発に新たな風を吹き込む可能性を秘めている！",
+    "action_plan": "名越スタジオのルーツを探るなら、まずは名作『龍が如く』シリーズをプレイして彼らの手腕を体感してみましょう！",
+    "image_keyword": "Game studio crisis, Nagoshi creator",
+    "technical_terms": [
+      {
+        "term": "名越スタジオ",
+        "explanation": "『龍が如く』シリーズなどで知られる名越稔洋氏が率いるゲーム開発スタジオ。"
+      },
+      {
+        "term": "NetEase",
+        "explanation": "中国を拠点とする、世界的な巨大ゲーム・IT企業。様々なゲームスタジオへの投資も行っている。"
+      },
+      {
+        "term": "PROJECT: SHINE",
+        "explanation": "名越スタジオが現在開発を進めているとされる、詳細不明の新作ゲームタイトル。"
+      }
+    ]
+  },
+  "https://automaton-media.com/articles/impressionjp/back-to-the-dawn-switch-20260307-426996/": {
+    "title": "動物だらけのヤバすぎ刑務所RPG、初日で規則が大崩壊！『Back to the Dawn』イカれた囚人たちとの獄中日記が衝撃的すぎる！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "これはヤバい！期待度MAXの混沌動物RPGが爆誕！",
+    "rating": 5,
+    "time_ago": "13時間前",
+    "url": "https://automaton-media.com/articles/impressionjp/back-to-the-dawn-switch-20260307-426996/",
+    "summary_bullets": [
+      "動物だらけのヤバすぎる刑務所で、まさかの「規則正しい生活」が初日から大崩壊！",
+      "イカれた囚人や凶悪ギャングに囲まれた主人公の、波乱万丈すぎる獄中生活が垣間見えるぞ！",
+      "Switch版の発売も控える本作で、あなただけのクレイジーな刑務所サバイバルを体験する準備はOK？"
+    ],
+    "insight": "動物たちが暮らす刑務所という奇妙な舞台で、初日から秩序が崩壊していくカオスな展開が最大の魅力。個性豊かな囚人たちとの出会いや、予測不能なトラブルが織りなす唯一無二の“脱獄”体験に期待が高まる！",
+    "action_plan": "『Back to the Dawn』公式サイトや最新トレーラーをチェックして、あなたの「脱獄計画」を練ってみましょう！発売日をカレンダーにマークするのも忘れずに！",
+    "image_keyword": "animal prison, RPG chaos, prison break game",
+    "technical_terms": [
+      {
+        "term": "RPG",
+        "explanation": "ロールプレイングゲームの略。プレイヤーが物語の主人公となり、冒険や成長を楽しむゲームジャンル。"
+      },
+      {
+        "term": "アニマル・プリズン",
+        "explanation": "本作の舞台となる、動物たちが収容された刑務所。一見平和そうに見えて実は混沌としている。"
+      }
+    ]
+  },
+  "https://automaton-media.com/articles/newsjp/counter-strike-2-20260307-427191/": {
+    "title": "CS2のガチャが進化！ドイツで中身\"透視\"できちゃう新システム爆誕！？",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "ゲーマー歓喜？！透明化する新ガチャシステムに大注目！",
+    "rating": 4,
+    "time_ago": "13時間前",
+    "url": "https://automaton-media.com/articles/newsjp/counter-strike-2-20260307-427191/",
+    "summary_bullets": [
+      "ドイツで『Counter-Strike 2』のガチャで中身が事前に確認できる新システムが導入される！",
+      "規制対応のためだが、実質的なシステム変更は少なく、ユーザー体験への大きな影響は限定的。",
+      "今後、他の国やゲームへの影響にも注目が集まる、ガチャ規制の新たな形を示す事例に。"
+    ],
+    "insight": "ガチャの中身が事前に見れるようになるという「透明性」は、ユーザーにとって非常に魅力的なポイントです。法規制への対応がきっかけですが、これによりゲーマーは安心してアイテム選びができるようになるでしょう。",
+    "action_plan": "この新しいガチャシステムが他のゲームにも波及するのか、今後のゲーム業界の動向をチェックしてみましょう！",
+    "image_keyword": "Counter-Strike 2, loot box, Germany",
+    "technical_terms": [
+      {
+        "term": "ガチャ",
+        "explanation": "ランダムでアイテムが手に入る、ゲーム内のくじ引きシステムのこと。"
+      },
+      {
+        "term": "ルートボックス",
+        "explanation": "ゲーム内で入手できる、中身がランダムに決まる仮想アイテムの箱。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/663033": {
+    "title": "『BEASTARS』板垣巴留先生×親友・松岡茉優が夢の共演！原画展特番で激アツトークが炸裂！",
+    "tags": "Manga",
+    "sentiment": "positive",
+    "sentiment_text": "これは見逃せない！ファン必見の豪華コラボが実現！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/663033",
+    "summary_bullets": [
+      "『BEASTARS』作者・板垣巴留先生と親友である女優・松岡茉優さんのスペシャル特番が放送決定！",
+      "開催中の「板垣巴留展」の見どころや先生の創作秘話、貴重な原画の魅力を2人の視点から深掘り。",
+      "ここでしか聞けないエピソード満載で、原画展をさらに楽しむためのガイドブックになること間違いなし！"
+    ],
+    "insight": "『BEASTARS』などで知られる板垣巴留先生の個性的な世界観と、それを読み解く親友・松岡茉優さんの視点が融合！二人の深い関係性から生まれる、ここでしか聞けない貴重なトークがファンを熱狂させること間違いなしです！",
+    "action_plan": "この特番を視聴して、現在開催中の「板垣巴留展」に足を運んでみましょう！もちろん、『BEASTARS』など先生の既刊作品も要チェックです！",
+    "image_keyword": "Manga artist interview, art exhibition, Japanese celebrity",
+    "technical_terms": [
+      {
+        "term": "原画展",
+        "explanation": "漫画家やイラストレーターが描いた、完成前の貴重なオリジナル絵（原画）を展示するイベントのことです。"
+      },
+      {
+        "term": "特番",
+        "explanation": "通常の番組枠とは別に、特定のテーマやイベントのために制作される特別番組のことです。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/663026": {
+    "title": "アニメ『霧尾ファンクラブ』、胸アツなキービジュアル第2弾が到着！ 河川敷を歩くメインキャラ3人が紡ぐ物語に注目！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "期待値爆上がり！青春の予感、ムンムン！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/663026",
+    "summary_bullets": [
+      "アニメ『霧尾ファンクラブ』待望のキービジュアル第2弾が公開され、放送への期待が最高潮に！",
+      "河川敷を歩くメインキャラ3人の姿が印象的で、作品の世界観とキャラクターの関係性が垣間見える！",
+      "今後の追加情報や放送開始に向けて、ファンの間でますます盛り上がること間違いなし！"
+    ],
+    "insight": "この新しいキービジュアルは、メインキャラクター3人のさりげない日常の一コマを切り取りつつ、彼らが織りなすであろう青春ドラマや友情の物語を予感させます。河川敷というロケーションも相まって、どこか懐かしくも新しい、心温まるストーリーに期待が高まります。",
+    "action_plan": "まだ『霧尾ファンクラブ』を知らない人は、ぜひ原作漫画を読んでみましょう！アニメの続報も公式サイトで要チェックです！",
+    "image_keyword": "anime key visual, character walking, youth anime",
+    "technical_terms": []
+  },
+  "https://natalie.mu/comic/news/663029": {
+    "title": "僕ヤバ×カラオケBanBan！山田＆市川と歌って飲める最強コラボ、ついに爆誕！",
+    "tags": "Collaboration",
+    "sentiment": "positive",
+    "sentiment_text": "歌って飲んで「僕ヤバ」に浸れる！ファン待望の激アツコラボがキタ！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/663029",
+    "summary_bullets": [
+      "大人気アニメ「僕の心のヤバイやつ」とカラオケBanBanが夢のコラボレーションを実現！",
+      "山田と市川をイメージしたオリジナルドリンクや、作品の世界観満載のコラボルームが登場！",
+      "ファンなら見逃せない、特別な空間で「僕ヤバ」の世界にどっぷり浸れるチャンス！"
+    ],
+    "insight": "甘酸っぱい青春ラブコメ「僕の心のヤバイやつ」の世界観が、カラオケという身近な場所で体験できるのが最大の魅力。推しキャラをイメージしたドリンクを片手に、友達と名シーンを語り合えば最高にエモい！",
+    "action_plan": "この機会にカラオケBanBanへGO！コラボを楽しむ前に、アニメを見返して二人の尊い関係を再確認するのもオススメだよ！",
+    "image_keyword": "Anime Collaboration, Karaoke Cafe, Japanese Pop Culture",
+    "technical_terms": []
+  },
+  "https://natalie.mu/music/news/663048": {
+    "title": "氷川きよしが降臨！新番組「トゲバラ」でお悩みスパッと解決＆魂の熱唱！ヒコロヒーも驚愕の\"白昼夢\"爆誕！",
+    "tags": "Variety Show",
+    "sentiment": "positive",
+    "sentiment_text": "国民的スター氷川きよしが新番組MCに降臨！これは見逃せない！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/music/news/663048",
+    "summary_bullets": [
+      "氷川きよしが日テレ新番組「トゲバラ」のMCに就任し、視聴者の悩みを解決しつつ熱唱する新境地を開拓！",
+      "音楽活動に留まらない氷川きよしの新たな魅力を毎週堪能できるチャンス。相方ヒコロヒーとの異色コンビにも注目！",
+      "氷川きよしの歌声とお悩み解決がどう融合するのか、そして「白昼夢みたいな番組」と称される独特の世界観がどう展開されるのか、期待しかない！"
+    ],
+    "insight": "氷川きよしがバラエティ番組のMCとして、視聴者の悩みに寄り添いながらその歌声で癒しを届けるという、これまでにない斬新なコンセプトが最大の魅力。ヒコロヒーとの意外な組み合わせがどんな化学反応を起こすのかも見どころだ。",
+    "action_plan": "まずは新番組「トゲバラ」の初回放送を絶対に見逃さないように番組情報をチェックしてみましょう！氷川きよしの最新アルバムや過去のライブ映像も合わせて楽しんで、新境地の歌姫を応援しよう！",
+    "image_keyword": "Hikawa Kiyoshi, Variety Show, Music Performance",
+    "technical_terms": []
+  },
+  "https://natalie.mu/music/news/663047": {
+    "title": "内博貴、待望の音楽活動が本格始動！新曲「Go Your Way」配信＆27年の軌跡が詰まったアルバム爆誕！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "ファン歓喜！待望の音楽活動再始動！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/music/news/663047",
+    "summary_bullets": [
+      "内博貴が満を持して音楽活動を本格始動、新曲「Go Your Way」を配信リリース！",
+      "芸歴27年の歴史と情熱が凝縮された初のソロアルバムの発売が決定！",
+      "長年のファンも新規リスナーも必聴、これからの音楽シーンでの活躍に大注目！"
+    ],
+    "insight": "長きにわたり多様なステージで活躍してきた内博貴が、ついに自身の音楽表現に本腰！彼の人柄とキャリアが詰まった新曲やアルバムは、新たな魅力の発見となること間違いなし。アーティストとしての覚醒を見逃すな！",
+    "action_plan": "まずは配信された新曲「Go Your Way」を今すぐ聴いてみましょう！アルバムの続報もチェックして、彼の新たな音楽世界に飛び込もう！",
+    "image_keyword": "Japanese Pop Artist",
+    "technical_terms": []
+  },
+  "https://natalie.mu/music/news/662994": {
+    "title": "DANNY JIN＆なみちえが放つ衝撃コラボ！新曲「戦前」で音楽シーンに一石を投じる！",
+    "tags": "Music",
+    "sentiment": "neutral",
+    "sentiment_text": "注目の新作！時代を切り裂くメッセージソングが爆誕！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/music/news/662994",
+    "summary_bullets": [
+      "DANNY JINとラッパーなみちえという最強タッグが実現、コラボ曲「戦前」を電撃リリース！",
+      "今の社会情勢に鋭く切り込む、メッセージ性あふれる歌詞がリスナーの心に突き刺さる！",
+      "彼らが音楽を通して何を訴えかけるのか、今後の活動にもますます期待が高まる！"
+    ],
+    "insight": "DANNY JINとなみちえ、二人の個性と才能が激突し、現代社会への痛烈な警鐘を鳴らす衝撃作が誕生しました。単なる楽曲のリリースに留まらず、アートとして時代に問いかけるその姿勢が、音楽ファンのみならず多くの人々の心を揺さぶることは間違いありません！",
+    "action_plan": "この強烈なメッセージをぜひ耳で体験しよう！「戦前」を今すぐ聴いて、DANNY JINとなみちえのこれまでの作品もチェックして、彼らの音楽世界を深く探求してみましょう！",
+    "image_keyword": "music collaboration, protest song, Japanese artists",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/articles/029f42d29936b46482546911757697f386b478bd?source=rss": {
+    "title": "【関東女子に聞いた】「ここに住みたい！」近所にあったらテンション爆上げの神スーパーランキング、ついに発表！1位はどこだ！？",
+    "tags": "Shopping",
+    "sentiment": "positive",
+    "sentiment_text": "みんなが選んだ！主婦の味方スーパーはココだ！",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/articles/029f42d29936b46482546911757697f386b478bd?source=rss",
+    "summary_bullets": [
+      "関東の女性が選んだ「近所にあると嬉しいスーパー」のトップランキングがついに発表！",
+      "2位は「業務スーパー」！圧倒的なコスパでファンを魅了し続ける神スーパーが堂々のランクイン！",
+      "あなたの推しスーパーはランクインしている？気になる1位と、その魅力の秘密を今すぐチェック！"
+    ],
+    "insight": "毎日の生活に欠かせないスーパーマーケット選びは、ライフスタイルを豊かにする最重要ミッション！今回のランキングは、安さ、品揃え、鮮度、利便性など、女性たちが求める理想のスーパー像を浮き彫りにし、あなたの「住みたい街」選びにも影響を与えるかも！？",
+    "action_plan": "記事を読んで、あなたのイチオシスーパーがランクインしているか確認してみましょう！そして、まだ行ったことのない上位スーパーがあれば、今週末にでも足を運んで、その魅力を肌で感じてみるのがおすすめ！",
+    "image_keyword": "Supermarket Shopping, Women Lifestyle, Japan Food",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/articles/e16790729f3aee52f03134543ca3202c168ace3d?source=rss": {
+    "title": "しまむら速報！スヌーピー多機能ケースが1639円で収納神！文具もコスメもスッキリ整理！全3色で衝動買い確定！",
+    "tags": "Character Goods",
+    "sentiment": "positive",
+    "sentiment_text": "これは絶対買い！見逃し厳禁の神アイテム爆誕！",
+    "rating": 4,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/articles/e16790729f3aee52f03134543ca3202c168ace3d?source=rss",
+    "summary_bullets": [
+      "しまむら発！1639円でスヌーピーの激かわ多機能ケースが手に入るチャンス！",
+      "文具からコスメまで何でもスッキリ収納！用途に合わせて全3色から選べちゃう！",
+      "便利さと可愛さで争奪戦は必至！売り切れ前にしまむらへ急げ！"
+    ],
+    "insight": "愛らしいスヌーピーデザインと1639円という驚きの価格ながら、文房具やコスメをスマートに整理できる抜群の収納力が魅力！毎日のデスクやドレッサーが、これ一つでときめき空間に大変身しちゃいます！",
+    "action_plan": "人気殺到間違いなしなので、お近くのしまむら店舗を今すぐチェックして、推しカラーをゲットしちゃいましょう！",
+    "image_keyword": "Snoopy storage case, Kawaii organizer",
+    "technical_terms": []
   }
 }
