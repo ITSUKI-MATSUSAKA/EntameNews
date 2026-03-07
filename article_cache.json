@@ -140,7 +140,7 @@
     "sentiment": "negative",
     "sentiment_text": "「まさかの落とし穴！？人気ポケモンの育成に暗雲が…！？」",
     "rating": 4,
-    "time_ago": "2時間前",
+    "time_ago": "3時間前",
     "url": "https://automaton-media.com/articles/newsjp/20260307-426953/",
     "summary_bullets": [
       "『ぽこ あ ポケモン』で、人気ポケモン「ヤドン」のあくびスコアが伸び悩むという謎の現象が発生し、トレーナーたちが悲鳴を上げている！",
@@ -171,7 +171,7 @@
     "sentiment": "neutral",
     "sentiment_text": "まさかの展開に注目！",
     "rating": 4,
-    "time_ago": "5時間前",
+    "time_ago": "6時間前",
     "url": "https://automaton-media.com/articles/newsjp/nintendo-20260307-427071/",
     "summary_bullets": [
       "任天堂がアメリカ政府を法廷で訴えるという、前代未聞の衝撃ニュースが飛び込んできた！",
@@ -284,5 +284,23 @@
         "explanation": "独自の音楽性と世界観を持つロックバンド。若手ながら注目を集めています。"
       }
     ]
+  },
+  "https://news.yahoo.co.jp/articles/ee2374e2dfe3dfa5a42ed60d752a4bdbb8310a10?source=rss": {
+    "title": "「軽すぎ！見やすすぎ！」カシオの2000円台“神コスパ腕時計”がSNSで大絶賛！シンプルisベストの極致！",
+    "tags": "Gadget",
+    "sentiment": "positive",
+    "sentiment_text": "「神コスパ爆誕！」「大絶賛の嵐！」",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/articles/ee2374e2dfe3dfa5a42ed60d752a4bdbb8310a10?source=rss",
+    "summary_bullets": [
+      "2000円台で「紙のように軽い」カシオの腕時計がSNSで「すべて削ぎ落とした形」と大絶賛中！",
+      "無駄を削ぎ落とした究極のシンプルデザインと、これ以上ないほど見やすい文字盤が人気の秘密！",
+      "日常使いはもちろん、ファッションアイテムとしても注目の的！このコスパは絶対見逃せない！"
+    ],
+    "insight": "究極のシンプルさと機能美を2000円台で実現したカシオの傑作が、現代のミニマリストたちに大ヒット！その驚きの軽さと視認性は、まさに「これで十分」を体現する、現代の時計の最適解と言えるでしょう。",
+    "action_plan": "この神コスパウォッチ、実際に手に取ってその軽さを体験してみましょう！オンラインストアや家電量販店で即ゲットすべし！",
+    "image_keyword": "Casio minimalist watch",
+    "technical_terms": []
   }
 }
