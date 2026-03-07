@@ -38,68 +38,60 @@ CATEGORIES = [
 HTML_FILE_PATH = "index.html"
 
 # ==========================================
-# 📈 為替・仮想通貨リアルタイムデータの取得
+# 🌤️ 天気予報リアルタイムデータの取得
 # ==========================================
 def generate_ticker_html():
     JST = timezone(timedelta(hours=+9), 'JST')
     now = datetime.now(JST)
     current_time_str = now.strftime("%Y/%m/%d %H:%M 更新")
     
-    html = f'<div class="ticker__item" style="color: var(--text-secondary); margin-right: 20px;">🕒 {current_time_str}</div>\n'
+    html = f'<div class="ticker__item" style="color: var(--text-secondary); margin-right: 20px;">🕒 {current_time_str}</div>\\n'
     
-    symbols = {
-        '日経平均': '^N225',
-        '日経平均先物': 'NIY=F',
-        'NYダウ': '^DJI',
-        'NASDAQ': '^IXIC',
-        'S&P500': '^GSPC',
-        'TOPIX': '1306.T', # TOPIX連動ETFを代替利用
-        '米ドル/円': 'JPY=X',
-        'Bitcoin': 'BTC-JPY'
+    cities = {
+        '札幌': {'lat': 43.0618, 'lon': 141.3545},
+        '仙台': {'lat': 38.2682, 'lon': 140.8694},
+        '東京': {'lat': 35.6895, 'lon': 139.6917},
+        '名古屋': {'lat': 35.1815, 'lon': 136.9066},
+        '大阪': {'lat': 34.6937, 'lon': 135.5023},
+        '福岡': {'lat': 33.5902, 'lon': 130.4017},
+        '那覇': {'lat': 26.2124, 'lon': 127.6811}
     }
 
-    def get_yahoo_price(sym):
-        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(sym)}?interval=1d"
+    def get_weather_icon(code):
+        if code == 0: return "☀️ 晴れ"
+        if code in [1, 2, 3]: return "⛅ 曇り"
+        if code in [45, 48]: return "🌫️ 霧"
+        if code in [51, 53, 55, 56, 57]: return "🌧️ 霧雨"
+        if code in [61, 63, 65, 66, 67, 80, 81, 82]: return "☔ 雨"
+        if code in [71, 73, 75, 77, 85, 86]: return "🌨️ 雪"
+        if code in [95, 96, 99]: return "⛈️ 雷雨"
+        return "❓ 不明"
+
+    def get_weather(lat, lon):
+        url = f"https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current_weather=true&timezone=Asia/Tokyo"
         try:
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
             with urllib.request.urlopen(req, timeout=5) as response:
                 data = json.loads(response.read().decode())
-                meta = data['chart']['result'][0]['meta']
-                price = meta.get('regularMarketPrice')
-                prev = meta.get('chartPreviousClose')
-                if price and prev:
-                    change = price - prev
-                    change_pct = (change / prev) * 100
-                    return price, change_pct
-        except Exception:
+                current = data.get('current_weather', {})
+                temp = current.get('temperature')
+                code = current.get('weathercode')
+                if temp is not None and code is not None:
+                    return temp, code
+        except Exception as e:
             pass
         return None, None
 
-    for name, sym in symbols.items():
-        p, c = get_yahoo_price(sym)
-        if p is not None:
-            cls = "up" if c >= 0 else "down"
-            sign = "+" if c > 0 else ""
-            arrow = "▲" if c >= 0 else "▼"
-            
-            # Format display
-            if sym == 'JPY=X':
-                display_price = f"{p:.2f}円"
-            elif sym == 'BTC-JPY':
-                display_price = f"¥{p:,.0f}"
-            elif sym == '1306.T':
-                display_price = f"{p:,.1f}"
-            elif sym == 'NIY=F':
-                display_price = f"¥{p:,.0f}"
-            else:
-                display_price = f"{p:,.2f}"
-                
-            html += f'<div class="ticker__item {cls}">{name} {display_price} ({sign}{c:.2f}%) {arrow}</div>\n'
+    for name, coords in cities.items():
+        temp, code = get_weather(coords['lat'], coords['lon'])
+        if temp is not None and code is not None:
+            weather_str = get_weather_icon(code)
+            html += f'<div class="ticker__item" style="color: var(--text-primary);">{name} {weather_str} {temp}℃</div>\\n'
     
     # 取得失敗時に備えたフォールバック
     if html.count('<div') <= 1:
-        html += '<div class="ticker__item up">日経平均 39,815.12 (+1.5%) ▲</div>\n'
-        html += '<div class="ticker__item down">TOPIX 2,750.34 (-0.3%) ▼</div>\n'
+        html += '<div class="ticker__item" style="color: var(--text-primary);">東京 ☀️ 晴れ 20.0℃</div>\\n'
+        html += '<div class="ticker__item" style="color: var(--text-primary);">大阪 ⛅ 曇り 22.0℃</div>\\n'
     
     return html
 
