@@ -29,7 +29,7 @@ except ImportError:
 CATEGORIES = [
     {"id": "tab-game", "name": "ゲーム", "rss": "https://automaton-media.com/feed/"},
     {"id": "tab-book", "name": "本（マンガ・小説）", "rss": "https://natalie.mu/comic/feed/news"},
-    {"id": "tab-movie", "name": "映画", "rss": "https://eiga.com/news/feed.xml"},
+    {"id": "tab-movie", "name": "映画", "rss": "https://eiga.com/extra/rss/"},
     {"id": "tab-music", "name": "音楽", "rss": "https://natalie.mu/music/feed/news"},
     {"id": "tab-coffee", "name": "コーヒー（カフェ）", "rss": "https://news.yahoo.co.jp/rss/categories/life.xml"}
 ]
@@ -453,7 +453,7 @@ def main():
                         # 成功した場合はキャッシュに保存
                         cache[article_url] = article_data
                         
-                    time.sleep(15) # レートリミット対策 (Geminiの制限(15回/分)を完全に避けるため15秒待機)
+                    time.sleep(20) # レートリミット対策 (Geminiの制限(15回/分)を完全に避けるため20秒待機)
                 
                 if isinstance(article_data, dict):
                     thumb_url = extract_thumbnail_url(entry, article_data)
