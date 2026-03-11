@@ -1005,5 +1005,322 @@
     "action_plan": "自分の「丁寧」の定義を見つめ直してみましょう。ミニマリストのライフスタイル記事も合わせてチェック！",
     "image_keyword": "lifestyle change, minimalist living, daily life",
     "technical_terms": []
+  },
+  "https://automaton-media.com/articles/newsjp/nyanjet-20260311-428329/": {
+    "title": "爆速ジェットパック猫が空を駆け上がれ！高難度アクション『nyanjet』でまだ見ぬ絶景を目指せ！3月13日配信決定！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "期待の新作",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://automaton-media.com/articles/newsjp/nyanjet-20260311-428329/",
+    "summary_bullets": [
+      "ジェットパックを背負ったキュートな猫が空を登る、新感覚高難度アクションゲームが登場！",
+      "3月13日配信開始！“挫折必至”のハイスピードで未踏の空を目指そう！",
+      "シンプルながら中毒性の高いゲーム性で、挑戦者の心を鷲掴みにすること間違いなし！"
+    ],
+    "insight": "愛らしいジェットパック猫が空を目指す姿は癒し系かと思いきや、本作は一筋縄ではいかない高難度アクション！シンプル操作ながら、やり込み要素満載でゲーマー魂を刺激する挑戦的な作品です。",
+    "action_plan": "配信日である3月13日に向けて、各プラットフォームのストアをチェックし、ウィッシュリストに追加しておきましょう！",
+    "image_keyword": "jetpack cat game, high difficulty platformer, sky climbing",
+    "technical_terms": []
+  },
+  "https://automaton-media.com/articles/newsjp/20260311-428311/": {
+    "title": "衝撃発表！『Delphinium』は「家族を処刑」された主人公が絶望の孤立村を再建する、超絶ダークスローライフRPG！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "期待のダークスローライフ爆誕！",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://automaton-media.com/articles/newsjp/20260311-428311/",
+    "summary_bullets": [
+      "「家族を処刑」という衝撃的な背景を持つ主人公が、孤立した寒村を再建する重厚物語が魅力。",
+      "新作農業ゲーム『Delphinium』は、ダークな世界観とスローライフ要素が融合した注目作。",
+      "訳あり村人たちとの交流や村の復興を通して、奥深い人間ドラマが展開されることに期待大。"
+    ],
+    "insight": "絶望的な境遇の主人公が、農業というスローライフを通じて村と自分自身を再建していく過程のコントラストが、この作品最大の魅力。プレイヤーは癒しと苦悩が入り混じる独特の体験に没頭できるはず！",
+    "action_plan": "ダークファンタジーや農業シミュレーション、そして心温まる（時に残酷な）人間ドラマに飢えている方は、ぜひ続報をチェックしてみましょう！",
+    "image_keyword": "dark farm simulation, village reconstruction game, tragic hero RPG",
+    "technical_terms": [
+      {
+        "term": "RPG",
+        "explanation": "ロールプレイングゲームの略。プレイヤーが架空のキャラクターを操作し、物語を進めるゲームジャンル。主に冒険や成長がテーマ。"
+      },
+      {
+        "term": "スローライフ",
+        "explanation": "ゆったりとした時間の流れの中で、日々の生活を丁寧に送る生き方や、それをテーマにした作品のジャンル。農業や牧畜などが多い。"
+      }
+    ]
+  },
+  "https://automaton-media.com/articles/newsjp/unreal-engine-20260311-428296/": {
+    "title": "ゲーム開発の常識が塗り変わる！？『Unreal Engine』、ついに『Unity』を抜き去り覇権を握る！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "まさに新時代到来！ゲーム開発の最前線に大激震！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://automaton-media.com/articles/newsjp/unreal-engine-20260311-428296/",
+    "summary_bullets": [
+      "ゲーム開発の世界で、あの『Unreal Engine』が長年のライバル『Unity』を抜き去り、採用率No.1に輝いた！",
+      "この1年でUnreal Engineが猛烈な勢いでシェアを拡大、ゲーム業界の勢力図が完全に塗り替えられた模様！",
+      "Unreal Engineが牽引する新たなゲーム開発の時代が到来し、どんな革新的な次世代ゲームが生まれるか大注目！"
+    ],
+    "insight": "長らくゲームエンジン市場を二分してきたUnreal EngineとUnityの覇権争いに、ついに大きな動きが！Unreal Engineがまさかの大逆転劇を演じ、今後のゲーム業界に与える影響は計り知れません。どんな美麗で没入感のあるゲームがこれからUnreal Engineで作られていくのか、期待しかありません！",
+    "action_plan": "Unreal Engineで開発された最新の美麗ゲームをプレイして、その進化を肌で感じてみましょう！UE5の驚異的なデモ映像も必見です！",
+    "image_keyword": "unreal engine, unity, game development trend",
+    "technical_terms": [
+      {
+        "term": "ゲームエンジン",
+        "explanation": "ゲームを開発するためのツール群や基盤となるソフトウェア。グラフィック表示や物理演算など、ゲーム制作に必要な機能をまとめて提供。"
+      },
+      {
+        "term": "Unreal Engine (UE)",
+        "explanation": "Epic Gamesが開発する高性能なゲームエンジン。写実的なグラフィック表現に強みがあり、大作ゲームで多く採用されている。"
+      },
+      {
+        "term": "Unity",
+        "explanation": "Unity Technologiesが開発する汎用性の高いゲームエンジン。スマートフォン向けゲームからインディーゲームまで幅広く利用されている。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/663539": {
+    "title": "大注目！アニメ「俺自販機」3期、ついに本PV＆キービジュアル爆誕！EDテーマはあのFUWAMOCOに決定で期待値MAX！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "キタキタキター！待望の新作、期待値爆上がり！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/663539",
+    "summary_bullets": [
+      "人気アニメ「俺自販機」待望の第3期、最新の本PVとキービジュアルがついに公開！",
+      "エンディングテーマは人気ユニットFUWAMOCOが担当決定で、さらに注目度アップ間違いなし！",
+      "放送開始に向けて、ますます盛り上がるプロモーションに期待が高まる！"
+    ],
+    "insight": "独特の世界観と斬新な設定で話題を呼んだ「俺自販機」の第3期は、一体どんなサプライズを見せてくれるのか？ 本PVとキービジュアルから読み取れる新たな展開にワクワクが止まらない！",
+    "action_plan": "過去シーズンを振り返って予習したり、FUWAMOCOの楽曲をチェックして気分を盛り上げよう！",
+    "image_keyword": "anime vending machine, fantasy anime, FUWAMOCO",
+    "technical_terms": [
+      {
+        "term": "本PV",
+        "explanation": "作品の魅力を凝縮した、最も重要なプロモーションビデオのこと。"
+      },
+      {
+        "term": "キービジュアル",
+        "explanation": "作品の世界観や登場キャラクターを表す、最も象徴的な一枚絵のこと。"
+      },
+      {
+        "term": "エンディングテーマ",
+        "explanation": "アニメの終わりに流れる楽曲で、作品の世界観を彩る重要な要素。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/663527": {
+    "title": "好き放題チート転生者に喝ッ！隠れ実力者モブおじさんの痛快成り上がりファンタジー、爆誕！",
+    "tags": "Comic",
+    "sentiment": "positive",
+    "sentiment_text": "スカッと爽快！期待の痛快ファンタジー爆誕！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/663527",
+    "summary_bullets": [
+      "好き放題チート能力を振るう迷惑転生者を、隠れた実力を持つモブおじさんがぶっ飛ばす痛快展開！",
+      "流行りの異世界転生モノに一石を投じる、アンチテーゼ要素が光る新たな切り口の作品に注目！",
+      "モブおじさんが見せる意外な強さと、スカッと爽快な逆転劇に胸アツな展開を期待！"
+    ],
+    "insight": "流行りのチート転生モノに一石を投じる！隠れた実力者モブおじさんが迷惑な転生者を成敗する構図は、読者にカタルシスと痛快なエンタメ体験を約束します。おじさんの意外な強さ、そして彼の人間ドラマに注目です。",
+    "action_plan": "このニュースを読んだら、ぜひ原作漫画をチェックして、モブおじさんの活躍をその目で確かめてみましょう！同様の「おじさん主人公系」や「転生アンチテーゼ系」の作品も探してみるのも面白いかも！",
+    "image_keyword": "fantasy comic, cool old man, isekai parody",
+    "technical_terms": [
+      {
+        "term": "チート能力",
+        "explanation": "ゲームや物語において、本来のルールを無視して非常に強力な力を行使すること。"
+      },
+      {
+        "term": "転生者",
+        "explanation": "死亡後に別の世界や時代に生まれ変わったキャラクターのこと。"
+      },
+      {
+        "term": "モブおじさん",
+        "explanation": "物語の主要人物ではない、群衆の一員として描かれる中年男性のこと。ここでは隠れた実力者というギャップが魅力。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/663523": {
+    "title": "「最強の王様」2期が超絶進化！逢坂良太＆花守ゆみり参戦で「エルダーウッド編」の激戦が開幕！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "神キャスティング！超絶期待の第2期開幕！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/663523",
+    "summary_bullets": [
+      "大人気アニメ「最強の王様」第2期に、豪華声優・逢坂良太と花守ゆみりの参戦が決定！",
+      "新章「エルダーウッド編」の壮絶な戦いを収めたド迫力の最新PVが解禁され、期待が最高潮に！",
+      "人気声優の参加と新たな物語の幕開けで、第2期はさらなる盛り上がりを見せること間違いなし！"
+    ],
+    "insight": "人気実力派声優の逢坂良太さんと花守ゆみりさんの参加で、物語はさらに深みを増すこと間違いなし！新章「エルダーウッド編」で繰り広げられる壮絶な戦いに、早くも胸が高鳴ります。",
+    "action_plan": "第1期をまだ観ていない方は、今のうちに全話チェックして、怒涛の第2期に備えましょう！最新PVも何度も見返して気分を高めよう！",
+    "image_keyword": "fantasy anime, second season, voice actors",
+    "technical_terms": []
+  },
+  "https://natalie.mu/music/news/663528": {
+    "title": "超ときめき♡宣伝部 坂井仁香が『笑コラ』で北海道を爆走！道の駅伝に挑戦で、ときめきMAXの予感！？",
+    "tags": "Variety Show",
+    "sentiment": "positive",
+    "sentiment_text": "ときめき爆発！神出演決定！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/music/news/663528",
+    "summary_bullets": [
+      "超ときめき♡宣伝部の坂井仁香が「笑ってコラえて！」の人気企画「日本全国道の駅伝」に登場！",
+      "坂井仁香が北海道を舞台にどんな“ときめき”を届けてくれるのか、ファン必見の活躍が期待される！",
+      "彼女の新たな一面や体当たりな挑戦を通じて、グループの魅力がさらに広がるチャンス！"
+    ],
+    "insight": "超ときめき♡宣伝部の坂井仁香さんが、人気バラエティ番組で普段見られないような体当たりな姿を見せてくれるのが最大の魅力！広大な北海道の道の駅を舞台に、どんな感動や笑いが生まれるのか、そのギャップに注目です。",
+    "action_plan": "放送を絶対にお見逃しなく！坂井仁香さんのSNSやグループの公式情報もチェックして、最新情報をゲットしましょう！",
+    "image_keyword": "J-Pop idol, variety show, Hokkaido road trip",
+    "technical_terms": [
+      {
+        "term": "超ときめき♡宣伝部",
+        "explanation": "スターダストプロモーション所属の6人組アイドルグループ。キャッチーな楽曲とキュートなパフォーマンスで人気を博している。"
+      },
+      {
+        "term": "笑ってコラえて！",
+        "explanation": "日本テレビ系列で放送されている人気バラエティ番組。ユニークな企画が特徴で、幅広い世代に支持されている。"
+      },
+      {
+        "term": "日本全国道の駅伝",
+        "explanation": "「笑ってコラえて！」の人気企画の一つで、芸能人が各地の道の駅を巡りながらミッションに挑戦する旅企画。"
+      }
+    ]
+  },
+  "https://natalie.mu/music/news/663531": {
+    "title": "PEDROがワンマンで5都市を爆走！「ROCK STEP JUMP TOUR」追加公演で熱狂の予感！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "待望の追加公演キター！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/music/news/663531",
+    "summary_bullets": [
+      "PEDROの熱狂ツアー「ROCK STEP JUMP TOUR」に待望の追加公演が決定！",
+      "ワンマンライブで全国5都市を巡る、ファン垂涎のチャンスを見逃すな！",
+      "全会場ソールドアウト必至！チケット争奪戦を勝ち抜いて最高のステージを体験しよう！"
+    ],
+    "insight": "アイドルグループBiSHのメンバー、アユニ・DによるソロプロジェクトPEDRO。そのパワフルでエモーショナルなライブパフォーマンスが、追加公演でさらに多くのファンを魅了すること間違いなし！ロックバンド顔負けの熱量を体感できる唯一無二の空間が待っています。",
+    "action_plan": "公式サイトでチケット情報をチェックして、PEDROの最新アルバムを聴き込んでライブに備えよう！",
+    "image_keyword": "PEDRO rock tour",
+    "technical_terms": [
+      {
+        "term": "PEDRO",
+        "explanation": "元BiSHのメンバー、アユニ・Dによるソロプロジェクト名"
+      },
+      {
+        "term": "ワンマンライブ",
+        "explanation": "出演アーティストが1組だけで行われるライブのこと"
+      }
+    ]
+  },
+  "https://natalie.mu/music/news/663494": {
+    "title": "とた、2作構成アルバム「Sebone」を引っ提げ全国7都市へ！ファン熱狂のインストアライブ＆サイン会開催決定！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "ファン歓喜の全国ツアー！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/music/news/663494",
+    "summary_bullets": [
+      "大注目の2作構成アルバム『Sebone』がリリース！ライブで楽曲の世界観を体感しよう！",
+      "全国7都市でインストアライブ＆サイン会が決定！近くの会場を今すぐチェック！",
+      "とたの音楽と魅力を間近で感じる絶好のチャンス！新しい交流が生まれる予感！"
+    ],
+    "insight": "とたの待望の新作アルバム『Sebone』は、2作構成という壮大なスケールでリスナーを魅了すること間違いなし。さらに、全国7都市でのインストアライブ＆サイン会は、ファンが直接アーティストと触れ合い、楽曲の深い世界観を体感できる貴重な機会となるでしょう。",
+    "action_plan": "まずは最新アルバム『Sebone』を全曲聴いて、とたの世界観にどっぷり浸かってみましょう！そして、開催都市に住んでいる方は、ぜひインストアライブ＆サイン会に参加して、生のとたに会いに行こう！",
+    "image_keyword": "tota music, live concert, album release",
+    "technical_terms": [
+      {
+        "term": "インストアライブ",
+        "explanation": "CDショップなどの店舗内で開催される、アーティストによるミニライブやトークイベントのこと。購入者特典としてサイン会などが併催されることも多いです。"
+      },
+      {
+        "term": "2作構成アルバム",
+        "explanation": "一つの作品が二つのパートやディスクに分かれてリリースされる形態のアルバム。異なるコンセプトや物語を持つことが多いです。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/articles/9ba9d8f073ef0c7eea6bed8726082fecc016936e?source=rss": {
+    "title": "本物そっくり！キャンドゥの“魔法のバスボタン”で、子どもたちの夢が爆発！お風呂タイムが最高にハッピーに大変身！",
+    "tags": "Lifehack",
+    "sentiment": "positive",
+    "sentiment_text": "子育て神アイデア爆誕！",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/articles/9ba9d8f073ef0c7eea6bed8726082fecc016936e?source=rss",
+    "summary_bullets": [
+      "キャンドゥから本物そっくりの「バスボタン」が登場！子どもの「バスを止めたい」という純粋な欲求を満たす夢のアイテムだ！",
+      "リアルな見た目と手軽な価格で、日常のお風呂時間がまるでアトラクションに！親子で笑顔になれる100均アイテムはマストバイ！",
+      "これ一つで、お風呂嫌いの子どももバスタイムが大好きに大変身する予感！今後の子育てライフを救う奇跡のアイテムに期待！"
+    ],
+    "insight": "子どもたちが大好きな「バスのボタンを押す」遊びが、100均アイテムでリアルに体験できるのは衝撃！想像力を刺激し、毎日のルーティンが特別な時間へと変わる、まさに“魔法”のような魅力が詰まっています。",
+    "action_plan": "今すぐ近くのキャンドゥに急行して、この神アイテムをゲットしよう！他の100均で見つかる、ワクワクする子育てアイデアグッズも一緒にチェックしてみましょう！",
+    "image_keyword": "CanDo bath button toy, kids bath time fun, realistic toy button",
+    "technical_terms": []
+  },
+  "https://news.yahoo.co.jp/articles/295b4861a8ab86fbb4a2ee0f566923202fc03221?source=rss": {
+    "title": "125ccなのに大違い!? 新原付vs原付二種の衝撃ルール！知らなきゃ\"免停\"の激ヤバ情報を徹底解説！",
+    "tags": "Bike",
+    "sentiment": "negative",
+    "sentiment_text": "衝撃の事実！知らなきゃ危険な交通ルール変更に要注意！",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/articles/295b4861a8ab86fbb4a2ee0f566923202fc03221?source=rss",
+    "summary_bullets": [
+      "同じ125cc以下でも「新基準原付」と「原付二種」では、免許もルールも全然違う衝撃の事実が判明！",
+      "誤解したまま乗ると、まさかの「一発免停」も！？バイク乗りもこれから乗る人も知っておくべき新ルールと免許区分を徹底解説！",
+      "あなたの原付ライフを守るために、今のうちに最新情報をしっかりチェックして安全運転を心掛けよう！"
+    ],
+    "insight": "原付やスクーターに乗っている人、これから乗りたい人にとって、125ccという排気量が持つ意味が大きく変わる超重要ニュース！特に免許の区分や通行ルールが異なるため、知らずに運転すると法規違反になる可能性があり、その「落とし穴」を知ることが安全なバイクライフの鍵だ。",
+    "action_plan": "この記事を熟読して自分の免許区分とバイクの排気量を再確認！もし不安な点があれば、最寄りの警察署やバイク販売店に相談して、最新のルールをしっかり把握しておこう！",
+    "image_keyword": "Motorcycle license rules",
+    "technical_terms": [
+      {
+        "term": "新基準原付",
+        "explanation": "50cc以下の原動機付自転車で、現在導入が検討されている新しい分類のこと。現行の原付とは異なる扱いになる可能性がある。"
+      },
+      {
+        "term": "原付二種",
+        "explanation": "50cc超125cc以下の小型二輪車のこと。一般的な原付免許では運転できず、小型限定普通二輪免許が必要。"
+      },
+      {
+        "term": "一発免停",
+        "explanation": "交通違反によって一度で免許停止処分となること。今回のケースでは、免許区分を誤って運転した場合などに適用される可能性がある。"
+      }
+    ]
+  },
+  "https://news.yahoo.co.jp/articles/34b057b09ed27192167ce564dab90f31be609c45?source=rss": {
+    "title": "ユニクロ×フェデラー！クレア・ワイト・ケラー監修の超絶新作ウェアが爆誕！",
+    "tags": "Fashion",
+    "sentiment": "positive",
+    "sentiment_text": "神コラボ爆誕！これは見逃せない！",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.yahoo.co.jp/articles/34b057b09ed27192167ce564dab90f31be609c45?source=rss",
+    "summary_bullets": [
+      "ユニクロとテニス界のレジェンド、ロジャー・フェデラーの新作ウェアが爆誕！",
+      "元ジバンシィのクレア・ワイト・ケラーがデザインを監修した全7型がリリース決定！",
+      "プロテニス界とファッション界を股にかける、これまでにない究極のコラボに期待が高まる！"
+    ],
+    "insight": "テニス界の伝説と世界的デザイナー、そしてユニクロの融合が生み出す、機能性と洗練されたデザインが両立した唯一無二のコレクション！これはまさに奇跡のコラボレーションだ。",
+    "action_plan": "新作の発売情報を公式サイトでいち早くチェックして、この歴史的コレクションを手に入れよう！",
+    "image_keyword": "Uniqlo Federer, Clare Waight Keller, Tennis fashion",
+    "technical_terms": [
+      {
+        "term": "ロジャー・フェデラー",
+        "explanation": "「テニス界の皇帝」として知られる、史上最高のテニス選手の一人です。"
+      },
+      {
+        "term": "クレア・ワイト・ケラー",
+        "explanation": "元ジバンシィのクリエイティブ・ディレクターを務めた、イギリスを代表する世界的ファッションデザイナーです。"
+      }
+    ]
   }
 }
