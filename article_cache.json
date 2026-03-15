@@ -693,7 +693,7 @@
     "sentiment": "positive",
     "sentiment_text": "ユーザーの遊びを開発陣が全力サポート！まさかの超インフレ対策にファン歓喜の神アプデ！",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "16時間前",
     "url": "https://automaton-media.com/articles/newsjp/slay-the-spire-2-20260314-429317/",
     "summary_bullets": [
       "『Slay the Spire 2』にて、HP上限が驚異の999,999,999に爆増する神アプデが配信決定！",
@@ -724,7 +724,7 @@
     "sentiment": "positive",
     "sentiment_text": "期待の新作爆誕！",
     "rating": 4,
-    "time_ago": "16時間前",
+    "time_ago": "18時間前",
     "url": "https://automaton-media.com/articles/newsjp/fangstorm-20260314-429301/",
     "summary_bullets": [
       "大量のローポリゴブリンが押し寄せる！新作3Dタワーディフェンス『Fangstorm』が発表！",
@@ -751,7 +751,7 @@
     "sentiment": "positive",
     "sentiment_text": "期待の新作！",
     "rating": 4,
-    "time_ago": "17時間前",
+    "time_ago": "19時間前",
     "url": "https://automaton-media.com/articles/newsjp/way-of-the-hunter-2-20260314-429281/",
     "summary_bullets": [
       "広大なカナダの大自然を舞台に、究極のリアル狩猟体験が楽しめるオープンワールドゲーム最新作が登場！",
@@ -961,5 +961,68 @@
         "explanation": "イラストや漫画などの静止画が、動きのある映像（アニメーション）になること。キャラクターや背景が躍動的に表現されます。"
       }
     ]
+  },
+  "https://natalie.mu/eiga/news/663997": {
+    "title": "衝撃発表！天野浩成が『仮面ライダーゼッツ』参戦！謎の男ジーク＆仮面ライダードォーン役で二刀流変身か！？",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "激アツ参戦！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/eiga/news/663997",
+    "summary_bullets": [
+      "天野浩成が最新作『仮面ライダーゼッツ』への出演が決定！",
+      "謎の男ジークと、新登場の仮面ライダードォーン役で作品に登場するファン待望のWキャスト！",
+      "その正体と物語への影響、そしてどんなバトルが繰り広げられるのか今後の展開に期待が高まる！"
+    ],
+    "insight": "『仮面ライダー剣』で橘さんを演じた天野浩成さんが再びライダー作品に登場するだけでも胸アツ！さらに謎の男ジークと新ライダー「ドォーン」の二役に挑む衝撃展開は、作品に深みと予測不能なスリルをもたらし、ファンを熱狂させること間違いなしだ！",
+    "action_plan": "まずは『仮面ライダーゼッツ』本編を要チェック！天野浩成さんが出演した『仮面ライダー剣』を見返して、今回の出演との共通点や進化を考察してみるのも面白いぞ！",
+    "image_keyword": "Kamen Rider actor, Japanese hero, Tokusatsu",
+    "technical_terms": [
+      {
+        "term": "仮面ライダーゼッツ",
+        "explanation": "新たな物語が展開される仮面ライダーシリーズの最新作。"
+      },
+      {
+        "term": "仮面ライダードォーン",
+        "explanation": "天野浩成さんが演じる、今回の作品で新登場する謎の仮面ライダー。"
+      }
+    ]
+  },
+  "https://natalie.mu/eiga/news/663995": {
+    "title": "「ヒーローライブスペシャル2026」開催決定！夢のハイタッチ＆撮影会で推しと直接会える大チャンス！",
+    "tags": "Event",
+    "sentiment": "positive",
+    "sentiment_text": "ヒーローたちと触れ合える！夢の祭典に胸アツ！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/eiga/news/663995",
+    "summary_bullets": [
+      "「ヒーローライブスペシャル2026」の詳細がついに解禁、ファン待望のイベントが開催決定！",
+      "最大の目玉は、ヒーローたちと直接触れ合える「ハイタッチ会」＆「撮影会」で最高の思い出を！",
+      "来年の開催に向けて、チケット情報や続報の発表に今後も目が離せない！"
+    ],
+    "insight": "このイベントは、大好きなヒーローと物理的に距離を縮められる、まさに夢のような機会を提供します。推しとのハイタッチや記念撮影は、忘れられない一生の思い出になること間違いなし！",
+    "action_plan": "2026年の開催に向けて、公式SNSや特設サイトで最新情報をこまめにチェックしましょう！過去のヒーローライブ映像を観て、さらに期待感を高めるのもおすすめです！",
+    "image_keyword": "Hero live show, Fan event, Meet and greet",
+    "technical_terms": []
+  },
+  "https://natalie.mu/music/news/664044": {
+    "title": "GEZAN、感動と熱狂の歴史を凝縮！武道館ライブ映像も収録の「beat」MVがついに公開！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "ファン必見の神MV！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/music/news/664044",
+    "summary_bullets": [
+      "GEZANのこれまでの軌跡を辿る「beat」MVが公開！感動の日本武道館映像も収録！",
+      "バンドの壮大な歩みと、昨日の武道館ライブの熱狂が同時に楽しめるファン垂涎の内容！",
+      "このMVで彼らの音楽とメッセージを深く体験し、今後の活動にも期待が膨らむ！"
+    ],
+    "insight": "このMVは、GEZANが積み重ねてきた歴史と、最新の日本武道館での圧巻のパフォーマンスを同時に体感できる究極の映像作品！彼らの音楽に込められたメッセージと情熱が、観る者の心に深く響き渡るはず。",
+    "action_plan": "まずは公開された「beat」MVを大音量でチェックして、GEZANの音の世界に浸ってみましょう！可能であれば、彼らのライブにも足を運んで、その熱気を肌で感じてみてください。",
+    "image_keyword": "GEZAN music video, live concert, rock band",
+    "technical_terms": []
   }
 }
