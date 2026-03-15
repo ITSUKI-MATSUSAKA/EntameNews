@@ -27,9 +27,9 @@ except ImportError:
 
 # 取得するニュースのRSSフィードをタブごとに指定
 CATEGORIES = [
-    {"id": "tab-game", "name": "ゲーム", "rss": "https://automaton-media.com/feed/"},
+    {"id": "tab-game", "name": "ゲーム", "rss": "https://news.google.com/rss/search?q=%28VALORANT%20OR%20APEX%20OR%20%22ARC%20raiders%22%20OR%20%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%95%20OR%20%22%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC6%22%20OR%20%E3%82%B9%E3%83%886%29%20%28%E5%A4%A7%E4%BC%9A%20OR%20%E6%94%BB%E7%95%A5%20OR%20e%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%29&hl=ja&gl=JP&ceid=JP:ja"},
     {"id": "tab-book", "name": "本（マンガ・小説）", "rss": "https://natalie.mu/comic/feed/news"},
-    {"id": "tab-movie", "name": "映画", "rss": "https://natalie.mu/eiga/feed/news"},
+    {"id": "tab-movie", "name": "映画", "rss": "https://news.google.com/rss/search?q=%28Netflix%20OR%20%22Amazon%20Prime%20Video%22%20OR%20%E3%83%8D%E3%83%88%E3%83%95%E3%83%AA%20OR%20%E3%82%A2%E3%83%9E%E3%83%97%E3%83%A9%29%20%28%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20OR%20%E6%96%B0%E4%BD%9C%29%20%28%E6%98%A0%E7%94%BB%20OR%20%E6%B5%B7%E5%A4%96%E3%83%89%E3%83%A9%E3%83%9E%29&hl=ja&gl=JP&ceid=JP:ja"},
     {"id": "tab-music", "name": "音楽", "rss": "https://natalie.mu/music/feed/news"}
 ]
 
