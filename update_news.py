@@ -30,8 +30,7 @@ CATEGORIES = [
     {"id": "tab-game", "name": "ゲーム", "rss": "https://automaton-media.com/feed/"},
     {"id": "tab-book", "name": "本（マンガ・小説）", "rss": "https://natalie.mu/comic/feed/news"},
     {"id": "tab-movie", "name": "映画", "rss": "https://natalie.mu/eiga/feed/news"},
-    {"id": "tab-music", "name": "音楽", "rss": "https://natalie.mu/music/feed/news"},
-    {"id": "tab-coffee", "name": "コーヒー（カフェ）", "rss": "https://news.google.com/rss/search?q=%E3%82%AB%E3%83%95%E3%82%A7&hl=ja&gl=JP&ceid=JP:ja"}
+    {"id": "tab-music", "name": "音楽", "rss": "https://natalie.mu/music/feed/news"}
 ]
 
 # 更新するHTMLファイルのパス
