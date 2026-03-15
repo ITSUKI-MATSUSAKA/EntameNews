@@ -30,7 +30,21 @@ CATEGORIES = [
     {"id": "tab-game", "name": "ゲーム", "rss": "https://news.google.com/rss/search?q=%28VALORANT%20OR%20APEX%20OR%20%22ARC%20raiders%22%20OR%20%E3%82%BF%E3%83%AB%E3%82%B3%E3%83%95%20OR%20%22%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC6%22%20OR%20%E3%82%B9%E3%83%886%29%20%28%E5%A4%A7%E4%BC%9A%20OR%20%E6%94%BB%E7%95%A5%20OR%20e%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%29&hl=ja&gl=JP&ceid=JP:ja"},
     {"id": "tab-book", "name": "本（マンガ・小説）", "rss": "https://natalie.mu/comic/feed/news"},
     {"id": "tab-movie", "name": "映画", "rss": "https://news.google.com/rss/search?q=%28Netflix%20OR%20%22Amazon%20Prime%20Video%22%20OR%20%E3%83%8D%E3%83%88%E3%83%95%E3%83%AA%20OR%20%E3%82%A2%E3%83%9E%E3%83%97%E3%83%A9%29%20%28%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20OR%20%E6%96%B0%E4%BD%9C%29%20%28%E6%98%A0%E7%94%BB%20OR%20%E6%B5%B7%E5%A4%96%E3%83%89%E3%83%A9%E3%83%9E%29&hl=ja&gl=JP&ceid=JP:ja"},
-    {"id": "tab-music", "name": "音楽", "rss": "https://natalie.mu/music/feed/news"}
+    {
+        "id": "tab-music", 
+        "name": "音楽", 
+        "randomize": True,
+        "sources": [
+            {
+                "url": "https://news.google.com/rss/search?q=%28%22%E6%B4%8B%E6%A5%BD%22%20OR%20%22%E6%B5%B7%E5%A4%96%E3%83%90%E3%83%B3%E3%83%89%22%20OR%20%22%E6%B5%B7%E5%A4%96%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%22%29%20%28%E3%83%95%E3%82%A7%E3%82%B9%20OR%20%E3%83%AD%E3%83%83%E3%82%AF%20OR%20%E3%83%92%E3%83%83%E3%83%97%E3%83%9B%E3%83%83%E3%83%97%20OR%20%E3%83%86%E3%82%AF%E3%83%8E%20OR%20EDM%20OR%20%E3%83%91%E3%83%B3%E3%82%AF%20OR%20%E3%82%BD%E3%82%A6%E3%83%AB%29&hl=ja&gl=JP&ceid=JP:ja",
+                "count": 2
+            },
+            {
+                "url": "https://news.google.com/rss/search?q=%22%E9%82%A6%E6%A5%BD%22%20%28%E3%83%95%E3%82%A7%E3%82%B9%20OR%20%E3%83%AD%E3%83%83%E3%82%AF%20OR%20%E3%83%92%E3%83%83%E3%83%97%E3%83%9B%E3%83%83%E3%83%97%20OR%20%E3%83%86%E3%82%AF%E3%83%8E%20OR%20EDM%20OR%20%E3%83%91%E3%83%B3%E3%82%AF%20OR%20%E3%82%BD%E3%82%A6%E3%83%AB%29&hl=ja&gl=JP&ceid=JP:ja",
+                "count": 1
+            }
+        ]
+    }
 ]
 
 # 更新するHTMLファイルのパス
@@ -388,81 +402,94 @@ def main():
         panes_html += f'                <div id="{cat["id"]}" class="tab-pane{is_active}">\n'
         
         try:
-            feed = feedparser.parse(cat["rss"])
-            entries = feed.entries
+            sources = cat.get("sources", [{"url": cat.get("rss"), "count": 3}])
+            cat_successful_count = 0
             
-            def get_published_time(entry):
-                if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                    return time.mktime(entry.published_parsed)
-                return 0
-            entries.sort(key=get_published_time, reverse=True)
-            
-            successful_count = 0
-            target_count = 3
-            
-            for entry in entries:
-                if successful_count >= target_count:
-                    break
-                    
-                print(f"[{successful_count+1}/{target_count}] 記事を分析中: {entry.title}")
+            for src in sources:
+                feed = feedparser.parse(src["url"])
+                entries = feed.entries
                 
-                try:
+                def get_published_time(entry):
                     if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                        pub_date = datetime.fromtimestamp(time.mktime(entry.published_parsed), tz=timezone.utc).astimezone(JST)
-                    else:
-                        pub_date = datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(JST)       
-                    diff = now - pub_date
-                    hours = int(diff.total_seconds() / 3600)
-                    if hours >= 24:
-                        days = hours // 24
-                        time_ago = f"{days}日前"
-                    else:
-                        time_ago = f"{hours}時間前" if hours > 0 else "たった今"
-                except Exception:
-                    time_ago = "最近"
-
-                raw_url = getattr(entry, 'link', entry.title)
-                article_url = clean_url(raw_url)
-
-                if article_url in cache and cache[article_url].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
-                    print("✅ キャッシュから記事データを読み込みます（APIリクエスト省略）")
-                    article_data = cache[article_url]
-                    article_data['time_ago'] = time_ago # time_agoは常に最新に更新
-                else:
-                    article_data = analyze_news_with_gemini(entry, time_ago)
-                    
-                    if article_data == "RATE_LIMIT":
-                        print("⚠️ API制限に達しました。フォールバック用の記事データを生成して続行します。")
-                        article_data = {
-                            'title': entry.title,
-                            'tags': 'News',
-                            'sentiment': 'neutral',
-                            'sentiment_text': '最新ニュース',
-                            'rating': 3,
-                            'time_ago': time_ago,
-                            'url': article_url,
-                            'summary_bullets': ['詳細なAI要約は現在API制限により取得できません。', 'リンク先より元記事をご覧ください。'],
-                            'insight': 'AIでの自動分析は現在一時的に停止中です。',
-                            'action_plan': 'ニュースの最新情報をチェックする',
-                            'image_keyword': 'technology news digital'
-                        }
-                    elif isinstance(article_data, dict):
-                        # URLをクリーンなものに上書き
-                        article_data['url'] = article_url
-                        # 成功した場合はキャッシュに保存
-                        cache[article_url] = article_data
-                        
-                    time.sleep(20) # レートリミット対策 (Geminiの制限(15回/分)を完全に避けるため20秒待機)
+                        return time.mktime(entry.published_parsed)
+                    return 0
+                entries.sort(key=get_published_time, reverse=True)
                 
-                if isinstance(article_data, dict):
-                    thumb_url = extract_thumbnail_url(entry, article_data)
-                    element_id = f'{cat["id"].replace("tab-", "")}-{successful_count + 1}'
-                    panes_html += generate_article_html(article_data, element_id, thumb_url)
-                    all_analyzed_articles.append(article_data)
-                    successful_count += 1
-                    total_articles += 1
+                target_count = src["count"]
+                successful_count = 0
+                
+                if cat.get("randomize"):
+                    top_entries = entries[:15]
+                    random.shuffle(top_entries)
+                    entries_to_process = top_entries
                 else:
-                    print("分析に失敗したためスキップし、次の記事でリトライします。")
+                    entries_to_process = entries
+                
+                for entry in entries_to_process:
+                    if successful_count >= target_count:
+                        break
+                        
+                    print(f"[{cat_successful_count+1}] 記事を分析中: {entry.title}")
+                    
+                    try:
+                        if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                            pub_date = datetime.fromtimestamp(time.mktime(entry.published_parsed), tz=timezone.utc).astimezone(JST)
+                        else:
+                            pub_date = datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %Z").replace(tzinfo=timezone.utc).astimezone(JST)       
+                        diff = now - pub_date
+                        hours = int(diff.total_seconds() / 3600)
+                        if hours >= 24:
+                            days = hours // 24
+                            time_ago = f"{days}日前"
+                        else:
+                            time_ago = f"{hours}時間前" if hours > 0 else "たった今"
+                    except Exception:
+                        time_ago = "最近"
+
+                    raw_url = getattr(entry, 'link', entry.title)
+                    article_url = clean_url(raw_url)
+
+                    if article_url in cache and cache[article_url].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
+                        print("✅ キャッシュから記事データを読み込みます（APIリクエスト省略）")
+                        article_data = cache[article_url]
+                        article_data['time_ago'] = time_ago # time_agoは常に最新に更新
+                    else:
+                        article_data = analyze_news_with_gemini(entry, time_ago)
+                        
+                        if article_data == "RATE_LIMIT":
+                            print("⚠️ API制限に達しました。フォールバック用の記事データを生成して続行します。")
+                            article_data = {
+                                'title': entry.title,
+                                'tags': 'News',
+                                'sentiment': 'neutral',
+                                'sentiment_text': '最新ニュース',
+                                'rating': 3,
+                                'time_ago': time_ago,
+                                'url': article_url,
+                                'summary_bullets': ['詳細なAI要約は現在API制限により取得できません。', 'リンク先より元記事をご覧ください。'],
+                                'insight': 'AIでの自動分析は現在一時的に停止中です。',
+                                'action_plan': 'ニュースの最新情報をチェックする',
+                                'image_keyword': 'technology news digital'
+                            }
+                        elif isinstance(article_data, dict):
+                            # URLをクリーンなものに上書き
+                            article_data['url'] = article_url
+                            # 成功した場合はキャッシュに保存
+                            cache[article_url] = article_data
+                            
+                        # APIリクエスト後は待機
+                        time.sleep(20)
+                    
+                    if isinstance(article_data, dict):
+                        thumb_url = extract_thumbnail_url(entry, article_data)
+                        element_id = f'{cat["id"].replace("tab-", "")}-{cat_successful_count + 1}'
+                        panes_html += generate_article_html(article_data, element_id, thumb_url)
+                        all_analyzed_articles.append(article_data)
+                        successful_count += 1
+                        cat_successful_count += 1
+                        total_articles += 1
+                    else:
+                        print("分析に失敗したためスキップし、次の記事でリトライします。")
                 
         except Exception as e:
             print(f"{cat['name']} フィードの処理に失敗しました: {e}")
