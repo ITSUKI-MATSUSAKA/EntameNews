@@ -1290,7 +1290,7 @@
     "sentiment": "positive",
     "sentiment_text": "今すぐ観たい！珠玉の厳選リスト",
     "rating": 5,
-    "time_ago": "4時間前",
+    "time_ago": "14時間前",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vdTFoeE4tYW9XN2pFX0hGVkhLUlJmdk9TblE5UXdrV2ZvNmp5a2xvUS04alBBX3ZZQjNCM3RpQ1NCbmxaQ01URzR1cnhWMXNUVmd6SzJJMHRXMXNuMG5OMFZISlc?oc=5",
     "summary_bullets": [
       "Netflixオリジナル作品の珠玉の19選リストが、最新の2026年3月版として更新された！",
@@ -1317,7 +1317,7 @@
     "sentiment": "positive",
     "sentiment_text": "背筋が凍る衝撃作、登場！見逃し厳禁の心理戦！",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB0enhQVG5uX3F6bFBSMHdfakpHNUNqcGFIRTIySXpQd2p2ak9ZYXVTZ3dyeXNqcS1POE1HbDI3TmhaRDRXZUl3TU1R?oc=5",
     "summary_bullets": [
       "警察すら欺いた殺人犯の「完璧な表の顔」を、最も近くで見ていた元友人たちが赤裸々に証言！",
@@ -1371,6 +1371,259 @@
       {
         "term": "メタル",
         "explanation": "ハードロックから派生した音楽ジャンルで、重厚なギターサウンドとパワフルなボーカルが特徴です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1zaEw4ckFQU3AxaWNvbUZCQUNsZ1pwV2hHOExabkdPb1ZuVmgwVWtqZ29VN3Bmd096SlNYX2t5N1nSAUZBVV95cUxPcEMzWmhoczB0cUxyTlJrajBhY0IwdDBHOGozTEhFTzI2aFpOYWRaOHNlVzNST3dHY2JDNXBBQU5BRW53WEln?oc=5": {
+    "title": "「スト6」世界最強が遂に決定！熱狂の「CAPCOM CUP 12」＆「SFL」結果速報！さらに衝撃の来シーズン情報も大公開！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "熱狂のフィナーレ！神展開！",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1zaEw4ckFQU3AxaWNvbUZCQUNsZ1pwV2hHOExabkdPb1ZuVmgwVWtqZ29VN3Bmd096SlNYX2t5N1nSAUZBVV95cUxPcEMzWmhoczB0cUxyTlJrajBhY0IwdDBHOGozTEhFTzI2aFpOYWRaOHNlVzNST3dHY2JDNXBBQU5BRW53WEln?oc=5",
+    "summary_bullets": [
+      "『ストリートファイター6』の世界最強プレイヤーが「CAPCOM CUP 12」で決定し、歴史に名を刻んだ！",
+      "「ストリートファイターリーグ: ワールドチャンピオンシップ 2025」の激戦の結果も速報で発表され、ファンは歓喜の渦に！",
+      "来シーズンに関する新情報も続々公開され、今後の格ゲーシーンへの期待が最高潮に高まっている！"
+    ],
+    "insight": "格闘ゲームの最高峰で繰り広げられた熱い戦いのフィナーレは、まさにエンターテイメントの極致！新シーズンの発表は、プレイヤーも観戦者も、これから始まる新たなドラマに胸を躍らせる最高のサプライズだ！",
+    "action_plan": "世界最強の技をその目に焼き付けるため、まずは公式のアーカイブ配信で「CAPCOM CUP 12」の激闘をチェックしてみましょう！そして、来シーズンの情報も追って、次の舞台に備えよう！",
+    "image_keyword": "Street Fighter 6 esports, fighting game championship, Capcom Cup",
+    "technical_terms": [
+      {
+        "term": "CAPCOM CUP",
+        "explanation": "人気格闘ゲーム『ストリートファイター』シリーズの世界王者を決める、カプコン主催の最高峰の国際大会。"
+      },
+      {
+        "term": "ストリートファイターリーグ (SFL)",
+        "explanation": "プロのチームがリーグ戦形式で競い合う、『ストリートファイター』の公式プロリーグ戦。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pQkZNZnI3NVA2UDhCcC1QcWtKUlNjdUJOM0dkNjFQMlJhM1M5a0hYYnFHemFmQkdzanlDWGNVVUFMeENmWVE2a1RZcGR2QjNtLUxMLWRhN0JkNS1tMVRCLUdCLUpWR0pBTHc?oc=5": {
+    "title": "『スト6』世界大会が過去最高の2万人動員で大熱狂！2026年シーズンは賞金総額210万ドル超へ爆増でeスポーツ界が激震！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "eスポーツ大躍進！格ゲー界の金字塔！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pQkZNZnI3NVA2UDhCcC1QcWtKUlNjdUJOM0dkNjFQMlJhM1M5a0hYYnFHemFmQkdzanlDWGNVVUFMeENmWVE2a1RZcGR2QjNtLUxMLWRhN0JkNS1tMVRCLUdCLUpWR0pBTHc?oc=5",
+    "summary_bullets": [
+      "『ストリートファイター6』の公式世界大会が、過去最高の2万人を動員し会場は大熱狂の渦に！",
+      "2026年シーズンの賞金総額はなんと210万ドル（約3.2億円）超に爆増決定！",
+      "格闘ゲームのeスポーツシーンがグローバル規模でさらに加速し、未来への期待が最高潮！"
+    ],
+    "insight": "格闘ゲームの金字塔『ストリートファイター6』が、eスポーツの新たな時代を切り拓いています。過去最高の動員数と巨額の賞金は、ゲームが持つエンターテイメント性と競技性の高さを世界に証明し、ますます目が離せません！",
+    "action_plan": "次回の公式大会の開催情報や、カプコンのeスポーツイベントを早速チェックしてみましょう！『ストリートファイター6』をプレイして、未来のプロゲーマーを目指すのもアリですよ！",
+    "image_keyword": "street fighter 6 esports, gaming crowd, capcom pro tour",
+    "technical_terms": [
+      {
+        "term": "eスポーツ",
+        "explanation": "エレクトロニック・スポーツの略で、ビデオゲームを競技として行うスポーツのこと。近年、世界中で大きな盛り上がりを見せています。"
+      },
+      {
+        "term": "賞金総額",
+        "explanation": "大会やイベントで、上位入賞者や参加者に与えられる賞金の合計金額。eスポーツの規模を示す重要な指標の一つです。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Rc0JuLUZqRFpnRGFKeng0REFOY2M4WjY1T3M3NF9LZFBzVVpKU2x4aHJhbF9PMTQ4d28xbEt3ejlJcENsWlhJZlNWOVVsUTRYRnNzdHZoc19oYUFoOWRR?oc=5": {
+    "title": "『ストリートファイター6』世界大会が歴史的偉業！過去最高の2万人熱狂でeスポーツ新時代へ突入！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "熱狂の渦！伝説が爆誕！格ゲー界の未来がここにある！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Rc0JuLUZqRFpnRGFKeng0REFOY2M4WjY1T3M3NF9LZFBzVVpKU2x4aHJhbF9PMTQ4d28xbEt3ejlJcENsWlhJZlNWOVVsUTRYRnNzdHZoc19oYUFoOWRR?oc=5",
+    "summary_bullets": [
+      "『ストリートファイター6』の公式世界大会が、過去最高の2万人を動員し、圧倒的な盛り上がりを見せた！",
+      "この驚異的な動員数は、eスポーツとしての格闘ゲームの地位と人気が飛躍的に向上している証拠。",
+      "今後の「スト6」コミュニティのさらなる拡大と、eスポーツシーン全体の進化に大きな期待がかかる！"
+    ],
+    "insight": "『ストリートファイター6』の世界大会が、ただのゲームイベントを超え、社会現象とも言える一大エンタメコンテンツに成長していることが証明されました！会場の熱気と2万人という数字が、ゲームの枠を超えたeスポーツの可能性を私たちに見せつけています。",
+    "action_plan": "この歴史的熱狂を体感するなら、まずは『ストリートファイター6』をプレイしてみましょう！公式大会のアーカイブ動画も要チェックです！",
+    "image_keyword": "Street Fighter 6 esports crowd",
+    "technical_terms": [
+      {
+        "term": "ストリートファイター6",
+        "explanation": "カプコンが開発・販売する、世界的に人気の対戦格闘ゲームシリーズの最新作。"
+      },
+      {
+        "term": "公式世界大会",
+        "explanation": "ゲームメーカーが主催する、世界各地の予選を勝ち抜いたトッププレイヤーたちが集結し、世界一の座を争う最高峰の国際大会。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664223": {
+    "title": "激アツ速報！「新劇場版 銀魂」EDイラスト特典＆副音声上映がキタァァア！",
+    "tags": "Anime Movie",
+    "sentiment": "positive",
+    "sentiment_text": "ファン歓喜の神アプデ！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664223",
+    "summary_bullets": [
+      "新劇場版「銀魂」で、ファン垂涎のEDイラストを使用したポストカード特典が追加決定！",
+      "キャスト陣による爆笑必至の副音声上映が3月20日より全国の劇場でスタート！",
+      "まだ観てない人も、リピーターも、この機会に劇場へ急げ！銀魂祭りは終わらない！"
+    ],
+    "insight": "映画の感動を再び！EDイラストの特典はファンなら絶対に手に入れたいコレクターズアイテム。さらに、キャストの生の声で映画の裏側や面白エピソードを楽しめる副音声上映は、一度観た人も新しい発見と笑いが止まらないこと間違いなし！",
+    "action_plan": "すぐに公式サイトをチェックして、最寄りの映画館で副音声上映のチケットをGETしよう！映画の余韻に浸りながら、EDイラストのポストカードをゲットする準備も忘れずに！",
+    "image_keyword": "Gintama movie, anime postcards, voice actors",
+    "technical_terms": [
+      {
+        "term": "EDイラスト",
+        "explanation": "アニメや映画のエンディング（ED）で流れる映像に使用された、特別なイラストやアートのこと。ファンにはおなじみの名シーンやキャラクターの表情が描かれていることが多い。"
+      },
+      {
+        "term": "副音声上映",
+        "explanation": "映画の本編音声に加えて、監督や声優陣、制作スタッフなどが作品の裏話や解説、感想などを語るもう一つの音声トラックで楽しめる上映形式。映画をより深く、別の角度から楽しむことができる。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664197": {
+    "title": "ヤバ可愛！おばけ専門の殺し屋少女が学園の平和を守る異色読み切り『おばけばらし』爆誕！",
+    "tags": "Comic",
+    "sentiment": "positive",
+    "sentiment_text": "異色の世界観にドキドキ！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664197",
+    "summary_bullets": [
+      "学園の平和を守るべく、おばけ専門の殺し屋少女が暗躍する衝撃の読み切りが登場！",
+      "『週刊少年チャンピオン』で掲載される、可愛い少女とダークな設定のギャップが魅力の作品。",
+      "個性的な設定と魅力的なキャラクターに、読者の連載化への期待が高まること間違いなし！"
+    ],
+    "insight": "可愛い少女が危険なおばけ殺しを生業とする、そのギャップが最大の魅力！華やかな学園生活とダークな裏の顔が織りなすストーリーは、読者の好奇心を掻き立てること間違いなし！",
+    "action_plan": "まずは掲載誌『週刊少年チャンピオン』を読んで、この斬新な世界観を体験してみましょう！",
+    "image_keyword": "ghost killer girl, school fantasy, manga",
+    "technical_terms": [
+      {
+        "term": "読み切り",
+        "explanation": "雑誌などに掲載される、短編で完結する漫画作品のこと。"
+      },
+      {
+        "term": "週刊少年チャンピオン",
+        "explanation": "秋田書店が発行する、幅広いジャンルの作品が連載されている人気の週刊漫画雑誌。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664168": {
+    "title": "ドラマ「るなしい」に新風！窪塚愛流＆本島純政ら豪華キャスト10名が参戦決定で期待爆上げ！",
+    "tags": "Drama",
+    "sentiment": "positive",
+    "sentiment_text": "待望の新顔ゾロゾロ！これは見逃せない！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664168",
+    "summary_bullets": [
+      "ドラマ「るなしい」に窪塚愛流、本島純政らフレッシュな顔ぶれを含む豪華新キャスト10名が一挙発表された。",
+      "人気キャラクター「ケンショー」役を窪塚愛流、「スバル」役を本島純政が演じることが決定し、ファンの期待が高まっている。",
+      "個性豊かな実力派キャストが勢揃いし、ドラマ版「るなしい」がどのような世界観を創り出すのか、今後の情報解禁にも注目だ。"
+    ],
+    "insight": "人気作「るなしい」のドラマ化に、若手からベテランまで多彩な俳優陣が加わり、物語に新たな息吹を吹き込むこと間違いなし！彼らがキャラクターたちにどんな命を吹き込むのか、想像するだけでワクワクが止まりません！",
+    "action_plan": "ドラマの放送を心待ちにしつつ、原作コミックを読んで「るなしい」の世界観を予習してみるのがおすすめです！各キャストのこれまでの出演作品もチェックして、彼らの魅力に触れてみましょう！",
+    "image_keyword": "Japanese drama, new cast, TV series",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4cHRJSUlzaUV0dERYdnhhbVByTXBZM25taFFNbVd5R0QwVWpyMnVyOVd4U0Z5c0R0NVNaWmZJeUJZck8ybTY1WXBR?oc=5": {
+    "title": "速報！劇場版『名探偵コナン』最新作「五稜星」ついにアマプラ登場！全シリーズ一挙見放題でコナン祭り開幕！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "待望の新作＆全シリーズ制覇のチャンス！コナン旋風到来！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4cHRJSUlzaUV0dERYdnhhbVByTXBZM25taFFNbVd5R0QwVWpyMnVyOVd4U0Z5c0R0NVNaWmZJeUJZck8ybTY1WXBR?oc=5",
+    "summary_bullets": [
+      "劇場版『名探偵コナン』の最新作「五稜星」がプライムビデオに堂々登場し、自宅で感動が再び！",
+      "過去の劇場版シリーズ全27作も一挙見放題となり、ファンにとってこれ以上ない豪華なラインナップが実現！",
+      "最新作の興奮を味わいつつ、歴代の名作をイッキ見してコナンの世界にどっぷり浸かる絶好の機会が到来！"
+    ],
+    "insight": "国民的アニメ『名探偵コナン』の劇場版最新作がプライムビデオに加わるだけでなく、過去のシリーズ27作も一挙見放題となることで、ファンは作品の歴史を辿りながら無限に楽しめる。これは、まさにコナンを愛するすべての人へ贈る最高のエンターテイメント体験だ！",
+    "action_plan": "今すぐプライムビデオを開いて、劇場版『名探偵コナン』シリーズの世界に飛び込もう！最新作「五稜星」の謎を解き明かし、お気に入りの過去作を何度でも繰り返し楽しんでみましょう！",
+    "image_keyword": "Detective Conan movie, anime streaming, Goryousei",
+    "technical_terms": [
+      {
+        "term": "五稜星",
+        "explanation": "劇場版『名探偵コナン』の最新作（27作目）のタイトル。読み方は「ごりょうせい」。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuZlIzNXBLaThBcEwwUFlpbWZ3MVo3MzhFLVRfbVNPbkI3Y1NiMlFFWVI0YTNTMnFhWWE1WXlaSFhZdks4c3h1RHhGUlBaR1pLTXc?oc=5": {
+    "title": "速報！フジロック'26、豪華すぎる第1弾発表！The xx、藤井 風、ハイスタ、XGら66組が夢の競演！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "胸アツ必至！夢の祭典、ついに動き出す！",
+    "rating": 5,
+    "time_ago": "24日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuZlIzNXBLaThBcEwwUFlpbWZ3MVo3MzhFLVRfbVNPbkI3Y1NiMlFFWVI0YTNTMnFhWWE1WXlaSFhZdks4c3h1RHhGUlBaR1pLTXc?oc=5",
+    "summary_bullets": [
+      "フジロック'26、豪華すぎる第1弾アーティスト66組＆開催日割りがついに解禁！",
+      "The xx、マッシヴ・アタック、クルアンビン、ハイスタ、藤井 風、XGなど、国境とジャンルを超えた超強力な顔ぶれが集結！",
+      "来年夏に向けて、チケット争奪戦とさらなる追加発表に世界中から熱い注目が集まること間違いなし！"
+    ],
+    "insight": "フジロック’26の第1弾発表は、まさに音楽ファン垂涎のラインナップ！レジェンドから最先端まで、多様なアーティストが一堂に会する奇跡の共演が、すでに夏への期待感を最高潮に高めています。",
+    "action_plan": "発表されたアーティストの楽曲を今すぐプレイリストに追加して予習を始めましょう！今後の追加情報やチケット販売スケジュールも要チェック！",
+    "image_keyword": "Music Festival Stage Japan",
+    "technical_terms": [
+      {
+        "term": "日割り",
+        "explanation": "音楽フェスティバルなどで、どのアーティストがいつ（何曜日など）出演するかが分かるスケジュール発表のこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nRC1tcndkSGhFTS1fNWZIcXBNSzlHN0xqQWwzTHhmTkxNTVQ1ZV9QSTM0WmV3MUtJem80ZzJsQVdWSEVkZVhfRkZ1QjNTZWRMSUE?oc=5": {
+    "title": "レジェンド大集結！2025年、魂を揺さぶるソウル再発盤が熱すぎる！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "魂震える！必聴の話題作、一挙公開！",
+    "rating": 5,
+    "time_ago": "19日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nRC1tcndkSGhFTS1fNWZIcXBNSzlHN0xqQWwzTHhmTkxNTVQ1ZV9QSTM0WmV3MUtJem80ZzJsQVdWSEVkZVhfRkZ1QjNTZWRMSUE?oc=5",
+    "summary_bullets": [
+      "シルヴェスター、スライ、ティナ・ターナー、プリンスなど、音楽界のレジェンドたちの名盤が続々再発決定！",
+      "2025年にリリースされるソウルミュージックの傑作群は、コレクターも初心者も必聴のラインナップ！",
+      "色褪せない名曲たちが新たな装いで蘇り、ソウルミュージックシーンに再び熱狂を巻き起こす！"
+    ],
+    "insight": "ソウルミュージックの黄金時代を彩った伝説的アーティストたちの作品が、最新の技術で蘇ることで、往年のファンはもちろん、若い世代にもその魅力を再発見する絶好の機会となるでしょう。",
+    "action_plan": "リストアップされたアーティストのオリジナルアルバムや関連ドキュメンタリーを今からチェックして、来たる2025年の再発盤リリースに備えましょう！",
+    "image_keyword": "Soul Music, Vinyl Reissues, Music Legends",
+    "technical_terms": [
+      {
+        "term": "再発盤 (Reissue)",
+        "explanation": "一度発売されたアルバムや楽曲が、新たなフォーマットやリマスター、ボーナストラック追加などで再度リリースされること。"
+      },
+      {
+        "term": "ソウルミュージック (Soul Music)",
+        "explanation": "1950年代後半から1970年代にかけてアメリカで発展した、ゴスペルやR&Bをルーツに持つ感情豊かな音楽ジャンル。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hbjh1a3VVcTRDWWliTUVfa0E0WEFnSE55anVaQWlMNTJTaTFKU2FpaS1PbUVhQXBuSGgxb1NmQWN5U28zRXhWT3FkZnlpaW5qWFdCZUZLR1RWNU9ZUHg5NEQ4djVBOGlMaVFEMVBR?oc=5": {
+    "title": "SPARK!!SOUND!!SHOW!!の爆笑トークが再び！『チヨの部屋 vol.28』で素顔に迫る！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "ファン必見！大人気連載の最新回が到着！",
+    "rating": 4,
+    "time_ago": "59日前",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Hbjh1a3VVcTRDWWliTUVfa0E0WEFnSE55anVaQWlMNTJTaTFKU2FpaS1PbUVhQXBuSGgxb1NmQWN5U28zRXhWT3FkZnlpaW5qWFdCZUZLR1RWNU9ZUHg5NEQ4djVBOGlMaVFEMVBR?oc=5",
+    "summary_bullets": [
+      "SPARK!!SOUND!!SHOW!!の大人気連載企画『チヨの部屋』の最新回、vol.28が登場！",
+      "メンバーの個性あふれるトークや素顔が垣間見え、ファンにとって貴重な内容が満載です。",
+      "今回の記事から、バンドの新たな魅力やライブへの期待がさらに高まります！"
+    ],
+    "insight": "この連載では、SPARK!!SOUND!!SHOW!!の音楽性とはまた違う、メンバーの親しみやすいキャラクターや爆笑必至のトークが最大の魅力！知られざるエピソードや裏話から、バンドの人間的な面白さが伝わってきます。",
+    "action_plan": "今回の記事を読んだら、ぜひYouTubeで『SPARK!!SOUND!!SHOW!!』のMVをチェックして、彼らのぶっ飛んだ音楽世界も体験してみましょう！過去の『チヨの部屋』を読み返すのもおすすめです！",
+    "image_keyword": "Japanese rock band interview",
+    "technical_terms": [
+      {
+        "term": "SPARK!!SOUND!!SHOW!!",
+        "explanation": "大阪を拠点に活動するミクスチャーロックバンド。通称「スパサン」。ジャンルレスな音楽性と独特のパフォーマンスで人気を集める。"
+      },
+      {
+        "term": "チヨの部屋",
+        "explanation": "音楽メディアskream.jpで連載されている、SPARK!!SOUND!!SHOW!!に関する企画記事。メンバーのトークや裏話が展開される人気コンテンツ。"
       }
     ]
   }
