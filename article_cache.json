@@ -1290,7 +1290,7 @@
     "sentiment": "positive",
     "sentiment_text": "今すぐ観たい！珠玉の厳選リスト",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vdTFoeE4tYW9XN2pFX0hGVkhLUlJmdk9TblE5UXdrV2ZvNmp5a2xvUS04alBBX3ZZQjNCM3RpQ1NCbmxaQ01URzR1cnhWMXNUVmd6SzJJMHRXMXNuMG5OMFZISlc?oc=5",
     "summary_bullets": [
       "Netflixオリジナル作品の珠玉の19選リストが、最新の2026年3月版として更新された！",
@@ -1533,7 +1533,7 @@
     "sentiment": "positive",
     "sentiment_text": "待望の新作＆全シリーズ制覇のチャンス！コナン旋風到来！",
     "rating": 5,
-    "time_ago": "1時間前",
+    "time_ago": "14時間前",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4cHRJSUlzaUV0dERYdnhhbVByTXBZM25taFFNbVd5R0QwVWpyMnVyOVd4U0Z5c0R0NVNaWmZJeUJZck8ybTY1WXBR?oc=5",
     "summary_bullets": [
       "劇場版『名探偵コナン』の最新作「五稜星」がプライムビデオに堂々登場し、自宅で感動が再び！",
@@ -1624,6 +1624,130 @@
       {
         "term": "チヨの部屋",
         "explanation": "音楽メディアskream.jpで連載されている、SPARK!!SOUND!!SHOW!!に関する企画記事。メンバーのトークや裏話が展開される人気コンテンツ。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RV3FsRmh1bXB6bldqb1ktWGF3ZkhtT2RhS0VrM0lGUW85bmZiVXJ4T1F0ZEljNDZ6TEZxM1UyVTFMNGFKVU01eFZHclAyLVJSSHc5aFB5eWJkQ3RLdkNZb2x0VlhhRUc3NkREVVRwUTU3VU1CSWFJYjM0aTVQQ2M?oc=5": {
+    "title": "『ストリートファイター6』×スズキ「ハヤブサ」爆誕！ジュリ仕様の激ヤバマシンが世界大会でベールを脱ぐ！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "「神コラボ爆誕！」「期待値MAX！」「これは見逃せない！」",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RV3FsRmh1bXB6bldqb1ktWGF3ZkhtT2RhS0VrM0lGUW85bmZiVXJ4T1F0ZEljNDZ6TEZxM1UyVTFMNGFKVU01eFZHclAyLVJSSHc5aFB5eWJkQ3RLdkNZb2x0VlhhRUc3NkREVVRwUTU3VU1CSWFJYjM0aTVQQ2M?oc=5",
+    "summary_bullets": [
+      "大人気格闘ゲーム「ストリートファイター6」とスズキの名車「Hayabusa」が奇跡のコラボレーション！",
+      "人気キャラ「ジュリ」をテーマにしたオリジナルバイク「Hayabusa Tuned by JURI」が世界大会で遂にお披露目！",
+      "世界最高峰のeスポーツ大会「CAPCOM CUP X」会場で実物展示され、そのド迫力を体感できるチャンス！"
+    ],
+    "insight": "格闘ゲームのトップランナー「ストリートファイター6」と、バイク界のレジェンド「Hayabusa」が織りなす夢の共演！キャラクター「ジュリ」のワイルドでクールな魅力を具現化した唯一無二のデザインは、ゲームファンもバイク好きも唸らせるはず！これは絶対に見逃せない話題だ！",
+    "action_plan": "世界大会「CAPCOM CUP X」の開催情報や配信をチェックして、ジュリ仕様ハヤブサの勇姿を見届けよう！「ストリートファイター6」をプレイして、ジュリを使いこなす腕も磨いてみよう！",
+    "image_keyword": "Street Fighter 6, Hayabusa, Juri, collaboration bike",
+    "technical_terms": [
+      {
+        "term": "ストリートファイター6",
+        "explanation": "人気の対戦格闘ゲームシリーズの最新作。世界中でプレイされ、eスポーツ大会も盛んに行われている。"
+      },
+      {
+        "term": "Hayabusa",
+        "explanation": "スズキが製造・販売する世界的に有名な大型スポーツバイク。その圧倒的な加速力と特徴的なスタイリングで知られる。"
+      },
+      {
+        "term": "CAPCOM CUP X",
+        "explanation": "カプコンが主催する「ストリートファイター6」の世界最高峰を決めるeスポーツ大会。世界中のトッププレイヤーが集結する。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUjEzVG10UW9QODJEM1hTVmU4bFgwVzBhZy1GQ3M0aW1BTjU4alZjb0NFdWplMm1nRC1QdFpWbXRLQVBKalJBMU1wbkZ1RHBtbUJud2E0RQ?oc=5": {
+    "title": "【衝撃】REJECT、スト6世界大会「SFL: World Championship 2025」で悲願の優勝！格ゲー史に名を刻む快挙！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "世界を揺るがすビッグニュース！祝・SFL世界王者！",
+    "rating": 5,
+    "time_ago": "4時間前",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OUjEzVG10UW9QODJEM1hTVmU4bFgwVzBhZy1GQ3M0aW1BTjU4alZjb0NFdWplMm1nRC1QdFpWbXRLQVBKalJBMU1wbkZ1RHBtbUJud2E0RQ?oc=5",
+    "summary_bullets": [
+      "プロeスポーツチームREJECTのストリートファイター部門が「SFL: World Championship 2025」で劇的優勝を達成。",
+      "世界最高峰の舞台で頂点に立ち、REJECTがストリートファイター6競技シーンの新たな歴史を刻んだ。",
+      "世界王者としての今後の活躍や、eスポーツシーン全体のさらなる盛り上がりに大きな期待が寄せられる。"
+    ],
+    "insight": "プロチームREJECTが、厳しい戦いを勝ち抜き世界大会「SFL: World Championship 2025」で優勝を飾った、まさに激アツなニュース！選手たちの努力とチームワークが世界最高の栄光に繋がった瞬間は、全ての格ゲーファンにとって鳥肌ものだ！",
+    "action_plan": "REJECTの試合アーカイブをチェックして、世界王者の華麗なプレイを目に焼き付けよう！そして、自分も『ストリートファイター6』をプレイして格ゲーの奥深さに触れてみよう！",
+    "image_keyword": "eSports Street Fighter 6 victory championship",
+    "technical_terms": [
+      {
+        "term": "スト6",
+        "explanation": "世界中で人気の対戦型格闘ゲーム「ストリートファイター6」の略称。"
+      },
+      {
+        "term": "REJECT",
+        "explanation": "日本を代表するプロeスポーツチームの一つ。様々なゲーム部門で活躍している。"
+      },
+      {
+        "term": "SFL: World Championship",
+        "explanation": "大人気格闘ゲーム「ストリートファイターリーグ」の世界最高峰を決める国際大会。"
+      },
+      {
+        "term": "競技シーン",
+        "explanation": "プロ選手たちが賞金や名誉をかけて競い合うeスポーツの世界。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmt3c2dSWTZuRjBmT0pKRlE2LVFDaFdiZEVybmExbHFiT193MlpOa0NINHZxbi1yanVidkpsbDhNSkowYVU5elZHcC1QMzBsckxodjdLSnNNTnJkVDZmUEFna1pHMVFneEVoMVRETV9SaXdBcXVyclV2RmJsNzZqZ2xkSWd2alhKZzZnbGo0clVJR1luTVhiNTFfSDBsd2JpQkMyOWZ3QV84Uzdlc0hXOGlhT0E2VmxHN3Nyag?oc=5": {
+    "title": "VCTマスターズ・サンティアゴで激震！ノンシム・レッドフォースがパシフィック地域決勝を制覇し、最強の座へ！",
+    "tags": "eスポーツ",
+    "sentiment": "positive",
+    "sentiment_text": "勝利の雄叫び！パシフィック最強チーム爆誕！",
+    "rating": 5,
+    "time_ago": "10時間前",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmt3c2dSWTZuRjBmT0pKRlE2LVFDaFdiZEVybmExbHFiT193MlpOa0NINHZxbi1yanVidkpsbDhNSkowYVU5elZHcC1QMzBsckxodjdLSnNNTnJkVDZmUEFna1pHMVFneEVoMVRETV9SaXdBcXVyclV2RmJsNzZqZ2xkSWd2alhKZzZnbGo0clVJR1luTVhiNTFfSDBsd2JpQkMyOWZ3QV84Uzdlc0hXOGlhT0E2VmxHN3Nyag?oc=5",
+    "summary_bullets": [
+      "ノンシム・レッドフォースがVCTマスターズ・サンティアゴのパシフィック地域決勝で堂々たる優勝を飾り、歴史を刻んだ！",
+      "VALORANT Champions Tourの激戦を勝ち抜いた彼らの活躍は、世界中のeスポーツファンに興奮と感動を与えた！",
+      "この勝利が彼らの次の国際大会での躍進にどう繋がるのか、今後の動向から目が離せない！"
+    ],
+    "insight": "VCTマスターズという大舞台で、ノンシム・レッドフォースがパシフィック地域の頂点に立ったことは、チームの圧倒的な強さと緻密な戦略の賜物だ！彼らのスーパープレイはまさに圧巻で、eスポーツの新たな歴史を刻む瞬間を見届けたファンは多いはず！",
+    "action_plan": "ノンシム・レッドフォースの公式SNSやVALORANTのeスポーツチャンネルをフォローして、彼らの最新情報や今後の試合日程をいち早くチェックしてみよう！過去の試合VODを見て、勝利の軌跡を追体験するのもおすすめだよ！",
+    "image_keyword": "Valorant esports, championship win, team celebration",
+    "technical_terms": [
+      {
+        "term": "VCT",
+        "explanation": "VALORANT Champions Tour（ヴァロラント チャンピオンズツアー）の略称。人気タクティカルシューター『VALORANT』の公式国際eスポーツリーグのことだよ！"
+      },
+      {
+        "term": "パシフィック地域決勝",
+        "explanation": "VCTにおいて、日本、韓国、東南アジアなどを含むアジア太平洋地域（パシフィック地域）のチームが、世界大会への出場権をかけて戦う、最も重要な決勝戦のことだ！"
+      },
+      {
+        "term": "ノンシム・レッドフォース",
+        "explanation": "韓国のプロeスポーツチームの名前で、VALORANT部門が特に国際大会で活躍しているんだ！"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664194": {
+    "title": "癒やし系漫画『ひらやすみ』、ついにアニメ化決定！NHK総合で2027年1月放送！特報PVも解禁で期待爆上がり！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "待望のアニメ化！期待度MAXの新作！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664194",
+    "summary_bullets": [
+      "人気漫画『ひらやすみ』のTVアニメ化が決定し、NHK総合にて2027年1月より放送スタート！",
+      "末澤慧監督が手掛ける特報映像も公開され、アニメの世界観が早くもチラ見せされている！",
+      "放送はまだ少し先だが、豪華なスタッフ陣による今後の情報解禁や追加PVに期待が高まる！"
+    ],
+    "insight": "日々の忙しさを忘れさせてくれる『ひらやすみ』の心地よい世界観が、国民的放送局であるNHK総合でアニメ化されることで、さらに多くの視聴者に癒やしを届けること間違いなし！末澤慧監督の繊細な演出にも注目です。",
+    "action_plan": "アニメ放送は2027年とまだ先なので、今のうちに原作漫画『ひらやすみ』を読んで、作品の温かい魅力にどっぷり浸かってみましょう！",
+    "image_keyword": "Hirayasumi anime, slice of life, NHK",
+    "technical_terms": [
+      {
+        "term": "特報",
+        "explanation": "映画やアニメなどの公開前に、作品の一部を先行して紹介する、短いプロモーション映像のこと。ファンにとっては初の動く映像なので大注目！"
+      },
+      {
+        "term": "NHK総合",
+        "explanation": "日本放送協会（NHK）のテレビ放送チャンネルの一つで、ドラマ、ニュース、教養番組など、幅広いジャンルの番組を放送しています。全国津々浦々で見られるのが嬉しい！"
       }
     ]
   }
