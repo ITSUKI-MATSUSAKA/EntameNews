@@ -449,7 +449,7 @@ def main():
                     raw_url = getattr(entry, 'link', entry.title)
                     article_url = clean_url(raw_url)
 
-                    if article_url in cache and cache[article_url].get('insight') != 'AIでの自動分析は現在一時的に停止中です。':
+                    if article_url in cache and cache[article_url].get('insight') != '記事の詳細はリンク先よりご確認ください。':
                         print("✅ キャッシュから記事データを読み込みます（APIリクエスト省略）")
                         article_data = cache[article_url]
                         article_data['time_ago'] = time_ago # time_agoは常に最新に更新
@@ -466,10 +466,10 @@ def main():
                                 'rating': 3,
                                 'time_ago': time_ago,
                                 'url': article_url,
-                                'summary_bullets': ['詳細なAI要約は現在API制限により取得できません。', 'リンク先より元記事をご覧ください。'],
-                                'insight': 'AIでの自動分析は現在一時的に停止中です。',
+                                'summary_bullets': ['現在、この記事の詳細テキストを準備中です...', '詳しい内容はリンク先の元記事からご覧いただけます。'],
+                                'insight': '記事の詳細はリンク先よりご確認ください。',
                                 'action_plan': 'ニュースの最新情報をチェックする',
-                                'image_keyword': 'technology news digital'
+                                'image_keyword': 'entertainment news trend'
                             }
                         elif isinstance(article_data, dict):
                             # URLをクリーンなものに上書き
