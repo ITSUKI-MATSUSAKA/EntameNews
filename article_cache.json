@@ -1533,7 +1533,7 @@
     "sentiment": "positive",
     "sentiment_text": "待望の新作＆全シリーズ制覇のチャンス！コナン旋風到来！",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "1日前",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4cHRJSUlzaUV0dERYdnhhbVByTXBZM25taFFNbVd5R0QwVWpyMnVyOVd4U0Z5c0R0NVNaWmZJeUJZck8ybTY1WXBR?oc=5",
     "summary_bullets": [
       "劇場版『名探偵コナン』の最新作「五稜星」がプライムビデオに堂々登場し、自宅で感動が再び！",
@@ -1750,5 +1750,279 @@
         "explanation": "日本放送協会（NHK）のテレビ放送チャンネルの一つで、ドラマ、ニュース、教養番組など、幅広いジャンルの番組を放送しています。全国津々浦々で見られるのが嬉しい！"
       }
     ]
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wdGFHRjBsbDRNeFN1QndiZEZiV1p0QzhDYkdpZ1Y4aXEycGwwd2pZUjVteEJmRGZUalVwVk55WmZyQkVpaG1nd2FIcUx5OW1lXzFJaGI4bFplNTVydUdhNk1uREh0SVB2V2c?oc=5": {
+    "title": "REJECT VALORANT部門、2026年シーズンがいよいよ開幕！初戦は3月20日、見逃し厳禁だ！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "熱狂必至！VALORANT新シーズン開幕！",
+    "rating": 5,
+    "time_ago": "13時間前",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wdGFHRjBsbDRNeFN1QndiZEZiV1p0QzhDYkdpZ1Y4aXEycGwwd2pZUjVteEJmRGZUalVwVk55WmZyQkVpaG1nd2FIcUx5OW1lXzFJaGI4bFplNTVydUdhNk1uREh0SVB2V2c?oc=5",
+    "summary_bullets": [
+      "大人気eスポーツチームREJECTのVALORANT部門が「VALORANT Challengers Japan 2026 Split 1 Main Stage」に参戦決定！",
+      "新シーズン開幕を告げるREJECTの初戦は3月20日（金）、ファン待望の激戦が始まる！",
+      "国内最高峰リーグでの活躍が期待される彼らが、どんなドラマとスーパープレイを見せてくれるのか、今からワクワクが止まらない！"
+    ],
+    "insight": "人気FPS「VALORANT」の国内プロリーグがいよいよ開幕！REJECTは常にシーンを牽引するトップチームの一つであり、彼らの繰り出すハイスピードな戦略と圧巻のAIMは、eスポーツの面白さを存分に感じさせてくれること間違いなし！",
+    "action_plan": "REJECTの開幕戦はYouTubeやTwitchでの配信が予定されているよ！公式SNSをフォローして、最新の試合情報や選手たちの素顔をぜひチェックしてみよう！",
+    "image_keyword": "esports valorant team",
+    "technical_terms": [
+      {
+        "term": "VALORANT",
+        "explanation": "ライアットゲームズが開発・運営する、世界中で大人気の5対5のタクティカルFPS（ファーストパーソン・シューター）ゲーム。"
+      },
+      {
+        "term": "eスポーツ",
+        "explanation": "ビデオゲームをスポーツ競技として捉え、プロの選手が腕前を競い合うエンターテイメント。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZR1VaRkxORW85SzRUeWtJcEFTZHA4SU1zZ0NrS1kySFJKMmhremRqUllaenpuM0lXdXIzREtVQVZuRHRxTEpYNzVoZXRXazNJQUlwa2tSb1cyQjBpaWJuRDZmZlVoNVowWVE?oc=5": {
+    "title": "速報！VALORANT部門「REIGNITE FOXX」、国内最高峰『Challengers Japan 2026 Split 1 Main Stage』出場決定！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題！",
+    "rating": 5,
+    "time_ago": "13時間前",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZR1VaRkxORW85SzRUeWtJcEFTZHA4SU1zZ0NrS1kySFJKMmhremRqUllaenpuM0lXdXIzREtVQVZuRHRxTEpYNzVoZXRXazNJQUlwa2tSb1cyQjBpaWJuRDZmZlVoNVowWVE?oc=5",
+    "summary_bullets": [
+      "REIGNITE FOXXが、VALORANT国内トップリーグの「Challengers Japan 2026 Split 1 Main Stage」への出場権を獲得！",
+      "ファン待望の国内最高峰ステージで、REIGNITE FOXXの華麗なプレイを観戦するチャンスが到来。",
+      "2026シーズンに向け、REIGNITE FOXXがVALORANT eスポーツシーンをさらに盛り上げることに期待が高まります！"
+    ],
+    "insight": "VALORANTの人気プロチームREIGNITE FOXXが、国内トップリーグのMain Stageに進出することは、ファンにとってはもちろん、日本のeスポーツ界全体にとってもビッグニュースです。来シーズンの彼らの活躍から目が離せません！",
+    "action_plan": "REIGNITE FOXXの公式SNSをフォローして、今後の試合日程やチームの最新情報をいち早くチェックしてみましょう！",
+    "image_keyword": "eSports VALORANT gaming team",
+    "technical_terms": [
+      {
+        "term": "VALORANT",
+        "explanation": "ライアットゲームズが開発・運営する人気のタクティカルシューター（FPS）ゲーム。世界中で多くのプレイヤーに楽しまれています。"
+      },
+      {
+        "term": "VALORANT Challengers Japan",
+        "explanation": "VALORANTの日本国内におけるプロリーグ。プロチームがトップを目指して競い合います。"
+      },
+      {
+        "term": "Main Stage",
+        "explanation": "Challengers Japanリーグの主要な本戦ステージ。ここで勝利を重ねることで、さらに上位リーグへの道が開かれます。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OS2wyQWNJLUNaNWdrZmpVcFpGMUJLODNOVVcwWlpNdWp3SDJhWHlMbXRJSmFBUXZGbzdnY18zNDZLVjQyalVrbmtzLUZqUQ?oc=5": {
+    "title": "『ARC Raiders』難攻不落の最恐クエスト「腐敗の臭気」攻略ガイドがついに解禁！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "「これで勝てる！攻略情報解禁」",
+    "rating": 4,
+    "time_ago": "13時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OS2wyQWNJLUNaNWdrZmpVcFpGMUJLODNOVVcwWlpNdWp3SDJhWHlMbXRJSmFBUXZGbzdnY18zNDZLVjQyalVrbmtzLUZqUQ?oc=5",
+    "summary_bullets": [
+      "人気ゲーム『ARC Raiders』の最恐クエスト「腐敗の臭気」の完全攻略情報がついに公開！",
+      "行き詰まっていたプレイヤー必見！具体的な戦略と隠されたヒントが満載でクリアへの道が拓ける！",
+      "この徹底ガイドを手に強敵を撃破し、ゲームをもっと深く、もっと楽しく遊び尽くそう！"
+    ],
+    "insight": "『ARC Raiders』で多くのプレイヤーを悩ませてきた難関クエスト「腐敗の臭気」に挑む猛者たちへ、待望の攻略記事が登場！これであなたも腐敗に打ち勝つヒーローになれること間違いなし！",
+    "action_plan": "さっそくゲームを起動して「腐敗の臭気」クエストに挑戦してみましょう！他の攻略記事も合わせてチェックして、全クエスト制覇を目指せ！",
+    "image_keyword": "ARC Raiders game strategy",
+    "technical_terms": [
+      {
+        "term": "ARC Raiders",
+        "explanation": "惑星を舞台にした人気協力型シューティングゲーム！ロボットとエイリアンの脅威に立ち向かうアクション満載の作品だよ！"
+      },
+      {
+        "term": "クエスト",
+        "explanation": "ゲーム内でプレイヤーが達成する目標や任務のこと！報酬や物語の進行に繋がる重要な要素だ！"
+      },
+      {
+        "term": "腐敗の臭気",
+        "explanation": "『ARC Raiders』に登場する、特に手強いと噂の難関クエスト名！これをクリアすれば一人前のレイダーの証かも！？"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664408": {
+    "title": "ビリビリ発「尚善」が遂にTVアニメ化！豪華声優陣＆Snow Man佐久間が夢の共演！これは絶対見逃せない！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "超絶期待！神キャスト集結！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664408",
+    "summary_bullets": [
+      "中国の人気漫画「尚善」が待望のTVアニメ化決定！世界が注目するビッグニュースが飛び込んできた！",
+      "主演・川口莉奈、神谷浩史、そしてSnow Man佐久間大介という超豪華キャスト陣が参戦、声の演技に期待が高まる！",
+      "原作の魅力を最大限に引き出し、新たなファン層を巻き込むこと間違いなし！放送が今から待ち遠しい！"
+    ],
+    "insight": "中国の人気ウェブ漫画が豪華キャストでTVアニメ化されることで、原作ファンはもちろん、声優ファンやアイドルファンといった幅広い層にその魅力が広がること間違いなし！ハイクオリティな映像と演技で、新たな旋風を巻き起こす注目作です。",
+    "action_plan": "「尚善」の原作漫画を読んで、アニメ放送に備えよう！出演声優陣の過去作品やSnow Man佐久間大介さんの活躍もチェックして、彼らの魅力を再確認してみるのもアリ！",
+    "image_keyword": "anime adaptation, Japanese animation, voice actors",
+    "technical_terms": [
+      {
+        "term": "ビリビリ漫画",
+        "explanation": "中国で絶大な人気を誇るオンライン漫画プラットフォーム。多くの話題作がここから生まれています。"
+      },
+      {
+        "term": "TVアニメ化",
+        "explanation": "漫画やゲームなどの原作作品が、テレビ放送されるアニメーションシリーズとして制作されること。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664405": {
+    "title": "速報！映画「ガンバレ！中村くん!!」OP曲は岡村靖幸×中島健人の超絶コラボ「瞬発的に恋しよう」に決定！これはアツい！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "神コラボ爆誕！期待度MAXの異色タッグ！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664405",
+    "summary_bullets": [
+      "映画「ガンバレ！中村くん!!」のオープニング主題歌が、岡村靖幸と中島健人の超豪華コラボ楽曲に決定！",
+      "楽曲タイトルは「瞬発的に恋しよう」で、まさにポップで刺激的な恋の予感を爆発させるサウンドに期待が高まる！",
+      "J-POP界のレジェンドとアイドル界のトップランナーがどんな化学反応を起こすのか、公開前からSNSは騒然！",
+      "この異色タッグが映画の世界観をどう彩るのか、公開が待ちきれない！"
+    ],
+    "insight": "唯一無二の音楽性と世界観を持つ岡村靖幸と、表現力豊かな中島健人が手を取り合う奇跡のコラボ！映画のテーマである「恋」をどう表現し、どんなサウンドを届けてくれるのか、音楽ファンも映画ファンも必聴です。",
+    "action_plan": "まずは映画「ガンバレ！中村くん!!」の公式サイトをチェックして、最新情報や予告編で楽曲の一部をチェックしてみましょう！映画公開日と楽曲リリース日をカレンダーにメモするのをお忘れなく！",
+    "image_keyword": "J-pop collaboration, movie theme song, artist duet",
+    "technical_terms": [
+      {
+        "term": "OP",
+        "explanation": "「オープニング（Opening）」の略で、映画やアニメ、ドラマなどの冒頭に流れる主題歌や映像のことです。"
+      },
+      {
+        "term": "コラボ楽曲",
+        "explanation": "「コラボレーション（Collaboration）」して作られた楽曲のこと。複数のアーティストが協力して制作することで、それぞれの個性が融合した新しい音楽が生まれます。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664363": {
+    "title": "【速報】『推しの子』が8巻まで“タダ”読み?! コミックシーモアの爆トクSALEを見逃すな！",
+    "tags": "Manga",
+    "sentiment": "positive",
+    "sentiment_text": "神イベント開催！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664363",
+    "summary_bullets": [
+      "大人気漫画『【推しの子】』のコミックスが、なんと8巻まで無料で読めるチャンスが到来！",
+      "コミックシーモアにて本日3月18日より期間限定の爆トクSALEが絶賛開催中。",
+      "アニメ2期放送前のおさらいや、まだ読んでいない人も作品世界に飛び込む絶好の機会！"
+    ],
+    "insight": "芸能界の光と闇、そして驚きのミステリーが展開される『【推しの子】』。この無料キャンペーンは、作品の魅力を深く知るには最高のチャンスであり、ファンにとっては物語を再確認できる嬉しい企画です。",
+    "action_plan": "今すぐコミックシーモアで『【推しの子】』8巻までをチェック！無料期間中に一気読みして、アニメ2期への期待を最高潮に高めよう！",
+    "image_keyword": "Oshi no Ko, manga free, comic sale",
+    "technical_terms": [
+      {
+        "term": "コミックシーモア",
+        "explanation": "NTTソルマーレが運営する、人気の電子書籍ストアです。豊富な漫画やライトノベルがオンラインで楽しめます。"
+      },
+      {
+        "term": "爆トクSALE",
+        "explanation": "「爆発的に得する」という意味のネットスラングで、非常に安価で提供されるお得な期間限定セールを指します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wSXNzeV9VUGlmUnJCd2pxS3RFX2J2ZFN1Y2ZrZzl6eXd2eDhLLXZUeERPZ1FsNmFzQV9zVDRjcjRXUEdJY1dhVWZzV3Q0aHlJckVHY3gtbmgzUnlUVE9ycnZndFU?oc=5": {
+    "title": "Netflix解約待った！プロが厳選した『観るべき10選』で後悔なし！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "見逃し厳禁！最後の最後まで見届けたい、心揺さぶる傑作セレクション！",
+    "rating": 5,
+    "time_ago": "18時間前",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wSXNzeV9VUGlmUnJCd2pxS3RFX2J2ZFN1Y2ZrZzl6eXd2eDhLLXZUeERPZ1FsNmFzQV9zVDRjcjRXUEdJY1dhVWZzV3Q0aHlJckVHY3gtbmgzUnlUVE9ycnZndFU?oc=5",
+    "summary_bullets": [
+      "AV Watch編集部員が、Netflix退会前に「これだけは観て欲しい」と厳選した10作品を一挙紹介！",
+      "解約を迷っている人も、このリストで新たな名作との出会いがあり、視聴体験を最大化できるチャンス！",
+      "まだ観ていない作品があれば、この機会に視聴リストに追加して最高のエンタメ体験を！"
+    ],
+    "insight": "Netflixの膨大な作品群の中から、プロが「本当に面白い！」と太鼓判を押す10選を知れる絶好のチャンス！退会を考えている人も、このリストで新たな発見と感動に出会えるはず。視聴体験のクオリティを保証する、まさに珠玉のラインナップ！",
+    "action_plan": "紹介された10作品の予告編をまずはチェック！気になる作品を見つけたら、今すぐNetflixで視聴リストに追加して、傑作の世界に飛び込んでみましょう！",
+    "image_keyword": "Netflix movie recommendations, must-watch streaming, TV show list",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE96LTVhVDJncmVTU1ppTzRMZjJ6YU1fakdjN3RzeGl5YVJpX2NXaFNCR2RoWjFjc3NCZlRDLUJTc0dhTGpXTlYzWUFFczBQREJ3aHVTcUU1cENXaW01eW52dk13WHRyQklpdndjd2lVNmZaTnpELUU3VzB6RlB5T1U?oc=5": {
+    "title": "唐田えりか、ついに地上波ヒロイン射止めた！新作映画も始動で完全復活！彼女が\"重宝される理由\"を徹底解剖！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "待望の完全復活！演技派女優、再始動の兆し！",
+    "rating": 5,
+    "time_ago": "3日前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96LTVhVDJncmVTU1ppTzRMZjJ6YU1fakdjN3RzeGl5YVJpX2NXaFNCR2RoWjFjc3NCZlRDLUJTc0dhTGpXTlYzWUFFczBQREJ3aHVTcUU1cENXaW01eW52dk13WHRyQklpdndjd2lVNmZaTnpELUU3VzB6RlB5T1U?oc=5",
+    "summary_bullets": [
+      "唐田えりかの新作映画撮影現場が目撃され、本格的な女優活動再開を予感させる！",
+      "ファン待望！ついに地上波ドラマのヒロイン役を射止めたことが判明し、復帰後初の大きな舞台に注目が集まる！",
+      "評論家が語る彼女の\"唯一無二の存在感\"が、今後の作品での活躍にさらなる期待を抱かせる！"
+    ],
+    "insight": "演技派として評価の高い唐田えりかが、新作映画と地上波ヒロインという二大舞台でどのような表現を見せてくれるのか、その才能が再び開花する瞬間に注目が集まります。彼女の繊細な演技力と唯一無二の存在感は、見る者を引きつけずにはいられないでしょう。",
+    "action_plan": "彼女の過去の出演作や、今回の情報元である詳細記事をチェックして、今後の動向に備えましょう！地上波ドラマや新作映画の情報解禁も要チェックです！",
+    "image_keyword": "Erika Karata actress, Japanese drama movie, Entertainment news",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OZGFyTF9LS2dyVFVmczdrVGlxLTBiQ0kzbzBFUUVyYjdoYlRVOUExQ0xpYlo1WDJzQ0ZTcjRCeWRfS01Zd2M4TXk5MWMycXVnWGF0Rkh1VQ?oc=5": {
+    "title": "GLIM SPANKY、待望の新曲「大天使」MVが堂々解禁！ロック魂が爆発する映像美を見逃すな！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "「心震える新曲降臨！」",
+    "rating": 4,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OZGFyTF9LS2dyVFVmczdrVGlxLTBiQ0kzbzBFUUVyYjdoYlRVOUExQ0xpYlo1WDJzQ0ZTcjRCeWRfS01Zd2M4TXk5MWMycXVnWGF0Rkh1VQ?oc=5",
+    "summary_bullets": [
+      "GLIM SPANKYが最新曲「大天使」のミュージックビデオを遂に公開！",
+      "楽曲の持つ壮大な世界観を視覚的に表現した映像で、バンドの新たな魅力を発見できる。",
+      "このMVをきっかけに、彼らの音楽がさらに多くのファンに届くこと間違いなし！"
+    ],
+    "insight": "GLIM SPANKYのソウルフルな歌声と骨太なロックサウンドが、「大天使」のMVでさらに昇華！圧倒的な世界観に引き込まれること必至の、まさに「大天使」級の映像作品だ。",
+    "action_plan": "まずは公開されたMVをフルで視聴して、その世界観にどっぷり浸かってみましょう！GLIM SPANKYの過去の楽曲も一緒にプレイリストに入れて、彼らの音楽を深く掘り下げてみよう！",
+    "image_keyword": "GLIM SPANKY, rock band, music video",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ldXUxODZwQ1BjZjduOEZ4dkUtcVJtU2VMY2xpdFZnbldNZmUyNVJTUWdheHducklZT2tuUlJxRVpLTUhlNlFzaWVISFh3aDNaVkE?oc=5": {
+    "title": "ゴスペル界の奇才が仕掛ける新境地！デイトリック・ハードン『Chain Breaker 2.5』で魂揺さぶる体験を！",
+    "tags": "Gospel",
+    "sentiment": "positive",
+    "sentiment_text": "奇才が放つ待望の新作！",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ldXUxODZwQ1BjZjduOEZ4dkUtcVJtU2VMY2xpdFZnbldNZmUyNVJTUWdheHducklZT2tuUlJxRVpLTUhlNlFzaWVISFh3aDNaVkE?oc=5",
+    "summary_bullets": [
+      "ゴスペル界の奇才デイトリック・ハードンが、専属クワイアと放つ変則的な新作『Chain Breaker 2.5』が発表。",
+      "既存のゴスペルに留まらない、彼の音楽的挑戦と進化が凝縮された、ファン待望の作品だ。",
+      "魂を揺さぶるそのサウンドは、ゴスペルファンのみならず、多くの音楽リスナーに新たな感動をもたらすだろう。"
+    ],
+    "insight": "デイトリック・ハードンがゴスペルの枠を超え、革新的なサウンドを追求する意欲作。彼の類稀なる才能とクワイアのパワフルな歌声が融合し、聴く者の心を解き放つ至高の音楽体験を約束します。",
+    "action_plan": "まずは『Chain Breaker 2.5』を聴いて、魂の解放を体験してみましょう！彼の過去作やライブ映像も合わせてチェックして、ゴスペルミュージックの奥深さに触れてみよう！",
+    "image_keyword": "Gospel music, Deitrick Haddon, choir performance",
+    "technical_terms": [
+      {
+        "term": "ゴスペル",
+        "explanation": "キリスト教プロテスタントの福音に基づく声楽曲で、アフリカ系アメリカ人の間で発展した。"
+      },
+      {
+        "term": "クワイア",
+        "explanation": "合唱団、特に教会音楽やゴスペルにおいて、一体となって歌い上げる聖歌隊のこと。"
+      },
+      {
+        "term": "変則的な新作",
+        "explanation": "従来のアルバム形式やシリーズとは異なり、新しい構成やアプローチを取り入れた作品。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14bGNmWUhXUGRJUkxUQUNZSGZRTjNtZWJzX1JlR010N1FLdU16dFV3VEc5Mm55eFFpZDRGbG5yalZUUUNMejZkOGJma0JnUTh0OHFsa2hacw?oc=5": {
+    "title": "華乃、音楽シーンに新風を巻き起こす！衝撃の最新情報に迫る！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "次世代の才能が躍動！注目のアーティスト『華乃』から目が離せない！",
+    "rating": 4,
+    "time_ago": "80日前",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14bGNmWUhXUGRJUkxUQUNZSGZRTjNtZWJzX1JlR010N1FLdU16dFV3VEc5Mm55eFFpZDRGbG5yalZUUUNMejZkOGJma0JnUTh0OHFsa2hacw?oc=5",
+    "summary_bullets": [
+      "『華乃』の音楽活動に新たな動き！ファン待望の発表に期待高まる！",
+      "今後の音楽シーンを彩るキーパーソンとして、その動向は要チェック！",
+      "新曲リリースか、ライブ開催か？今後の情報解禁が待ち遠しい！"
+    ],
+    "insight": "その独特の世界観と表現力で多くのファンを魅了する『華乃』。今後の活躍が音楽シーンに新たな風を吹き込むこと間違いなし！",
+    "action_plan": "まずは『華乃』の既存曲をチェックして、その唯一無二の歌声と世界観を体感してみましょう！",
+    "image_keyword": "Japanese Artist, Music Performance, Singer Portrait",
+    "technical_terms": []
   }
 }
