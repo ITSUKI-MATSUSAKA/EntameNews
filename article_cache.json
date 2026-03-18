@@ -1757,7 +1757,7 @@
     "sentiment": "positive",
     "sentiment_text": "熱狂必至！VALORANT新シーズン開幕！",
     "rating": 5,
-    "time_ago": "13時間前",
+    "time_ago": "18時間前",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wdGFHRjBsbDRNeFN1QndiZEZiV1p0QzhDYkdpZ1Y4aXEycGwwd2pZUjVteEJmRGZUalVwVk55WmZyQkVpaG1nd2FIcUx5OW1lXzFJaGI4bFplNTVydUdhNk1uREh0SVB2V2c?oc=5",
     "summary_bullets": [
       "大人気eスポーツチームREJECTのVALORANT部門が「VALORANT Challengers Japan 2026 Split 1 Main Stage」に参戦決定！",
@@ -1784,7 +1784,7 @@
     "sentiment": "positive",
     "sentiment_text": "注目の話題！",
     "rating": 5,
-    "time_ago": "13時間前",
+    "time_ago": "18時間前",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZR1VaRkxORW85SzRUeWtJcEFTZHA4SU1zZ0NrS1kySFJKMmhremRqUllaenpuM0lXdXIzREtVQVZuRHRxTEpYNzVoZXRXazNJQUlwa2tSb1cyQjBpaWJuRDZmZlVoNVowWVE?oc=5",
     "summary_bullets": [
       "REIGNITE FOXXが、VALORANT国内トップリーグの「Challengers Japan 2026 Split 1 Main Stage」への出場権を獲得！",
@@ -1928,7 +1928,7 @@
     "sentiment": "positive",
     "sentiment_text": "見逃し厳禁！最後の最後まで見届けたい、心揺さぶる傑作セレクション！",
     "rating": 5,
-    "time_ago": "18時間前",
+    "time_ago": "23時間前",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wSXNzeV9VUGlmUnJCd2pxS3RFX2J2ZFN1Y2ZrZzl6eXd2eDhLLXZUeERPZ1FsNmFzQV9zVDRjcjRXUEdJY1dhVWZzV3Q0aHlJckVHY3gtbmgzUnlUVE9ycnZndFU?oc=5",
     "summary_bullets": [
       "AV Watch編集部員が、Netflix退会前に「これだけは観て欲しい」と厳選した10作品を一挙紹介！",
@@ -2024,5 +2024,67 @@
     "action_plan": "まずは『華乃』の既存曲をチェックして、その唯一無二の歌声と世界観を体感してみましょう！",
     "image_keyword": "Japanese Artist, Music Performance, Singer Portrait",
     "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wSkRWN3dTNVc3WWlORTJZS3lfSC1fZUxpLWxyaDRrLWo4bjdfNGlubmtmdU9nTlJFbFdvSlhWenkzTWpXNE0xb0FFTDR1dw?oc=5": {
+    "title": "VALORANTに新エージェント「ミクス」爆誕！音を操る多機能コントローラーで戦場を支配せよ！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "神アプデ爆誕！期待の新星登場！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wSkRWN3dTNVc3WWlORTJZS3lfSC1fZUxpLWxyaDRrLWo4bjdfNGlubmtmdU9nTlJFbFdvSlhWenkzTWpXNE0xb0FFTDR1dw?oc=5",
+    "summary_bullets": [
+      "VALORANTに待望の新エージェント「ミクス」が参戦！ゲーム環境を激変させる可能性大！",
+      "スモーク、回復、スタンをこなす超高性能コントローラーで、サポート役の概念を覆す！",
+      "音を操るユニークなアビリティで、新たな戦略とメタが生まれること間違いなし！"
+    ],
+    "insight": "新エージェント「ミクス」は、これまでのコントローラーの常識を打ち破る多機能ぶりで、その独特な「音」をテーマにしたアビリティは、VALORANTの戦略性に新たな次元をもたらすこと間違いなし。攻守両面でチームを支える、まさに戦場のマエストロだ！",
+    "action_plan": "ミクスの詳細なアビリティ動画を今すぐチェックして、戦場での立ち回りをイメージしてみましょう！既存エージェントとの組み合わせも無限大！",
+    "image_keyword": "VALORANT new agent, game controller, esports character",
+    "technical_terms": [
+      {
+        "term": "VALORANT",
+        "explanation": "ライアットゲームズが開発・運営する人気のタクティカルシューターゲーム。5対5で攻防を繰り広げる。"
+      },
+      {
+        "term": "エージェント",
+        "explanation": "VALORANTに登場するキャラクターのこと。それぞれ固有のアビリティ（スキル）を持つ。"
+      },
+      {
+        "term": "コントローラー",
+        "explanation": "VALORANTにおけるエージェントの役割（ロール）の一つで、スモークなどで視界を遮り、エリアをコントロールする役割を担う。"
+      },
+      {
+        "term": "スモーク",
+        "explanation": "視界を遮るアビリティ。敵の侵攻を妨げたり、味方の移動を隠したりする際に使われる。"
+      },
+      {
+        "term": "スタン",
+        "explanation": "敵の動きを一定時間妨害するアビリティ。敵の行動を鈍らせたり、スキル使用を中断させたりする効果がある。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHOVNCaGJSeVl1MVdpa0stR2RDUThoUVlJMUZnZzM3a3Iwblg1TXMtUW84c2VqMzJCQWlZLW1PTElnM3Ezd3lBZFU2bExNQU81c2djRUVQaE9RaDhGNFE?oc=5": {
+    "title": "【注目】『Arakezuri』が音楽シーンを席巻!? 粗削りな魅力に迫る！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "新時代の幕開けを告げるサウンド！絶対チェック！",
+    "rating": 4,
+    "time_ago": "4日前",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHOVNCaGJSeVl1MVdpa0stR2RDUThoUVlJMUZnZzM3a3Iwblg1TXMtUW84c2VqMzJCQWlZLW1PTElnM3Ezd3lBZFU2bExNQU81c2djRUVQaE9RaDhGNFE?oc=5",
+    "summary_bullets": [
+      "新星アーティスト『Arakezuri』、音楽シーンに鮮烈デビューの予感！",
+      "その唯一無二のサウンドは必聴！どんなジャンルと化学反応を起こすのか？",
+      "今後のライブ活動や新曲リリースに期待が高まる！彼らの動向から目が離せない！"
+    ],
+    "insight": "粗削りながらも心に響く彼らの音楽は、既存の枠にとらわれない新世代の到来を予感させます。一度聴いたら忘れられない中毒性が魅力！",
+    "action_plan": "まずは彼らの楽曲を聴いて、そのエネルギッシュなサウンドに触れてみましょう！SNSもチェックして最新情報をGET！",
+    "image_keyword": "rock band live, indie music, energetic performance",
+    "technical_terms": [
+      {
+        "term": "インディーズ",
+        "explanation": "既存のレコード会社に所属せず、自主的な活動を行うアーティストやレーベルのこと。自由な音楽性が魅力！"
+      }
+    ]
   }
 }
