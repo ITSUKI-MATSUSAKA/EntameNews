@@ -1556,7 +1556,7 @@
     "sentiment": "positive",
     "sentiment_text": "胸アツ必至！夢の祭典、ついに動き出す！",
     "rating": 5,
-    "time_ago": "24日前",
+    "time_ago": "26日前",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuZlIzNXBLaThBcEwwUFlpbWZ3MVo3MzhFLVRfbVNPbkI3Y1NiMlFFWVI0YTNTMnFhWWE1WXlaSFhZdks4c3h1RHhGUlBaR1pLTXc?oc=5",
     "summary_bullets": [
       "フジロック'26、豪華すぎる第1弾アーティスト66組＆開催日割りがついに解禁！",
@@ -1928,7 +1928,7 @@
     "sentiment": "positive",
     "sentiment_text": "見逃し厳禁！最後の最後まで見届けたい、心揺さぶる傑作セレクション！",
     "rating": 5,
-    "time_ago": "23時間前",
+    "time_ago": "1日前",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wSXNzeV9VUGlmUnJCd2pxS3RFX2J2ZFN1Y2ZrZzl6eXd2eDhLLXZUeERPZ1FsNmFzQV9zVDRjcjRXUEdJY1dhVWZzV3Q0aHlJckVHY3gtbmgzUnlUVE9ycnZndFU?oc=5",
     "summary_bullets": [
       "AV Watch編集部員が、Netflix退会前に「これだけは観て欲しい」と厳選した10作品を一挙紹介！",
@@ -2084,6 +2084,253 @@
       {
         "term": "インディーズ",
         "explanation": "既存のレコード会社に所属せず、自主的な活動を行うアーティストやレーベルのこと。自由な音楽性が魅力！"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VC1oeHUxRnpyX3ZoZGM1WDdJTlNIa084RlFjSW1XRWxZa01WU0ZJX1FDb09kY29Fc245X3BhTk5Ycy1mN2VmbklRM2UxSW5DbUFSajJHaHF3OFFlRGFBeTJjM3JIVUxsWHZ4Vzd1V2tHM3JBcmZtWU5femk3LUk?oc=5": {
+    "title": "手越祐也率いるT.N.Tが『VALORANT』日本大会を席巻！ 激アツ楽曲＆応援サポーターで祭りが爆誕！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "異色コラボ爆誕！ 熱狂確定の神タッグ！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VC1oeHUxRnpyX3ZoZGM1WDdJTlNIa084RlFjSW1XRWxZa01WU0ZJX1FDb09kY29Fc245X3BhTk5Ycy1mN2VmbklRM2UxSW5DbUFSajJHaHF3OFFlRGFBeTJjM3JIVUxsWHZ4Vzd1V2tHM3JBcmZtWU5femk3LUk?oc=5",
+    "summary_bullets": [
+      "手越祐也率いるロックバンドT.N.Tが人気FPSゲーム『VALORANT』の日本大会にオリジナル楽曲を提供！",
+      "さらにT.N.Tは大会の応援サポーターにも就任、異分野コラボで大会を爆アゲすること間違いなし！",
+      "音楽とeスポーツの融合が、今年のVALORANT日本大会に新たな熱狂と感動を巻き起こすことを期待！"
+    ],
+    "insight": "人気アーティストT.N.Tと世界的な人気を誇るeスポーツタイトル『VALORANT』のタッグは、それぞれのファン層に新たな刺激と興奮をもたらす。音楽の力で大会がどこまでブーストされるのか、その化学反応が最大の見どころだ。",
+    "action_plan": "VALORANTの日本大会の日程を今すぐチェックして、T.N.Tの激アツ楽曲と共に最高のバトルを目撃しよう！もちろん、T.N.Tの最新情報も忘れずに追跡だ！",
+    "image_keyword": "VALORANT eSports concert, T.N.T music game",
+    "technical_terms": [
+      {
+        "term": "VALORANT",
+        "explanation": "ライアットゲームズが開発・運営する、5対5で戦う人気のタクティカルシューター（FPS）ゲーム。eスポーツの競技としても世界的に人気。"
+      },
+      {
+        "term": "eスポーツ",
+        "explanation": "「エレクトロニック・スポーツ」の略で、コンピューターゲームをスポーツ競技としてとらえたもの。プロ選手も存在する。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbG0xeXZaZUF1UE13QmNsRmlxT1QyRVlxRnpWQzNoNVl3U2FMX2VJTE95Ym9xTm1iREJEa3Nwc1lkOVNuYmtzTWQxZk00QkZ0RHQxRGc0eUx6UmxiZE1R0gFkQVVfeXFMTTNwYy1xU0NNdTE4Q3I3RnZoZE9OQ0JPRkR1REJKLWtLb2Vad2tJbkI0eUtSbkhsWGVsblljOVFQNnJxTlZzdEcwMEpZVmx5YTFoQW51Q21LdzlTdk9JVnFSemxxVA?oc=5": {
+    "title": "手越祐也率いるロックバンド・T.N.T、人気ゲーム『VALORANT』日本大会を爆アゲ！ 新曲提供＆応援サポーター就任でゲーム界を席巻！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "熱狂確定！神コラボ爆誕！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbG0xeXZaZUF1UE13QmNsRmlxT1QyRVlxRnpWQzNoNVl3U2FMX2VJTE95Ym9xTm1iREJEa3Nwc1lkOVNuYmtzTWQxZk00QkZ0RHQxRGc0eUx6UmxiZE1R0gFkQVVfeXFMTTNwYy1xU0NNdTE4Q3I3RnZoZE9OQ0JPRkR1REJKLWtLb2Vad2tJbkI0eUtSbkhsWGVsblljOVFQNnJxTlZzdEcwMEpZVmx5YTFoQW51Q21LdzlTdk9JVnFSemxxVA?oc=5",
+    "summary_bullets": [
+      "手越祐也率いるロックバンドT.N.Tが、人気FPSゲーム『VALORANT』の日本大会と超強力タッグを結成！",
+      "大会公式テーマソングの新曲提供に加え、応援サポーターにも就任し、ゲームと音楽で大会の熱気を最高潮に高める！",
+      "この異色のコラボが、eスポーツシーンに新たな風を吹き込み、ファンを熱狂させること間違いなし！"
+    ],
+    "insight": "人気アーティスト・手越祐也が率いるT.N.Tが、世界中で熱狂的なファンを持つeスポーツタイトル『VALORANT』の日本大会を音楽で盛り上げるという、まさに“神コラボ”が実現！彼らのエネルギッシュなサウンドが、プレイヤーたちの白熱した戦いをさらにドラマチックに彩ること間違いなし！",
+    "action_plan": "T.N.Tの新たな大会テーマソングを聴きながら『VALORANT』をプレイしてみたり、eスポーツ大会をリアルタイムで応援して、熱気を体感してみましょう！",
+    "image_keyword": "rock band, valorant, e-sports, music collaboration",
+    "technical_terms": [
+      {
+        "term": "VALORANT",
+        "explanation": "ライアットゲームズが開発・運営する、5対5で戦う人気のタクティカルシューターゲーム（FPS）。"
+      },
+      {
+        "term": "FPS",
+        "explanation": "「First Person Shooter」の略で、主人公の一人称視点で銃撃戦を行うゲームジャンルのこと。"
+      },
+      {
+        "term": "eスポーツ",
+        "explanation": "エレクトロニック・スポーツの略で、ビデオゲームを競技として行うスポーツのこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTeUlmMkJBNU1Db1lsck5mRnRIRFpfZDN4WnFtbmNhbVlzbm5oeEI3UWVmOGhsUjJzZzlocWNFTUNIaG9yODdRaUkyVmJIVkRvcDgxOTBySU5aN1hiWnAzSEFELWJkbDBQ?oc=5": {
+    "title": "速報！プロeスポーツチームREIGNITEにApex Legends最強デュオ「Taida」＆「Lully」が電撃加入！激震の予感！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "最強デュオ誕生！eスポーツ界に激震！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTeUlmMkJBNU1Db1lsck5mRnRIRFpfZDN4WnFtbmNhbVlzbm5oeEI3UWVmOGhsUjJzZzlocWNFTUNIaG9yODdRaUkyVmJIVkRvcDgxOTBySU5aN1hiWnAzSEFELWJkbDBQ?oc=5",
+    "summary_bullets": [
+      "プロeスポーツチーム「REIGNITE」のApex Legends部門に、超人気・実力派プレイヤー「Taida」と「Lully」が電撃加入決定！",
+      "Apex Legends界に名を馳せる最強デュオの合流で、REIGNITEの戦力はまさに“桁違い”に進化！",
+      "今後の国内・国際大会でのREIGNITEの快進撃、そして新メンバーが巻き起こす化学反応に期待が止まらない！"
+    ],
+    "insight": "プロeスポーツシーンを牽引するREIGNITEが、Apex Legendsで実績と人気を兼ね備えたTaidaとLullyを迎え入れたことで、チームは更なる飛躍を遂げるでしょう。この最強の布陣で、世界を舞台にした活躍を見せてくれること間違いなしです！",
+    "action_plan": "まずはREIGNITEの公式SNSをフォローして、新メンバーの最新情報や今後の試合スケジュールをチェックしましょう！そして、彼らの華麗なプレイが光るApex Legendsの配信や過去の試合動画も、ぜひ見てみてください！",
+    "image_keyword": "esports team, Apex Legends, professional gamer",
+    "technical_terms": [
+      {
+        "term": "Apex Legends",
+        "explanation": "3人1組のチームで最後の1組になるまで戦う、全世界で大人気の無料バトルロイヤルシューターゲーム。戦略とチームワークが勝利の鍵！"
+      },
+      {
+        "term": "eスポーツチーム",
+        "explanation": "プロのビデオゲーマーが集まり、競技としてゲームをプレイする団体。REIGNITEはその代表格で、国内外で活躍しています。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664590": {
+    "title": "衝撃！エリート街道から転落！？「高学歴難民」のリアルに迫るノンフィクションがアツい！",
+    "tags": "Comic",
+    "sentiment": "negative",
+    "sentiment_text": "見逃せない衝撃の現実！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664590",
+    "summary_bullets": [
+      "輝かしい未来を約束されたはずが…なぜ？エリートの知られざる転落劇に迫る！",
+      "現代社会のリアルをえぐり出す、まさに「今」読むべき注目のドキュメンタリー！",
+      "あなたの固定観念を揺さぶる一冊、読後にはきっと何かを感じるはず！"
+    ],
+    "insight": "成功者の定義を根底から覆す、「高学歴難民」たちの知られざるドラマがここにある！彼らの選択と苦悩が、現代社会に鋭い問いを投げかける、考えさせられる傑作！",
+    "action_plan": "この問題についてもっと深く知りたくなったら、社会派ドキュメンタリー作品や関連書籍をチェックして、あなたの視野を広げてみよう！",
+    "image_keyword": "elite dropout, social issue, modern struggle",
+    "technical_terms": [
+      {
+        "term": "高学歴難民",
+        "explanation": "高い学歴を持ちながらも、安定した職に就けず経済的・社会的に困難な状況にある人々を指す言葉。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664599": {
+    "title": "待望のTVアニメ化決定！『塩対応の佐藤さんが俺にだけ甘い』が豪華キャストで動く！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "神アプデ！期待の新作！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664599",
+    "summary_bullets": [
+      "大人気コミック『塩対応の佐藤さんが俺にだけ甘い』、ついに待望のTVアニメ化が決定！",
+      "主人公・佐藤さんと後輩・大和のキャストには、石橋陽彩さんと伊藤美来さんが決定し、期待度爆上がり！",
+      "「塩対応」からの「俺にだけ甘い」胸キュン展開が、アニメでどう描かれるのか今から放送が待ちきれない！"
+    ],
+    "insight": "ツンデレを飛び越えた「塩デレ」ヒロインと、彼女に振り回される先輩との甘酸っぱい日常が、豪華声優陣によってどのような化学反応を見せるのか、期待値は天井知らず！ギャップ萌えの最高峰を見逃すな！",
+    "action_plan": "アニメ放送前に原作コミックを読んで、佐藤さんのギャップ萌えを予習しておこう！ 公式サイトやSNSでの続報も要チェックだ！",
+    "image_keyword": "Anime adaptation, romantic comedy, high school romance",
+    "technical_terms": []
+  },
+  "https://natalie.mu/comic/news/664580": {
+    "title": "ゾンビ世界でまさかの美食探求!? 新感覚サバイバルグルメコミック「終末、なに食べる？」1巻爆誕！",
+    "tags": "Manga",
+    "sentiment": "positive",
+    "sentiment_text": "設定が斬新すぎる！これは絶対読みたい期待の新作！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664580",
+    "summary_bullets": [
+      "終末ゾンビ世界で”美食”を追求する異色のサバイバルグルメ漫画が爆誕！",
+      "待望のコミックス第1巻がついに登場、奇妙な絶品料理に胃袋掴まれること間違いなし！",
+      "ハラハラドキドキのサバイバルと心温まる（？）グルメ展開に期待が高まる！"
+    ],
+    "insight": "ゾンビが跋扈する絶望的な終末世界で、人間が生き残るために見つける“食べる”喜び。異色の組み合わせが織りなす、これまでにないサバイバルヒューマンドラマに心奪われること間違いなし！",
+    "action_plan": "この斬新な世界観を体験するなら、まずはコミックス1巻を手に取ってみましょう！他の終末系グルメ作品と読み比べるのも面白いかも？",
+    "image_keyword": "zombie gourmet manga",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiel9oS19TVU8yZkxubm5zODR2a3kwVW1TdmgtZTJTUnBRSGRiU214TEZlUzlneldfMGJLSGVyYnp0Q2tuTkF2b1NfUUlHYkw0NHhhRVUwS0dkR3pnSDlDMm9XZXJNYS1CZ2c?oc=5": {
+    "title": "なぜ今！？草彅剛『新幹線大爆破』がNetflixで奇跡の再爆走！WBCで新規ファンも熱狂中！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "まさかの再注目！衝撃のTOP10入り！",
+    "rating": 5,
+    "time_ago": "4時間前",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiel9oS19TVU8yZkxubm5zODR2a3kwVW1TdmgtZTJTUnBRSGRiU214TEZlUzlneldfMGJLSGVyYnp0Q2tuTkF2b1NfUUlHYkw0NHhhRVUwS0dkR3pnSDlDMm9XZXJNYS1CZ2c?oc=5",
+    "summary_bullets": [
+      "草彅剛主演の往年パニック作『新幹線大爆破』がNetflix国内ランキングに再びTOP10入りする快挙を達成！",
+      "WBC観戦のためにNetflixに新規加入したユーザーが、この往年の名作を発掘し、評価している可能性が浮上！",
+      "世代を超えて愛される不朽の傑作が、新たな視聴層にどう響いているのか、今後の動向から目が離せない！"
+    ],
+    "insight": "往年のパニック映画『新幹線大爆破』が、まさかのNetflix国内ランキングで再浮上！WBCブームを背景に、新たな視聴者がこのスリリングな傑作に夢中になっている現象が最高に面白いポイントだ。",
+    "action_plan": "まだ観ていない人はもちろん、昔観た人もこの機会にNetflixで『新幹線大爆破』を再び鑑賞して、その迫力と奥深さを体感してみましょう！草彅剛さんの若かりし頃の熱演にも注目！",
+    "image_keyword": "action movie, train explosion, Netflix Japan",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TndIOVZiLTdwbkVUSWtkMmxSZGJ5cXZacjh6aktjUDF5eTlRWkQ3N1VpX3Q2eFlEQlpRWlFwb2lqa1ZZclZpWTIzSElDMmtubVdxbkRFSGpDMWJZSUJoTUg0RlNXRDdNQWIyQV93TE9zZ1BY?oc=5": {
+    "title": "ネトフリ沼へようこそ！絶対見るべきドラマ＆映画56選、新作もガッツリ紹介しちゃうぞ！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "見逃し厳禁！ネトフリ神リスト爆誕！",
+    "rating": 5,
+    "time_ago": "4時間前",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TndIOVZiLTdwbkVUSWtkMmxSZGJ5cXZacjh6aktjUDF5eTlRWkQ3N1VpX3Q2eFlEQlpRWlFwb2lqa1ZZclZpWTIzSElDMmtubVdxbkRFSGpDMWJZSUJoTUg0RlNXRDdNQWIyQV93TE9zZ1BY?oc=5",
+    "summary_bullets": [
+      "Netflixの膨大なラインナップから、本当に見て欲しいドラマと映画が厳選56作品として一挙紹介！",
+      "最新作もしっかりとカバーされており、次に見るべき作品探しに悩むことはもうない究極のガイド！",
+      "この厳選リストがあれば、あなたのネトフリライフはさらに充実し、最高のエンタメ体験が約束される！"
+    ],
+    "insight": "このニュースの最大の魅力は、Netflixユーザーが「何を見よう？」と迷う時間を劇的に減らしてくれる点です。厳選された56作品は、多岐にわたるジャンルから選ばれているため、きっとあなたの好みに合う一本が見つかるでしょう。",
+    "action_plan": "記事を隅々までチェックして、あなたの「見たいリスト」を爆速で更新しましょう！今週末は、このリストから選んだ作品で最高のネトフリ三昧を楽しんでください！",
+    "image_keyword": "Netflix recommendations, streaming movies, binge watching",
+    "technical_terms": [
+      {
+        "term": "Netflix",
+        "explanation": "世界中で利用されている、映画やドラマが見放題のサブスクリプション型動画配信サービス。"
+      },
+      {
+        "term": "厳選作品",
+        "explanation": "数多くある候補の中から、特に品質や人気が高いと評価された作品だけを丁寧に選び出したもの。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yMUczNXN4VmxGcXVLVkV0RHF3bDdBa3J4Y1p2OE1sRlU3dlk2cndCYkl4TDhueGdhdkZkWlE5N0REMWQtajZBTFdMcWpzRkNNMGc?oc=5": {
+    "title": "【奇跡のカムバック！】デ・ラ・ソウル、故トゥルーゴイに捧ぐ感動の新章『Cabin In The Sky』爆誕！",
+    "tags": "HipHop",
+    "sentiment": "positive",
+    "sentiment_text": "奇跡のカムバック！伝説のHIP HOPが蘇る！",
+    "rating": 5,
+    "time_ago": "13日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yMUczNXN4VmxGcXVLVkV0RHF3bDdBa3J4Y1p2OE1sRlU3dlk2cndCYkl4TDhueGdhdkZkWlE5N0REMWQtajZBTFdMcWpzRkNNMGc?oc=5",
+    "summary_bullets": [
+      "HIP HOP界のレジェンド、デ・ラ・ソウルが亡きメンバーのトゥルーゴイの魂と共に待望のカムバック！",
+      "新アルバム『Cabin In The Sky』は、彼らの不屈の精神と感動的なメッセージが詰まった名盤に！",
+      "数々の困難を乗り越え、新たなスタートを切った彼らの歴史的快挙に世界中が注目している！"
+    ],
+    "insight": "HIP HOP界のレジェンド、デ・ラ・ソウルが亡きメンバー、トゥルーゴイへの愛と敬意を込めてリリースした本作は、単なる復活作にとどまらない、彼らの揺るぎない魂と創造性が凝縮された感動の一枚だ。HIP HOPの過去・現在・未来を繋ぐ、まさに歴史的傑作と言えるだろう。",
+    "action_plan": "まずは、彼らの初期傑作『3 Feet High and Rising』を聴いて、デ・ラ・ソウルのルーツに触れてみよう！そして、本作『Cabin In The Sky』が彼らのディスコグラフィーでどう位置づけられるのか、ぜひ体感してください！",
+    "image_keyword": "De La Soul album",
+    "technical_terms": [
+      {
+        "term": "デ・ラ・ソウル",
+        "explanation": "1980年代後半にデビューした、HIP HOP界のレジェンドグループ。ポジティブなリリックと革新的なサンプリングで一世を風靡した。"
+      },
+      {
+        "term": "トゥルーゴイ",
+        "explanation": "デ・ラ・ソウルの中心メンバーの一人であるラッパー。2023年に逝去したが、彼の魂が本作の制作に深く影響を与えている。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WbGE1a2RQY2VqMGZjXy1tZDJ5d1dLVjNESGxHS2lHNGR3aTNLR1VUOEQ4dkhuVnA5MWR2YVBLc1RjZjRyRjRYcHV6dGJMNFg1U0E?oc=5": {
+    "title": "速報！サマソニ日割りラインナップついに解禁！デヴィッド・バーン降臨で夏が待ちきれない！",
+    "tags": "Music Festival",
+    "sentiment": "positive",
+    "sentiment_text": "フェス熱最高潮！絶対見逃せないラインナップ！",
+    "rating": 4,
+    "time_ago": "5日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WbGE1a2RQY2VqMGZjXy1tZDJ5d1dLVjNESGxHS2lHNGR3aTNLR1VUOEQ4dkhuVnA5MWR2YVBLc1RjZjRyRjRYcHV6dGJMNFg1U0E?oc=5",
+    "summary_bullets": [
+      "日本最大級の都市型フェス「サマソニ」の待望の日割りラインナップが発表され、ファンの期待が爆上がり！",
+      "ヘッドライナーがまだ不明な日にもかかわらず、デヴィッド・バーンら伝説的アーティストの出演が決定し、驚きと興奮が広がる！",
+      "残るヘッドライナー発表に向けて、さらにチケット争奪戦が激化すること間違いなし！見逃せない夏になる予感！"
+    ],
+    "insight": "サマソニの日割りラインナップ公開は、ファンにとって待ち望んだビッグニュース！特に、ヘッドライナーが未発表の日にデヴィッド・バーンのようなレジェンド級のアーティストが名を連ねている点は、今回の発表の最大の魅力です。今年の夏は、これまで以上に予測不能で刺激的な音楽体験が待っていることを予感させます。",
+    "action_plan": "発表されたアーティストの楽曲を今のうちに聴きまくって、フェス参戦に備えよう！まだチケットをゲットしていない人は、争奪戦に乗り遅れないよう今すぐチェックしてみましょう！",
+    "image_keyword": "Summer Sonic, Music Festival, Live Concert",
+    "technical_terms": [
+      {
+        "term": "サマソニ",
+        "explanation": "「SUMMER SONIC」の略称。毎年夏に日本で開催される、国内外の人気アーティストが集結する大規模な都市型ロック・フェスティバルです。"
+      },
+      {
+        "term": "日割りラインナップ",
+        "explanation": "複数の日程で開催されるフェスティバルで、日ごとの出演アーティストの組み合わせのこと。これによって、どの日に誰が出演するかが分かります。"
+      },
+      {
+        "term": "ヘッドライナー",
+        "explanation": "フェスティバルやコンサートで、その日の出演者の中で最もメインとなるアーティストのこと。通常、その日の最後のステージを飾ります。"
       }
     ]
   }
