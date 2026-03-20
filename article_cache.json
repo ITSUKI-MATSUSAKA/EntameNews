@@ -2541,7 +2541,7 @@
     "sentiment": "positive",
     "sentiment_text": "ランキング爆上げ！注目の話題作が奇跡の再燃！",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5INFlHU2FQMkZhaVQxU0VmVHE3MWpHdEFid1pRWnNGMFJYRnA3UXB0ZGJjNmtncGNjc1lINFFFeXU2MnBCWVBxeGJB?oc=5",
     "summary_bullets": [
       "草彅剛も出演する伝説のパニックスリラー『新幹線大爆破』がNetflix国内ランキングでTOP10に返り咲いた！",
@@ -2623,6 +2623,274 @@
     "insight": "神聖かまってちゃんは、その赤裸々な歌詞と予測不能なパフォーマンスで、日本のロックシーンに強烈なインパクトを与え続けているバンドです。今回のニュースは、彼らの唯一無二の存在感と、常に進化し続ける姿勢を再認識させるものとなるでしょう。",
     "action_plan": "まずはYouTubeで「神聖かまってちゃん」の代表曲やライブ映像をチェックして、その衝撃的な世界観を体験してみましょう。ストリーミングサービスでアルバムを聴き込むのもおすすめです！",
     "image_keyword": "Shinsei Kamattechan, J-rock band, live performance",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRko3MGNkOWRGWnpOMUQ4YTJwa3VnaGNYRm55ckdHaVhsZG1Tby1EclZUOEtMVjIxU0dxNzdfazVkWTIxTS1UbXFTR0VHMXc0cS0xd041R3hQckJGb3ZJR0FXYUtFUGdkRUE?oc=5": {
+    "title": "【速報】FENNEL、Apex Legends部門を電撃再始動！ALGS APAC Northへ殴り込み決定！",
+    "tags": "Esports",
+    "sentiment": "positive",
+    "sentiment_text": "待望の復活劇！あのFENNELがApexの舞台に帰ってきた！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRko3MGNkOWRGWnpOMUQ4YTJwa3VnaGNYRm55ckdHaVhsZG1Tby1EclZUOEtMVjIxU0dxNzdfazVkWTIxTS1UbXFTR0VHMXc0cS0xd041R3hQckJGb3ZJR0FXYUtFUGdkRUE?oc=5",
+    "summary_bullets": [
+      "人気プロeスポーツチームFENNELが、待望のApex Legends部門を電撃的に再設立！",
+      "再結成されたチームは、世界の舞台ALGS Year 6 Pro League APAC Northへの参戦が決定！",
+      "日本を代表するFENNELがApex界に旋風を巻き起こすか、今後の活躍に目が離せない！"
+    ],
+    "insight": "FENNELのApex部門再設立は、ファンにとってはもちろん、eスポーツシーン全体にとってもビッグニュース！最高峰リーグALGSでの挑戦は、今後のApex界隈をさらに盛り上げる起爆剤となること間違いなし！新体制での快進撃に期待が高まる！",
+    "action_plan": "FENNELの公式SNSをフォローして、新チームメンバーや今後の情報をいち早くチェック！ALGS Year 6 Pro Leagueの配信も忘れずに見て、彼らの活躍を熱く応援しよう！",
+    "image_keyword": "Esports team, Apex Legends, Pro gaming",
+    "technical_terms": [
+      {
+        "term": "FENNEL",
+        "explanation": "日本の人気プロeスポーツチーム！様々なゲームで活躍中！"
+      },
+      {
+        "term": "Apex Legends",
+        "explanation": "3人1組で戦う大人気のバトルロイヤルFPSゲーム！"
+      },
+      {
+        "term": "ALGS",
+        "explanation": "Apex Legendsの世界最高峰リーグ『Apex Legends Global Series』のこと！"
+      },
+      {
+        "term": "APAC North",
+        "explanation": "ALGSのアジア太平洋地域北部エリアのこと！日本を含む強豪が集まる激戦区！"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SeXVpWGFsdUo0MUZ3NUxjMVRONEo3dVJOV3RuMGVydlhNcWd5UXJBX253cC1LNFRBRU5uSEp5MXkzWjdxYVo3dHFNWU5KZEIxdVNReE9lSTY2VkpzTXFlVTRXbUtncmlWY2dLYVRQdw?oc=5": {
+    "title": "VALORANT Challengers Japan 2026、未来を彩るビッグサプライズ！国内最高峰eスポーツ大会に「ナッシュ」が強力サポート参戦決定！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "激熱タッグ誕生！未来のeスポーツ界を揺るがすビッグニュース！",
+    "rating": 5,
+    "time_ago": "14時間前",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SeXVpWGFsdUo0MUZ3NUxjMVRONEo3dVJOV3RuMGVydlhNcWd5UXJBX253cC1LNFRBRU5uSEp5MXkzWjdxYVo3dHFNWU5KZEIxdVNReE9lSTY2VkpzTXFlVTRXbUtncmlWY2dLYVRQdw?oc=5",
+    "summary_bullets": [
+      "国内最高峰のeスポーツ大会「VALORANT Challengers Japan 2026 Split 1」に、冷凍宅配食の「ナッシュ」が協賛決定！",
+      "選手たちのコンディションを食で支えるという新たな動きは、eスポーツシーン全体に大きな影響を与えること間違いなし！",
+      "健康的で美味しい食事が、選手のパフォーマンス向上と大会の盛り上がりにどう貢献するのか、今後の展開に超期待！"
+    ],
+    "insight": "「VALORANT Challengers Japan 2026」に食のサポート企業「ナッシュ」が加わることで、選手はより良いコンディションで最高のパフォーマンスを発揮できるはず！大会の質も、eスポーツ文化の発展も、さらに加速すること間違いなしだ！",
+    "action_plan": "2026年の大会が今から待ちきれない！まずは「VALORANT」のゲーム本編をプレイして、eスポーツの世界に飛び込んでみよう！ナッシュの公式サイトもチェックして、健康的な食生活で推し選手を応援しよう！",
+    "image_keyword": "VALORANT eSports, sponsorship",
+    "technical_terms": [
+      {
+        "term": "VALORANT",
+        "explanation": "Riot Gamesが開発した5対5のタクティカルシューターゲーム。戦略性とエイム力が試される人気のeスポーツタイトル。"
+      },
+      {
+        "term": "eスポーツ",
+        "explanation": "エレクトロニック・スポーツの略称で、ビデオゲームをスポーツ競技として捉え、プロ選手やチームが賞金をかけて競い合うもの。"
+      },
+      {
+        "term": "Challengers Japan",
+        "explanation": "VALORANTの国内プロリーグ昇格を目指すチームが競い合う、国内最高峰の公式大会シリーズ。"
+      },
+      {
+        "term": "ナッシュ (nosh)",
+        "explanation": "管理栄養士が監修した冷凍宅配弁当サービス。健康と美味しさを両立した食事を提供している。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlQWdRQWZlc1VYcEd6R2trclNOMk94azlyZmtKTVpSbXplSTZBeFNMUWM0bU5kSWFXOEdUVnlUajBRTk1MaVFXN2tMRm1fM1V4NGJwR3V2X1MyRU9rSjJXdg?oc=5": {
+    "title": "速報！VCJ 2026 Split 1 Main Stage、開幕から激熱バトル連発！DAY1を完全解剖！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "開幕から激アツ！白熱のDAY1を見逃すな！",
+    "rating": 5,
+    "time_ago": "22時間前",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlQWdRQWZlc1VYcEd6R2trclNOMk94azlyZmtKTVpSbXplSTZBeFNMUWM0bU5kSWFXOEdUVnlUajBRTk1MaVFXN2tMRm1fM1V4NGJwR3V2X1MyRU9rSjJXdg?oc=5",
+    "summary_bullets": [
+      "VALORANT Challengers Japan 2026 Split 1 Main Stageが遂に開幕、初日から大興奮の試合が続出！",
+      "AGL vs INS、MRG vs WECCといった注目カードで、各チームが新シーズンにかける熱い想いをぶつけ合った白熱の結果が発表！",
+      "2026年の日本のVALORANTシーンを占う重要なDAY1を経て、今後のリーグ戦がますます目が離せない展開に突入！"
+    ],
+    "insight": "2026年のVALORANT日本トップシーンの幕開けとなるVCJ Split 1 Main Stage DAY1は、新シーズンを占う重要な一戦となりました。新体制や新戦術が光る各チームの激闘から、今後の日本のVALORANTシーンの進化を予感させる見どころ満載のスタートを切りました。",
+    "action_plan": "見逃してしまったDAY1のハイライト動画を今すぐチェックして、各チームの戦略や選手の活躍を振り返ってみましょう！次戦のスケジュールも確認して、お気に入りのチームを全力で応援しよう！",
+    "image_keyword": "VALORANT eSports Japan",
+    "technical_terms": [
+      {
+        "term": "VALORANT",
+        "explanation": "基本プレイ無料の人気5対5タクティカルシューターゲーム。"
+      },
+      {
+        "term": "Challengers Japan (VCJ)",
+        "explanation": "VALORANTの日本国内におけるプロリーグの名称。"
+      },
+      {
+        "term": "Split 1",
+        "explanation": "年間を通して行われるリーグ戦の、最初の期間やフェーズのこと。"
+      },
+      {
+        "term": "Main Stage",
+        "explanation": "大会の本戦、主要な試合が行われる段階。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664892": {
+    "title": "【心臓バクバク！】夫の狂気が爆発！ドラマ『産まない女はダメですか？』戦慄の予告映像が解禁で期待値爆上がり！",
+    "tags": "Drama",
+    "sentiment": "positive",
+    "sentiment_text": "社会派×サスペンス！狂気とメッセージが混じり合う超注目作！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664892",
+    "summary_bullets": [
+      "社会のデリケートな問いをテーマにしたドラマ『産まない女はダメですか？』から衝撃の予告映像が解禁！",
+      "夫が避妊具に針を仕込むという狂気的な行動が描かれ、視聴者の度肝を抜く展開に期待が高まる！",
+      "夫婦の在り方と選択を深く問いかける本作は、放送前からそのメッセージ性で大きな話題を呼んでいる！"
+    ],
+    "insight": "本作は「産まない女」という現代社会のデリケートなテーマを深く掘り下げながら、夫の狂気というサスペンス要素を巧みに織り交ぜ、視聴者に強烈なインパクトとメッセージを投げかけます。予告映像だけでもその衝撃とドラマの深さが伝わり、見始めたら止まらないこと間違いなし！",
+    "action_plan": "ゾクゾクが止まらない人は、まずは原作コミックをチェックして、ドラマの放送開始に備えましょう！SNSで感想をシェアして盛り上がろう！",
+    "image_keyword": "psychological thriller, domestic drama, japanese tv show",
+    "technical_terms": []
+  },
+  "https://natalie.mu/comic/news/664855": {
+    "title": "激アツ！『ガンダムX』30周年ロゴ解禁＆『Gガンダム』新作映像爆誕でファン歓喜の嵐！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "ファン歓喜！これは見逃せない注目ニュース！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664855",
+    "summary_bullets": [
+      "「機動新世紀ガンダムX」の30周年記念ロゴが遂に公開！ファン垂涎のデザインに注目！",
+      "さらに！「機動武闘伝Gガンダム」の新規制作映像が爆誕！あの熱いバトルが再び！？",
+      "今後の記念企画やイベント、そして新規映像の詳細発表に期待が高まる！"
+    ],
+    "insight": "「ガンダムX」の30周年ロゴ公開でメモリアルイヤーが盛り上がる中、まさかの「Gガンダム」新作映像というサプライズは、新旧ファン双方に強烈なインパクトを与えるだろう。両作品の熱狂的な世界観が再び脚光を浴びる絶好のチャンスだ！",
+    "action_plan": "『機動新世紀ガンダムX』と『機動武闘伝Gガンダム』の過去作をVODサービスでチェックして、新作への期待をさらに高めよう！",
+    "image_keyword": "Gundam X, G Gundam, Anime Anniversary",
+    "technical_terms": []
+  },
+  "https://natalie.mu/comic/news/664850": {
+    "title": "【速報】高村和宏監督の新作「バーテックスフォース」爆誕！メカ×美少女が激突するオリジナルアニメに胸熱確定！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "今年の覇権アニメ候補！期待の新作が爆誕！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664850",
+    "summary_bullets": [
+      "「ストライクウィッチーズ」シリーズで知られる高村和宏監督の新作オリジナルアニメ「バーテックスフォース」が今年放送決定！",
+      "メカと美少女が織りなす壮大な世界観とバトルにファンは歓喜必至！",
+      "続報やPV解禁で作品の全貌が明らかになるのが待ち遠しい！",
+      "続報やPV解禁で作品の全貌が明らかになるのが待ち遠しい！"
+    ],
+    "insight": "「ストライクウィッチーズ」で多くのファンを魅了した高村和宏監督が、満を持して世に送り出す完全オリジナルアニメ。メカと美少女という最強の組み合わせが、どんな熱い物語と新たな感動を生み出すのか、今から期待で胸が高鳴ります！",
+    "action_plan": "高村和宏監督の過去作品「ストライクウィッチーズ」シリーズをチェックして、監督の世界観に触れてみましょう！",
+    "image_keyword": "Mecha girl anime, Vertex Force, Kazuhiro Takamura",
+    "technical_terms": [
+      {
+        "term": "バーテックスフォース",
+        "explanation": "高村和宏監督が手掛ける、メカと美少女をテーマにした新作オリジナルアニメのタイトル。"
+      },
+      {
+        "term": "オリジナルアニメ",
+        "explanation": "既存の漫画や小説などの原作を持たず、アニメ制作会社が企画から手掛ける完全新作のアニメ作品。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqOFpFZ2tvMlp1QmdBM2l0Vmhqd1h2dElRdmI2Rll0LXY4VTRiS1BMSG1sRHdMYXM5WnNYZGJhcGh4MlNTZHNianN6cGpuTUE?oc=5": {
+    "title": "「解約は待った！」Netflixでまさかの再浮上！あの神作を今すぐチェックしないと損だよ！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "「まさかの再浮上！」「これは見逃せない！」",
+    "rating": 4,
+    "time_ago": "22時間前",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqOFpFZ2tvMlp1QmdBM2l0Vmhqd1h2dElRdmI2Rll0LXY4VTRiS1BMSG1sRHdMYXM5WnNYZGJhcGh4MlNTZHNianN6cGpuTUE?oc=5",
+    "summary_bullets": [
+      "Netflix週間国内映画ランキングに”あの作品”がまさかの再浮上を果たし、話題沸騰中！",
+      "「解約する前に絶対見てほしい」とまで言われるその理由を、今すぐあなた自身の目で確かめよう！",
+      "絶え間なく状況が変化するNetflixランキングで、次なるお気に入りや見逃していた傑作を発見するチャンス！"
+    ],
+    "insight": "Netflixのランキングは常に変動し、一度見逃した名作や話題作が突如再浮上する現象は、まさにエンタメ界のサプライズ！今回の再浮上作品も、その力強いコンテンツパワーを証明し、視聴者の心を再び掴んでいます。",
+    "action_plan": "今すぐNetflixアプリを開いて、週間国内映画ランキングをチェックしてみましょう！再浮上した作品を観るだけでなく、あなたの知らない隠れた名作に出会えるかもしれませんよ！",
+    "image_keyword": "Netflix movie chart, trending film, streaming entertainment",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGUm9nekJ2alp3MGM3R3VjS0oyeVd2Z3lDamVLRlEwOU1yMTF0cXdfaVQ3WXQ1by02RGlqblpGVEswX1M3NW5kOU9XdFZRR0VjRlJXQnhlLWF2UFh1Si1nX2xVR2pjbzhyeEE?oc=5": {
+    "title": "禁断の深層に迫る！“マノスフィア”ドキュメンタリーがNetflixを席巻中！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "社会現象を映し出す衝撃の話題作！",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGUm9nekJ2alp3MGM3R3VjS0oyeVd2Z3lDamVLRlEwOU1yMTF0cXdfaVQ3WXQ1by02RGlqblpGVEswX1M3NW5kOU9XdFZRR0VjRlJXQnhlLWF2UFh1Si1nX2xVR2pjbzhyeEE?oc=5",
+    "summary_bullets": [
+      "ネットで勢力を拡大する「男性至上主義」コミュニティ“マノスフィア”にドキュメンタリーが突撃取材！",
+      "Netflixで配信中で、世界の注目を集めランキングを駆け上がっている必見作。",
+      "現代社会の闇に光を当て、新たな議論を巻き起こすことが期待される衝撃作！"
+    ],
+    "insight": "現代社会におけるデリケートなテーマに切り込み、ネットに蔓延る“マノスフィア”と呼ばれる男性至上主義のリアルな実態を、生々しい取材を通して暴き出す点が魅力です。社会現象を深く掘り下げたい人には必見の一作となっています。",
+    "action_plan": "Netflixで『マノスフィア：男性至上主義の世界』をいますぐ視聴して、この衝撃作の真相を確かめよう！鑑賞後は、現代社会が抱える様々な問題について深く考えてみるのもおすすめです。",
+    "image_keyword": "documentary social issue, manosphere investigation, netflix trending",
+    "technical_terms": [
+      {
+        "term": "マノスフィア",
+        "explanation": "オンラインで形成された、男性至上主義的な思想や意見を共有するコミュニティや文化圏を指す造語です。"
+      },
+      {
+        "term": "男性至上主義",
+        "explanation": "男性が女性よりも優位な立場にあるべきだという思想や、男性の価値を絶対視する考え方です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2RjdVbDVUUmFkQVpyNDJlMjQ0TllWR0M3M0FEaE9yUjE2aUtjbzZOdWtIMmpBTkxYNVM1UTRjdzYwYzgycjBrRkpBT0E0UTF4UVNJ?oc=5": {
+    "title": "Maki【Art】最新MVが遂に爆誕！これは見逃せないアートと音楽の融合体験だ！",
+    "tags": "Music Video",
+    "sentiment": "positive",
+    "sentiment_text": "鳥肌モノの映像体験！待望の新作がキターーーー！",
+    "rating": 4,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2RjdVbDVUUmFkQVpyNDJlMjQ0TllWR0M3M0FEaE9yUjE2aUtjbzZOdWtIMmpBTkxYNVM1UTRjdzYwYzgycjBrRkpBT0E0UTF4UVNJ?oc=5",
+    "summary_bullets": [
+      "Maki【Art】の最新ミュージックビデオがSkream!にて遂に解禁！",
+      "アートと音楽が織りなす独自の美学で、ファンを新たな世界へと誘う！",
+      "彼らのクリエイティブな挑戦が、これからの音楽シーンをさらに刺激する！"
+    ],
+    "insight": "Maki【Art】が放つMVは、単なる楽曲の映像化を超え、視覚と聴覚を同時に刺激するアート作品そのもの。独特の世界観と表現力で、視聴者を未知の感動へと誘います。",
+    "action_plan": "まずは公開されたMaki【Art】の最新MVをフルでチェック！彼らの他の楽曲やライブ情報もSNSで追いかけて、その世界観にどっぷり浸かってみましょう！",
+    "image_keyword": "Maki Art Music Video, Artistic MV, Japanese band",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqd3BhTWNaRExVWFh5WVJ1RTdLcDMwU2wwR0dDN1dQdG9IemR5OHBsczJJQmpYT3VKNE5sTTBSb09Yd1hWVUJDbWpFRmhwRXFWV2hnM1BSb3BBZ24tZThfMXNTWF95NTRXRU1OT3o0bVItT28?oc=5": {
+    "title": "【速報】2026年、あの海外アーティストが日本上陸！？最新来日公演情報まとめ！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "歓喜のニュース！",
+    "rating": 5,
+    "time_ago": "6日前",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqd3BhTWNaRExVWFh5WVJ1RTdLcDMwU2wwR0dDN1dQdG9IemR5OHBsczJJQmpYT3VKNE5sTTBSb09Yd1hWVUJDbWpFRmhwRXFWV2hnM1BSb3BBZ24tZThfMXNTWF95NTRXRU1OT3o0bVItT28?oc=5",
+    "summary_bullets": [
+      "2026年に海外トップアーティストが日本へ！夢の来日公演リストが続々更新中！",
+      "開催日程や会場、チケット情報など、ファン必見の詳細が随時追加される見込み！",
+      "来日するアーティストの発表に備え、チケット争奪戦への準備は今からが勝負！"
+    ],
+    "insight": "2026年の音楽シーンは、海外のビッグアーティストたちの来日で大盛り上がり間違いなし！夢にまで見たライブ体験が、すぐそこまで来ていると想像するだけで胸が高鳴ります。",
+    "action_plan": "お気に入りのアーティストの過去のライブ映像をチェックしたり、来日希望アーティストをSNSで発信して盛り上げましょう！",
+    "image_keyword": "International artists Japan concert",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2VnJ6WmVVNUN1ekVBZmRxZEVWS0ZMeXJPdzQ1MzhXOFhEZjlqeVpYendUSUxlcTZDbU81VldqMmhGS1p2ZDNUY3hlS01XdlVJdGpYbUNjT0NYVDR2alJJcm1IZw?oc=5": {
+    "title": "ZAZEN BOYS、遂に動き出す！音楽シーンを揺るがす最新情報がここに！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "ZAZEN BOYS、衝撃の最新情報！音楽ファン必見の話題がここに！",
+    "rating": 4,
+    "time_ago": "56日前",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2VnJ6WmVVNUN1ekVBZmRxZEVWS0ZMeXJPdzQ1MzhXOFhEZjlqeVpYendUSUxlcTZDbU81VldqMmhGS1p2ZDNUY3hlS01XdlVJdGpYbUNjT0NYVDR2alJJcm1IZw?oc=5",
+    "summary_bullets": [
+      "唯一無二の存在感を放つZAZEN BOYSから待望のアナウンスが到着！",
+      "ファン垂涎の新たな展開、彼らの音楽の魅力がさらに深まる予感！",
+      "今後の活動や作品リリースに期待が高まる、動向から目が離せない！"
+    ],
+    "insight": "独創的なサウンドと哲学的な歌詞で多くのファンを魅了し続けるZAZEN BOYS。彼らが放つ情報は常に音楽シーンの最前線を走るものであり、今回もまた新たな衝撃をもたらすだろう。",
+    "action_plan": "彼らの過去のアルバムを聴き直し、最新情報に備えよう！ライブ情報も要チェック！",
+    "image_keyword": "ZAZEN BOYS, Japanese Rock Band, Music",
     "technical_terms": []
   }
 }
