@@ -1579,7 +1579,7 @@
     "sentiment": "positive",
     "sentiment_text": "魂震える！必聴の話題作、一挙公開！",
     "rating": 5,
-    "time_ago": "19日前",
+    "time_ago": "37日前",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nRC1tcndkSGhFTS1fNWZIcXBNSzlHN0xqQWwzTHhmTkxNTVQ1ZV9QSTM0WmV3MUtJem80ZzJsQVdWSEVkZVhfRkZ1QjNTZWRMSUE?oc=5",
     "summary_bullets": [
       "シルヴェスター、スライ、ティナ・ターナー、プリンスなど、音楽界のレジェンドたちの名盤が続々再発決定！",
@@ -2309,7 +2309,7 @@
     "sentiment": "positive",
     "sentiment_text": "フェス熱最高潮！絶対見逃せないラインナップ！",
     "rating": 4,
-    "time_ago": "5日前",
+    "time_ago": "8日前",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WbGE1a2RQY2VqMGZjXy1tZDJ5d1dLVjNESGxHS2lHNGR3aTNLR1VUOEQ4dkhuVnA5MWR2YVBLc1RjZjRyRjRYcHV6dGJMNFg1U0E?oc=5",
     "summary_bullets": [
       "日本最大級の都市型フェス「サマソニ」の待望の日割りラインナップが発表され、ファンの期待が爆上がり！",
@@ -2800,7 +2800,7 @@
     "sentiment": "positive",
     "sentiment_text": "「まさかの再浮上！」「これは見逃せない！」",
     "rating": 4,
-    "time_ago": "22時間前",
+    "time_ago": "1日前",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqOFpFZ2tvMlp1QmdBM2l0Vmhqd1h2dElRdmI2Rll0LXY4VTRiS1BMSG1sRHdMYXM5WnNYZGJhcGh4MlNTZHNianN6cGpuTUE?oc=5",
     "summary_bullets": [
       "Netflix週間国内映画ランキングに”あの作品”がまさかの再浮上を果たし、話題沸騰中！",
@@ -2891,6 +2891,217 @@
     "insight": "独創的なサウンドと哲学的な歌詞で多くのファンを魅了し続けるZAZEN BOYS。彼らが放つ情報は常に音楽シーンの最前線を走るものであり、今回もまた新たな衝撃をもたらすだろう。",
     "action_plan": "彼らの過去のアルバムを聴き直し、最新情報に備えよう！ライブ情報も要チェック！",
     "image_keyword": "ZAZEN BOYS, Japanese Rock Band, Music",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FUkVVVndHYWM1bFhIY29WYUZJWTVKRXB1TWpnejdCMG9PVUo3aWpBMVpMVkhxR19WQmtGU0NObWxQc0NGU2hPeGg5c082aG9iV2lreDZvUkl5dGxGek1HZjdzRERRRkd3?oc=5": {
+    "title": "「カプコンカップ12」で歴史が動いた！両国国技館に2万人熱狂！eスポーツ新時代がキタッ！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "歴史的熱狂！新時代の幕開け！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FUkVVVndHYWM1bFhIY29WYUZJWTVKRXB1TWpnejdCMG9PVUo3aWpBMVpMVkhxR19WQmtGU0NObWxQc0NGU2hPeGg5c082aG9iV2lreDZvUkl5dGxGek1HZjdzRERRRkd3?oc=5",
+    "summary_bullets": [
+      "両国国技館が2万人の観客で埋め尽くされ、eスポーツの歴史的盛り上がりを記録！",
+      "カプコンカップ12が、格闘ゲームだけでなくeスポーツ全体の新たな興行モデルを提示。",
+      "競技としての魅力とエンタメ性が融合し、eスポーツがさらに大きなステージへ進化する未来に期待大。"
+    ],
+    "insight": "カプコンカップ12は単なる格闘ゲーム大会を超え、eスポーツが日本のエンタメシーンに確固たる地位を築いたことを証明しました。両国国技館という伝統的な場所が、最新の熱狂を生み出す舞台となったことに胸が熱くなります！",
+    "action_plan": "この熱気を肌で感じたい人は、過去の「カプコンカップ」ハイライト映像をYouTubeでチェックしてみましょう！次回の開催情報も要チェックです！",
+    "image_keyword": "eSports crowd, Capcom Cup, fighting game",
+    "technical_terms": [
+      {
+        "term": "カプコンカップ",
+        "explanation": "カプコンの人気格闘ゲーム「ストリートファイター」などの世界最高峰を決める公式大会です。"
+      },
+      {
+        "term": "eスポーツ",
+        "explanation": "エレクトロニック・スポーツの略で、ビデオゲームを競技として行うスポーツ全般を指します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FeUE5U080Rk1lMG9nWmg2cC1EVlI3RVNQV1VsWGk3elNSSVktWE1MaFpmNEhEOFlMekFpNzZmbFMtSUt2ZThjSHBCbFQ4U2dkNnRqc1hMRkpWT2pzM0xPUE9lUWhDZHppanc?oc=5": {
+    "title": "Re:AUTH VALORANT部門に新星爆誕！take・katagiri選手加入で最強ロスター完成、高みへいざ出陣！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "新星加入！期待の新ロスター、これはアツい！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FeUE5U080Rk1lMG9nWmg2cC1EVlI3RVNQV1VsWGk3elNSSVktWE1MaFpmNEhEOFlMekFpNzZmbFMtSUt2ZThjSHBCbFQ4U2dkNnRqc1hMRkpWT2pzM0xPUE9lUWhDZHppanc?oc=5",
+    "summary_bullets": [
+      "人気eスポーツチーム「Re:AUTH」VALORANT部門が、期待の新ロスターを発表！",
+      "注目の実力派プレイヤー、take選手とkatagiri選手が電撃加入し、チームのポテンシャルが爆上がり！",
+      "新体制で挑む今後の大会での活躍に期待が高まる、まさに目が離せない展開！"
+    ],
+    "insight": "「Re:AUTH」は人気eスポーツタイトルVALORANTで活躍するチームであり、新メンバーの加入はチーム力の向上だけでなく、新たな戦略や化学反応を生み出す可能性を秘めている点が最大の魅力。ファンならずともその動向から目が離せない！",
+    "action_plan": "「Re:AUTH」の公式SNSをフォローして、新ロスターでの今後の試合日程や選手の活躍をリアルタイムでチェックしてみましょう！VALORANTの配信も必見です！",
+    "image_keyword": "eSports team Valorant",
+    "technical_terms": [
+      {
+        "term": "eスポーツ",
+        "explanation": "エレクトロニック・スポーツの略称で、ビデオゲームをスポーツ競技として捉え、プレイヤー同士が対戦する活動のこと。"
+      },
+      {
+        "term": "VALORANT",
+        "explanation": "ライアットゲームズが開発・運営する、5対5のタクティカルシューターゲーム。キャラクターごとの特殊能力と精密な銃撃戦が特徴。"
+      },
+      {
+        "term": "ロスター",
+        "explanation": "eスポーツチームの選手登録メンバーのこと。試合に出場するメンバー構成を指す。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZRHZYTnJCNGYwZjh2X2FWaXlyWVlDWGsycDZHNFNzT2NsWHJZazVTVkZoRV9jallIelQtQ2pvUXF3VGN3VWVSWWdlblkxR1B1dnhqRUcxTXREWC1HN05n?oc=5": {
+    "title": "ALGS Year6 APAC北Online Open#4、激闘の結末！新時代のヒーローが誕生した瞬間を見逃すな！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "熱狂のフィナーレ！手に汗握る展開に大興奮！",
+    "rating": 5,
+    "time_ago": "8時間前",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZRHZYTnJCNGYwZjh2X2FWaXlyWVlDWGsycDZHNFNzT2NsWHJZazVTVkZoRV9jallIelQtQ2pvUXF3VGN3VWVSWWdlblkxR1B1dnhqRUcxTXREWC1HN05n?oc=5",
+    "summary_bullets": [
+      "Apex Legends Global Series Year6 APAC North Online Open#4が白熱の戦いを終え、新たな勝者が決定！",
+      "激戦を勝ち抜いたチームの戦略とプレイヤーたちの神業プレイが、ファンに感動と興奮を届けた！",
+      "次なるステージへ進む猛者たちの今後の活躍に期待が高まる、目が離せない大会結果だ！"
+    ],
+    "insight": "ALGSは常にドラマティックな展開が魅力！今回のOpen#4も、各チームの緻密な戦略と個々の驚異的なプレイスキルがぶつかり合い、まさに手に汗握る名勝負の連続だったことは間違いなし！",
+    "action_plan": "ALGS公式のアーカイブ配信で、惜しくも見逃した神プレイやチームの感動的な勝利の瞬間を今すぐチェックしよう！次の大会に向けて推しチームを見つけるチャンス！",
+    "image_keyword": "Apex Legends esports, ALGS tournament, gaming competition",
+    "technical_terms": [
+      {
+        "term": "ALGS (Apex Legends Global Series)",
+        "explanation": "大人気バトルロイヤルゲーム「Apex Legends」の世界大会シリーズで、プロからアマチュアまでが頂点を目指して戦うよ！"
+      },
+      {
+        "term": "APAC North",
+        "explanation": "ALGSにおけるアジア太平洋地域の北部ブロックのこと。主に日本、韓国、中国語圏のチームが参加する激戦区だよ！"
+      },
+      {
+        "term": "Online Open (OO)",
+        "explanation": "ALGSの予選大会の一つで、誰でも参加できるオープン形式のオンライン予選。ここからプロへの道が開かれることもあるんだ！"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664962": {
+    "title": "『Dr.STONE』声優・山下誠一郎が喜びの「ピギャー」！小林裕介との熱い絆で科学王国が大爆笑！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "声優陣の熱気が爆発！ファン歓喜の神エピソード！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664962",
+    "summary_bullets": [
+      "「Dr.STONE」声優の山下誠一郎さんが、小林裕介さんの褒め言葉に「ピギャー！」と喜びを爆発させ、ファンを沸かせた！",
+      "人気キャストたちの作品への深い愛と、舞台裏での和気あいあいとした絆が伝わるファン垂涎のエピソードが披露された。",
+      "声優陣の熱演が作品の魅力をさらに引き出し、今後のイベントやアニメシリーズへの期待がますます高まること間違いなし！"
+    ],
+    "insight": "「Dr.STONE」の世界観を体現するような声優陣の熱い絆と、ユーモア溢れる掛け合いが最高潮！作品への愛と情熱がリアルな喜びとなって伝わってきて、ファンならずとも胸が熱くなること間違いなしです！",
+    "action_plan": "アニメ「Dr.STONE」全シリーズをもう一度見返して、山下誠一郎さんと小林裕介さんの熱演を再確認してみましょう！原作コミックスも必読です！",
+    "image_keyword": "Dr.STONE anime voice actors, Seichiro Yamashita, Yusuke Kobayashi",
+    "technical_terms": []
+  },
+  "https://natalie.mu/comic/news/664954": {
+    "title": "劇場アニメ『魔法使いの夜』爆誕！新キービジュアルで蒼崎青子の眼光がキレッキレ！魔法陣の中心で何が起こる？！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "待望の新作！期待値爆上がり！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664954",
+    "summary_bullets": [
+      "劇場アニメ『魔法使いの夜』、ファン待望の新たなキービジュアルが遂に解禁！",
+      "魔法陣の中心で蒼崎青子が放つ鋭い眼光が、作品への期待感を最高潮に引き上げる！",
+      "作品の神秘的な世界観を凝縮したビジュアルで、本編への想像がさらに膨らむ！"
+    ],
+    "insight": "新キービジュアルは、蒼崎青子の圧倒的な存在感と作品の神秘的な魔法世界を見事に表現。ファン待望の劇場アニメ化への期待が最高潮に達する必見のアートワークだ！",
+    "action_plan": "原作ゲーム『魔法使いの夜』をプレイして、物語の深淵に触れてみよう！アニメの続報も要チェックだ！",
+    "image_keyword": "Mahoutsukai no Yoru, Anime Visual, Fantasy Magic",
+    "technical_terms": [
+      {
+        "term": "魔法陣",
+        "explanation": "魔法を発動させるために用いられる、神秘的な図形や文字が描かれた陣のこと。"
+      },
+      {
+        "term": "蒼崎青子",
+        "explanation": "『魔法使いの夜』の主人公で、現代に生きる「魔法使い」。その鋭い眼光は彼女の強さと決意を象徴する。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/664952": {
+    "title": "「てんびん」がこの夏爆誕！7月放送開始、土岐隼一ら豪華キャスト＆スタッフ陣が遂に解禁！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "期待の新作、情報解禁！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/664952",
+    "summary_bullets": [
+      "アニメ「てんびん」が2024年7月から放送開始決定！",
+      "隼人役は土岐隼一、監督は竹内浩志など、待望のキャスト＆スタッフ情報が明らかに！",
+      "夏の放送に向けて、さらなる続報やPV解禁に期待が高まる！"
+    ],
+    "insight": "新アニメ「てんびん」の放送開始が決定し、主要キャストに人気声優の土岐隼一さんが発表されたことで、作品への期待感が一気に高まります。豪華スタッフ陣も名を連ね、この夏の注目作となること間違いなし！",
+    "action_plan": "「てんびん」の公式PVや公式サイトをチェックして、世界観をさらに深掘りしてみましょう！土岐隼一さんのこれまでの出演作品もぜひ振り返ってみて！",
+    "image_keyword": "anime announcement, new anime, toki shunichi",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rS3VLalVCRXM1eXppYkN5MTVOMzJaLTJMUG4xQ051TUxCV0VER2FlOEhnTEhoZ3NSQmcyTHVVMVZyaG1GOE9iWmRn?oc=5": {
+    "title": "インド×韓国の異色コラボ映画が爆誕！Netflixで世界を席巻する話題作を見逃すな！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "異文化コラボにワクワク！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rS3VLalVCRXM1eXppYkN5MTVOMzJaLTJMUG4xQ051TUxCV0VER2FlOEhnTEhoZ3NSQmcyTHVVMVZyaG1GOE9iWmRn?oc=5",
+    "summary_bullets": [
+      "インドと韓国という異色の組み合わせで生まれた映画がNetflixで話題沸騰中！",
+      "従来の枠にとらわれない新しいエンターテイメント体験が期待できるファン必見の作品。",
+      "Netflix世界ランキング入りを果たしており、今後もその動向から目が離せない注目作。"
+    ],
+    "insight": "この作品は、異なる文化圏のクリエイターが手を取り合うことで生まれる、予測不能な化学反応が最大の魅力。映画の内容だけでなく、その制作背景そのものがエンターテイメントとして楽しめる、まさに「見るべき」一本です！",
+    "action_plan": "この作品が気になったら、まずはNetflixで視聴して、異文化コラボが巻き起こす新たな衝撃をぜひ体験してみましょう！",
+    "image_keyword": "Indian Korean film, Netflix movie, cultural collaboration",
+    "technical_terms": [
+      {
+        "term": "Netflix",
+        "explanation": "世界中で映画やドラマなどを配信する人気のストリーミングサービス。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mZU1xeUwzUGdNTUR5dm5mNkVPaF9zakM0clZiR2hTWFljTHJCaTNxdEd5UWtCbVpBeUplMllMR2U0dXloNlpwMHdn?oc=5": {
+    "title": "「愛に年齢は関係ない」はマジだった!? 年の差カップル大集合のNetflixドキュメンタリーでキュン死確定！",
+    "tags": "Netflix",
+    "sentiment": "positive",
+    "sentiment_text": "愛の奇跡！感動の嵐！",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mZU1xeUwzUGdNTUR5dm5mNkVPaF9zakM0clZiR2hTWFljTHJCaTNxdEd5UWtCbVpBeUplMllMR2U0dXloNlpwMHdn?oc=5",
+    "summary_bullets": [
+      "「愛に年齢は関係ない」という究極の問いに、年の差カップルたちが実証ドキュメンタリーで挑む！",
+      "Netflixで配信中のこの話題作は、早くも世界ランキング入りするほどの注目度！",
+      "多様なカップルの愛の形を通して、感動と共感、そして新たな愛の価値観を発見できること間違いなし！"
+    ],
+    "insight": "年の差カップルたちのリアルな日常や愛の軌跡を通して、「愛」の普遍性や多様性を深く探求できるのが最大の魅力。世間の偏見や困難を乗り越える彼らの姿は、観る人すべての心を打ち、自分の恋愛観にもポジティブな刺激を与えてくれるはず！",
+    "action_plan": "Netflixを開いて、今すぐ「愛に年齢は関係ない」を検索して観てみましょう！ 感動とトキメキが詰まったドキュメンタリーがあなたを待っています。",
+    "image_keyword": "age gap couple documentary, Netflix love",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55V0lHdEN1RDZ6VGl0Vm81bFhUSTUxbVRJeFVtTkVsZ1F0TTNvYTFIWmNhQXA4c25KV0kzMlBwTmZWaDRXaGZscWJ3Z0RSanNtYnJ2Z05MYTR2WjQ?oc=5": {
+    "title": "skream.jpが贈る、夢の #ﾆｷﾌﾟﾚ 開催！豪華アイテムをGETせよ！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "見逃し厳禁！ファン垂涎の超豪華プレゼント企画がキタ！",
+    "rating": 4,
+    "time_ago": "3日前",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55V0lHdEN1RDZ6VGl0Vm81bFhUSTUxbVRJeFVtTkVsZ1F0TTNvYTFIWmNhQXA4c25KV0kzMlBwTmZWaDRXaGZscWJ3Z0RSanNtYnJ2Z05MYTR2WjQ?oc=5",
+    "summary_bullets": [
+      "音楽メディアskream.jp主催の『#ﾆｷﾌﾟﾚ』キャンペーンで、音楽ファン待望の豪華プレゼントが当たる大チャンス！",
+      "お気に入りのアーティストグッズやレアアイテムが手に入る可能性に、ファンは熱狂必至！",
+      "今後のキャンペーン詳細発表や参加方法のアナウンスに注目し、このビッグチャンスを逃さないようにしよう。"
+    ],
+    "insight": "音楽メディアskream.jpが仕掛ける『#ﾆｷﾌﾟﾚ』は、日頃の感謝を込めたファンサービス企画！もしかしたら推しのアーティストのサイン入りグッズが手に入るかも！？夢いっぱいのこの企画に、今すぐ飛び込もう！",
+    "action_plan": "すぐにskream.jpの公式サイトやSNSをチェックして、#ﾆｷﾌﾟﾚ の詳細情報と応募方法をゲットしましょう！",
+    "image_keyword": "Music Giveaway Campaign, Skream JP, Fan Event",
     "technical_terms": []
   }
 }
