@@ -1353,7 +1353,7 @@
     "sentiment": "positive",
     "sentiment_text": "2025年洋楽シーンの熱狂が止まらない！",
     "rating": 5,
-    "time_ago": "48日前",
+    "time_ago": "60日前",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VR3FIbUtPeDEwcUM0eThreHJRenNlb0dOMGpaWjNKQ19LcUxHbUZhY0ZZTzJBbjI5UmxEeWZ6M1ZYckxjWmN4Y1RzN0RhNUxBQ3c?oc=5",
     "summary_bullets": [
       "オアシス来日、UKロック＆メタル人気再燃の予感に胸アツ！",
@@ -3693,7 +3693,7 @@
     "sentiment": "positive",
     "sentiment_text": "期待の新作！",
     "rating": 4,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tYUY2eWJJV3owRlkyUEp6YjN4bm5DZF95UUFEN2Y0MGR3NXBVQldfc2pPdmhId0hsOXFQV1pad1NISjJlWExTUWhjYTF6NDJ3cWxOa1daWjdvam1JZnJHWk1HVkpQNzg?oc=5",
     "summary_bullets": [
       "ドレスコーズが最新楽曲「grotesque human」を電撃リリース！そのタイトルからすでに期待値MAX！",
@@ -4169,6 +4169,275 @@
     "insight": "前作が大ヒットを記録し、世界中を熱狂させたNetflix映画『シティーハンター』の待望の続編が決定！鈴木亮平が演じる原作さながらの冴羽獠が、再びその魅力とアクションで観客を魅了すること間違いなし。新たな物語と進化した演出に注目が集まります。",
     "action_plan": "続編の配信まで、まずはNetflixで前作の映画『シティーハンター』を見直して、あの興奮をもう一度味わいましょう！",
     "image_keyword": "Netflix City Hunter Ryo Saeba",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56RFVWeW83WjJHNnBodFJ5bVN2SU5CdGFVZFpTZEpZMVZ3VGZHWFdVeU1VemtxTUFFV0o5cW5jWnVjR282ZnVnVlIzX2hwU1VUc1BGME9uZ3g3WE5l?oc=5": {
+    "title": "【速報】VALORANTの激熱バトルが帰ってくる！VCT Americas 2026 Stage1 日程＆結果を最速チェック！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "ファン待望！激戦の幕開け！",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56RFVWeW83WjJHNnBodFJ5bVN2SU5CdGFVZFpTZEpZMVZ3VGZHWFdVeU1VemtxTUFFV0o5cW5jWnVjR282ZnVnVlIzX2hwU1VUc1BGME9uZ3g3WE5l?oc=5",
+    "summary_bullets": [
+      "VALORANTのトップシーン「VCT Americas 2026 Stage1」の全貌がついに明らかに！",
+      "ファンが待ち望んだ白熱の試合日程と、注目の初戦結果を速報でゲット！",
+      "未来のプロシーンを占う重要な序盤戦、推しチームの活躍から目が離せない！"
+    ],
+    "insight": "VALORANTの世界最高峰リーグVCT Americasは、各地域の精鋭チームが世界大会進出をかけて激突する夢の舞台。特にStage1はシーズンの行方を左右する序盤戦であり、新たなスター選手や戦略が生まれる瞬間を見逃せない！",
+    "action_plan": "発表されたVCT Americas 2026 Stage1の日程をチェックして、お気に入りのチームの試合をライブで観戦してみましょう！過去のVCT Americasのハイライト動画で熱量を高めるのもおすすめです！",
+    "image_keyword": "VALORANT VCT Americas esports",
+    "technical_terms": [
+      {
+        "term": "VALORANT (ヴァロラント)",
+        "explanation": "5対5で戦うタクティカルシューター。キャラクター固有のアビリティと精密な射撃が融合した人気eスポーツタイトル。"
+      },
+      {
+        "term": "VCT Americas",
+        "explanation": "VALORANT Champions Tourの地域リーグの一つで、北米、南米の強豪チームが集結するトップレベルの競技リーグ。"
+      },
+      {
+        "term": "Stage1",
+        "explanation": "VCTシーズンの初期段階で、各チームがプレイオフ進出や世界大会へのシード権獲得を目指す重要なフェーズ。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NT3ZKbUZRdmJSNU85ZUktdDRiSGpGNTF6WG1NSF9fdEFjVEgzcUVMZjVGYTljOXlkRUgwV05DVGpzRUd4b1hpNGs1UkNRMXRFLU50SlEyYjVVTzQ?oc=5": {
+    "title": "見逃し厳禁！「Apex Legends」アジア太平洋大規模大会「REIGNITE CUP APAC vol.2」3/28開催決定！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "激アツ確定！見逃し厳禁の注目イベント！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NT3ZKbUZRdmJSNU85ZUktdDRiSGpGNTF6WG1NSF9fdEFjVEgzcUVMZjVGYTljOXlkRUgwV05DVGpzRUd4b1hpNGs1UkNRMXRFLU50SlEyYjVVTzQ?oc=5",
+    "summary_bullets": [
+      "大人気バトルロワイヤルゲーム『Apex Legends』のアジア太平洋地域大規模大会が開催決定！",
+      "3月28日開催の「REIGNITE CUP APAC vol.2」では、トッププレイヤーたちがしのぎを削る熱い戦いが繰り広げられる！",
+      "世界レベルのスーパープレイや連携をリアルタイムで体験し、esportsの興奮を存分に味わおう！"
+    ],
+    "insight": "『Apex Legends』のesportsシーンを牽引するREIGNITE CUPが、再びアジア太平洋地域のトップチームを集めて開催！戦略とスキルの応酬はまさに圧巻で、プロゲーマーたちの限界を超えたプレイに釘付けになること間違いなしです。",
+    "action_plan": "大会は3月28日開催！各配信プラットフォームでのライブ配信をチェックして、推しチームやプレイヤーを全力で応援しよう！最新情報や出場チームの詳細は公式サイトやSNSで要確認！",
+    "image_keyword": "Apex Legends esports tournament",
+    "technical_terms": [
+      {
+        "term": "Apex Legends",
+        "explanation": "3人1組のチームで最後の1チームになるまで戦い抜く、大人気バトルロイヤルシューティングゲーム。"
+      },
+      {
+        "term": "eスポーツ",
+        "explanation": "エレクトロニック・スポーツの略称で、ビデオゲームを競技として行うスポーツのこと。"
+      },
+      {
+        "term": "APAC",
+        "explanation": "アジア太平洋地域（Asia-Pacific）の略称で、eスポーツの地域区分によく使われます。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tdHh2MXN3T1VEWjEyN01JVld1YmhHaTBrUjBfVUs4M3ZsNGdtd2lWaFRQM3ZhWEdyZ3Y0bE9Na0EtS0x1UWxzN1Nicm8taGl2Q3RFdlhtREZCUQ?oc=5": {
+    "title": "速報！『Apex Legends』2026年3月25日に超絶アプデ決定！ジブラルタル覚醒＆ヘムロック復活で戦場が激変するぞ！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "神アプデ爆誕！戦場が熱狂する！",
+    "rating": 5,
+    "time_ago": "7時間前",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tdHh2MXN3T1VEWjEyN01JVld1YmhHaTBrUjBfVUs4M3ZsNGdtd2lWaFRQM3ZhWEdyZ3Y0bE9Na0EtS0x1UWxzN1Nicm8taGl2Q3RFdlhtREZCUQ?oc=5",
+    "summary_bullets": [
+      "2026年3月25日、待ちに待った『Apex Legends』の大型アップデートが到来！",
+      "ジブラルタルを含む3人のレジェンドがパワーアップ！新たな戦術が生まれる予感！",
+      "強力な新武器『ヘムロック』が戦場に降臨！環境が激変すること間違いなし！"
+    ],
+    "insight": "今回のアップデートは、既存のレジェンドに新たな光を当て、戦場に予測不能な変化をもたらします。特にジブラルタルの強化は、多くのプレイヤーに新たな戦略を試す刺激を与えるでしょう。",
+    "action_plan": "アップデートに備えて、今のうちに各レジェンドのスキルを見直したり、射撃訓練場でヘムロックの予習をしておきましょう！公式パッチノートも忘れずにチェックだ！",
+    "image_keyword": "Apex Legends update, Battle Royale game, Sci-fi FPS",
+    "technical_terms": [
+      {
+        "term": "Apex Legends",
+        "explanation": "Respawn Entertainmentが開発した無料プレイのバトルロワイヤル形式ファーストパーソン・シューター（FPS）ゲーム。"
+      },
+      {
+        "term": "レジェンド",
+        "explanation": "『Apex Legends』で使用できるプレイアブルキャラクターの総称。それぞれ固有のアビリティを持つ。"
+      },
+      {
+        "term": "ジブラルタル",
+        "explanation": "『Apex Legends』に登場するレジェンドの一人。防御的なスキルを持つタンク系のキャラクター。"
+      },
+      {
+        "term": "ヘムロック",
+        "explanation": "『Apex Legends』に登場するアサルトライフル型の武器の一種。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/665834": {
+    "title": "ダンジョン警備は意外と地味！？アラフォー警備員が迷宮管理に奮闘する新感覚コメディ『迷宮警備』1巻爆誕！",
+    "tags": "Manga",
+    "sentiment": "positive",
+    "sentiment_text": "新感覚！異世界お仕事コメディがキタコレ！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/665834",
+    "summary_bullets": [
+      "ダンジョン管理が「警備員の仕事」として描かれる、斬新すぎる異世界お仕事コメディ！",
+      "待望の単行本第1巻が発売開始！アラフォー警備員の主人公が迷宮トラブルに立ち向かう！",
+      "現実感とファンタジーが融合した世界で、予想外のトラブル解決にどんなワザが飛び出すか超期待！",
+      "「アラフォー警備員の迷宮警備」の主人公がどのように様々な問題を解決していくのか今後の展開に注目！"
+    ],
+    "insight": "現代の「警備員の仕事」にフォーカスしつつ、舞台はまさかのダンジョン！このユニークな設定が、読者の好奇心を鷲掴みにすること間違いなし。アラフォー主人公の日常的な視点から描かれる非日常が、共感と爆笑を誘います。",
+    "action_plan": "ダンジョンの奥深くで働く彼らの日常を体験するため、早速『アラフォー警備員の迷宮警備』1巻をゲットしましょう！他の異世界お仕事系作品と比較して楽しむのもおすすめです！",
+    "image_keyword": "dungeon security guard manga, fantasy work comedy",
+    "technical_terms": [
+      {
+        "term": "ダンジョン管理",
+        "explanation": "ファンタジーの世界でモンスターなどが生息する迷宮や地下牢を、現代の施設のように安全に保ち、運営する業務。"
+      },
+      {
+        "term": "アラフォー",
+        "explanation": "「around forty」の略で、40歳前後を指す和製英語。主人公の年齢層を示しています。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/665800": {
+    "title": "💥「嫌パン」第4期、待望のPVが爆誕！ヒロインたちの“至高の嫌な顔”で魅了するッ！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "ファン待望！新作情報に胸アツ展開！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/665800",
+    "summary_bullets": [
+      "待望のアニメ「嫌パン」第4期の最新プロモーションビデオがついに到着、ファン歓喜！",
+      "おなじみのヒロインたちが披露する、ゾクゾクするほど魅力的な“嫌な顔”が満載で期待度MAX！",
+      "作品の放送開始に向けて、さらに多くの新情報やキャラクター展開に目が離せない！"
+    ],
+    "insight": "この作品の真骨頂は、ヒロインたちが魅せる「嫌な顔」のバリエーションと奥深さ！一見ネガティブな表情の中に隠された、キャラクターそれぞれの魅力と物語がたまらない。",
+    "action_plan": "第4期を楽しむ前に、これまでのシーズンを振り返ってヒロインたちの“最高の嫌な顔”を復習してみましょう！原作コミックも要チェック！",
+    "image_keyword": "anime heroines PV",
+    "technical_terms": [
+      {
+        "term": "嫌パン",
+        "explanation": "正式名称「嫌な顔されながらおパンツ見せてもらいたい」の略称で、その名の通りヒロインたちの「嫌な顔」が魅力的な人気アニメシリーズ。"
+      },
+      {
+        "term": "PV",
+        "explanation": "プロモーションビデオの略。新作アニメやゲームなどの宣伝のために制作される映像のこと。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/665820": {
+    "title": "漫画界の巨星、つげ義春氏が88歳で逝去！唯一無二の作品世界を今こそ再訪しよう！",
+    "tags": "Manga",
+    "sentiment": "negative",
+    "sentiment_text": "漫画界の巨匠逝く…偉大な足跡と伝説の作品群を振り返ろう！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/665820",
+    "summary_bullets": [
+      "伝説的漫画家つげ義春氏が88歳で永眠、アングラ漫画の金字塔を打ち立てた偉大な生涯に幕。",
+      "代表作「ねじ式」「無能の人」など、時代を超えて読者に衝撃と深い考察を与え続けている。",
+      "シュールで哲学的な作品群は、後進のクリエイターたちに計り知れない影響を与え続けている。"
+    ],
+    "insight": "つげ義春作品の最大の魅力は、夢と現実、日常と非日常が交錯するような独特の世界観と、人間の深層心理をえぐる表現にあります。彼の描く不条理でシュールな物語は、読者に深い考察を促し、漫画表現の可能性を無限に広げました。",
+    "action_plan": "この機会に、時代を象徴する名作「ねじ式」や人間ドラマが光る「無能の人」をはじめとする、つげ義春作品をぜひ手にとって、彼の遺した哲学と美学に触れてみましょう！",
+    "image_keyword": "Yoshiharu Tsuge manga, surreal comic, Japanese underground art",
+    "technical_terms": [
+      {
+        "term": "アングラ漫画",
+        "explanation": "既存の商業漫画の枠にとらわれず、個人的な表現や実験的な試みを追求した漫画のジャンル。つげ義春はその代表的な存在です。"
+      },
+      {
+        "term": "ガロ",
+        "explanation": "つげ義春の作品が多く掲載された伝説的な漫画雑誌。既存の漫画雑誌にはない独自の表現を追求し、多くの個性的な漫画家を輩出しました。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45ZVZhVjNma0pkNkxFRHROR1RrTVY2S2dWQjlwejNMeThjWUN0aU1OdWdnOUlhYnFNNklsa0NsRVZyM1BZV1NQQXZR?oc=5": {
+    "title": "【ネトフリ大注目！】元NASAエンジニア開発の「魔改造ボール」vsプロ選手！人類の限界を超えるか！？",
+    "tags": "Netflix",
+    "sentiment": "positive",
+    "sentiment_text": "規格外の激アツ対決！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45ZVZhVjNma0pkNkxFRHROR1RrTVY2S2dWQjlwejNMeThjWUN0aU1OdWdnOUlhYnFNNklsa0NsRVZyM1BZV1NQQXZR?oc=5",
+    "summary_bullets": [
+      "元NASAエンジニアが「絶対に打てない魔改造ボール」を開発し、プロアスリートに挑戦するNetflix番組が話題沸騰中！",
+      "科学の粋を結集したボールがプロの技術にどこまで通用するのか、世界中のファンがその結末に注目している。",
+      "常識を打ち破るこの挑戦は、スポーツと科学の未来に新たな可能性を示すだろう。"
+    ],
+    "insight": "NASAの知恵と技術が、スポーツ界の常識を覆すかもしれないという、まさに夢のような対決！予測不能な展開と、人類の限界に挑む姿は見る者を興奮の渦に巻き込みます。",
+    "action_plan": "まずはNetflixでこの注目の番組を今すぐチェックし、科学とスポーツの融合が織りなす新時代を目撃しましょう！",
+    "image_keyword": "NASA science sports",
+    "technical_terms": [
+      {
+        "term": "魔改造ボール",
+        "explanation": "既存の道具や製品に対し、通常では考えられないような大幅な改造を施し、その性能を極限まで引き上げたボールのこと。特に、常識を覆すような能力を持つ場合に用いられる俗語。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzNFYzc4U2tsVkhUZXdxUkhUVUV1VWw5QlV3bXNRS1pCd3ZTU0VuMUlZeEIxaUhYbmdoNVM5cXhjYUJJVUlVZmJlMV9yZy1DSWJWT3paWC0xc1RtemI0eVpUeXE3YUxmbGM0Njg3MmZ0enNpeVRONFViTjRHeXdnaS1ZZm5EaF9BbzM5TTJab0VQYW5ZZkZjWTU0TWJQZ29MR3lHd2kzX2s0SkFZdzNvLU1HQ2lncHYzdmhZ?oc=5": {
+    "title": "Netflix版ガンダム映画、まさかの超豪華キャスト発表！『デッドプール』主演＆シドニー・スウィーニーが共演決定！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "超豪華共演！期待度MAXの神キャスト！",
+    "rating": 5,
+    "time_ago": "18時間前",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzNFYzc4U2tsVkhUZXdxUkhUVUV1VWw5QlV3bXNRS1pCd3ZTU0VuMUlZeEIxaUhYbmdoNVM5cXhjYUJJVUlVZmJlMV9yZy1DSWJWT3paWC0xc1RtemI0eVpUeXE3YUxmbGM0Njg3MmZ0enNpeVRONFViTjRHeXdnaS1ZZm5EaF9BbzM5TTJab0VQYW5ZZkZjWTU0TWJQZ29MR3lHd2kzX2s0SkFZdzNvLU1HQ2lncHYzdmhZ?oc=5",
+    "summary_bullets": [
+      "『デッドプール』の主演俳優と今をときめく人気女優シドニー・スウィーニーがNetflixの新作ガンダム映画で夢の共演を果たす！",
+      "世界中の映画ファンとガンダムファンを熱狂させる、驚きと期待に満ちた豪華キャスティングが正式発表。",
+      "二人がどのような役どころで、どのようにガンダムの世界に新たな息吹を吹き込むのか、今後の続報から目が離せない！"
+    ],
+    "insight": "『デッドプール』主演俳優と今をときめくシドニー・スウィーニーという、ハリウッドのトップランナーがまさかのガンダム映画でタッグ！この驚きのキャスティングは、全世界の映画ファン、ガンダムファン双方に衝撃と興奮をもたらすこと間違いなし！",
+    "action_plan": "本作をさらに楽しむために、二人の過去作品『デッドプール』シリーズや『ユーフォリア』などをチェックして、それぞれの演技の魅力を再確認してみましょう！",
+    "image_keyword": "Gundam movie, Hollywood actors, Netflix film",
+    "technical_terms": [
+      {
+        "term": "ガンダム",
+        "explanation": "サンライズ（現バンダイナムコフィルムワークス）制作の日本を代表するロボットアニメシリーズ。モビルスーツと呼ばれる巨大兵器が活躍する壮大な物語。"
+      },
+      {
+        "term": "Netflix",
+        "explanation": "世界最大級の会員制動画配信サービス。オリジナル作品の制作にも力を入れており、数多くの映画やドラマを配信している。"
+      },
+      {
+        "term": "デッドプール",
+        "explanation": "マーベルコミックに登場するアンチヒーロー。型破りな言動と第四の壁を破るユニークさで世界中で人気のキャラクター。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcVVDVlR0NTZfLTk4UXB2VVM4Zk5XNHFkc1ZJWWcxLUdoSTZTRWlxN015OWRFVzNzZnF1bWpEXzdxY2VuRkRzZVNNbFVxbjFHa0pzUW1oR2JjNzA3Y0IzS1NmcVNUdUtfZ0NZU0x5UGNsOEVOYWl0elhTS0ZZa3d2cTVoSWFCTy1ZOS0wdEJ2azlwNlJBSDJsWlZLRnF6TXF3SmhEaHAtZTRDRkprMDFhOG1hVlRqVjcydjNYMjdmaHVjeW4tWFl1emdGdlFUOEpGYXByckhLc1BxNnFSMnkyNGZnbUhibjg3cS1RRVVzOHU?oc=5": {
+    "title": "2026年4月Netflixの激アツラインナップ大公開！今月絶対観るべき新作がこれだ！",
+    "tags": "Streaming",
+    "sentiment": "positive",
+    "sentiment_text": "期待の新作目白押し！",
+    "rating": 5,
+    "time_ago": "22時間前",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcVVDVlR0NTZfLTk4UXB2VVM4Zk5XNHFkc1ZJWWcxLUdoSTZTRWlxN015OWRFVzNzZnF1bWpEXzdxY2VuRkRzZVNNbFVxbjFHa0pzUW1oR2JjNzA3Y0IzS1NmcVNUdUtfZ0NZU0x5UGNsOEVOYWl0elhTS0ZZa3d2cTVoSWFCTy1ZOS0wdEJ2azlwNlJBSDJsWlZLRnF6TXF3SmhEaHAtZTRDRkprMDFhOG1hVlRqVjcydjNYMjdmaHVjeW4tWFl1emdGdlFUOEpGYXByckhLc1BxNnFSMnkyNGZnbUhibjg3cS1RRVVzOHU?oc=5",
+    "summary_bullets": [
+      "毎月恒例、Netflixの最新ラインナップが2026年4月も解禁！",
+      "映画、ドラマ、アニメまで、多ジャンルの新作からあなたの「観たい！」が見つかる！",
+      "怒涛の新作ラッシュで、この春はNetflixから目が離せないこと間違いなし！"
+    ],
+    "insight": "Netflixは毎月、世界中のユーザーを夢中にさせる魅力的なコンテンツを大量に投入！4月も話題作から隠れた名作まで、おうち時間を充実させる作品が目白押しです。",
+    "action_plan": "Netflixアプリを立ち上げて、さっそく「新着＆人気」タブをチェックしてみましょう！気になる作品はマイリストに追加するのを忘れずに！",
+    "image_keyword": "Netflix new releases",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtZGZrR1BzcXYzZDNmdHJuNVRUeEE3dEtPWkdlbTNZZ3lFYUIwTWhHYUl1NDEyeDBad0VFZDVWSHZyMmxUbGluUUVEV0ctblZwV0ctdnBISTF3QQ?oc=5": {
+    "title": "「Re:name」が放つ新たな衝撃！音楽シーンを揺るがす最新情報が解禁！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "音楽ファン騒然！注目の新作情報が到着！",
+    "rating": 4,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtZGZrR1BzcXYzZDNmdHJuNVRUeEE3dEtPWkdlbTNZZ3lFYUIwTWhHYUl1NDEyeDBad0VFZDVWSHZyMmxUbGluUUVEV0ctblZwV0ctdnBISTF3QQ?oc=5",
+    "summary_bullets": [
+      "人気アーティスト「Re:name」から、待望のビッグニュースが飛び込んできた！",
+      "彼らの独創的な音楽世界が、次のステージでどのように進化するのかに注目が集まる。",
+      "今後の活動展開やリリース情報など、詳細発表に向けてファンからの期待が最高潮に！"
+    ],
+    "insight": "常にリスナーを驚かせるサウンドとメッセージを届けてきた「Re:name」。今回の発表は、彼らが音楽業界に新たなトレンドを巻き起こす起爆剤となること間違いなし！アーティストとしての彼らの進化を肌で感じる絶好の機会です。",
+    "action_plan": "今すぐ「Re:name」の過去の楽曲をストリーミングでチェックして、最新情報に備えよう！SNSで公式アカウントもフォローして、速報を見逃すな！",
+    "image_keyword": "music artist announcement",
     "technical_terms": []
   }
 }
