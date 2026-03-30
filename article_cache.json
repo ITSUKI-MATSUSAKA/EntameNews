@@ -1,169 +1,4 @@
 {
-  "https://automaton-media.com/articles/newsjp/nyanjet-20260311-428329/": {
-    "title": "空飛ぶニャンコ爆誕！激ムズ爽快アクション『nyanjet』3月13日配信決定！未知の絶景へレッツゴー！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "中毒性MAXの期待作！",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://automaton-media.com/articles/newsjp/nyanjet-20260311-428329/",
-    "summary_bullets": [
-      "ジェットパックを駆使して大空を駆け巡る！キュートな猫が主役の高難度アクションゲームがついに登場！",
-      "3月13日配信決定！PC（Steam）向け『nyanjet』で、まだ見ぬ景色を目指す空の旅へ出発だ！",
-      "挫折必至だけど、その先の絶景と達成感は格別！中毒性MAXのプレイ体験に期待大！"
-    ],
-    "insight": "猫がジェットパックで空を飛ぶというユニークな設定と、“挫折必至”と銘打たれた高難度アクションの組み合わせが最大の魅力。失敗を乗り越えて到達する未知の景色は、きっと最高のカタルシスを与えてくれるだろう。",
-    "action_plan": "高難度アクション好きはSteamストアページでウィッシュリストに追加し、配信日を心待ちにしましょう！『Getting Over It』のような中毒性のあるゲームが好きな人にも超おすすめ！",
-    "image_keyword": "cat jetpack game",
-    "technical_terms": [
-      {
-        "term": "ジェットパック",
-        "explanation": "ジェット推進を利用して、人間や動物が空中を移動するための装置です。"
-      },
-      {
-        "term": "高難度アクション",
-        "explanation": "操作やゲームプレイが非常に難しく、プレイヤーが何度も挑戦と失敗を繰り返しながらクリアを目指すタイプのゲームです。"
-      },
-      {
-        "term": "Steam",
-        "explanation": "Valve社が運営する、PCゲームのダウンロード販売や管理を行う世界最大のデジタル配信プラットフォームです。"
-      }
-    ]
-  },
-  "https://automaton-media.com/articles/newsjp/unreal-engine-20260311-428296/": {
-    "title": "速報！ゲーム開発界に激震！Unreal EngineがついにUnityを抜き去り、シェアトップに君臨！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "業界激震のビッグニュース！",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://automaton-media.com/articles/newsjp/unreal-engine-20260311-428296/",
-    "summary_bullets": [
-      "ゲーム開発の根幹を支える「ゲームエンジン」の採用率で、Unreal EngineがついにUnityを抜き去りトップに！",
-      "ここ1年でUnreal Engineが驚異的な追い上げを見せ、業界の勢力図を大きく塗り替える結果に！",
-      "この変化は、今後のゲームのグラフィックや表現力に劇的な進化をもたらす可能性を秘めている！"
-    ],
-    "insight": "圧倒的なグラフィック性能と安定性で知られるUnreal Engineが、ついにゲーム開発のメインストリームを席巻！これからのゲームがどんな革新的な体験をもたらすのか、期待値はMAXだ！",
-    "action_plan": "Unreal Engineで開発された最新の美麗ゲームをプレイして、その技術の進化を肌で感じてみよう！",
-    "image_keyword": "Game Engine, Unreal Engine, Market Share",
-    "technical_terms": [
-      {
-        "term": "ゲームエンジン",
-        "explanation": "ゲームを開発するための土台となるソフトウェアのこと。グラフィック表示や物理計算など、複雑な処理を簡単に行えるようにする便利なツールだよ！"
-      },
-      {
-        "term": "Unreal Engine (UE)",
-        "explanation": "Epic Gamesが開発する高性能なゲームエンジン。超リアルなグラフィックと多彩な機能で、特にAAAタイトルでよく使われているよ！"
-      },
-      {
-        "term": "Unity",
-        "explanation": "Unity Technologiesが開発する汎用性の高いゲームエンジン。インディーゲームから大規模タイトルまで幅広く利用されており、初心者でも扱いやすいのが特徴だよ！"
-      }
-    ]
-  },
-  "https://natalie.mu/comic/news/663550": {
-    "title": "一夜の過ちから始まる危険な恋！イケオジの正体は…!? 『煽ってきたのは君のほうでしょ？』1巻、待望の発売！",
-    "tags": "Manga",
-    "sentiment": "positive",
-    "sentiment_text": "ドキドキが止まらない！注目の新刊コミックが登場！",
-    "rating": 4,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/663550",
-    "summary_bullets": [
-      "一夜を共にしたイケオジの正体が判明し、二人の関係が急展開！",
-      "「煽ってきたのは君のほうでしょ？」1巻が遂に発売、ファン待望のストーリーが楽しめる！",
-      "ミステリアスな関係から始まる大人のロマンスの行方に期待が高まる！"
-    ],
-    "insight": "一夜限りの関係から始まる禁断の恋、そして謎多きイケオジの意外な正体…。スリリングな展開と心ときめくセリフが、読者を深く物語へと引き込みます。",
-    "action_plan": "この衝撃の展開を見逃すな！『一夜をともにしたイケオジの正体は…「煽ってきたのは君のほうでしょ？」1巻』をいますぐ手に入れて、二人のラブストーリーを追いかけましょう！",
-    "image_keyword": "Romantic manga cover, Office romance comic",
-    "technical_terms": []
-  },
-  "https://natalie.mu/comic/news/663545": {
-    "title": "元恋人マトリが極秘任務で再会！胸アツ展開『ジャンプ＋』読切を要チェック！",
-    "tags": "Comic",
-    "sentiment": "positive",
-    "sentiment_text": "期待の新作！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/663545",
-    "summary_bullets": [
-      "元恋人同士のマトリが、よりによって極秘任務でバディを組むことに！",
-      "ジャンプ＋で新作読切が公開！スリリングな展開と恋の行方が気になる！",
-      "秘密組織と元恋人の関係、二転三転するストーリーに胸がザワつく！"
-    ],
-    "insight": "元恋人同士という禁断の関係性で、さらに命がけの極秘任務に挑むという設定が最大の魅力。スリリングなアクションと切ないロマンスが同時に楽しめる、読者を惹きつける要素満載の一作！",
-    "action_plan": "ジャンプ＋で今すぐ読切をチェックして、二人の運命を見届けよう！",
-    "image_keyword": "spy romance manga",
-    "technical_terms": [
-      {
-        "term": "マトリ",
-        "explanation": "麻薬取締官の通称。麻薬や覚醒剤などの薬物犯罪を取り締まる捜査官。"
-      },
-      {
-        "term": "ジャンプ＋",
-        "explanation": "集英社が運営するウェブ漫画サービス。人気漫画が無料で読め、オリジナル作品も多数掲載されている。"
-      }
-    ]
-  },
-  "https://automaton-media.com/articles/newsjp/20260311-428278/": {
-    "title": "少年×魔物、ド派手バディアクション『GOBBLE』爆誕！日本一ソフトウェアの“アイデア爆弾”が9月24日に炸裂！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "期待値爆上げの完全新作が遂に！",
-    "rating": 5,
-    "time_ago": "11時間前",
-    "url": "https://automaton-media.com/articles/newsjp/20260311-428278/",
-    "summary_bullets": [
-      "少年と魔物がタッグを組む、超ド派手な「バディアクション」がゲーム界に新風を巻き起こす！",
-      "日本一ソフトウェアが放つ完全新作『GOBBLE』の正式発表と、待望の9月24日発売が決定！",
-      "“アイデア押し”のユニークなゲーム性に、想像を掻き立てられること間違いなし！今後の情報に大注目！"
-    ],
-    "insight": "日本一ソフトウェアが仕掛ける新作は、少年と魔物という異色のコンビが織りなすハイスピードで爽快なバディアクション。常識を覆す“アイデアの塊”が、新たなゲーム体験を約束します！",
-    "action_plan": "日本一ソフトウェアの過去作をチェックして、その斬新な発想に触れてみましょう！さらに、今後公開されるプレイ動画や詳細情報も見逃しなく、発売日に備えましょう！",
-    "image_keyword": "Fantasy Action Game",
-    "technical_terms": [
-      {
-        "term": "バディアクション",
-        "explanation": "2人組のキャラクターが協力しながら敵と戦い、様々なアクションを繰り出すゲームジャンルです。"
-      },
-      {
-        "term": "日本一ソフトウェア",
-        "explanation": "ユニークで個性的な世界観やシステムを持つゲームを多数開発している日本のゲームメーカーです。"
-      },
-      {
-        "term": "アイデア押し",
-        "explanation": "既存の枠に囚われない、斬新で独創的なゲーム性や発想を強く打ち出していることを指します。"
-      }
-    ]
-  },
-  "https://automaton-media.com/articles/newsjp/20260311-428270/": {
-    "title": "あの傑作『嘘つき姫と盲目王子』がPC版で電撃登場＆即日配信開始！絵本の世界をSteamで旅しよう！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "伝説の傑作がPCで蘇る！待望のPC版、いきなり登場！",
-    "rating": 5,
-    "time_ago": "11時間前",
-    "url": "https://automaton-media.com/articles/newsjp/20260311-428270/",
-    "summary_bullets": [
-      "優しく切ない傑作ゲーム『嘘つき姫と盲目王子』のPC版が電撃発表＆即日配信スタート！",
-      "「絵本」シリーズの原点となる感動の物語をSteamと“日本一PCゲームズ”で体験できる！",
-      "PCで蘇る美麗な世界観とストーリーに、新たなファンも旧来のファンも大興奮間違いなし！"
-    ],
-    "insight": "まるで絵本の中に迷い込んだような美しいグラフィックと、嘘つきの魔女と盲目の王子の間に紡がれる切なくも温かい物語の深さがこの作品の最大の魅力。PCの大画面で、その独特の世界観と感動的な体験にどっぷり浸れるのが最大の魅力です。",
-    "action_plan": "まだプレイしたことがない人はもちろん、SwitchやPS4版をプレイ済みの人も、ぜひPC版の美麗グラフィックで物語を再体験してみましょう！「絵本」シリーズの他作品も要チェック！",
-    "image_keyword": "storybook fantasy game",
-    "technical_terms": [
-      {
-        "term": "Steam",
-        "explanation": "PCゲームをダウンロード・購入・管理できる世界最大のプラットフォームです。"
-      },
-      {
-        "term": "日本一PCゲームズ",
-        "explanation": "ゲームメーカー「日本一ソフトウェア」が運営する、独自のPCゲーム販売プラットフォームです。"
-      }
-    ]
-  },
   "https://automaton-media.com/articles/newsjp/20260313-428782/": {
     "title": "ヤバすぎ新作ホラー爆誕！『クロックタワー』魂を受け継ぐ極限逃走劇に震えろ！",
     "tags": "Game",
@@ -4607,7 +4442,7 @@
     "sentiment": "positive",
     "sentiment_text": "世界が熱狂！必見の異文化交流作",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2akRjeEJwS1BlbnFwd213M0kwRmQyd0xUZWphUVduSDN4ZkxCTm84anJFX25ZcjB2YWxrOHU1TXBDSzVOd0xLSUVsY1ZRWjQtdXctcUc0SW9VZVh6WjRETmZJZXBhQmhTSGc?oc=5",
     "summary_bullets": [
       "インドと韓国の文化が織りなす感動の人情物語がNetflix世界ランキングで堂々の首位をキープ！",
@@ -4830,6 +4665,283 @@
     "insight": "マカロニえんぴつが放つ『physical mind』は、現代社会に生きる私たちの心に強く響くロックアンセム。彼らの文学的な歌詞と力強いメロディが織りなす世界観は、何度聴いても新たな発見を与えてくれるでしょう。",
     "action_plan": "『physical mind』に魅了されたら、彼らの他の楽曲もぜひチェックしてみましょう。ライブ映像や歌詞の世界に深く触れることで、マカロニえんぴつの魅力をさらに深く味わえるはずです！",
     "image_keyword": "Japanese Rock Band, Macaroni Enpitsu, Live Performance",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41bDBwaTY4TVFJVTF0NGF0MmxFMC1iQktRM0IzUldqeHJvTGxLeFV5LVdtbXhjanZpTmp0SzZNN0hfcVBJaUR5c0hnUU5LM0FjRHlJ?oc=5": {
+    "title": "「獣道10先」でDAIGOが激突！メナードとの頂上決戦は2026年4月29日！",
+    "tags": "Esports",
+    "sentiment": "positive",
+    "sentiment_text": "激熱バトル開幕！",
+    "rating": 5,
+    "time_ago": "5時間前",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41bDBwaTY4TVFJVTF0NGF0MmxFMC1iQktRM0IzUldqeHJvTGxLeFV5LVdtbXhjanZpTmp0SzZNN0hfcVBJaUR5c0hnUU5LM0FjRHlJ?oc=5",
+    "summary_bullets": [
+      "人気プロゲーマーDAIGOが「獣道10先」で強敵メナードと激突決定！",
+      "注目の頂上決戦は2026年4月29日に開催、歴史的瞬間の目撃者になろう！",
+      "ゲーム界の未来を左右するかもしれないこの一戦、今から最高のパフォーマンスに期待が高まる！"
+    ],
+    "insight": "このニュースの最大の魅力は、人気と実力を兼ね備えたDAIGO選手が、強敵メナード選手と「獣道10先」という過酷なルールで激突する点です。どちらが勝利しても伝説となること間違いなしの、まさにeスポーツの真髄が詰まった一戦となるでしょう！",
+    "action_plan": "今から両選手の過去の対戦動画や「獣道10先」のルールを予習して、2026年4月29日の決戦に備えましょう！",
+    "image_keyword": "esports match, gaming competition, fighting game",
+    "technical_terms": [
+      {
+        "term": "獣道10先",
+        "explanation": "特定のゲームタイトルで行われる、10本先取で勝利が決まる非常に過酷なゲーム形式のこと。高い集中力と戦略が求められる。"
+      },
+      {
+        "term": "eスポーツ",
+        "explanation": "コンピューターゲームをスポーツとして捉え、競技として行うこと。プロ選手が存在し、世界規模の大会も開催される。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaZlQ1UG1DUmZfX2l3RE5BUGJwM2pVQk9iNk91ZUtZRnZHcm1NYmNxZ0RMb3Z1eXZ6dGVrY3NYbEJyQXBuTWhESm5KVHZfQQ?oc=5": {
+    "title": "【ARC Raiders】今、最もアツい戦場！アークレイダースを徹底攻略して勝利を掴め！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "今、超注目の新作！ゲーム攻略の最前線を見逃すな！",
+    "rating": 5,
+    "time_ago": "5時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaZlQ1UG1DUmZfX2l3RE5BUGJwM2pVQk9iNk91ZUtZRnZHcm1NYmNxZ0RMb3Z1eXZ6dGVrY3NYbEJyQXBuTWhESm5KVHZfQQ?oc=5",
+    "summary_bullets": [
+      "話題沸騰中のPvEシューター『ARC Raiders』、攻略記事でゲームを深く楽しむチャンス！",
+      "GameWithによるクエスト攻略で、初心者もベテランも勝利への道筋を明確に！",
+      "この攻略を味方に、アークレイダースの世界でさらなる高みを目指し、最前線を駆け抜けよう！"
+    ],
+    "insight": "PvEシューター『ARC Raiders』は、協力プレイと戦略性が魅力の注目タイトル。本記事で最新の攻略情報を手に入れれば、ライバルに差をつけ、ゲームを何倍も楽しむことができるぞ！",
+    "action_plan": "まずは記事を読んで、最新のクエスト攻略法をチェックしてみましょう！フレンドを誘って協力プレイで実践してみるのもおすすめです！",
+    "image_keyword": "ARC Raiders game, PvE shooter, game guide",
+    "technical_terms": [
+      {
+        "term": "ARC Raiders",
+        "explanation": "Swen Studioが開発した、協力プレイが特徴のPvEシューターゲーム。地球外生命体との戦いを描く。"
+      },
+      {
+        "term": "PvEシューター",
+        "explanation": "プレイヤー（Player）がゲーム内の環境（Environment）と戦うシューティングゲームのこと。協力プレイが中心となる。"
+      },
+      {
+        "term": "クエスト攻略",
+        "explanation": "ゲーム内で与えられるミッションや課題（クエスト）を効率的かつスムーズにクリアするための情報や手順。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kb0paNmxPQ2Q4VGkzRVNYb28xX2VHTVNSdTd3QTBkMDRsS1ZDQnN3a1RmMkR6SWh0NnRfS2FvYlR3Y3VkTlhKUTNlay10QQ?oc=5": {
+    "title": "【ARC Raiders】詰んだ!? 難関クエスト『行き止まり』を突破する最速攻略法を大公開！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "難関突破の秘策！これでクリア確定！",
+    "rating": 4,
+    "time_ago": "5時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kb0paNmxPQ2Q4VGkzRVNYb28xX2VHTVNSdTd3QTBkMDRsS1ZDQnN3a1RmMkR6SWh0NnRfS2FvYlR3Y3VkTlhKUTNlay10QQ?oc=5",
+    "summary_bullets": [
+      "大人気SFシューター『ARC Raiders』でプレイヤーを悩ませる「行き止まり」クエストの攻略情報が判明！",
+      "ゲームを進行不能にするピンチから抜け出すための、具体的かつ実践的なヒントが満載！",
+      "もう行き止まりで悩まない！スムーズにゲームを進めて、新たな冒険へ繰り出せるぞ！"
+    ],
+    "insight": "『ARC Raiders』のプレイ中に多くのゲーマーが直面するであろう「行き止まり」クエスト。この記事は、そんな困難を乗り越えるための救世主となるでしょう。これであなたのゲーム体験はさらに快適に、そして面白くなること間違いなし！",
+    "action_plan": "この記事を読んだら、すぐにゲームを起動して『行き止まり』クエストに再挑戦してみましょう！GameWithのARC Raiders攻略情報をブックマークして、次の難関に備えるのもオススメです！",
+    "image_keyword": "ARC Raiders gameplay, game quest guide, sci-fi shooter",
+    "technical_terms": [
+      {
+        "term": "ARC Raiders",
+        "explanation": "近未来を舞台にした協力プレイ型SFシューターゲームのタイトル。"
+      },
+      {
+        "term": "クエスト",
+        "explanation": "ゲーム内でプレイヤーに与えられるミッションや課題のこと。"
+      },
+      {
+        "term": "行き止まり",
+        "explanation": "特定の場所から先に進めなくなる状態や、本作に登場する難関クエストの名前。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/666243": {
+    "title": "呪殺殺し屋がまさかの恋!? 『呪殺聖女は愛を知らない』1巻で始まる禁断のダークロマンス！",
+    "tags": "Comic",
+    "sentiment": "positive",
+    "sentiment_text": "予測不能！驚愕の新刊が登場！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/666243",
+    "summary_bullets": [
+      "自分に惚れた相手を呪殺できる能力を持つ殺し屋が、ターゲットの聖女に逆に愛され、恋に落ちる斬新な設定！",
+      "ダークファンタジーと禁断のロマンスが融合した話題作『呪殺聖女は愛を知らない』待望の1巻が発売開始！",
+      "呪殺か、愛か…主人公の葛藤と予測不能な関係性の行方から目が離せない！今後の展開に期待が高まる！"
+    ],
+    "insight": "「自分に惚れた相手を呪殺できる」という恐ろしくもユニークな能力を持つ殺し屋が、その能力を逆手に取られて恋に落ちるという、前代未聞のシチュエーションが最大の魅力。ダークな世界観と純粋な恋愛感情のギャップが、読者の心を鷲掴みにすること間違いなしの注目作です！",
+    "action_plan": "この禁断の物語の序章を、ぜひ『呪殺聖女は愛を知らない』1巻で体験してみましょう！ 各種電子書籍ストアや全国の書店で要チェックです！",
+    "image_keyword": "dark fantasy romance manga, killer love story, cursed saintess comic",
+    "technical_terms": []
+  },
+  "https://natalie.mu/comic/news/666225": {
+    "title": "大人気小説『聖女の、遺産』が待望のマンガ化！コミックバンチKai＆シーモアでW連載スタート！",
+    "tags": "Manga",
+    "sentiment": "positive",
+    "sentiment_text": "ファン待望！感動のコミカライズ決定！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/666225",
+    "summary_bullets": [
+      "六つ花えいこ先生の人気小説『聖女の、遺産』が、ついにマンガとなって読者の元へ！",
+      "コミックバンチKaiと電子書籍ストア・シーモアで同時連載が決定、好きな場所で読める！",
+      "小説で感動を味わった人も、これから世界に触れる人も、壮大な物語に没入するチャンス！"
+    ],
+    "insight": "長編小説として多くの読者を魅了した『聖女の、遺産』が、ついに視覚的な美しさと共に新たな息吹を吹き込まれます。壮大な世界観と感動的な物語が、漫画ならではの表現でどのように描かれるのか、その全貌に期待が高まります。",
+    "action_plan": "この機会に原作小説『聖女の、遺産』を読んで世界観に浸ってみましょう！そして、連載開始日に合わせてコミックバンチKaiとシーモアをチェックするのを忘れずに！",
+    "image_keyword": "Fantasy Manga, Seijo no Isan, Comic adaptation",
+    "technical_terms": [
+      {
+        "term": "コミックバンチKai",
+        "explanation": "新潮社が運営する、無料で読めるウェブ漫画サイトです。様々なジャンルの作品が連載されています。"
+      },
+      {
+        "term": "シーモア",
+        "explanation": "NTTソルマーレが運営する、幅広いジャンルの電子コミックや書籍が楽しめる国内最大級の電子書籍ストアです。"
+      },
+      {
+        "term": "コミカライズ",
+        "explanation": "小説やゲーム、アニメなどの原作を漫画作品として作り直すことを指します。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/666235": {
+    "title": "「入間くん」新シリーズ爆誕！謎の13人目がついに姿を現す！場面カットで期待度MAX！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "新展開に期待高まる！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/666235",
+    "summary_bullets": [
+      "「入間くん」第4シリーズ1話で、ついに13人目のクラスメイトが本格登場し物語が加速！",
+      "謎に包まれていた新キャラクターの姿を捉えた場面カットが公開され、ファンの期待が最高潮に！",
+      "新たな仲間との出会いが、入間たちの魔界学園生活にどんな化学反応を起こすのか大注目！"
+    ],
+    "insight": "物語の鍵を握るであろう新たなキャラクターの登場は、シリーズに奥行きと新鮮な魅力を加えます。公開された場面カットから彼の存在感を感じ取り、今後のストーリー展開に胸を躍らせるファンも多いことでしょう！",
+    "action_plan": "第4シリーズの放送が始まる前に、これまでの「魔入りました！入間くん」アニメシリーズや原作コミックスを振り返って、魔界学園の予習を完璧にしておきましょう！",
+    "image_keyword": "Mairimashita Iruma-kun, anime series, new character",
+    "technical_terms": [
+      {
+        "term": "魔入りました！入間くん",
+        "explanation": "悪魔の世界に迷い込んだ人間の少年・鈴木入間が主人公の人気ファンタジーアニメ＆コミック作品です。"
+      },
+      {
+        "term": "第4シリーズ",
+        "explanation": "アニメの放送シーズンを指し、新たな物語の始まりや、これまでの続きのエピソードが展開されます。"
+      },
+      {
+        "term": "場面カット",
+        "explanation": "アニメの放送前に公開される、作中の重要なシーンを切り取った画像で、視聴者の期待を高める役割があります。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ReWpTMFBZemUwLUJMeWxNUl8yVlNkT3VqSDJJZDFUZWhNczBRd1N3SENEa3hrdXlPd1FiSkk0b1pVYVphMm9TMTlJRlA5SVEyYUhENDNCQ2tBc0NnaDB0czZkcTA?oc=5": {
+    "title": "Netflixで次何観る？原作本から生まれた傑作ドラマ＆映画8選！これは見逃せない！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "ワクワクが止まらない！次は何観る？必見リスト！",
+    "rating": 5,
+    "time_ago": "8時間前",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ReWpTMFBZemUwLUJMeWxNUl8yVlNkT3VqSDJJZDFUZWhNczBRd1N3SENEa3hrdXlPd1FiSkk0b1pVYVphMm9TMTlJRlA5SVEyYUhENDNCQ2tBc0NnaDB0czZkcTA?oc=5",
+    "summary_bullets": [
+      "Netflixで楽しめる、原作本から生まれた傑作映画・ドラマ8選を一挙ご紹介！",
+      "次に何を見るか迷っているあなたへ、珠玉のラインナップが最高の出会いを約束！",
+      "原作ファンも映像から入った人も、それぞれの魅力を再発見できるチャンス！"
+    ],
+    "insight": "小説や漫画といった原作の世界観がNetflixのハイクオリティな映像でどのように表現されているか、その違いや共通点を比較しながら楽しめるのが最大の魅力です。あなたのお気に入りの一作がきっと見つかりますよ！",
+    "action_plan": "気になる作品を見つけたら、まずはNetflixで視聴！さらに深く作品の世界に浸りたいなら、ぜひ原作本も手にとって読み比べてみましょう。",
+    "image_keyword": "Netflix book adaptations",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1N2VUkxLWhtZ082YWRnSWxrdTE3LUJMY0E3aHJhLVgxTm51b3JQaUpfaGs4bDREMG1zc0ZjUlE1RGVwbWRnME5oN0hkVlNzQjVISTh6MmhkOFpESmtmalc3dUxYSUp0UktmcDVXS3JDU1RZQXFvWVVoYUJxREpPZURRNVZwVzRiUFFMSm5R?oc=5": {
+    "title": "2026年4月のNetflixがヤバい！『ストレンジャー・シングス』初のアニメ化＆細木数子の衝撃ドキュメンタリー爆誕！",
+    "tags": "Streaming",
+    "sentiment": "positive",
+    "sentiment_text": "胸アツラインナップ解禁！絶対見るべき新作がズラリ！",
+    "rating": 5,
+    "time_ago": "2日前",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1N2VUkxLWhtZ082YWRnSWxrdTE3LUJMY0E3aHJhLVgxTm51b3JQaUpfaGs4bDREMG1zc0ZjUlE1RGVwbWRnME5oN0hkVlNzQjVISTh6MmhkOFpESmtmalc3dUxYSUp0UktmcDVXS3JDU1RZQXFvWVVoYUJxREpPZURRNVZwVzRiUFFMSm5R?oc=5",
+    "summary_bullets": [
+      "大人気シリーズ『ストレンジャー・シングス』が、まさかの初アニメシリーズ化でファン騒然！",
+      "細木数子の波乱万丈な人生を描く衝撃のドキュメンタリー『地獄に堕ちるわよ』が配信決定で話題沸騰。",
+      "2026年4月のNetflixは、期待の新作からまさかのサプライズまで、エンタメ界を揺るがすラインナップが満載！"
+    ],
+    "insight": "『ストレンジャー・シングス』の世界観がアニメでどう表現されるのか、想像するだけでワクワクが止まりません！一方で、細木数子の生き様を深く掘り下げるドキュメンタリーは、その意外性とインパクトで多くの視聴者の心を掴むこと間違いなし。多様なジャンルの話題作が一挙に楽しめる、まさに“神月”となる予感です！",
+    "action_plan": "今のうちに『ストレンジャー・シングス』シーズン1からおさらいして、アニメシリーズへの期待感を高めておきましょう！細木数子を知らない人も、今から予習してドキュメンタリーの衝撃に備えるべし！",
+    "image_keyword": "Netflix new releases, Stranger Things anime, documentary series",
+    "technical_terms": [
+      {
+        "term": "アニメシリーズ",
+        "explanation": "アニメーション作品を連続して放送または配信する形式の番組。特に特定の物語やキャラクターを中心に展開する。"
+      },
+      {
+        "term": "ドキュメンタリー",
+        "explanation": "現実の出来事や人物、社会現象などを事実に基づいて記録し、解説する映像作品。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyakNBRFBiU3ZLZG44MkVEM0xRZm00Y1dLREdWYXUxWDQxXzRtZTQ0ci1vRU1DdVJoREs0UDJxdjNkMGtocWc2Zm93WXBkOXhz?oc=5": {
+    "title": "Vaundy、最新曲「The SILENCE」MV解禁！予測不能な世界観に刮目せよ！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "神MV降臨！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyakNBRFBiU3ZLZG44MkVEM0xRZm00Y1dLREdWYXUxWDQxXzRtZTQ0ci1vRU1DdVJoREs0UDJxdjNkMGtocWc2Zm93WXBkOXhz?oc=5",
+    "summary_bullets": [
+      "Vaundy、待望の新曲「The SILENCE」ミュージックビデオがついに解禁！",
+      "独自のVaundyワールドが炸裂、心を揺さぶる映像体験が幕を開ける。",
+      "予測不能なストーリーと映像美に、世界中のファンが熱狂すること間違いなし！"
+    ],
+    "insight": "Vaundyが放つ最新曲「The SILENCE」のMVは、彼の音楽が持つ深淵な魅力と、映像クリエイターの息をのむようなコラボレーションが生み出す、まさに“音と映像の芸術”です。一瞬たりとも見逃せない、細部までこだわり抜かれた世界観に、きっとあなたも心を奪われるでしょう。",
+    "action_plan": "まずは公開されたばかりの「The SILENCE」MVを今すぐチェック！その後は、Vaundyの他の楽曲やライブ映像も続けて鑑賞して、彼の多才な才能にどっぷり浸かってみましょう。",
+    "image_keyword": "Vaundy music video, The SILENCE, Japanese pop art",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LV2psdEQzdjN0cDJ3Y0xoSS1EeVQxMWh5dDRWbFBFU0RBUTFMNGx2ZVdnbWJnVGRMd2lKUEdQYzNRN3BuaHIzVGdYS2x3bXBuVnc?oc=5": {
+    "title": "テデスキ・トラックス・バンド、待望の4年ぶり新作『Future Soul』爆誕！南部ロックの魂が今、ここに集結！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "魂を揺さぶる待望の傑作が遂に降臨！",
+    "rating": 5,
+    "time_ago": "4日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LV2psdEQzdjN0cDJ3Y0xoSS1EeVQxMWh5dDRWbFBFU0RBUTFMNGx2ZVdnbWJnVGRMd2lKUEdQYzNRN3BuaHIzVGdYS2x3bXBuVnc?oc=5",
+    "summary_bullets": [
+      "テデスキ・トラックス・バンド、4年ぶりの待望のオリジナル・アルバム『Future Soul』をリリース！",
+      "US南部ロックの真髄を受け継ぎ、さらに進化を遂げた彼らのサウンドがリスナーを圧倒！",
+      "魂が揺さぶられるグルーヴで、世界の音楽シーンに新たな金字塔を打ち立てる予感！"
+    ],
+    "insight": "テデスキ・トラックス・バンドが、伝統あるUS南部ロックの魂を現代に昇華させた4年ぶりの新作をドロップ。デレク・トラックスとスーザン・テデスキが織りなす唯一無二のグルーヴと、深みのある歌詞がリスナーを熱狂させること間違いなし！",
+    "action_plan": "まずは最新アルバム『Future Soul』を聴いて、彼らの進化を全身で体験してみましょう！過去の傑作も合わせてチェックすれば、バンドの歴史と音楽の奥深さにどっぷり浸れること請け合いです。",
+    "image_keyword": "Tedeschi Trucks Band, Future Soul, Southern Rock",
+    "technical_terms": [
+      {
+        "term": "US南部ロック",
+        "explanation": "ブルースやカントリーミュージックをルーツに持ち、スライドギターやジャムセッションが特徴的なアメリカ南部のロックミュージックのジャンル。熱い魂と高度な演奏技術が魅力！"
+      },
+      {
+        "term": "Future Soul",
+        "explanation": "ソウルミュージックを基盤にしつつ、ジャズ、R&B、ファンクなど多様な要素を融合させ、現代的なサウンドへと昇華させた革新的な音楽ジャンル。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ueGZocUxLcHlKdVhvLW1FUjBLcmxoVWptWUJYQzIzWjFDWUpRUzRveENHMUwtTFZlZ0h5NTVwdG9HUnVzcEQ5RnU5RlAwMVZMLUZETVk5UjM?oc=5": {
+    "title": "謎のベールに包まれた「Foi」とは一体！？音楽シーンを揺るがすビッグニュースに期待爆発！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "音楽ファン必見！このニュースは絶対見逃せない！",
+    "rating": 4,
+    "time_ago": "17日前",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ueGZocUxLcHlKdVhvLW1FUjBLcmxoVWptWUJYQzIzWjFDWUpRUzRveENHMUwtTFZlZ0h5NTVwdG9HUnVzcEQ5RnU5RlAwMVZMLUZETVk5UjM?oc=5",
+    "summary_bullets": [
+      "「Foi」というキーワードが、音楽メディアskream.jpで報じられ注目を集めている！",
+      "詳細不明ながらも、今後の音楽シーンに大きなインパクトを与える可能性を秘めた情報！",
+      "一体何が発表されるのか、ファンは期待と憶測で早くも盛り上がりを見せている！"
+    ],
+    "insight": "このニュースは、単なる情報更新に留まらず、音楽シーンに新たなトレンドや話題を呼び込むビッグウェーブとなる予感！「Foi」が仕掛けるサプライズに、今から胸が高鳴ります。",
+    "action_plan": "まずはskream.jpの続報を全力でチェックしましょう！SNSでの情報収集や、ファンコミュニティでの考察に参加して、この謎のピースを一緒に解き明かしましょう！",
+    "image_keyword": "music event announcement",
     "technical_terms": []
   }
 }
