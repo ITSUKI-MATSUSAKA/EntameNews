@@ -1,287 +1,4 @@
 {
-  "https://natalie.mu/eiga/news/663609": {
-    "title": "速報！【本日公開】絶対見逃せない新作映画がスクリーンに大集合！",
-    "tags": "Movie",
-    "sentiment": "positive",
-    "sentiment_text": "新作ラッシュに胸アツ！映画館が呼んでる！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/eiga/news/663609",
-    "summary_bullets": [
-      "いよいよ本日！待望の新作映画たちが一斉に公開スタート！",
-      "週末は映画館へ直行！大スクリーンで感動体験を味わおう。",
-      "この春、あなたの心を揺さぶる傑作に出会えるチャンスを見逃すな！"
-    ],
-    "insight": "映画館でしか味わえない興奮と感動が、本日ついに解禁！様々なジャンルの新作がラインナップされ、きっとあなたの“推し”が見つかるはず。新たな物語の扉を開く体験が待っています。",
-    "action_plan": "公式サイトや映画情報サイトで公開作品ラインナップをチェックして、気になる作品は今すぐ座席予約を済ませておきましょう！",
-    "image_keyword": "new movie release, cinema, film premiere",
-    "technical_terms": []
-  },
-  "https://natalie.mu/eiga/news/663723": {
-    "title": "アラフォーBL「スモークブルーの雨のち晴れ」待望のドラマ化決定！武田航平＆渋谷謙人が織りなす大人の恋に胸キュン必至！",
-    "tags": "Drama",
-    "sentiment": "positive",
-    "sentiment_text": "胸アツ展開！待望のドラマ化に大興奮！",
-    "rating": 4,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/eiga/news/663723",
-    "summary_bullets": [
-      "大人気BLコミック「スモークブルーの雨のち晴れ」が遂にドラマ化されることが決定！",
-      "武田航平と渋谷謙人がアラフォー男女の繊細でリアルな恋模様を熱演、夢の共演が実現。",
-      "原作ファンも納得のキャスティングで、大人の純愛ストーリーにさらなる注目が集まる！"
-    ],
-    "insight": "人気コミックの美しい世界観と、アラフォーならではの切なさや共感を呼ぶリアリティが、実力派俳優陣によってどのように描かれるのか見どころ満載！それぞれの想いが交錯する繊細な心理描写に期待が高まります。",
-    "action_plan": "ドラマが始まる前に、ぜひ原作コミック「スモークブルーの雨のち晴れ」を読んで、作品の世界観を予習しておきましょう！",
-    "image_keyword": "BL drama romance",
-    "technical_terms": [
-      {
-        "term": "BL",
-        "explanation": "ボーイズラブの略で、男性同士の恋愛を描いたフィクション作品のジャンルのこと。"
-      },
-      {
-        "term": "アラフォー",
-        "explanation": "「Around 40（アラウンド・フォーティー）」の略で、およそ40歳前後の年齢層を指す言葉。"
-      }
-    ]
-  },
-  "https://natalie.mu/eiga/news/663667": {
-    "title": "女優MEGUMI、ついに映画プロデュース始動！衝撃作「FUJIKO」6月公開で映画界に旋風を巻き起こす！",
-    "tags": "Movie",
-    "sentiment": "positive",
-    "sentiment_text": "「MEGUMI降臨！期待度MAXの新作発表！」",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/eiga/news/663667",
-    "summary_bullets": [
-      "女優MEGUMIが企画・プロデュースを手掛ける映画「FUJIKO」が2024年6月に公開決定！",
-      "待望の予告映像と豪華な新キャストの情報もついに解禁され、ファンの期待が最高潮に！",
-      "MEGUMIの新たな挑戦が、映画界にどんな衝撃と感動をもたらすのか、今後の展開に超注目！"
-    ],
-    "insight": "女優業だけでなく、美容家やクリエイターとしても活躍するMEGUMIが満を持して企画・プロデュースに挑む本作。彼女の感性と情熱が詰まった独創的な世界観は、観る者すべての心を揺さぶること間違いなしだ。",
-    "action_plan": "まずはYouTubeで公開されたばかりの超刺激的な予告編をチェックして、一足早く「FUJIKO」の世界観に没入してみましょう！",
-    "image_keyword": "MEGUMI movie, FUJIKO film, film production",
-    "technical_terms": []
-  },
-  "https://natalie.mu/music/news/663765": {
-    "title": "激アツコラボ爆誕！RAB龍＆THE JET BOY BANGERZがソフトバンク新CMに降臨！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "これは見逃せない！期待の超絶コラボCM爆誕！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/music/news/663765",
-    "summary_bullets": [
-      "アニソンダンスで人気のRAB龍と、LDH発ダンス＆ボーカルグループTHE JET BOY BANGERZが異色のタッグ！",
-      "二組がソフトバンクの新CMで共演し、ファン待望の豪華パフォーマンスを披露！",
-      "CMを通して新たな化学反応と、さらなる活躍・認知度アップに期待高まる！"
-    ],
-    "insight": "アニソンダンスのパイオニアRAB龍と、LDHの最先端ダンスグループTHE JET BOY BANGERZがまさかの共演！異なるジャンルのトップランナーが交わることで生まれる、新たなダンスエンターテインメントの可能性に大注目です！",
-    "action_plan": "まずはソフトバンクの新CMを即チェック！そして、RABやTHE JET BOY BANGERZのこれまでのライブ映像やMVも見て、彼らの魅力を深掘りしてみましょう！",
-    "image_keyword": "Dance collaboration, Japanese idols, CM performance",
-    "technical_terms": [
-      {
-        "term": "リアルアキバボーイズ (RAB)",
-        "explanation": "アニメやゲームの楽曲でブレイクダンスを披露し、国内外で活躍する人気ダンスグループ。"
-      },
-      {
-        "term": "THE JET BOY BANGERZ (TJBB)",
-        "explanation": "LDH主催オーディションから生まれた、ダンスとボーカルを兼ね備えた注目の次世代グループ。"
-      }
-    ]
-  },
-  "https://natalie.mu/music/news/663753": {
-    "title": "超特急カイ、新境地開拓！人気ドラマでまさかの「犯人役」に大抜擢！これは見逃せない！",
-    "tags": "ドラマ",
-    "sentiment": "positive",
-    "sentiment_text": "超特急カイの新たな挑戦に胸熱！",
-    "rating": 4,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/music/news/663753",
-    "summary_bullets": [
-      "超特急・小笠原海が人気ドラマ「東京P.D. 警視庁広報2係」season2で、政治家を襲撃する衝撃の犯人役に挑戦！",
-      "超特急のメンバーとしてだけでなく、俳優としての新たな魅力を開花させる重要な一歩となる！",
-      "彼のクールなイメージとは真逆の悪役をどう演じきるのか、放送前から期待感が最高潮に高まる！"
-    ],
-    "insight": "超特急のカイこと小笠原海さんが、人気ドラマシリーズでまさかの悪役に挑戦！彼の持つクールなイメージと犯人役とのギャップが、ドラマに深みとスリルをもたらすこと間違いなし。新たな一面を見せる彼の演技から目が離せない！",
-    "action_plan": "ドラマ『東京P.D. 警視庁広報2係』season2の放送情報を今すぐチェック！超特急の楽曲も聴きながら、カイの新たな一面に備えよう！",
-    "image_keyword": "Kai Ogasawara drama actor",
-    "technical_terms": []
-  },
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raTdVWXk2dmFlNC1ZaUhtc1NnYVMtaldXTXdGU2o2aG5GaG5xRXNkYWpiZ2ltcDI2Rk9SWklQVWNsem1OTlJETTg1UmlldDd3LXB0TzJPcWNCZzBjQk5QcFZqVUVrc0VMZkhjSC1DNDhCUmthRVhuSTg1aWVkbjA?oc=5": {
-    "title": "スタバ愛、それとも疑問符？ あなたのカフェ選びの価値観を揺さぶる【ヤフコメ大激論】に参戦せよ！",
-    "tags": "Cafe",
-    "sentiment": "neutral",
-    "sentiment_text": "みんなで語ろう！アツい議論が沸騰中！",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raTdVWXk2dmFlNC1ZaUhtc1NnYVMtaldXTXdGU2o2aG5GaG5xRXNkYWpiZ2ltcDI2Rk9SWklQVWNsem1OTlJETTg1UmlldDd3LXB0TzJPcWNCZzBjQk5QcFZqVUVrc0VMZkhjSC1DNDhCUmthRVhuSTg1aWVkbjA?oc=5",
-    "summary_bullets": [
-      "「スタバの価値観」を巡ってネットで大激論が勃発！あなたはどの意見に共感する？",
-      "居心地の良さ、価格設定、利用シーン…カフェ選びの基準が人それぞれであることを再認識できる、本音の応酬！",
-      "この議論を機に、自分にとって最高のカフェ体験を見つけ出すヒントが隠されているかも！"
-    ],
-    "insight": "誰もが知る「スタバ」という普遍的な存在を通じて、現代人の多様なライフスタイルや価値観が赤裸々に語られる、まさに人間観察の縮図！自分自身のカフェ観を深く掘り下げるきっかけになること間違いなし！",
-    "action_plan": "今回の議論を参考に、お気に入りのカフェで友人や家族と「最高のカフェ論争」を繰り広げてみましょう！新たな発見があるかも？",
-    "image_keyword": "Cafe culture, Starbucks debate, coffee shop discussion",
-    "technical_terms": []
-  },
-  "https://automaton-media.com/articles/newsjp/20260313-429153/": {
-    "title": "『サカつく2026』神アプデ爆誕！快適性＆ガチャ確率爆上げで遊びやすさMAXへ！未来を魅せるロードマップも公開だ！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "神アプデ！期待しかない！",
-    "rating": 5,
-    "time_ago": "8時間前",
-    "url": "https://automaton-media.com/articles/newsjp/20260313-429153/",
-    "summary_bullets": [
-      "『サカつく2026』がVer.1.2でプレイ体験を激変させる大改修アプデを実施！",
-      "ユーザー待望のガチャピックアップ確率アップで、推し選手をゲットするチャンスが拡大！",
-      "Ver.1.4を含む今後のロードマップも同時公開され、ゲームの未来にワクワクが止まらない！"
-    ],
-    "insight": "今回のアップデートは、ユーザーの声をしっかり反映した快適性向上と、ガチャの遊びやすさ改善が超目玉！さらに先の計画まで見せてくれるロードマップで、今後の『サカつく2026』への期待はMAXに跳ね上がるぞ！",
-    "action_plan": "すぐにゲームを起動して、生まれ変わった『サカつく2026』を体感してみよう！まだ未プレイなら、この「神アプデ」を機に最高のクラブを創り出す監督体験を始めるべし！",
-    "image_keyword": "Soccer game update, Football manager, Game roadmap",
-    "technical_terms": [
-      {
-        "term": "アプデ",
-        "explanation": "アップデートの略。ゲームの機能改善、不具合修正、新コンテンツ追加などを行うこと。"
-      },
-      {
-        "term": "ガチャ",
-        "explanation": "ゲーム内でランダムにキャラクターやアイテムを獲得できるシステム。運の要素が強い。"
-      },
-      {
-        "term": "ロードマップ",
-        "explanation": "今後の開発計画や追加されるコンテンツなどをまとめた、ゲームの未来を示す計画表。"
-      }
-    ]
-  },
-  "https://automaton-media.com/articles/newsjp/20260313-429112/": {
-    "title": "『七つの大罪：Origin』神運営確定！？100時間で288回ガチャ＆凸は無課金でもOK！ユーザーファーストな衝撃情報解禁！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "期待度MAX！ユーザーフレンドリーな神運営に大注目！",
-    "rating": 5,
-    "time_ago": "9時間前",
-    "url": "https://automaton-media.com/articles/newsjp/20260313-429112/",
-    "summary_bullets": [
-      "100時間プレイでなんと288回もガチャが引ける！無課金でもたっぷり楽しめる大盤振る舞いが判明！",
-      "キャラクターの「凸」システムはガチャに頼らず素材で可能、育成の自由度が爆上がり！",
-      "リリース直前にユーザーファーストな情報が続々公開され、ゲームへの期待値が最高潮に！"
-    ],
-    "insight": "広大なオープンワールドで繰り広げられる壮大な冒険に加え、良心的なガチャ排出率と育成システムが融合した本作は、既存のソシャゲの常識を覆す可能性を秘めています。無課金プレイヤーでも十二分に楽しめる設計で、誰もがストレスなく『七つの大罪』の世界を深く堪能できることに期待が高まります。",
-    "action_plan": "今すぐ原作アニメ「七つの大罪」を見返して世界観を完璧に予習しておきましょう！公式X（旧Twitter）で最新情報も要チェック！",
-    "image_keyword": "Seven Deadly Sins Origin, open world RPG, mobile game",
-    "technical_terms": [
-      {
-        "term": "ガチャ",
-        "explanation": "ゲーム内でランダムにアイテムやキャラクターを入手できるシステム。一般的には課金要素となることが多いが、本作はプレイで多く引けるのが特徴。"
-      },
-      {
-        "term": "凸",
-        "explanation": "同じキャラクターやアイテムを複数入手することで、その性能を強化するゲームシステム。本作ではガチャ以外でも強化可能。"
-      }
-    ]
-  },
-  "https://automaton-media.com/articles/newsjp/20260313-429063/": {
-    "title": "激震！「オーバーウォッチ2」幻のPvEモードはなぜ失敗したのか？元ディレクターが明かす衝撃の舞台裏！",
-    "tags": "Game",
-    "sentiment": "negative",
-    "sentiment_text": "まさかの激白！あのPvEの裏側が明らかに！",
-    "rating": 4,
-    "time_ago": "12時間前",
-    "url": "https://automaton-media.com/articles/newsjp/20260313-429063/",
-    "summary_bullets": [
-      "「オーバーウォッチ2」PvEモードの“幻”となった舞台裏が、元ディレクターの衝撃告白でついに明らかに！",
-      "長らく待ち望まれたPvE路線がなぜ断念されたのか、その核心に迫る開発秘話が満載でファン必見！",
-      "過去の「最大級の失敗」が、今後の『オーバーウォッチ』シリーズ開発にどう影響するのか要注目！"
-    ],
-    "insight": "人気ゲームの裏側に隠された開発の苦悩や、壮大な構想がなぜ実現しなかったのか、その真相が赤裸々に語られる点が見どころです。ゲーム業界の厳しさや判断の難しさを垣間見ることができる、貴重な証言となっています。",
-    "action_plan": "現在プレイできる『オーバーウォッチ2』のPvPモードを改めて体験し、もしPvEが実現していたら…と想像してみるのも面白いでしょう。また、Blizzardの過去の開発秘話などもチェックして、ゲーム開発の奥深さに触れてみましょう！",
-    "image_keyword": "Overwatch 2 development, game failure, game director",
-    "technical_terms": [
-      {
-        "term": "PvE",
-        "explanation": "プレイヤーがコンピューター操作の敵（環境）と戦うゲームモード。Player versus Environmentの略。物語に沿って敵と協力して戦う形式が多い。"
-      },
-      {
-        "term": "オーバーウォッチ2",
-        "explanation": "Blizzard Entertainmentが開発した人気ヒーローシューター『オーバーウォッチ』の続編。PvP（プレイヤー対プレイヤー）がメインだが、当初はPvEストーリーモードも期待されていた。"
-      }
-    ]
-  },
-  "https://natalie.mu/comic/news/663801": {
-    "title": "激アツWニュース速報！『呪術廻戦≡（モジュロ）』ついに完結、そしてZoff×ちいかわコラボメガネが爆誕！",
-    "tags": "Comic",
-    "sentiment": "positive",
-    "sentiment_text": "Wで胸アツ！これは見逃せない注目ニュース！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/663801",
-    "summary_bullets": [
-      "大人気ダークファンタジー『呪術廻戦≡（モジュロ）』が歴史的完結を迎え、その衝撃の結末に世界が注目！",
-      "国民的キャラクター『ちいかわ』とメガネブランドZoffが夢のコラボ！日常を彩るキュートな限定メガネが登場！",
-      "話題の完結作品とファン必携コラボグッズ、どちらも見逃せないエンタメニュースで期待値が最高潮に！"
-    ],
-    "insight": "『呪術廻戦≡（モジュロ）』の完結は、長きにわたる物語の集大成としてファンに深い感動と考察の余地を与えるでしょう。一方で、『ちいかわ』とZoffのコラボメガネは、作品の世界観を身につけられるファン垂涎のアイテムとして、日常に彩りと楽しさをもたらします。",
-    "action_plan": "『呪術廻戦≡（モジュロ）』の最終章を読み返し、完結の瞬間を心ゆくまで味わいましょう！また、Zoff公式サイトで『ちいかわ』コラボメガネのラインナップをチェックし、お気に入りの一本をゲットする準備を始めてください！",
-    "image_keyword": "Jujutsu Kaisen, Chiikawa, collaboration glasses, manga anime news",
-    "technical_terms": []
-  },
-  "https://natalie.mu/comic/news/663409": {
-    "title": "2026年3月14日、新刊コミックスが爆誕！絶対チェックすべき人気作続々登場！",
-    "tags": "Manga",
-    "sentiment": "positive",
-    "sentiment_text": "本日発売！胸アツ新刊が君を待つ！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/663409",
-    "summary_bullets": [
-      "本日発売のマンガ単行本がズラリ！お目当ての作品は要チェック！",
-      "2026年3月14日発売の最新コミックス情報が網羅的に手に入る！",
-      "新たな物語が幕を開ける！読み応え抜群のラインナップに胸が躍る！"
-    ],
-    "insight": "このリストをチェックすれば、最新トレンドから隠れた名作まで、新たな出会いがきっと見つかるはず！お気に入りの作家の最新作から、気になっていた連載作品の続きまで、一気にチェックできるのが魅力です。",
-    "action_plan": "気になる作品は即座に書店や電子書籍ストアでゲットしましょう！友達におすすめをシェアして語り合うのもGOOD！",
-    "image_keyword": "Manga new releases, Comic book launch, Japanese comics",
-    "technical_terms": [
-      {
-        "term": "単行本",
-        "explanation": "雑誌連載された漫画作品などを一冊にまとめて出版される書籍のこと。コミックスとも呼ばれる。"
-      }
-    ]
-  },
-  "https://natalie.mu/comic/news/663956": {
-    "title": "マジかよ?! ドラマ「ONE PIECE」にDr.くれは降臨！野沢雅子の神ボイスで激熱展開が爆誕だ！",
-    "tags": "Drama",
-    "sentiment": "positive",
-    "sentiment_text": "激熱！最強のサプライズ爆誕！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/663956",
-    "summary_bullets": [
-      "Netflixドラマ「ONE PIECE」に、ファン待望の人気キャラ「Dr.くれは」の登場が確定！本編映像もついに公開！",
-      "声優界のレジェンド、野沢雅子がDr.くれはの日本語吹き替えを担当するという神キャスティングが判明し、ファン騒然！",
-      "原作の感動を呼び覚ます最強の布陣に、ドラマ「ONE PIECE」シーズン2への期待度が爆上がり！"
-    ],
-    "insight": "Dr.くれはの登場だけでも超サプライズなのに、まさかの野沢雅子が吹き替えを担当するとは！原作ファンもドラマファンも魂が震える最高のキャスティングで、ドラマ「ONE PIECE」のシーズン2がとんでもないことになりそうな予感しかない！",
-    "action_plan": "この興奮を胸に、Netflixドラマ「ONE PIECE」シーズン1をもう一度観て、あの感動を再び味わいつつ、今後の展開に備えよう！もちろん原作漫画のドラム王国編を読み返すのもアリだ！",
-    "image_keyword": "One Piece Dr. Kureha Live Action",
-    "technical_terms": [
-      {
-        "term": "Dr.くれは",
-        "explanation": "人気漫画「ONE PIECE」に登場する、医療大国ドラム王国の名医にして、トニートニー・チョッパーの恩師でもあるキャラクター。"
-      },
-      {
-        "term": "野沢雅子",
-        "explanation": "「ドラゴンボール」の孫悟空役などで知られる、日本を代表するレジェンド声優。彼女の声が作品にもたらす影響は計り知れない。"
-      },
-      {
-        "term": "吹き替え",
-        "explanation": "外国語の映像作品に、日本語の音声を当てて楽しむことができるようにすること。声優がキャラクターのセリフを演じる。"
-      }
-    ]
-  },
   "https://natalie.mu/eiga/news/663664": {
     "title": "【速報】ついにこの日が来た！本日公開の新作映画を徹底チェック！",
     "tags": "Movie",
@@ -4932,5 +4649,301 @@
     "action_plan": "『ザ・ボーイズ』をまだ見ていない人は、完結に備えてこれまでのシーズンを一気見！アマプラの2026年4月配信スケジュールを要チェックし、見たい作品をリストアップしておきましょう！",
     "image_keyword": "The Boys, streaming series, Amazon Prime",
     "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16Q3plaTNJQjI1c3B5d3VObW5EeEV6NjVWaG5lXzV5Wl9oVWtGcUVIWWpBVFFiSm9pVGhUTDZSdGxpeVpvcGFfX05ZMzVBUQ?oc=5": {
+    "title": "【アークレイダース】極秘マップ情報解禁！戦況を左右する精密探査ガイドを見逃すな！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "必勝ガイド爆誕！",
+    "rating": 4,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16Q3plaTNJQjI1c3B5d3VObW5EeEV6NjVWaG5lXzV5Wl9oVWtGcUVIWWpBVFFiSm9pVGhUTDZSdGxpeVpvcGFfX05ZMzVBUQ?oc=5",
+    "summary_bullets": [
+      "大注目のゲーム『ARC Raiders』の最新マップコンディション情報が詳細に解説！",
+      "各マップの地形やギミックを理解し、敵を出し抜くための重要ポイントが満載。",
+      "このガイドを参考に、今後のプレイで有利に立ち回る戦略を練ることができる！"
+    ],
+    "insight": "このニュースは、人気シューター『ARC Raiders』のプレイヤーが戦略を練る上で不可欠な、各マップのコンディションや精密な探査情報を深く掘り下げています。地形の利を活かした戦術や隠されたアイテムの発見に繋がるため、ゲームプレイの質を格段に向上させる見どころ満載のガイドです！",
+    "action_plan": "すぐに『ARC Raiders』のゲーム内を探索して、このガイドの情報を実践してみましょう！GameWithの他の攻略記事も合わせてチェックして、最強のレイダーを目指そう！",
+    "image_keyword": "ARC Raiders game map",
+    "technical_terms": [
+      {
+        "term": "ARC Raiders",
+        "explanation": "開発中・公開予定のサードパーソン・シューターゲーム。地球を侵略する機械生命体「ARC」と戦うPvPvE（プレイヤー対プレイヤー対環境）要素も含む。"
+      },
+      {
+        "term": "マップコンディション",
+        "explanation": "ゲーム内の各ステージ（マップ）における地形、天候、ギミック、資源配置などの環境条件や特性のこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZOEp0QjNGSEtNVVh5bEJ0bW4xblhvbXE3dWZ1dGYxeWdXeVVyTzNJRFptTlVKRFNqQXFpa3NRTHJPVC0zY3NUY0RiS3ItNWdKYUJV?oc=5": {
+    "title": "【速報】UFC、ついに日本上陸か!? ダナ・ホワイト代表が堀口恭司vs.マネル・ケイプ戦の母国開催に超前向き発言！",
+    "tags": "MMA",
+    "sentiment": "positive",
+    "sentiment_text": "夢のUFC日本上陸、現実味！格闘技ファン騒然のビッグニュースが飛び込んできた！",
+    "rating": 5,
+    "time_ago": "5時間前",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZOEp0QjNGSEtNVVh5bEJ0bW4xblhvbXE3dWZ1dGYxeWdXeVVyTzNJRFptTlVKRFNqQXFpa3NRTHJPVC0zY3NUY0RiS3ItNWdKYUJV?oc=5",
+    "summary_bullets": [
+      "UFCのダナ・ホワイト代表が、堀口恭司vs.マネル・ケイプ戦の日本開催に強い意欲を表明！",
+      "当初APEXでの開催が示唆されていたものの、日本でのビッグイベント実施を熱望しているとのこと。",
+      "日本人スター・堀口恭司のUFC凱旋試合が母国で実現する可能性が高まり、今後の発表に期待が高まる！"
+    ],
+    "insight": "長年のUFCファンが待ち望んだ日本大会開催の夢が、いよいよ現実味を帯びてきた！世界最高峰の舞台に、日本が誇るスーパースター堀口恭司が立つ姿を想像するだけで、アドレナリンが止まらない！ダナ・ホワイト代表の熱い言葉は、日本の格闘技界に新たな旋風を巻き起こすこと間違いなし。",
+    "action_plan": "この歴史的瞬間を見逃すな！堀口恭司とマネル・ケイプ、それぞれのUFCでの活躍を今すぐ動画でチェックして、興奮をマックスに高めておこう！UFC公式X（旧Twitter）もフォローして最新情報をキャッチだ！",
+    "image_keyword": "UFC Japan MMA Dana White",
+    "technical_terms": [
+      {
+        "term": "UFC",
+        "explanation": "「Ultimate Fighting Championship」の略。世界最高峰の総合格闘技団体で、世界中のトップファイターが集結する。日本でも絶大な人気を誇る。"
+      },
+      {
+        "term": "APEX",
+        "explanation": "UFCが米国ラスベガスに所有する施設。コロナ禍以降、主に観客を入れずにここで数多くのUFC大会が開催されている。"
+      },
+      {
+        "term": "堀口恭司",
+        "explanation": "日本の総合格闘家。UFCでフライ級タイトル挑戦経験があり、RIZINバンタム級王者にも輝いた日本を代表するトップファイター。"
+      },
+      {
+        "term": "マネル・ケイプ",
+        "explanation": "アンゴラ出身の総合格闘家。元RIZINバンタム級王者で、現在はUFCフライ級のトップランカーとして活躍中。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rcTVPVjNUaTVDN29qXzlrdGwzSnU0ZjRxTE85YmFBQnE4bDhjb2FRUjRTdW9FSkZUU2U1SENMdHp4bEx2MzVHSk4tYko1aVRtQWxZ?oc=5": {
+    "title": "激アツ再来！Capcom Creators JP杯 Round 2、2026年5月9日〜6月13日開催決定！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "激アツイベント開催！",
+    "rating": 4,
+    "time_ago": "6時間前",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rcTVPVjNUaTVDN29qXzlrdGwzSnU0ZjRxTE85YmFBQnE4bDhjb2FRUjRTdW9FSkZUU2U1SENMdHp4bEx2MzVHSk4tYko1aVRtQWxZ?oc=5",
+    "summary_bullets": [
+      "Capcom Creators JP杯 Round 2の開催決定！新たなスターが生まれる瞬間を見逃すな！",
+      "2026年5月9日から6月13日まで、約1ヶ月間にわたり熱い戦いが繰り広げられる！",
+      "Round 1の興奮を上回る激戦と、未来のeスポーツ界を担う才能の登場に期待大！"
+    ],
+    "insight": "人気ゲームメーカー、カプコンが手がけるeスポーツ大会Round 2が開催！トップクリエイターたちが繰り広げる白熱の戦いは、ゲームファンならずとも胸アツ必至！",
+    "action_plan": "大会の公式X（旧Twitter）やYouTubeチャンネルをフォローして、最新情報と激戦の模様をリアルタイムでチェックしよう！",
+    "image_keyword": "eSports tournament, Capcom, gaming competition",
+    "technical_terms": [
+      {
+        "term": "eスポーツ",
+        "explanation": "コンピューターゲームをスポーツ競技として捉え、プレイヤー同士が対戦する大会のこと。世界中でプロリーグや高額賞金大会が開催され、観戦するファンも増加中！"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/666500": {
+    "title": "GJ15周年祝祭！山下素童×藤原ハルが激筆！予測不能な“童貞底辺配信者”物語が今、幕を開ける！",
+    "tags": "Comic",
+    "sentiment": "positive",
+    "sentiment_text": "爆誕！話題沸騰の新作読切！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/666500",
+    "summary_bullets": [
+      "「グランドジャンプ」15周年記念の読切第2弾は、山下素童×藤原ハルの強力タッグが実現！",
+      "テーマは衝撃の「童貞底辺配信者」の物語で、現代社会を鋭く切り取る展開に期待が高まる！",
+      "才能豊かな二人の作家がどんな化学反応を起こすのか、その全貌とメッセージに注目！"
+    ],
+    "insight": "「童貞底辺配信者」という現代的かつセンシティブなテーマを、実力派作家の山下素童氏と藤原ハル氏がどのように描き出すのかが最大の見どころ。SNS時代を生きる人々の深層心理に迫り、読者の共感を呼ぶような予測不能なドラマが期待できます。",
+    "action_plan": "この注目の読切に備えて、まずは山下素童先生や藤原ハル先生の過去作品をチェックして、二人の世界観に触れてみましょう！",
+    "image_keyword": "manga, streamer, collaboration",
+    "technical_terms": [
+      {
+        "term": "GJ",
+        "explanation": "集英社が発行する青年漫画雑誌「グランドジャンプ」のこと。多彩なジャンルの作品を掲載しています。"
+      },
+      {
+        "term": "読切",
+        "explanation": "一つの回で物語が完結する短編漫画のこと。単発で楽しめるため、新しい作家やテーマが試される場でもあります。"
+      },
+      {
+        "term": "配信者",
+        "explanation": "インターネット上でライブ配信や動画投稿を行う人々のこと。ゲーム実況や雑談など、様々なコンテンツを発信しています。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/666557": {
+    "title": "「寿命」と引き換えに「時間」を支配!? 落ちこぼれ少年が最強を目指すタイムバトルアクション爆誕！",
+    "tags": "Manga",
+    "sentiment": "positive",
+    "sentiment_text": "神設定爆誕！期待の新連載に刮目せよ！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/666557",
+    "summary_bullets": [
+      "寿命を代償に時間を操る能力！命がけのタイムバトルアクションが幕を開ける！",
+      "落ちこぼれ少年が最強を目指す！王道と新機軸が融合したストーリーに注目！",
+      "命を削りながら成長する主人公の覚悟と、予測不能な熱いバトル展開から目が離せない！"
+    ],
+    "insight": "「寿命」という究極の代償と引き換えに「時間」を操る能力は、読者に緊張感と興奮をもたらす。落ちこぼれ少年が、その大きな代償を背負いながら最強へと駆け上がっていく姿は、読者の心を揺さぶること間違いなし！",
+    "action_plan": "新感覚バトルアクションが読みたいなら、まずは本作の連載開始をチェックしてみましょう！公式サイトやコミック誌で最新情報を追うのがおすすめです！",
+    "image_keyword": "fantasy action manga, time manipulation, battle shonen",
+    "technical_terms": []
+  },
+  "https://natalie.mu/comic/news/666545": {
+    "title": "復讐劇、開幕！冤罪で処刑された悪役令嬢が時間を巻き戻し、華麗なる逆襲へ！『悪役令嬢グロリア』1巻登場！",
+    "tags": "Manga",
+    "sentiment": "positive",
+    "sentiment_text": "ゾクゾクする復讐劇、ついに開幕！待望の新作コミック！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/666545",
+    "summary_bullets": [
+      "冤罪で処刑された悪役令嬢が、時間を巻き戻し復讐に燃えるスリリングな物語がコミカライズ！",
+      "悪役令嬢ジャンルに新たな傑作が誕生！待望のコミックス第1巻が発売開始！",
+      "壮絶な復讐劇の行方と、巻き戻った時間で彼女がどう立ち回るのか、今後の展開に超期待！"
+    ],
+    "insight": "「悪役令嬢グロリア」は、理不尽な死から蘇った主人公が、自身の運命を覆すため智謀を巡らせる壮大な復讐ファンタジー。予測不能な展開とグロリアの鮮やかな逆襲劇に、読者はきっと心を奪われるでしょう！",
+    "action_plan": "このダークファンタジーに惹かれたあなたは、ぜひコミックス第1巻を手に取って、グロリアの復讐劇を目撃してみましょう！",
+    "image_keyword": "villainess revenge manga",
+    "technical_terms": [
+      {
+        "term": "悪役令嬢",
+        "explanation": "乙女ゲームや小説で、主人公に敵対する役割の令嬢のこと。近年は彼女たちが主役になる作品が人気です。"
+      },
+      {
+        "term": "タイムリープ",
+        "explanation": "時間を遡って過去に戻ること。物語では過去のやり直しや未来を変えるために使われる設定です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrX2xVNW9Ba0FtM3FqTXUtSzFlY3FVZDhyNnRrdjlFTTZxMTNldGZWeGtHalVVazdBVXF6dlJUaHBNYmF4UlhsU0F3?oc=5": {
+    "title": "BTS旋風が止まらない！生配信ライブが連続1位＆ドキュメンタリー映画も日本TOP10席巻！Netflixで彼らの魅力を再発見！",
+    "tags": "K-POP",
+    "sentiment": "positive",
+    "sentiment_text": "BTS快進撃！Netflixを独占する注目の話題！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrX2xVNW9Ba0FtM3FqTXUtSzFlY3FVZDhyNnRrdjlFTTZxMTNldGZWeGtHalVVazdBVXF6dlJUaHBNYmF4UlhsU0F3?oc=5",
+    "summary_bullets": [
+      "BTSの生配信ライブが今週もNetflix国内ランキングで堂々の1位を獲得し、その人気を不動のものに。",
+      "ドキュメンタリー映画もTOP10入りを果たし、ライブと映画の両方でNetflixのランキングを席巻する圧倒的な存在感を証明。",
+      "全世界を魅了し続けるBTSの多角的なコンテンツが、日本国内でも高い視聴熱を維持していることが明らかに。"
+    ],
+    "insight": "このニュースは、BTSが単なる音楽グループに留まらず、ライブパフォーマンス、感動的なドキュメンタリー、そしてファンとの繋がりを通して、日本のエンタメ界を揺るがすほどの大きな影響力を持っていることを示しています。彼らのコンテンツは、ファンだけでなく幅広い視聴者を惹きつける魅力に満ちています。",
+    "action_plan": "Netflixで配信中のBTS生配信ライブやドキュメンタリー映画を今すぐチェックしてみましょう！彼らの音楽とパフォーマンス、そして素顔に触れて、世界が熱狂する理由を体感する絶好のチャンスです。",
+    "image_keyword": "BTS Netflix Live Documentary",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54MEhXbUIyX0xMMExYOGtBVWJtNEFVVjlIaGhVNlBDd2Z5YlZQU1NjeUxxZTBhcnlMMzVhMUh5M3pPWVVPbTFTbVRB?oc=5": {
+    "title": "中島健人×miletの最強タッグ爆誕！話題作『知らないカノジョ』がNetflix国内TOP10に電撃初登場！今すぐチェックだ！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "大注目作がキタ！爆速ランクインの快挙！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54MEhXbUIyX0xMMExYOGtBVWJtNEFVVjlIaGhVNlBDd2Z5YlZQU1NjeUxxZTBhcnlMMzVhMUh5M3pPWVVPbTFTbVRB?oc=5",
+    "summary_bullets": [
+      "中島健人×miletという最強コラボレーションが実現した話題作『知らないカノジョ』がNetflixで大旋風を巻き起こし中！",
+      "公開直後からNetflix国内映画ランキングで堂々のTOP10に初登場、その人気の高さを証明しているぞ！",
+      "『侍タイ』も滑り込みで注目を集めており、Netflixのランキング動向から今後も目が離せない！"
+    ],
+    "insight": "人気と実力を兼ね備えた中島健人とmiletという異色のコラボが織りなす『知らないカノジョ』が、公開早々Netflixのトップランキングに食い込んだことは、作品のクオリティと影響力の高さを示すものだ。多くの視聴者がこの予測不能な物語の世界に夢中になっているに違いない！",
+    "action_plan": "Netflixで『知らないカノジョ』を今すぐ視聴して、この話題作の魅力を最速で体験しよう！さらに、Netflixの国内ランキングを定期的にチェックして、次にくる大ヒット作をいち早く見つけ出すのもおすすめだ！",
+    "image_keyword": "Netflix movie ranking, Japanese drama, celebrity collaboration",
+    "technical_terms": [
+      {
+        "term": "Netflix",
+        "explanation": "世界中で利用されているオンライン動画配信サービス。映画、ドラマ、アニメなど幅広いコンテンツが視聴可能。"
+      },
+      {
+        "term": "TOP10",
+        "explanation": "特定の期間やジャンルにおいて、最も視聴されたり注目されたりしている作品の上位10位を指すランキング。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHNGa3NlSlJHeGt6dlFVYkNtV3hhVExaeVRDczI1YXhUSnJZUHE1T2l5V29SQTFkaGZQWU9RU09pSFVKMU9YT2FUUmVyZjV4dnd2MW9fQjBGS2RSR2JUNUh6eUxJcUhreUNrLWY5RGNRUWp3MDB5ak5BaXREV1FDUlhSbkpsbkVINTdRQkMtVDk?oc=5": {
+    "title": "Amazon Prime Video、2026年4月の新作ラインナップがヤバい！今から震えて待て！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "待望の新作発表！見逃し厳禁の超注目ラインナップ！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHNGa3NlSlJHeGt6dlFVYkNtV3hhVExaeVRDczI1YXhUSnJZUHE1T2l5V29SQTFkaGZQWU9RU09pSFVKMU9YT2FUUmVyZjV4dnd2MW9fQjBGS2RSR2JUNUh6eUxJcUhreUNrLWY5RGNRUWp3MDB5ak5BaXREV1FDUlhSbkpsbkVINTdRQkMtVDk?oc=5",
+    "summary_bullets": [
+      "Amazon Prime Videoから、2026年4月に楽しめる超豪華な新着コンテンツ情報が解禁された！",
+      "映画ファン、ドラマ好き、アニメファン…全てのエンタメ好きにとって見逃せないビッグニュース！",
+      "今からスケジュール帳をチェックして、配信日を心待ちにしよう！"
+    ],
+    "insight": "まだ先の情報でありながら、今から期待感を煽る豪華なラインナップは、Prime Videoユーザーのエンタメライフをさらに豊かにしてくれること間違いなし。最新映画から独占配信まで、多様なジャンルが期待される。",
+    "action_plan": "Prime Videoの公式発表を定期的にチェックして、追加情報を見逃さないようにしましょう！今すぐPrime Videoに加入して、過去の傑作コンテンツでウォーミングアップするのもおすすめ！",
+    "image_keyword": "Prime Video, new releases, streaming content",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HVS0tRzJFLWkzSm90V1JUUGpZNWJtc3VieV9yV0Vsa1JpQnJ3RHhwUFNJSFJWeEJGamNhWTd5eGpycUE1VlJBNEtwMVBvMlBUYXc?oc=5": {
+    "title": "マック・ミラー伝説の傑作ミクステ『K.I.D.S.』が15周年で遂に初CD化！あの熱狂が蘇る！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "伝説の作品が遂にフィジカルに！ファン狂喜のビッグニュース！",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HVS0tRzJFLWkzSm90V1JUUGpZNWJtc3VieV9yV0Vsa1JpQnJ3RHhwUFNJSFJWeEJGamNhWTd5eGpycUE1VlJBNEtwMVBvMlBUYXc?oc=5",
+    "summary_bullets": [
+      "マック・ミラーの初期傑作ミクステ『K.I.D.S.』が、発表から15周年を記念して初のCDリリース決定！",
+      "若き日の才能が爆発した2010年の名作をフィジカルで手に入れられる、ファン待望のコレクターズアイテムが登場！",
+      "DatPiff全盛期の自由な空気を伝える貴重な作品が、現代に蘇る歴史的リリースに大注目！"
+    ],
+    "insight": "『K.I.D.S.』は、マック・ミラーの類まれな才能が芽吹き始めたキャリア初期の輝きを凝縮した一枚。当時のヒップホップシーンを彩ったDatPiff時代のバイブスと、彼の音楽的ルーツを感じられる、まさに必聴のタイムカプセルです。",
+    "action_plan": "この機会に『K.I.D.S.』を聴き直すのはもちろん、マック・ミラーの他の初期作品や、晩年の傑作『Swimming』『Circles』まで、彼の音楽の軌跡を改めて辿ってみましょう！きっと新たな発見があるはずです。",
+    "image_keyword": "Mac Miller K.I.D.S. album, hip hop mixtape, 2010s music",
+    "technical_terms": [
+      {
+        "term": "ミクステ (Mixtape)",
+        "explanation": "アーティストが無料で公開する非公式アルバムのような作品。新曲や既存曲のリミックスなどで構成されることが多い。"
+      },
+      {
+        "term": "DatPiff",
+        "explanation": "2000年代後半から2010年代にかけて、無料でヒップホップのミクステを配信し、多くの新人アーティストを輩出した人気ウェブサイト。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wUWtOa0F3SjgteURCRk1VVU1fWkdVMjJJcFNWeVN0Y2NTbDAxZm1EZENCY2QxNjhzYW96YlpqclJHaFA1T2RYWDFyNGRvQndrX2c?oc=5": {
+    "title": "アリ・レノックス最新作『Vacancy』にゾッコン！気怠くも官能的なソウルで魂を揺さぶられる！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "魂震える珠玉の一枚！今すぐ聴くべき注目作！",
+    "rating": 5,
+    "time_ago": "35日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wUWtOa0F3SjgteURCRk1VVU1fWkdVMjJJcFNWeVN0Y2NTbDAxZm1EZENCY2QxNjhzYW96YlpqclJHaFA1T2RYWDFyNGRvQndrX2c?oc=5",
+    "summary_bullets": [
+      "アリ・レノックスが放つ、唯一無二のエレガンスと官能が光るソウルアルバム『Vacancy』が登場！",
+      "気怠げながらもR&B歌手としての矜持を感じさせる、圧倒的なヴォーカルワークに注目。",
+      "彼女の成熟したアーティスト性が詰まった、心に深く響く必聴の一枚だ！"
+    ],
+    "insight": "アリ・レノックスの代名詞とも言える、気怠くもパワフルな歌声が紡ぎ出すソウルフルな世界観が最大の魅力。深みのある歌詞と洗練されたサウンドが、聴く者の心を掴んで離さないでしょう。",
+    "action_plan": "まずは『Vacancy』を今すぐストリーミングで聴いて、彼女の魅惑的な声に身を委ねてみましょう！過去のアルバムも合わせてチェックすると、アリ・レノックスの世界観をより深く楽しめますよ。",
+    "image_keyword": "Ari Lennox music, R&B singer, Soul album",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83d1RzWEwzUFBhcTRtODUwWkhNRDhPNUo1LXdIVGxKem9ZWnFFZk5INU9ZMHJkMUVVRV82NnJDOWwxTnZOdW1WRzVFTTFaQ3IyUkE?oc=5": {
+    "title": "米倉利紀、待望の新作『yellow BEAR』解禁！華やかソウルと心揺さぶる歌声が織りなす珠玉の世界！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "心震えるサウンド体験！",
+    "rating": 5,
+    "time_ago": "2日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83d1RzWEwzUFBhcTRtODUwWkhNRDhPNUo1LXdIVGxKem9ZWnFFZk5INU9ZMHJkMUVVRV82NnJDOWwxTnZOdW1WRzVFTTFaQ3IyUkE?oc=5",
+    "summary_bullets": [
+      "米倉利紀の最新アルバム『yellow BEAR』が、華やかなソウルや歌謡曲調の楽曲でリスナーを魅了！",
+      "賑々しいサウンドの奥には、翳りのある歌い口が際立ち、唯一無二の深みと感動を呼び起こす！",
+      "新旧ファン問わず、米倉利紀の進化し続ける音楽性と表現力を存分に堪能できる傑作の誕生！"
+    ],
+    "insight": "『yellow BEAR』は、米倉利紀が持つ華やかでグルーヴィーなソウル・歌謡曲の要素と、彼の情感豊かな歌声が見事に融合した作品。そのコントラストがリスナーの心を掴んで離さない、まさに聴き応えのある一枚です。",
+    "action_plan": "まずは各音楽配信サービスで『yellow BEAR』を試聴し、米倉利紀の最新サウンドを体感してみましょう！気に入ったら、ぜひ過去の作品も遡って、彼の音楽世界をさらに深く掘り下げてみて！",
+    "image_keyword": "Toshinori Yonekura album, J-Pop music, Soul pop",
+    "technical_terms": [
+      {
+        "term": "ソウル",
+        "explanation": "1950年代後半にアメリカで生まれた、ゴスペルやR&Bをルーツに持つ感情豊かな音楽ジャンル。"
+      },
+      {
+        "term": "歌謡曲",
+        "explanation": "昭和時代を中心に日本で広く親しまれた、叙情的なメロディーと歌唱が特徴のポピュラー音楽ジャンル。"
+      }
+    ]
   }
 }
