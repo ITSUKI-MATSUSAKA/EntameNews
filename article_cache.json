@@ -1,194 +1,4 @@
 {
-  "https://natalie.mu/comic/news/663686": {
-    "title": "速報！本日発売マンガ単行本リスト爆誕！【2026年3月15日】あなたの推しはどれ？",
-    "tags": "Manga",
-    "sentiment": "positive",
-    "sentiment_text": "読むしかない！期待の新刊祭りだ！",
-    "rating": 4,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/663686",
-    "summary_bullets": [
-      "人気シリーズの最新巻や待望の新作が本日一挙に登場、漫画ファンは必見！",
-      "各作品の発売日をチェックして、買い逃しなく推し作品をゲットするチャンス！",
-      "今日から始まる新たな物語や展開に胸躍る一日になること間違いなし！"
-    ],
-    "insight": "本日、人気作の最新巻から注目の新連載まで、数多くのマンガ単行本が発売！書店に駆け込めば、きっとあなたの心を鷲掴みにする運命の一冊に出会えるはずだ。新たな推し作品を発見する最高のチャンスが今、ここに！",
-    "action_plan": "ナタリーの記事をチェックして、発売リストから気になる作品を今すぐ書店でゲットしてみましょう！試し読みで新たな推しを発見するのもアリ！",
-    "image_keyword": "manga new release, comic book day, latest manga",
-    "technical_terms": []
-  },
-  "https://natalie.mu/comic/news/664024": {
-    "title": "アニメ『TRIGUN STARGAZE』、ついにクライマックス突入！ 激アツ展開を告げる新ビジュアル爆誕！",
-    "tags": "Anime",
-    "sentiment": "positive",
-    "sentiment_text": "最高のクライマックスが待ってる！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/664024",
-    "summary_bullets": [
-      "アニメ『TRIGUN STARGAZE』が完結まで残り2話！ クライマックスに向けて新ビジュアル公開で期待度MAX！",
-      "物語はついに最高潮へ！ 主人公ヴァッシュの葛藤と激闘の行方にファンは釘付け！",
-      "公開された迫力のクライマックスビジュアルは必見！ 衝撃と感動の最終回に備えよう！"
-    ],
-    "insight": "『TRIGUN STARGAZE』は、伝説的漫画『トライガン』の世界観を最新技術で再構築した意欲作。主人公ヴァッシュの深い内面描写と、スタイリッシュかつド迫力のアクションシーンが融合し、観る者を圧倒する壮大な物語が最大の魅力だ。",
-    "action_plan": "今すぐこれまでのエピソードを振り返って最終回に備えよう！ 原作漫画や過去のアニメシリーズもチェックして、トライガンの世界にどっぷり浸かるのもアリ！",
-    "image_keyword": "Trigun Stargaze, Anime climax, Sci-fi action",
-    "technical_terms": [
-      {
-        "term": "TRIGUN STARGAZE",
-        "explanation": "人気漫画『トライガン』を原作とし、新たな解釈と映像表現で描かれた完全新作のCGアニメーションシリーズ。"
-      },
-      {
-        "term": "クライマックスビジュアル",
-        "explanation": "物語の最高潮（クライマックス）を迎える時期に公開される、作品の世界観や主要キャラクターの状況を象徴する特別なイラストやキービジュアル。"
-      }
-    ]
-  },
-  "https://natalie.mu/eiga/news/663935": {
-    "title": "椎名桔平が『おしゃれクリップ』に降臨！神回確定！尊敬する役所広司からのスペシャルエールに痺れる！",
-    "tags": "TV Show",
-    "sentiment": "positive",
-    "sentiment_text": "胸熱エピソード満載！注目のトーク番組！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/eiga/news/663935",
-    "summary_bullets": [
-      "俳優・椎名桔平が人気トーク番組『おしゃれクリップ』にゲスト出演し、知られざる素顔を披露！",
-      "大先輩・役所広司からの激アツ応援メッセージに、椎名桔平が何を語るのか注目！",
-      "豪華ゲストとのトークで、どんな意外な一面や深掘りトークが飛び出すのか放送が待ち遠しい！"
-    ],
-    "insight": "演技派俳優として常に輝きを放つ椎名桔平のパーソナルな魅力に迫る絶好の機会！大先輩・役所広司との熱い絆にも感動必至！",
-    "action_plan": "放送日をチェックして『おしゃれクリップ』を絶対に見逃さないようにしましょう！椎名桔平出演作品も合わせてチェック！",
-    "image_keyword": "actor talk show, celebrity interview, emotional moment",
-    "technical_terms": []
-  },
-  "https://natalie.mu/eiga/news/663948": {
-    "title": "超豪華！市村正親＆小日向文世がドラマ『リボーン』で高橋一生と夢の共演！これは見逃せない！",
-    "tags": "Drama",
-    "sentiment": "positive",
-    "sentiment_text": "超豪華共演に期待爆上げ！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/eiga/news/663948",
-    "summary_bullets": [
-      "市村正親＆小日向文世という演技派ベテラン俳優が、ドラマ「リボーン」への出演を決定！",
-      "主演の高橋一生との豪華すぎる共演が実現し、早くもファンからの期待感が最高潮に！",
-      "実力派キャストが織りなす演技の化学反応に、放送開始が待ちきれない！",
-      "人間ドラマ「リボーン」の公式サイトや関連情報をチェックして、放送開始に備えましょう！"
-    ],
-    "insight": "市村正親＆小日向文世という重鎮が、高橋一生とどのような化学反応を見せるのかが最大の注目ポイント！演技派キャストが織りなす人間ドラマから目が離せない！",
-    "action_plan": "ドラマ『リボーン』の公式サイトや関連情報をチェックして、放送開始に備えましょう！高橋一生、市村正親、小日向文世の過去の出演作を復習するのもアリ！",
-    "image_keyword": "Japanese drama, famous actors, collaboration",
-    "technical_terms": []
-  },
-  "https://natalie.mu/eiga/news/663225": {
-    "title": "銀幕の夢舞台！ハリウッドの秘密がNHK BSで大解剖！吉田羊＆玉置玲央の豪華ナレーションは必聴！",
-    "tags": "Movie",
-    "sentiment": "positive",
-    "sentiment_text": "映画ファン垂涎の特番キタコレ！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/eiga/news/663225",
-    "summary_bullets": [
-      "“映画の都”ハリウッドの魅力を深掘りする2時間特別番組がNHK BSで放送決定！",
-      "番組を彩るナレーションには、実力派俳優の吉田羊と玉置玲央が決定し、期待が最高潮に！",
-      "映画の歴史や文化、裏側をたっぷりと堪能できる、映画ファン必見の企画に注目が集まる！"
-    ],
-    "insight": "映画の歴史を彩るハリウッドの真髄に、日本の実力派俳優である吉田羊と玉置玲央の深みのあるナレーションで迫る贅沢な番組。銀幕のスターたちのエピソードや名作誕生秘話は、映画好きならずとも心を揺さぶられること間違いなし！",
-    "action_plan": "番組放送前に、ハリウッド黄金期の代表作や、吉田羊・玉置玲央の出演作をチェックして、さらに放送を楽しみましょう！",
-    "image_keyword": "Hollywood movie, documentary, actor narration",
-    "technical_terms": []
-  },
-  "https://natalie.mu/music/news/664036": {
-    "title": "SixTONES、伝説のボケ合戦で光一先輩激怒＆HIKAKIN顔面蒼白！いったい何が！？",
-    "tags": "Entertainment",
-    "sentiment": "positive",
-    "sentiment_text": "爆笑事件発生！伝説回爆誕の予感！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/music/news/664036",
-    "summary_bullets": [
-      "SixTONESメンバーが仕掛けた予測不能なボケ合戦が爆笑を呼ぶ！",
-      "先輩・堂本光一の\"ブチギレ\"と人気YouTuber HIKAKINの\"顔面蒼白\"に注目！",
-      "この伝説的エピソードの全貌は記事でチェック！見逃し厳禁の爆笑回！"
-    ],
-    "insight": "人気アイドルSixTONESが、大先輩・堂本光一と国民的YouTuber HIKAKINを巻き込み、予測不能な爆笑の化学反応を巻き起こした伝説の一幕！彼らの新たな一面やグループの絆が垣間見える、ファン垂涎のエンタメ体験だ。",
-    "action_plan": "この衝撃エピソードの全貌を、今すぐ記事でチェックして爆笑の渦に飛び込もう！さらに、SixTONESの過去のバラエティ出演回やHIKAKINのコラボ動画も合わせて見て、彼らのエンタメ力を再確認するのもおすすめ！",
-    "image_keyword": "SixTONES funny moment",
-    "technical_terms": []
-  },
-  "https://natalie.mu/music/news/664032": {
-    "title": "賞金1000万円を掴め！M!LK曽野、岡崎体育、キスマイ横尾ら豪華12名が岡田准一MCのクイズ特番「THE FLOOR」に参戦決定！",
-    "tags": "TV Show",
-    "sentiment": "positive",
-    "sentiment_text": "期待度MAXの超豪華共演！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/music/news/664032",
-    "summary_bullets": [
-      "賞金1000万円を巡る頭脳戦にM!LK曽野、岡崎体育、キスマイ横尾ら豪華12名が電撃参戦！",
-      "MC岡田准一が仕掛ける新感覚クイズ特番「THE FLOOR」は絶対見逃せない！",
-      "推しの意外な一面が見れるかも！？誰が1000万円を掴むのか、今からワクワクが止まらない！"
-    ],
-    "insight": "岡田准一がMCを務める新感覚クイズ特番に、人気アーティストやアイドル、タレントが集結！賞金1000万円という夢の大金を賭けた熱い頭脳戦は、ファンならずとも釘付けになること間違いなし！",
-    "action_plan": "番組放送日はもちろん要チェック！出演者のSNSをフォローして最新情報をゲットしたり、彼らの楽曲や過去の出演番組を改めて楽しんで、期待感を高めよう！",
-    "image_keyword": "quiz show, celebrity game, prize money",
-    "technical_terms": []
-  },
-  "https://natalie.mu/music/news/664038": {
-    "title": "伝説コラボ爆誕！Chara＋YUKI新曲MV「背中にリボン」解禁！牧野和子イラストが超絶アニメ化！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "奇跡のコラボ爆誕！待望のMV解禁！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/music/news/664038",
-    "summary_bullets": [
-      "CharaとYUKIによる夢のユニット「Chara＋YUKI」が、新曲「背中にリボン」のMVを遂に公開！",
-      "MVでは、伝説のクリエイター・牧野和子のイラストが美しくアニメーション化され、楽曲の世界観を鮮やかに表現！",
-      "2人の個性的な歌声と唯一無二のアートが融合した、まさに“聴くアート”体験がここに誕生！"
-    ],
-    "insight": "日本の音楽シーンを彩る2大歌姫、CharaとYUKIが再びタッグを組んだ本作は、まさに音楽ファン垂涎の奇跡。牧野和子の繊細なイラストがアニメーションとして息づくことで、楽曲が持つ幻想的な世界観がより一層深く、心に響く傑作MVが誕生しました。",
-    "action_plan": "この衝撃のMVを即座にチェックするのはもちろん、Chara＋YUKIの過去作品や、二人のソロ活動も深掘りして、その音楽遍歴を辿ってみましょう！牧野和子の他のアート作品も要チェック！",
-    "image_keyword": "J-pop duo, animated music video, Japanese pop art",
-    "technical_terms": [
-      {
-        "term": "MV",
-        "explanation": "Music Video（ミュージックビデオ）の略称。楽曲の世界観を映像化したもので、視覚と聴覚で音楽を楽しむための作品です。"
-      },
-      {
-        "term": "アニメ化",
-        "explanation": "イラストや漫画などの静止画が、動きのある映像（アニメーション）になること。キャラクターや背景が躍動的に表現されます。"
-      }
-    ]
-  },
-  "https://natalie.mu/eiga/news/663997": {
-    "title": "衝撃発表！天野浩成が『仮面ライダーゼッツ』参戦！謎の男ジーク＆仮面ライダードォーン役で二刀流変身か！？",
-    "tags": "Movie",
-    "sentiment": "positive",
-    "sentiment_text": "激アツ参戦！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/eiga/news/663997",
-    "summary_bullets": [
-      "天野浩成が最新作『仮面ライダーゼッツ』への出演が決定！",
-      "謎の男ジークと、新登場の仮面ライダードォーン役で作品に登場するファン待望のWキャスト！",
-      "その正体と物語への影響、そしてどんなバトルが繰り広げられるのか今後の展開に期待が高まる！"
-    ],
-    "insight": "『仮面ライダー剣』で橘さんを演じた天野浩成さんが再びライダー作品に登場するだけでも胸アツ！さらに謎の男ジークと新ライダー「ドォーン」の二役に挑む衝撃展開は、作品に深みと予測不能なスリルをもたらし、ファンを熱狂させること間違いなしだ！",
-    "action_plan": "まずは『仮面ライダーゼッツ』本編を要チェック！天野浩成さんが出演した『仮面ライダー剣』を見返して、今回の出演との共通点や進化を考察してみるのも面白いぞ！",
-    "image_keyword": "Kamen Rider actor, Japanese hero, Tokusatsu",
-    "technical_terms": [
-      {
-        "term": "仮面ライダーゼッツ",
-        "explanation": "新たな物語が展開される仮面ライダーシリーズの最新作。"
-      },
-      {
-        "term": "仮面ライダードォーン",
-        "explanation": "天野浩成さんが演じる、今回の作品で新登場する謎の仮面ライダー。"
-      }
-    ]
-  },
   "https://natalie.mu/eiga/news/663995": {
     "title": "「ヒーローライブスペシャル2026」開催決定！夢のハイタッチ＆撮影会で推しと直接会える大チャンス！",
     "tags": "Event",
@@ -4615,7 +4425,7 @@
     "sentiment": "positive",
     "sentiment_text": "BTS快進撃！Netflixを独占する注目の話題！",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "2日前",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBrX2xVNW9Ba0FtM3FqTXUtSzFlY3FVZDhyNnRrdjlFTTZxMTNldGZWeGtHalVVazdBVXF6dlJUaHBNYmF4UlhsU0F3?oc=5",
     "summary_bullets": [
       "BTSの生配信ライブが今週もNetflix国内ランキングで堂々の1位を獲得し、その人気を不動のものに。",
@@ -4912,7 +4722,7 @@
     "sentiment": "positive",
     "sentiment_text": "世界を席巻！期待度MAX！",
     "rating": 5,
-    "time_ago": "1時間前",
+    "time_ago": "1日前",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1iQ0pJd2xQZk1oZmRTMTJkRHlhQzNuMkk0YXprTDUzUmowckVhUEYyQ0loSmk2dTRlb19iU0xvYWxEZ2hJNDl1WWdB?oc=5",
     "summary_bullets": [
       "インド発のアクション大作『女戦士３』がNetflix世界映画ランキングで堂々の初登場1位を獲得し、世界中で話題沸騰中！",
@@ -4977,5 +4787,233 @@
         "explanation": "ロックにトランペットやトロンボーンなどの管楽器（ブラス）を大胆に取り入れた音楽ジャンル。ファンキーで躍動感あふれるサウンドが特徴。"
       }
     ]
+  },
+  "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0UGtpMjFvb3B1eWM2Z052QzBhZGRlQ21wbklKTlZ2TUxxOWU5a2ZxRklnMC10YnM3RVcxZG1WaVVYaXdHNFE?oc=5": {
+    "title": "湘南発eスポーツチーム「Meteor」がApex公式大会へ殴り込み！新星まろん選手、電撃スタンドインで世界を揺らすか！？",
+    "tags": "Esports",
+    "sentiment": "positive",
+    "sentiment_text": "アツすぎる展開、爆誕！",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0UGtpMjFvb3B1eWM2Z052QzBhZGRlQ21wbklKTlZ2TUxxOWU5a2ZxRklnMC10YnM3RVcxZG1WaVVYaXdHNFE?oc=5",
+    "summary_bullets": [
+      "湘南から世界を目指すeスポーツチーム「Meteor」が、人気バトルロイヤルゲーム「Apex Legends」の公式大会に出場決定！",
+      "チームには期待の新星「まろん選手」がスタンドインとして電撃参戦！未知数の化学反応にファンの期待が高まる！",
+      "地域密着型チームが世界の舞台に挑む、その快進撃から目が離せない！熱い戦いの幕が今、開く！"
+    ],
+    "insight": "湘南から世界を目指すeスポーツチーム「Meteor」の挑戦は、まさに地域と世界を繋ぐ希望の光！さらに、期待の新星まろん選手がスタンドインとして加わり、予測不能なドラマが生まれる予感しかない！彼らが世界を舞台にどんなプレイを見せてくれるのか、今からワクワクが止まらない！",
+    "action_plan": "「Meteor」の公式大会での活躍をリアルタイムで応援し、新星まろん選手のプレイをその目に焼き付けよう！SNSでハッシュタグ #Meteor #ApexLegends で盛り上がりに参加するのも忘れずに！",
+    "image_keyword": "esports team, apex legends, gaming competition",
+    "technical_terms": [
+      {
+        "term": "esports",
+        "explanation": "エレクトロニック・スポーツの略。ビデオゲームを競技として行うことを指し、プロリーグや大会が世界中で開催されています。"
+      },
+      {
+        "term": "Apex Legends",
+        "explanation": "エーペックスレジェンズ。Respawn Entertainmentが開発した人気無料プレイのバトルロイヤル形式FPS（ファーストパーソン・シューター）ゲームです。"
+      },
+      {
+        "term": "スタンドイン",
+        "explanation": "スポーツやエンターテイメントにおいて、レギュラーメンバーが急遽欠場した場合に、その代役として一時的に出場する選手や演者のこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLUVRVZl85YVo4cUZ3VndIdUNfeWNZQm4zRzNkZXotYmxvWS1UdEhha0RILWM1V1QwUzkyUFl0UGctSlI20gFKQVVfeXFMUGctMzNieFRCeFAwZTlvMFM3V0xzZUNrOUZiR1JITm9SZHliN25ERXpJWXZET1JGX2NtRzJLX3VJN1NSQnFsSWctcUE?oc=5": {
+    "title": "REIGNITE、Apex Legends部門がALGSプロリーグAPAC Nに激アツ参戦決定！レベチな戦いが始まる！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "期待値爆上がり！伝説の戦いが始まる！",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLUVRVZl85YVo4cUZ3VndIdUNfeWNZQm4zRzNkZXotYmxvWS1UdEhha0RILWM1V1QwUzkyUFl0UGctSlI20gFKQVVfeXFMUGctMzNieFRCeFAwZTlvMFM3V0xzZUNrOUZiR1JITm9SZHliN25ERXpJWXZET1JGX2NtRzJLX3VJN1NSQnFsSWctcUE?oc=5",
+    "summary_bullets": [
+      "プロeスポーツチームREIGNITEのApex Legends部門が、世界最高峰の舞台ALGSプロリーグAPAC Nへの出場を決定！",
+      "アジア太平洋地域のトップチームが集うALGS Year6 Split1 – Pro League – APAC Nで、REIGNITEが頂点を目指す！",
+      "世界を震撼させるREIGNITEの新たな伝説の始まりに、ファンは熱狂必至！"
+    ],
+    "insight": "日本のeスポーツシーンを牽引するREIGNITEが、Apex Legendsの最高峰リーグALGSプロリーグAPAC Nで世界の強豪と激突！彼らの戦略とスキルが織りなす熱いバトルは、ファンならずとも見逃せない！",
+    "action_plan": "REIGNITEの公式SNSや配信チャンネルをフォローして、ALGSプロリーグの最新情報や試合日程をいち早くチェックしましょう！",
+    "image_keyword": "eSports Apex Legends",
+    "technical_terms": [
+      {
+        "term": "ALGS",
+        "explanation": "人気バトルロイヤルゲーム『Apex Legends』の世界最高峰を決める公式eスポーツ大会「Apex Legends Global Series」の略称だよ！"
+      },
+      {
+        "term": "Pro League",
+        "explanation": "ALGSの中でもトップレベルのプロチームだけが出場できる、まさにエリートリーグのこと！"
+      },
+      {
+        "term": "APAC N",
+        "explanation": "アジア太平洋地域の北部地域を指す略称。日本、韓国、中国などが含まれる激戦区だ！"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTRExFZDQ1bU5qZGktLTBqcS1xZUpwMnR1d1hqcFZZeGpsSE82aGNNaVV6YktxY25HbDM5SmM2QnBZUFhWUDN4cTJWX0dJQQ?oc=5": {
+    "title": "【ARC Raiders】謎を解き明かせ！「埃をかぶった配線」クエスト攻略で勝利を掴め！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "難解クエストもこれで安心！勝利への道、開け！",
+    "rating": 4,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTRExFZDQ1bU5qZGktLTBqcS1xZUpwMnR1d1hqcFZZeGpsSE82aGNNaVV6YktxY25HbDM5SmM2QnBZUFhWUDN4cTJWX0dJQQ?oc=5",
+    "summary_bullets": [
+      "待望の新作SFシューター『ARC Raiders』の最新クエスト攻略情報が解禁！",
+      "難解な「埃をかぶった配線」クエストをスムーズにクリアするためのヒントが満載！",
+      "この攻略で隠された秘密を解き明かし、ゲームをさらに深く楽しむチャンス！"
+    ],
+    "insight": "『ARC Raiders』の広大な世界でプレイヤーを悩ませる「埃をかぶった配線」クエスト。この攻略記事は、複雑なパズルや強敵との戦いを乗り越えるための具体的な手順とコツを惜しみなく提供し、勝利の喜びへと導きます。",
+    "action_plan": "記事で学んだ知識を手に、早速『ARC Raiders』の世界へ飛び込み、「埃をかぶった配線」クエストに挑戦してみましょう！他の攻略記事もチェックして、全ミッション制覇を目指せ！",
+    "image_keyword": "ARC Raiders game, sci-fi action, quest guide",
+    "technical_terms": [
+      {
+        "term": "ARC Raiders",
+        "explanation": "宇宙からの脅威「ARC」と戦う、爽快SFシューティングゲームのタイトル。"
+      },
+      {
+        "term": "クエスト",
+        "explanation": "ゲーム内でプレイヤーに与えられる様々な任務や目的のこと。クリアすると報酬が得られます。"
+      },
+      {
+        "term": "埃をかぶった配線",
+        "explanation": "『ARC Raiders』内に登場する、特定のミッションやストーリーが展開されるクエストの名称。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/666781": {
+    "title": "衝撃！人気マンガ家が“創作の闇”に堕ちるサスペンス開幕！ゾクゾクが止まらない新連載に注目！",
+    "tags": "Manga",
+    "sentiment": "positive",
+    "sentiment_text": "期待の新作！衝撃の展開にゾクゾク！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/666781",
+    "summary_bullets": [
+      "「マンガのために人を殺している…？」禁断のテーマを扱うサスペンスが新登場！",
+      "人気マンガ家が創作の狂気に囚われる、予測不能な物語に読者は釘付け！",
+      "アートと倫理の境界線を問う、深く心に刺さる展開に期待が高まる！"
+    ],
+    "insight": "創作という名の“狂気”に囚われた人気マンガ家が、いかにして闇に堕ちていくのか。アートと倫理の境界線で揺れ動く人間の葛藤が、読者の心臓を鷲掴みにする！その衝撃的な設定に、あなたはどこまで耐えられるか!?",
+    "action_plan": "本作の衝撃設定にゾクゾクしたら、他の「クリエイターの闇」を描いた作品やサイコサスペンス系のマンガもチェックしてみましょう！",
+    "image_keyword": "manga suspense, dark creation, artist thriller",
+    "technical_terms": []
+  },
+  "https://natalie.mu/comic/news/666713": {
+    "title": "爆笑必至！『合コンに行ったら女がいなかった話』夢のコラボカフェ爆誕！“萌え”オムライスで推し活が捗る件！",
+    "tags": "Cafe",
+    "sentiment": "positive",
+    "sentiment_text": "激アツコラボ開催！推し活が捗るぅ！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/666713",
+    "summary_bullets": [
+      "大人気漫画「合コンに行ったら女がいなかった話」のコラボカフェが待望のオープン決定！",
+      "作品の世界観を再現した“萌え”メニューや限定グッズで推し活がさらに盛り上がる！",
+      "美味しい食事と共に作品愛を深め、仲間と語り合う最高の機会が到来！"
+    ],
+    "insight": "漫画「合コンに行ったら女がいなかった話」のシュールで心温まる世界観が、カフェメニューとして具現化！“萌え”オムライスや、作中に登場するあのアイテムまで楽しめるのはファンにはたまらない体験だ。細部までこだわりが詰まった空間で、作品の世界にどっぷり浸れること間違いなし！",
+    "action_plan": "まずは原作漫画「合コンに行ったら女がいなかった話」を全巻読んで、キャラクターたちの魅力にどっぷり浸かってみましょう！そして、カフェの公式サイトで詳細をチェックして、推しとのデートプランを練るべし！",
+    "image_keyword": "manga cafe, collaboration cafe, anime food",
+    "technical_terms": [
+      {
+        "term": "萌（もえ）",
+        "explanation": "アニメや漫画のキャラクターなどに対して抱く、いとおしさや好意を表す感情。可愛い、素敵といったニュアンスで使われます。"
+      },
+      {
+        "term": "割包（グァバオ）",
+        "explanation": "蒸しパンのようなフワフワの生地で、角煮などの具材を挟んだ台湾の伝統的なサンドイッチです。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/666909": {
+    "title": "スライムがまさかのチート級進化！？『最速進化のスライム無双』が異世界を席巻する大予感！",
+    "tags": "Comic",
+    "sentiment": "positive",
+    "sentiment_text": "これは見逃せない！期待度MAXの新作が登場！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/666909",
+    "summary_bullets": [
+      "最弱と思われがちなスライムが、実はチート級スキルで異世界を無双する痛快ストーリー！",
+      "スキル「スライムになるだけ」が予想外の最強能力に覚醒し、常識を覆す展開にファン熱狂必至。",
+      "今後の連載でどんなユニークな進化や大活躍を見せてくれるのか、期待が高まる！"
+    ],
+    "insight": "最弱モンスターの代名詞であるスライムが、その固定観念を打ち破り最強へと駆け上がっていくというギャップが最大の魅力。王道の異世界ファンタジーに斬新なひねりを加えた、爽快感抜群の作品です。",
+    "action_plan": "公式サイトや原作情報で連載開始時期をチェックして、このチート級スライムの活躍を最初から追いかけましょう！",
+    "image_keyword": "Slime Fantasy, Isekai Cheating, Epic Adventure",
+    "technical_terms": [
+      {
+        "term": "チート級スキル",
+        "explanation": "ゲームや物語において、通常では考えられないほど強力で、バランスを崩壊させるほどの能力のこと。反則級の強さを指します。"
+      },
+      {
+        "term": "無双",
+        "explanation": "非常に強力な力で敵を圧倒し、並ぶ者がいないほどの大活躍をすること。特に、ゲームなどで一人で多数の敵を倒す様子を指すことが多いです。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5iZm9xVE5GVlJvVEFNLU9LVnByN1NiREc3dzgyU1pQSFVtTkRDaXNaMGRLcFpnaS1oeG1JdHRTUTFWeEFFeGxId2tn?oc=5": {
+    "title": "戦慄の真実！200人以上被爆、死者4名…まさかの衝撃事件がNetflixドラマ化！世界を震撼させる話題作に注目せよ！",
+    "tags": "ドラマ",
+    "sentiment": "neutral",
+    "sentiment_text": "衝撃の話題作がランキング急上昇！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5iZm9xVE5GVlJvVEFNLU9LVnByN1NiREc3dzgyU1pQSFVtTkRDaXNaMGRLcFpnaS1oeG1JdHRTUTFWeEFFeGxId2tn?oc=5",
+    "summary_bullets": [
+      "現実世界で200人以上が被爆、死者4名を出した戦慄の医療機器盗難事件がNetflixドラマとして世界を震撼！",
+      "Netflixの世界ランキングを席巻中！ノンフィクション・ドラマとしてその完成度と衝撃度が話題沸騰！",
+      "人間ドラマと社会の闇をえぐり出す衝撃作！なぜこの悲劇は起こったのか、あなた自身の目で確かめてほしい！"
+    ],
+    "insight": "実際に起こった戦慄の事件を克明に描くことで、医療倫理や社会の歪みを浮き彫りにするNetflixオリジナルドラマ。ドキュメンタリーのような緊迫感と人間ドラマの深みが融合し、観る者に強烈な問いを投げかけます。",
+    "action_plan": "この衝撃作を今すぐNetflixでチェックして、世界が注目する戦慄の真実を体験してみましょう！",
+    "image_keyword": "Netflix drama, true crime, radiation accident",
+    "technical_terms": [
+      {
+        "term": "放射線治療機",
+        "explanation": "がんなどの病気の治療に放射線を用いる医療機器。厳重な管理が必要。"
+      },
+      {
+        "term": "被爆",
+        "explanation": "放射線にさらされること。健康への影響が懸念される。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5MXoyY2xPUVBob21MbERTVXlfMW93Zi1hd2ZyV05EOTRCQVRveDVPTEgwZF92cGxNZ0pzaWFjUVoxRVFvTmVXcy1TTHlqbURTMXVrVHBXcWNxNDg?oc=5": {
+    "title": "UVERworld、最新曲『EVER』MV解禁！魂を揺さぶる映像体験がここに爆誕！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "待望の最新MV！魂揺さぶるサウンドが爆誕！",
+    "rating": 5,
+    "time_ago": "3日前",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5MXoyY2xPUVBob21MbERTVXlfMW93Zi1hd2ZyV05EOTRCQVRveDVPTEgwZF92cGxNZ0pzaWFjUVoxRVFvTmVXcy1TTHlqbURTMXVrVHBXcWNxNDg?oc=5",
+    "summary_bullets": [
+      "UVERworldの最新曲『EVER』のOfficial Music Videoが遂に公開！",
+      "ファン待望の新映像で、バンドの新たな世界観とエネルギーが解き放たれる！",
+      "これからのライブやアルバム展開への期待が高まる、必見の映像作品！"
+    ],
+    "insight": "UVERworldが放つ『EVER』のミュージックビデオは、彼ら独特の力強いメッセージと圧巻のパフォーマンスが凝縮された作品だ。映像とサウンドが一体となり、観る者の心を深く揺さぶり、彼らの進化を鮮烈に感じさせる。",
+    "action_plan": "まずは公開されたばかりの『EVER』MVをフルで視聴して、その世界観にどっぷり浸りましょう！過去のMVやライブ映像も合わせてチェックして、UVERworldの魅力を再確認するのもオススメ！",
+    "image_keyword": "UVERworld music video",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xQ05tQWRHcmpPbDZ0a0diSDNkNlhzWE5hRXg2S2N2dWlvWlIwc2pVWWd5aExOQnR0aVQwclM1Y3ltRktZTEJiRU5lcG9YS1B1WW8wWERwRQ?oc=5": {
+    "title": "Amber's、待望の新曲『エデン』MVが解禁！神秘的な世界観に引き込まれる映像美は必見！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "待望の新作MV、ついに解禁！これは絶対チェックしなきゃ損！",
+    "rating": 4,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xQ05tQWRHcmpPbDZ0a0diSDNkNlhzWE5hRXg2S2N2dWlvWlIwc2pVWWd5aExOQnR0aVQwclM1Y3ltRktZTEJiRU5lcG9YS1B1WW8wWERwRQ?oc=5",
+    "summary_bullets": [
+      "Amber'sの最新曲『エデン』のミュージックビデオが遂に公開され、ファンからの注目を浴びている。",
+      "楽曲の持つ壮大な世界観と歌詞が織りなすストーリーが、映像によってより深く表現されている。",
+      "見る者を惹きつける映像美とメンバーの表現力で、彼らの新たな魅力と可能性を感じさせる作品となっている。"
+    ],
+    "insight": "Amber'sが満を持して送り出す『エデン』MVは、楽曲が持つ幻想的かつ力強いメッセージを視覚的に完璧に表現しています。彼らの音楽への情熱とクリエイティビティが凝縮された、まさに芸術的な作品です。",
+    "action_plan": "今すぐYouTubeにアクセスして、Amber's『エデン』Music Videoをフルで体験し、その世界にどっぷり浸かってみましょう！",
+    "image_keyword": "Amber's Eden Music Video",
+    "technical_terms": []
   }
 }
