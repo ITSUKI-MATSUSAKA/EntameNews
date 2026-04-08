@@ -1,169 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14bGNmWUhXUGRJUkxUQUNZSGZRTjNtZWJzX1JlR010N1FLdU16dFV3VEc5Mm55eFFpZDRGbG5yalZUUUNMejZkOGJma0JnUTh0OHFsa2hacw?oc=5": {
-    "title": "華乃、音楽シーンに新風を巻き起こす！衝撃の最新情報に迫る！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "次世代の才能が躍動！注目のアーティスト『華乃』から目が離せない！",
-    "rating": 4,
-    "time_ago": "80日前",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14bGNmWUhXUGRJUkxUQUNZSGZRTjNtZWJzX1JlR010N1FLdU16dFV3VEc5Mm55eFFpZDRGbG5yalZUUUNMejZkOGJma0JnUTh0OHFsa2hacw?oc=5",
-    "summary_bullets": [
-      "『華乃』の音楽活動に新たな動き！ファン待望の発表に期待高まる！",
-      "今後の音楽シーンを彩るキーパーソンとして、その動向は要チェック！",
-      "新曲リリースか、ライブ開催か？今後の情報解禁が待ち遠しい！"
-    ],
-    "insight": "その独特の世界観と表現力で多くのファンを魅了する『華乃』。今後の活躍が音楽シーンに新たな風を吹き込むこと間違いなし！",
-    "action_plan": "まずは『華乃』の既存曲をチェックして、その唯一無二の歌声と世界観を体感してみましょう！",
-    "image_keyword": "Japanese Artist, Music Performance, Singer Portrait",
-    "technical_terms": []
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wSkRWN3dTNVc3WWlORTJZS3lfSC1fZUxpLWxyaDRrLWo4bjdfNGlubmtmdU9nTlJFbFdvSlhWenkzTWpXNE0xb0FFTDR1dw?oc=5": {
-    "title": "VALORANTに新エージェント「ミクス」爆誕！音を操る多機能コントローラーで戦場を支配せよ！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "神アプデ爆誕！期待の新星登場！",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wSkRWN3dTNVc3WWlORTJZS3lfSC1fZUxpLWxyaDRrLWo4bjdfNGlubmtmdU9nTlJFbFdvSlhWenkzTWpXNE0xb0FFTDR1dw?oc=5",
-    "summary_bullets": [
-      "VALORANTに待望の新エージェント「ミクス」が参戦！ゲーム環境を激変させる可能性大！",
-      "スモーク、回復、スタンをこなす超高性能コントローラーで、サポート役の概念を覆す！",
-      "音を操るユニークなアビリティで、新たな戦略とメタが生まれること間違いなし！"
-    ],
-    "insight": "新エージェント「ミクス」は、これまでのコントローラーの常識を打ち破る多機能ぶりで、その独特な「音」をテーマにしたアビリティは、VALORANTの戦略性に新たな次元をもたらすこと間違いなし。攻守両面でチームを支える、まさに戦場のマエストロだ！",
-    "action_plan": "ミクスの詳細なアビリティ動画を今すぐチェックして、戦場での立ち回りをイメージしてみましょう！既存エージェントとの組み合わせも無限大！",
-    "image_keyword": "VALORANT new agent, game controller, esports character",
-    "technical_terms": [
-      {
-        "term": "VALORANT",
-        "explanation": "ライアットゲームズが開発・運営する人気のタクティカルシューターゲーム。5対5で攻防を繰り広げる。"
-      },
-      {
-        "term": "エージェント",
-        "explanation": "VALORANTに登場するキャラクターのこと。それぞれ固有のアビリティ（スキル）を持つ。"
-      },
-      {
-        "term": "コントローラー",
-        "explanation": "VALORANTにおけるエージェントの役割（ロール）の一つで、スモークなどで視界を遮り、エリアをコントロールする役割を担う。"
-      },
-      {
-        "term": "スモーク",
-        "explanation": "視界を遮るアビリティ。敵の侵攻を妨げたり、味方の移動を隠したりする際に使われる。"
-      },
-      {
-        "term": "スタン",
-        "explanation": "敵の動きを一定時間妨害するアビリティ。敵の行動を鈍らせたり、スキル使用を中断させたりする効果がある。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHOVNCaGJSeVl1MVdpa0stR2RDUThoUVlJMUZnZzM3a3Iwblg1TXMtUW84c2VqMzJCQWlZLW1PTElnM3Ezd3lBZFU2bExNQU81c2djRUVQaE9RaDhGNFE?oc=5": {
-    "title": "【注目】『Arakezuri』が音楽シーンを席巻!? 粗削りな魅力に迫る！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "新時代の幕開けを告げるサウンド！絶対チェック！",
-    "rating": 4,
-    "time_ago": "3日前",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHOVNCaGJSeVl1MVdpa0stR2RDUThoUVlJMUZnZzM3a3Iwblg1TXMtUW84c2VqMzJCQWlZLW1PTElnM3Ezd3lBZFU2bExNQU81c2djRUVQaE9RaDhGNFE?oc=5",
-    "summary_bullets": [
-      "新星アーティスト『Arakezuri』、音楽シーンに鮮烈デビューの予感！",
-      "その唯一無二のサウンドは必聴！どんなジャンルと化学反応を起こすのか？",
-      "今後のライブ活動や新曲リリースに期待が高まる！彼らの動向から目が離せない！"
-    ],
-    "insight": "粗削りながらも心に響く彼らの音楽は、既存の枠にとらわれない新世代の到来を予感させます。一度聴いたら忘れられない中毒性が魅力！",
-    "action_plan": "まずは彼らの楽曲を聴いて、そのエネルギッシュなサウンドに触れてみましょう！SNSもチェックして最新情報をGET！",
-    "image_keyword": "rock band live, indie music, energetic performance",
-    "technical_terms": [
-      {
-        "term": "インディーズ",
-        "explanation": "既存のレコード会社に所属せず、自主的な活動を行うアーティストやレーベルのこと。自由な音楽性が魅力！"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VC1oeHUxRnpyX3ZoZGM1WDdJTlNIa084RlFjSW1XRWxZa01WU0ZJX1FDb09kY29Fc245X3BhTk5Ycy1mN2VmbklRM2UxSW5DbUFSajJHaHF3OFFlRGFBeTJjM3JIVUxsWHZ4Vzd1V2tHM3JBcmZtWU5femk3LUk?oc=5": {
-    "title": "手越祐也率いるT.N.Tが『VALORANT』日本大会を席巻！ 激アツ楽曲＆応援サポーターで祭りが爆誕！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "異色コラボ爆誕！ 熱狂確定の神タッグ！",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0VC1oeHUxRnpyX3ZoZGM1WDdJTlNIa084RlFjSW1XRWxZa01WU0ZJX1FDb09kY29Fc245X3BhTk5Ycy1mN2VmbklRM2UxSW5DbUFSajJHaHF3OFFlRGFBeTJjM3JIVUxsWHZ4Vzd1V2tHM3JBcmZtWU5femk3LUk?oc=5",
-    "summary_bullets": [
-      "手越祐也率いるロックバンドT.N.Tが人気FPSゲーム『VALORANT』の日本大会にオリジナル楽曲を提供！",
-      "さらにT.N.Tは大会の応援サポーターにも就任、異分野コラボで大会を爆アゲすること間違いなし！",
-      "音楽とeスポーツの融合が、今年のVALORANT日本大会に新たな熱狂と感動を巻き起こすことを期待！"
-    ],
-    "insight": "人気アーティストT.N.Tと世界的な人気を誇るeスポーツタイトル『VALORANT』のタッグは、それぞれのファン層に新たな刺激と興奮をもたらす。音楽の力で大会がどこまでブーストされるのか、その化学反応が最大の見どころだ。",
-    "action_plan": "VALORANTの日本大会の日程を今すぐチェックして、T.N.Tの激アツ楽曲と共に最高のバトルを目撃しよう！もちろん、T.N.Tの最新情報も忘れずに追跡だ！",
-    "image_keyword": "VALORANT eSports concert, T.N.T music game",
-    "technical_terms": [
-      {
-        "term": "VALORANT",
-        "explanation": "ライアットゲームズが開発・運営する、5対5で戦う人気のタクティカルシューター（FPS）ゲーム。eスポーツの競技としても世界的に人気。"
-      },
-      {
-        "term": "eスポーツ",
-        "explanation": "「エレクトロニック・スポーツ」の略で、コンピューターゲームをスポーツ競技としてとらえたもの。プロ選手も存在する。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbG0xeXZaZUF1UE13QmNsRmlxT1QyRVlxRnpWQzNoNVl3U2FMX2VJTE95Ym9xTm1iREJEa3Nwc1lkOVNuYmtzTWQxZk00QkZ0RHQxRGc0eUx6UmxiZE1R0gFkQVVfeXFMTTNwYy1xU0NNdTE4Q3I3RnZoZE9OQ0JPRkR1REJKLWtLb2Vad2tJbkI0eUtSbkhsWGVsblljOVFQNnJxTlZzdEcwMEpZVmx5YTFoQW51Q21LdzlTdk9JVnFSemxxVA?oc=5": {
-    "title": "手越祐也率いるロックバンド・T.N.T、人気ゲーム『VALORANT』日本大会を爆アゲ！ 新曲提供＆応援サポーター就任でゲーム界を席巻！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "熱狂確定！神コラボ爆誕！",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbG0xeXZaZUF1UE13QmNsRmlxT1QyRVlxRnpWQzNoNVl3U2FMX2VJTE95Ym9xTm1iREJEa3Nwc1lkOVNuYmtzTWQxZk00QkZ0RHQxRGc0eUx6UmxiZE1R0gFkQVVfeXFMTTNwYy1xU0NNdTE4Q3I3RnZoZE9OQ0JPRkR1REJKLWtLb2Vad2tJbkI0eUtSbkhsWGVsblljOVFQNnJxTlZzdEcwMEpZVmx5YTFoQW51Q21LdzlTdk9JVnFSemxxVA?oc=5",
-    "summary_bullets": [
-      "手越祐也率いるロックバンドT.N.Tが、人気FPSゲーム『VALORANT』の日本大会と超強力タッグを結成！",
-      "大会公式テーマソングの新曲提供に加え、応援サポーターにも就任し、ゲームと音楽で大会の熱気を最高潮に高める！",
-      "この異色のコラボが、eスポーツシーンに新たな風を吹き込み、ファンを熱狂させること間違いなし！"
-    ],
-    "insight": "人気アーティスト・手越祐也が率いるT.N.Tが、世界中で熱狂的なファンを持つeスポーツタイトル『VALORANT』の日本大会を音楽で盛り上げるという、まさに“神コラボ”が実現！彼らのエネルギッシュなサウンドが、プレイヤーたちの白熱した戦いをさらにドラマチックに彩ること間違いなし！",
-    "action_plan": "T.N.Tの新たな大会テーマソングを聴きながら『VALORANT』をプレイしてみたり、eスポーツ大会をリアルタイムで応援して、熱気を体感してみましょう！",
-    "image_keyword": "rock band, valorant, e-sports, music collaboration",
-    "technical_terms": [
-      {
-        "term": "VALORANT",
-        "explanation": "ライアットゲームズが開発・運営する、5対5で戦う人気のタクティカルシューターゲーム（FPS）。"
-      },
-      {
-        "term": "FPS",
-        "explanation": "「First Person Shooter」の略で、主人公の一人称視点で銃撃戦を行うゲームジャンルのこと。"
-      },
-      {
-        "term": "eスポーツ",
-        "explanation": "エレクトロニック・スポーツの略で、ビデオゲームを競技として行うスポーツのこと。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTeUlmMkJBNU1Db1lsck5mRnRIRFpfZDN4WnFtbmNhbVlzbm5oeEI3UWVmOGhsUjJzZzlocWNFTUNIaG9yODdRaUkyVmJIVkRvcDgxOTBySU5aN1hiWnAzSEFELWJkbDBQ?oc=5": {
-    "title": "速報！プロeスポーツチームREIGNITEにApex Legends最強デュオ「Taida」＆「Lully」が電撃加入！激震の予感！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "最強デュオ誕生！eスポーツ界に激震！",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTeUlmMkJBNU1Db1lsck5mRnRIRFpfZDN4WnFtbmNhbVlzbm5oeEI3UWVmOGhsUjJzZzlocWNFTUNIaG9yODdRaUkyVmJIVkRvcDgxOTBySU5aN1hiWnAzSEFELWJkbDBQ?oc=5",
-    "summary_bullets": [
-      "プロeスポーツチーム「REIGNITE」のApex Legends部門に、超人気・実力派プレイヤー「Taida」と「Lully」が電撃加入決定！",
-      "Apex Legends界に名を馳せる最強デュオの合流で、REIGNITEの戦力はまさに“桁違い”に進化！",
-      "今後の国内・国際大会でのREIGNITEの快進撃、そして新メンバーが巻き起こす化学反応に期待が止まらない！"
-    ],
-    "insight": "プロeスポーツシーンを牽引するREIGNITEが、Apex Legendsで実績と人気を兼ね備えたTaidaとLullyを迎え入れたことで、チームは更なる飛躍を遂げるでしょう。この最強の布陣で、世界を舞台にした活躍を見せてくれること間違いなしです！",
-    "action_plan": "まずはREIGNITEの公式SNSをフォローして、新メンバーの最新情報や今後の試合スケジュールをチェックしましょう！そして、彼らの華麗なプレイが光るApex Legendsの配信や過去の試合動画も、ぜひ見てみてください！",
-    "image_keyword": "esports team, Apex Legends, professional gamer",
-    "technical_terms": [
-      {
-        "term": "Apex Legends",
-        "explanation": "3人1組のチームで最後の1組になるまで戦う、全世界で大人気の無料バトルロイヤルシューターゲーム。戦略とチームワークが勝利の鍵！"
-      },
-      {
-        "term": "eスポーツチーム",
-        "explanation": "プロのビデオゲーマーが集まり、競技としてゲームをプレイする団体。REIGNITEはその代表格で、国内外で活躍しています。"
-      }
-    ]
-  },
   "https://natalie.mu/comic/news/664590": {
     "title": "衝撃！エリート街道から転落！？「高学歴難民」のリアルに迫るノンフィクションがアツい！",
     "tags": "Comic",
@@ -4958,6 +4793,151 @@
     "insight": "WOLF ALICEの音楽は常に進化し、リスナーを魅了し続けています。今回のニュースは、彼らがこれから見せてくれる新たな一面や、世界を席巻するパワーを改めて感じさせる見逃せない見どころとなるでしょう。",
     "action_plan": "WOLF ALICEの過去のアルバムやライブ映像をチェックして、彼らの世界観にどっぷり浸かってみましょう！",
     "image_keyword": "Wolf Alice band, indie rock, music news",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sVU1feTVValN5cUpKT2s2WVFyVFZka2loZXNzMk5DZVVNQXZocUdhRWFwZFRYN1RIQVllMS1lWENHTkY3S011QURMdWgtTE1RYjRnQldIbDltMjI2Tl9OTlZabUN6NWJyOTIyQg?oc=5": {
+    "title": "激アツ！サウジ初のeスポーツ世界大会に『スト6』参戦決定！格ゲー界の歴史が変わる瞬間を見逃すな！",
+    "tags": "Esports",
+    "sentiment": "positive",
+    "sentiment_text": "歴史的快挙！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sVU1feTVValN5cUpKT2s2WVFyVFZka2loZXNzMk5DZVVNQXZocUdhRWFwZFRYN1RIQVllMS1lWENHTkY3S011QURMdWgtTE1RYjRnQldIbDltMjI2Tl9OTlZabUN6NWJyOTIyQg?oc=5",
+    "summary_bullets": [
+      "サウジアラビア初開催となる大規模eスポーツ世界大会「Esports Nations Cup」が決定！",
+      "世界的人気格闘ゲームの最新作『ストリートファイター6』が競技タイトルに採用され、注目度MAX！",
+      "格ゲー界の新たな歴史が刻まれる熱い戦いと、中東でのeスポーツの盛り上がりに期待が高まる！"
+    ],
+    "insight": "『ストリートファイター6』が国際的な大規模eスポーツ大会の競技タイトルに選ばれたことで、格闘ゲームの地位がさらに向上し、eスポーツシーン全体に大きなインパクトを与えることは間違いなし。中東から発信される新たなeスポーツの波に要注目です。",
+    "action_plan": "今すぐ『ストリートファイター6』をプレイして腕を磨き、Esports Nations Cupの公式情報や出場選手をチェックしてみましょう！プロたちの神プレイに備えるべし！",
+    "image_keyword": "Esports Street Fighter 6 Tournament",
+    "technical_terms": [
+      {
+        "term": "Esports Nations Cup",
+        "explanation": "サウジアラビアが主催する、世界各国を代表する選手が競い合う大規模な国際eスポーツ大会。"
+      },
+      {
+        "term": "ストリートファイター6",
+        "explanation": "カプコンが開発した、世界中で愛される人気対戦格闘ゲームシリーズの最新作。通称『スト6』。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TaU8zLVJ5UExNRTRaSTBKVWtHRjU3NkV4Q0FXMnc4WEE4TV9CUTl2MzA5S1N1VW1sWExXbktSOUwzeUd6Qm54enRibE1acW4tTGQtOV8xWQ?oc=5": {
+    "title": "激アツの週末バトル！2026年4月第2週、格ゲー大会の頂点に立ったのは誰だ！？",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "週末格ゲー戦線、激アツの頂点バトルが勃発！",
+    "rating": 4,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TaU8zLVJ5UExNRTRaSTBKVWtHRjU3NkV4Q0FXMnc4WEE4TV9CUTl2MzA5S1N1VW1sWExXbktSOUwzeUd6Qm54enRibE1acW4tTGQtOV8xWQ?oc=5",
+    "summary_bullets": [
+      "2026年4月第2週末に開催された格闘ゲーム大会の熱戦がついに決着！",
+      "各タイトルの覇者や注目プレイヤーの動向を速報でチェックし、新たなヒーローを見つけよう！",
+      "次なる大会やプレイヤーたちの今後の進化に期待が高まる、見逃せない結果発表！"
+    ],
+    "insight": "激戦を制したトッププレイヤーたちの超絶テクニックとドラマが凝縮された週末の格闘ゲーム大会。勝利の瞬間が、次の伝説への序章となること間違いなし！",
+    "action_plan": "各大会の配信アーカイブをチェックして、名勝負を追体験してみましょう！推しプレイヤーのSNSもフォローして最新情報をゲット！",
+    "image_keyword": "Fighting game esports tournament",
+    "technical_terms": [
+      {
+        "term": "格ゲー",
+        "explanation": "格闘ゲームの略称で、プレイヤー同士が操作するキャラクターを使い、技を出し合って勝敗を競う対戦型アクションゲームの一種です。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkS2ZrcDd6bGJkVlFLOFJhYmJqdW1vdlp0SklkWmFUS0NQc0UwNlMyMl9DUXJZb1JEaGZGbHhoZVhHQzhMQjdHaWViZDhEZ3VRbElMWlJuSElLbzlUMnJOU293MFlLN2hX?oc=5": {
+    "title": "『ストリートファイター6』、世界を股にかける超巨大eスポーツ大会に参戦決定！格ゲーの新たな伝説が始まる！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "格ゲー熱、最高潮！世界が熱狂するビッグニュース！",
+    "rating": 5,
+    "time_ago": "5時間前",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkS2ZrcDd6bGJkVlFLOFJhYmJqdW1vdlp0SklkWmFUS0NQc0UwNlMyMl9DUXJZb1JEaGZGbHhoZVhHQzhMQjdHaWViZDhEZ3VRbElMWlJuSElLbzlUMnJOU293MFlLN2hX?oc=5",
+    "summary_bullets": [
+      "大人気格闘ゲーム『ストリートファイター6』が、サウジ発の国際eスポーツ大会「Esports Nations Cup」に正式採択！",
+      "世界トップクラスの選手たちが集結し、格闘ゲームの新たな頂点を決める歴史的瞬間を見逃すな！",
+      "グローバル競技シーンがさらに加速し、格ゲー界全体がかつてない盛り上がりを見せることに期待！"
+    ],
+    "insight": "『ストリートファイター6』が世界有数のeスポーツ大会に選ばれたことで、格ゲーファンはもちろん、世界中のゲーマーがその動向に注目すること間違いなし！この歴史的な採択が、eスポーツにおける格闘ゲームの地位をさらに確固たるものにするでしょう。",
+    "action_plan": "「Esports Nations Cup」の開催情報や出場選手を今すぐチェックして、来るべき激闘に備えましょう！『ストリートファイター6』をプレイして、自分もプロへの道を目指すのもアリ！",
+    "image_keyword": "Street Fighter 6, eSports, fighting game",
+    "technical_terms": [
+      {
+        "term": "Esports Nations Cup",
+        "explanation": "サウジアラビアを拠点とする大規模な国際eスポーツ大会で、様々な人気ゲームタイトルが競技種目として採用され、国別対抗戦形式で争われます。"
+      },
+      {
+        "term": "グローバル競技シーン",
+        "explanation": "eスポーツの世界的な競技活動やプロリーグ、トーナメント全体のことを指し、国境を越えた選手やチームの活躍の場を意味します。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/667548": {
+    "title": "「甘え上手」は最強!? プチコミ新連載で“イイ男”を虜にするラブ道を極めよう！「コナン」の激かわ離席プレートも必見！",
+    "tags": "Comic",
+    "sentiment": "positive",
+    "sentiment_text": "これは見逃せない！胸キュン必至の新作連載スタート！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/667548",
+    "summary_bullets": [
+      "プチコミで「イイ男」への甘え方を極める新連載がスタートし、ラブストーリーファン歓喜！",
+      "大人気「名探偵コナン」のキュートな離席プレートが付録に登場！",
+      "新連載で新たな胸キュン体験を、コナンプレートでデスク周りを華やかに彩ろう！"
+    ],
+    "insight": "新連載が贈る「イイ男」への甘え方指南は、読者の恋を応援するような胸キュン要素満載！さらに「名探偵コナン」の可愛すぎる離席プレートは、ファンならずとも欲しくなること間違いなしの豪華付録です。",
+    "action_plan": "この新連載が掲載される「プチコミ」を今すぐゲットして、胸キュンラブストーリーの世界に浸ってみましょう！公式サイトやSNSで最新情報をチェックして、新連載の展開と付録の詳細を確認してみましょう。",
+    "image_keyword": "Manga romance, Detective Conan, comic magazine",
+    "technical_terms": [
+      {
+        "term": "プチコミ",
+        "explanation": "小学館が発行する、大人の女性向け恋愛漫画雑誌。甘くて刺激的なラブストーリーが特徴。"
+      },
+      {
+        "term": "離席プレート",
+        "explanation": "一時的に席を外す際に使用する目印のプレート。キャラクターデザインのものが人気を集めている。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOYWktUTNtbzBWZVFCUEVKNkhwdDByX1Vqb3A0VWVmcHpvQlNxbEFGcmlEbVB2YU1vb21QZzlHZnctUGg3OTVkSjln?oc=5": {
+    "title": "30億円超えの大ヒット作『爆弾』、早くもNetflixで堂々1位爆走中！ 今すぐ観るしかない！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "神速配信！ぶっちぎりの大人気！",
+    "rating": 5,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOYWktUTNtbzBWZVFCUEVKNkhwdDByX1Vqb3A0VWVmcHpvQlNxbEFGcmlEbVB2YU1vb21QZzlHZnctUGg3OTVkSjln?oc=5",
+    "summary_bullets": [
+      "興行収入30億円超えの大ヒットを記録した話題作『爆弾』が、ついにNetflixで最速配信スタート！",
+      "配信開始後、瞬く間にNetflix国内映画ランキングで堂々の1位を獲得し、その勢いを証明している！",
+      "劇場で観た人も、まだの人も、自宅でいつでもこの大ヒット作を気軽に楽しめるビッグチャンスが到来！"
+    ],
+    "insight": "興行収入30億円を突破した映画が、こんなに早くNetflixで見放題に！ その圧倒的なスケールと熱狂を、自宅で快適に体感できる最高の機会がやってきた！",
+    "action_plan": "話題沸騰中の『爆弾』をNetflixでいますぐ視聴して、SNSで感想をシェアしよう！ まだ観ていない人はもちろん、もう一度あの感動を味わいたい人も必見だ！",
+    "image_keyword": "Netflix movie ranking, blockbuster film, streaming hit",
+    "technical_terms": [
+      {
+        "term": "Netflix国内ランキング",
+        "explanation": "世界最大の動画配信サービス「Netflix」において、日本国内での視聴数に基づき集計された映画やドラマの人気順位のこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUbmhiTVdmMnM4UkdOZnlsbEN6Z3FKUGNjbmNTV2J0MUREa1Y5NzBGb1hCd2ZZMmJpTEhKMmttODFYVU1PWDM2MUQxMA?oc=5": {
+    "title": "「ONE PIECE」がレゴ®アニメに大変身！Netflixで9月、世界を航海だ！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "夢のコラボ！最高にワクワクするニュース！",
+    "rating": 5,
+    "time_ago": "21時間前",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUbmhiTVdmMnM4UkdOZnlsbEN6Z3FKUGNjbmNTV2J0MUREa1Y5NzBGb1hCd2ZZMmJpTEhKMmttODFYVU1PWDM2MUQxMA?oc=5",
+    "summary_bullets": [
+      "大人気「ONE PIECE」が、あのブロック玩具「LEGO®」のアニメーションシリーズとしてNetflixに登場！",
+      "9月に世界独占配信が決定、ルフィたちがブロックの世界で新たな冒険を繰り広げる！",
+      "どんなキャラクターがレゴ化され、どんなオリジナルストーリーが展開されるのか、世界中のファンが注目！"
+    ],
+    "insight": "国民的アニメ「ONE PIECE」と、世界中で愛される「LEGO®」のまさかの最強タッグ！レゴ特有のキュートな動きと世界観で、麦わらの一味の新たな魅力を発見できること間違いなし！",
+    "action_plan": "配信開始まで「ONE PIECE」の原作漫画やアニメを見直して、登場キャラクターを予習しておきましょう！",
+    "image_keyword": "One Piece Lego Animation",
     "technical_terms": []
   }
 }
