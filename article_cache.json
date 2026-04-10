@@ -1,62 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yMUczNXN4VmxGcXVLVkV0RHF3bDdBa3J4Y1p2OE1sRlU3dlk2cndCYkl4TDhueGdhdkZkWlE5N0REMWQtajZBTFdMcWpzRkNNMGc?oc=5": {
-    "title": "【奇跡のカムバック！】デ・ラ・ソウル、故トゥルーゴイに捧ぐ感動の新章『Cabin In The Sky』爆誕！",
-    "tags": "HipHop",
-    "sentiment": "positive",
-    "sentiment_text": "奇跡のカムバック！伝説のHIP HOPが蘇る！",
-    "rating": 5,
-    "time_ago": "13日前",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yMUczNXN4VmxGcXVLVkV0RHF3bDdBa3J4Y1p2OE1sRlU3dlk2cndCYkl4TDhueGdhdkZkWlE5N0REMWQtajZBTFdMcWpzRkNNMGc?oc=5",
-    "summary_bullets": [
-      "HIP HOP界のレジェンド、デ・ラ・ソウルが亡きメンバーのトゥルーゴイの魂と共に待望のカムバック！",
-      "新アルバム『Cabin In The Sky』は、彼らの不屈の精神と感動的なメッセージが詰まった名盤に！",
-      "数々の困難を乗り越え、新たなスタートを切った彼らの歴史的快挙に世界中が注目している！"
-    ],
-    "insight": "HIP HOP界のレジェンド、デ・ラ・ソウルが亡きメンバー、トゥルーゴイへの愛と敬意を込めてリリースした本作は、単なる復活作にとどまらない、彼らの揺るぎない魂と創造性が凝縮された感動の一枚だ。HIP HOPの過去・現在・未来を繋ぐ、まさに歴史的傑作と言えるだろう。",
-    "action_plan": "まずは、彼らの初期傑作『3 Feet High and Rising』を聴いて、デ・ラ・ソウルのルーツに触れてみよう！そして、本作『Cabin In The Sky』が彼らのディスコグラフィーでどう位置づけられるのか、ぜひ体感してください！",
-    "image_keyword": "De La Soul album",
-    "technical_terms": [
-      {
-        "term": "デ・ラ・ソウル",
-        "explanation": "1980年代後半にデビューした、HIP HOP界のレジェンドグループ。ポジティブなリリックと革新的なサンプリングで一世を風靡した。"
-      },
-      {
-        "term": "トゥルーゴイ",
-        "explanation": "デ・ラ・ソウルの中心メンバーの一人であるラッパー。2023年に逝去したが、彼の魂が本作の制作に深く影響を与えている。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WbGE1a2RQY2VqMGZjXy1tZDJ5d1dLVjNESGxHS2lHNGR3aTNLR1VUOEQ4dkhuVnA5MWR2YVBLc1RjZjRyRjRYcHV6dGJMNFg1U0E?oc=5": {
-    "title": "速報！サマソニ日割りラインナップついに解禁！デヴィッド・バーン降臨で夏が待ちきれない！",
-    "tags": "Music Festival",
-    "sentiment": "positive",
-    "sentiment_text": "フェス熱最高潮！絶対見逃せないラインナップ！",
-    "rating": 4,
-    "time_ago": "8日前",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WbGE1a2RQY2VqMGZjXy1tZDJ5d1dLVjNESGxHS2lHNGR3aTNLR1VUOEQ4dkhuVnA5MWR2YVBLc1RjZjRyRjRYcHV6dGJMNFg1U0E?oc=5",
-    "summary_bullets": [
-      "日本最大級の都市型フェス「サマソニ」の待望の日割りラインナップが発表され、ファンの期待が爆上がり！",
-      "ヘッドライナーがまだ不明な日にもかかわらず、デヴィッド・バーンら伝説的アーティストの出演が決定し、驚きと興奮が広がる！",
-      "残るヘッドライナー発表に向けて、さらにチケット争奪戦が激化すること間違いなし！見逃せない夏になる予感！"
-    ],
-    "insight": "サマソニの日割りラインナップ公開は、ファンにとって待ち望んだビッグニュース！特に、ヘッドライナーが未発表の日にデヴィッド・バーンのようなレジェンド級のアーティストが名を連ねている点は、今回の発表の最大の魅力です。今年の夏は、これまで以上に予測不能で刺激的な音楽体験が待っていることを予感させます。",
-    "action_plan": "発表されたアーティストの楽曲を今のうちに聴きまくって、フェス参戦に備えよう！まだチケットをゲットしていない人は、争奪戦に乗り遅れないよう今すぐチェックしてみましょう！",
-    "image_keyword": "Summer Sonic, Music Festival, Live Concert",
-    "technical_terms": [
-      {
-        "term": "サマソニ",
-        "explanation": "「SUMMER SONIC」の略称。毎年夏に日本で開催される、国内外の人気アーティストが集結する大規模な都市型ロック・フェスティバルです。"
-      },
-      {
-        "term": "日割りラインナップ",
-        "explanation": "複数の日程で開催されるフェスティバルで、日ごとの出演アーティストの組み合わせのこと。これによって、どの日に誰が出演するかが分かります。"
-      },
-      {
-        "term": "ヘッドライナー",
-        "explanation": "フェスティバルやコンサートで、その日の出演者の中で最もメインとなるアーティストのこと。通常、その日の最後のステージを飾ります。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1bEVQN1RqdmRuMGNicWhyMjZIbTl4ZUJTSHFtZEE3Tks2NmJRSU9HNUV4UXV2dTBSbnl3cDZwczNta096TW9UR3I2dVB5d3Y1a2lhV0gxTTBQMUtPenRBT19RZ0FMekN1b0E?oc=5": {
     "title": "VALORANT国内最高峰大会「Challengers Japan 2026」に人気ブランド・ナッシュが協賛！熱狂のeスポーツシーンがさらにアツくなる！",
     "tags": "Esports",
@@ -4923,7 +4865,7 @@
     "sentiment": "positive",
     "sentiment_text": "配信が神進化！史上最高に楽しめる予感しかない！",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "7日前",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kN3JfU1JBZDlQREk3UnlGZ2c3R2xva012N1lyeXJWQ0ROMjN0OThDRnFMb3VRYmU3RnF3eXFGX19WcHp5eFRPamJ2NlRMN1V2d2c?oc=5",
     "summary_bullets": [
       "世界最大級の音楽フェス「コーチェラ2026」のYouTube公式配信が早くも決定！",
@@ -4955,6 +4897,51 @@
       {
         "term": "MUSiC CLiP",
         "explanation": "アーティストが楽曲の世界観を表現するために制作する映像作品。一般的に「ミュージックビデオ（MV）」として知られています。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/667879": {
+    "title": "ベンチから世界を変えろ！常識破りのバレー少年、新連載『5分のエース』で爆誕！",
+    "tags": "Manga",
+    "sentiment": "positive",
+    "sentiment_text": "期待の新星爆誕！激アツ展開が待ってる！",
+    "rating": 4,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/667879",
+    "summary_bullets": [
+      "『動けるのは5分』のベンチ選手が主人公！異端すぎるバレー漫画『5分のエース』が新連載スタート！",
+      "限られた出場時間で奇跡を起こす！逆境を跳ね返す、新感覚のバレーボール物語に注目！",
+      "常識を覆すプレースタイルと胸熱の人間ドラマで、毎週の展開から目が離せなくなること間違いなし！"
+    ],
+    "insight": "「ベンチ」「5分」という極限の制約を背負った少年が、いかにして“エース”へと上り詰めるのか？その困難な挑戦と、バレーボールというスポーツへの新たな解釈が、読者の心を揺さぶる最高の見どころです。",
+    "action_plan": "マンガアプリや掲載誌で最新話を今すぐチェックして、この熱量をリアルタイムで体感しよう！あなたの心を燃やす新たなバレーボールの物語が、ここから始まります！",
+    "image_keyword": "volleyball manga, new series, sports hero",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4VjFucUswQkhyLXoxdl9hcV9oY3VoVFJYR0RsTjRTX1hBQXhyY2FjWGlOSURwTmdzS1JfNG9TM0pFVGlJVS1iYW9LN3lQRUhQOUQ3OFN0UUgwY1E?oc=5": {
+    "title": "礼賛、新曲「果てない」が音楽シーンを席巻！無限のグルーヴに乗り遅れるな！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "待望の新曲爆誕！これは聴くしかない！",
+    "rating": 4,
+    "time_ago": "4日前",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4VjFucUswQkhyLXoxdl9hcV9oY3VoVFJYR0RsTjRTX1hBQXhyY2FjWGlOSURwTmdzS1JfNG9TM0pFVGlJVS1iYW9LN3lQRUhQOUQ3OFN0UUgwY1E?oc=5",
+    "summary_bullets": [
+      "ミクスチャーロックバンド礼賛（RAISAN）から、壮大な新曲「果てない」が遂にリリース！",
+      "Skream.jpでも注目される彼らの最新作は、リスナーを深遠な音楽世界へと誘うこと間違いなし。",
+      "無限に広がるようなサウンドスケープとメッセージは、バンドの新たなフェーズを感じさせる必聴の一曲！"
+    ],
+    "insight": "礼賛の真骨頂である緻密なサウンドメイキングと、どこまでも広がるようなボーカルワークが融合。一度聴いたら忘れられない、心を揺さぶる楽曲に仕上がっている。彼らの進化が凝縮された、まさに「果てない」可能性を感じさせる傑作だ。",
+    "action_plan": "まずは各種ストリーミングサービスで「果てない」を今すぐチェック！彼らの世界観に浸りたいなら、過去の楽曲やライブ映像も漁って、礼賛の音楽の深淵に飛び込んでみよう！",
+    "image_keyword": "Japanese band music",
+    "technical_terms": [
+      {
+        "term": "礼賛",
+        "explanation": "日本のミクスチャーロックバンド。ジャンルに囚われない自由な音楽性と、キャッチーかつ刺激的な楽曲が特徴。"
+      },
+      {
+        "term": "skream.jp",
+        "explanation": "日本のロック・ポップスを中心とした音楽情報を提供するウェブメディア。新譜情報やライブレポートなどを掲載している。"
       }
     ]
   }
