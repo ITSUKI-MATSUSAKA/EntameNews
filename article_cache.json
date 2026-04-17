@@ -1,22 +1,4 @@
 {
-  "https://natalie.mu/comic/news/665114": {
-    "title": "大冒険に出発！幼い弟と紡ぐ絆の物語『祖父母をたずねて家出兄弟二人旅』爆誕！",
-    "tags": "Comic",
-    "sentiment": "positive",
-    "sentiment_text": "期待の新作",
-    "rating": 4,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/665114",
-    "summary_bullets": [
-      "幼い兄弟が二人きりで挑む、壮大な旅路に胸アツ展開が待っている！",
-      "新作トラベルファンタジー『祖父母をたずねて家出兄弟二人旅』が連載スタート！",
-      "未経験の困難を乗り越え、成長していく兄弟の姿に目が離せない！"
-    ],
-    "insight": "親元を離れた幼い兄弟が、祖父母を探す旅を通して成長していく姿を描くトラベルファンタジー！二人の絆と、出会う人々との交流が温かい感動を呼び起こすこと間違いなし！",
-    "action_plan": "心温まる兄弟の冒険譚を今すぐ読んで、彼らの旅を応援しよう！最新話のチェックもお忘れなく！",
-    "image_keyword": "fantasy adventure, brothers journey, travel fantasy",
-    "technical_terms": []
-  },
   "https://natalie.mu/comic/news/665094": {
     "title": "加納梨衣が描く“禁断の情欲”短編集、人間の奥深いつながりを鮮烈に描く！",
     "tags": "Manga",
@@ -4949,5 +4931,29 @@
     "action_plan": "この超豪華新装版は絶対ゲットすべき！今すぐ予約して、オノ・ナツメ先生の新たな『GENTE』の世界に浸ってみましょう！まだ読んだことがない方は、これを機にぜひ原作をチェックしてみて！",
     "image_keyword": "Ono Natsume GENTE comic",
     "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Sem9HOE5ESTdxa1F5WmhrT19sRXo0Rld6QThjVmt0VC1Xc0VadHhEMXhUUVlrMWg5RGhXcDFtVTRoWVY3a19abFFR?oc=5": {
+    "title": "衝撃！孤児＆妊婦vs凶暴サメ！「無理ゲー」設定の極限サバイバルがNetflix世界ランキングで堂々初登場１位を爆走中！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "世界１位爆誕！ネトフリ注目の超ヤバいサバイバルホラーが登場！",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Sem9HOE5ESTdxa1F5WmhrT19sRXo0Rld6QThjVmt0VC1Xc0VadHhEMXhUUVlrMWg5RGhXcDFtVTRoWVY3a19abFFR?oc=5",
+    "summary_bullets": [
+      "孤児や妊婦が「巨大台風×凶暴サメ」に立ち向かう、絶体絶命のサバイバルホラーが話題沸騰中！",
+      "Netflix世界ランキングで堂々の初登場１位を獲得し、その衝撃的な設定に世界中が熱狂！",
+      "まさに「無理ゲー」と称される極限状況で、彼らがどう生き残るのか、手に汗握る展開に期待大！",
+      "予測不能な恐怖と人間ドラマが織りなす、新感覚エンタメを見逃すな！"
+    ],
+    "insight": "社会的弱者とされる孤児や妊婦が、自然災害と捕食者という二重の脅威に晒されるという、これまでにない極限設定が本作最大の魅力。Netflixで世界ランキング1位に輝いたことで、その衝撃的な物語が世界中の観客を虜にし、次のサバイバルホラーのトレンドを牽引する可能性を秘めている。",
+    "action_plan": "この戦慄のサバイバル体験を自分の目で確かめたいなら、いますぐNetflixでこの話題作を視聴して、感想をSNSでシェアしてみましょう！",
+    "image_keyword": "shark disaster movie netflix",
+    "technical_terms": [
+      {
+        "term": "無理ゲー",
+        "explanation": "「理不尽なほど難易度が高いゲーム」を意味するスラングで、本作では登場人物が置かれた絶望的な状況を表現しています。"
+      }
+    ]
   }
 }
