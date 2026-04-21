@@ -1,40 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kSlg2VklpRUxfNnByWXpkam1SZElKLWZhMHQzUkJLTU9HQlNZRW1Ib1RCOWdUb2czSjBXR0VQVXpJTHFwYlNZdEw3YVU2NVNkeTJyVGpR?oc=5": {
-    "title": "【速報】伝説の『T.N.T』が音楽シーンを揺るがす！？見逃せない衝撃ニュース！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "これは見逃せない！注目の話題！",
-    "rating": 4,
-    "time_ago": "1日前",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kSlg2VklpRUxfNnByWXpkam1SZElKLWZhMHQzUkJLTU9HQlNZRW1Ib1RCOWdUb2czSjBXR0VQVXpJTHFwYlNZdEw3YVU2NVNkeTJyVGpR?oc=5",
-    "summary_bullets": [
-      "音楽メディアskream.jpから「T.N.T」という爆弾級のワードが投下され、ファン騒然！",
-      "詳細不明ながら、このタイトルは新たな楽曲発表や活動再開など、音楽ファンにとって最重要情報である可能性大！",
-      "今後の続報が待たれる、音楽シーンに新たな旋風を巻き起こすかもしれないビッグニュースに期待が高まる！"
-    ],
-    "insight": "「T.N.T」というパワフルで一度聞いたら忘れられないワードが、音楽メディアに掲載されたことで、どんなサプライズが待っているのかワクワクが止まりません！これはまさに、音楽ファンを熱狂させる予感しかないキラーコンテンツとなるでしょう。",
-    "action_plan": "この衝撃の『T.N.T』に関する詳細をいち早くキャッチするため、まずはskream.jpの公式サイトをチェックしてみましょう！SNSでの情報収集も忘れずに！",
-    "image_keyword": "Rock Music Explosion",
-    "technical_terms": []
-  },
-  "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVFRWcVY0ZjVOcUNDTXhVdWhWWW1sUk9rNFAyWHBCWmhoczc1RHFrcEw4S1RXR0hqc29xYXB2OEswTGxVNHJ2Uld1NnVCMkkyRC1GejhhQVRKcXd6RHZjQjZR?oc=5": {
-    "title": "【速報】音楽シーンに旋風を巻き起こす新星「Arakezuri」！Skream!がその魅力に迫る！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "新時代を切り拓く注目株！",
-    "rating": 4,
-    "time_ago": "11日前",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSVFRWcVY0ZjVOcUNDTXhVdWhWWW1sUk9rNFAyWHBCWmhoczc1RHFrcEw4S1RXR0hqc29xYXB2OEswTGxVNHJ2Uld1NnVCMkkyRC1GejhhQVRKcXd6RHZjQjZR?oc=5",
-    "summary_bullets": [
-      "音楽メディアSkream!に「Arakezuri」が登場し、その存在が音楽ファンに広く注目されるきっかけに。",
-      "まだ荒削りながらも、その秘めたる才能とエネルギッシュなサウンドは、これからの音楽シーンを担うと期待される。",
-      "今後の活動やリリースに大きな期待がかかり、彼らのサウンドがどのように進化していくのか目が離せない。"
-    ],
-    "insight": "「Arakezuri」は、その名の通り未完成ながらも圧倒的なエネルギーと個性を放つ新鋭アーティスト（またはバンド）です。Skream!がピックアップしたことで、そのポテンシャルが広く認知され、次世代の音楽シーンを牽引する存在として熱い視線が注がれています。",
-    "action_plan": "今すぐ「Arakezuri」で検索して彼らのサウンドを体験し、SNSをフォローして最新情報をチェックしましょう！ライブ情報も要注目です！",
-    "image_keyword": "indie rock band, music artist, stage performance",
-    "technical_terms": []
-  },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wY1gwWXFpZnhOVWFoM3ZPREh6SVpNN2lCZEV6bmhoLXBJSng4eGFNdVREXzVCMXlqVFNHV0hUSnRUbENHc1JBOGVPYmI1QQ?oc=5": {
     "title": "【ARC Raiders】爆速で報酬GET！給料袋がパンパンになるクエスト攻略術を大公開！",
     "tags": "Game",
@@ -4970,6 +4934,68 @@
       {
         "term": "性能評価",
         "explanation": "武器の強さ、使いやすさ、特定の状況での有効性などを分析し、総合的に判断すること。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/669153": {
+    "title": "キタコレ！『竹コミ！』で新連載5作品が一挙爆誕！異世界、終末、ラブコメ…あなたの推しはどれ！",
+    "tags": "Comic",
+    "sentiment": "positive",
+    "sentiment_text": "期待の新連載が大豊作！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/669153",
+    "summary_bullets": [
+      "『竹コミ！』にて、異世界転移、終末世界旅、4コマラブコメなど5つの新連載が一挙スタート！",
+      "多彩なジャンルの新作が揃い踏みで、漫画ファンは新たな推し作品との出会いをGETする大チャンス！",
+      "あなたの心を掴む珠玉の作品がきっと見つかる、豪華なラインナップに期待大！"
+    ],
+    "insight": "『竹コミ！』から読者の心を掴む個性豊かな5つの新連載が同時に幕開け！ 王道からユニークな設定まで、あらゆるジャンルを網羅したラインナップは、まさに漫画好きの夢を叶える大イベントだ！",
+    "action_plan": "まずは『竹コミ！』公式サイトをチェックして、気になる作品を今すぐ読み始めよう！お気に入りの新連載を見つけて、感想をSNSでシェアするのもお忘れなく！",
+    "image_keyword": "manga new series, comic launch, fantasy romance",
+    "technical_terms": [
+      {
+        "term": "竹コミ！",
+        "explanation": "オンラインで読める漫画を配信しているウェブコミックレーベルまたはプラットフォーム。"
+      },
+      {
+        "term": "異世界転移",
+        "explanation": "主人公が現実世界から別のファンタジー世界へ移動してしまう物語のジャンル。"
+      },
+      {
+        "term": "終末世界旅",
+        "explanation": "文明が崩壊した荒廃した世界を舞台に、主人公が旅を続ける物語のジャンル。"
+      },
+      {
+        "term": "4コマラブコメ",
+        "explanation": "4つのコマで構成され、恋愛をテーマにしたコメディ漫画のジャンル。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/669172": {
+    "title": "舞台「チェンソーマン」レゼ篇、ついに主役発表！相馬結衣がレゼに降臨！原作再現度MAXの特報映像も解禁で期待爆上げ！",
+    "tags": "Stage Play",
+    "sentiment": "positive",
+    "sentiment_text": "原作再現度爆上げの予感！待望の主役発表！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/669172",
+    "summary_bullets": [
+      "舞台「チェンソーマン レゼ篇」で、注目のレゼ役に相馬結衣さんが決定！",
+      "原作の世界観を忠実に再現した特報映像が公開され、ファンからの期待値が急上昇中！",
+      "デンジとレゼの激しい物語がどのように舞台で表現されるのか、続報から目が離せない！"
+    ],
+    "insight": "「チェンソーマン」屈指の人気エピソード「レゼ篇」が舞台化されることに加え、相馬結衣さんのレゼ役への期待が高まります。特報映像で垣間見える原作へのリスペクトと再現度は圧巻で、舞台ならではの迫力と興奮が今から楽しみでなりません！",
+    "action_plan": "舞台の全貌が明らかになる前に、まずは原作コミック「チェンソーマン」の「レゼ篇」を読み返して、デンジとレゼの関係性をおさらいしておきましょう！アニメ版も要チェックです！",
+    "image_keyword": "Chainsaw Man Reze, Japanese stage play, anime live action",
+    "technical_terms": [
+      {
+        "term": "チェンソーマン レゼ篇",
+        "explanation": "大人気漫画「チェンソーマン」に登場する、主人公デンジと、爆弾の悪魔と契約した少女レゼとの切なくも激しい関係を描いた、特に人気の高いエピソード。"
+      },
+      {
+        "term": "特報映像",
+        "explanation": "映画や舞台などの本編公開に先駆けて、その世界観や雰囲気、見どころの一部を凝縮して紹介する短いプロモーション映像。舞台では役者のビジュアルや迫力ある演出の一端が公開されることが多い。"
       }
     ]
   }
