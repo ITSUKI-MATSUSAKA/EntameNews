@@ -1,76 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lWVJFYWRyTXFHNWdVV2lhLUotRTI5M00zUHhMRlNrUkpIZnFydlF1UlA3bWtBTmd0OEM0VVJ6c1F5eUFMSC15RENEbEJ6UjVHODlpZDZWTGRTREhXSTBVVTVhbDBRUWdoUTlBQU5GMXRBS0RPZW5JTG5MZw?oc=5": {
-    "title": "激熱速報！DFMがVALORANT国際リーグ「VCT Pacific 2026 Stage 1」に挑む！世界を獲るための新たな戦いが幕を開ける！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "世界が注目！期待の大会出場！",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lWVJFYWRyTXFHNWdVV2lhLUotRTI5M00zUHhMRlNrUkpIZnFydlF1UlA3bWtBTmd0OEM0VVJ6c1F5eUFMSC15RENEbEJ6UjVHODlpZDZWTGRTREhXSTBVVTVhbDBRUWdoUTlBQU5GMXRBS0RPZW5JTG5MZw?oc=5",
-    "summary_bullets": [
-      "DetonatioN FocusMe（DFM）がVALORANT公式国際リーグ『VALORANT Champions Tour Pacific 2026 Stage 1』への出場権を獲得！",
-      "日本のeSports界を牽引するDFMが、世界最高峰の舞台でいよいよその実力を証明するビッグチャンスが到来！",
-      "2026年に始まる新たな戦いで、DFMがどんなドラマを見せてくれるのか、今から期待が爆上がり！"
-    ],
-    "insight": "日本のeSportsチームであるDetonatioN FocusMeが、VALORANTの国際リーグに参戦することは、日本のVALORANTコミュニティにとって歴史的な一歩です。世界中の強豪と渡り合う彼らの勇姿から目が離せません！",
-    "action_plan": "今すぐVALORANT公式YouTubeチャンネルを登録して、DFMの最新情報や試合日程をチェックしておきましょう！試合当日は熱い声援を送って盛り上げよう！",
-    "image_keyword": "eSports VALORANT competition",
-    "technical_terms": [
-      {
-        "term": "VALORANT Champions Tour Pacific (VCT Pacific)",
-        "explanation": "世界中のプロチームが年間を通して競い合うVALORANTの公式国際リーグ。Pacificはアジア太平洋地域を指します。"
-      },
-      {
-        "term": "DetonatioN FocusMe (DFM)",
-        "explanation": "日本のプロeSportsチームで、VALORANT部門は国内トップクラスの実力を誇ります。"
-      }
-    ]
-  },
-  "https://natalie.mu/comic/news/667061": {
-    "title": "人気漫画家・児島青が「マンガのラジオ」降臨！「本なら売るほど」な読書人生の秘密を大放出！",
-    "tags": "Comic",
-    "sentiment": "positive",
-    "sentiment_text": "必聴エピソード！",
-    "rating": 4,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/667061",
-    "summary_bullets": [
-      "児島青先生が人気ラジオ番組「マンガのラジオ」に出演し、衝撃の読書体験を語る！",
-      "「本なら売るほど」というパワーワードに込められた、漫画家の思考の源泉や創作秘話が明らかに。",
-      "ファンは必聴！児島青先生の新たな一面や、作品世界を深掘りするヒントが満載のトーク！"
-    ],
-    "insight": "「本なら売るほど」というユニークなフレーズに集約される児島青先生の読書遍歴は、その豊かな想像力と創作活動の核にあると言えるでしょう。このラジオ出演は、先生の作品がどのように生まれ、どんなインスピレーションを受けているのかを知る、またとないチャンスです。",
-    "action_plan": "まずは「マンガのラジオ」をチェックして、児島青先生のぶっちゃけトークをリアルタイムで体感してみましょう！そして、これを機に先生の既刊作品を読み返したり、まだ未読の方は先生の作品世界に飛び込んでみるのがおすすめです！",
-    "image_keyword": "Manga artist talk, radio podcast, book culture",
-    "technical_terms": []
-  },
-  "https://natalie.mu/comic/news/667056": {
-    "title": "アニメ「プリオケ」感動の1stライブ開催決定！葵あずさ、藤本侑里ら豪華声優陣が夢の共演！",
-    "tags": "Anime",
-    "sentiment": "positive",
-    "sentiment_text": "キターーー！夢の共演が実現！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/667056",
-    "summary_bullets": [
-      "アニメ「プリオケ」待望の1stライブ「Orchestralia」が開催決定！",
-      "葵あずさ、藤本侑里、橘杏咲ら豪華声優陣が大集結し、作品の世界をリアルに再現！",
-      "作品ファンはもちろん、声優ファンも必見の感動と興奮に満ちたステージに期待！"
-    ],
-    "insight": "アニメ「プリオケ」の音楽と感動をそのままに、声優陣が紡ぎ出す生パフォーマンスは、作品への愛をさらに深めること間違いなし！推しキャラクターの声を生で聞ける貴重な機会です。",
-    "action_plan": "まずはアニメ「プリオケ」を視聴して、作品と登場キャラクターへの理解を深めてライブに備えましょう！ライブのチケット情報もこまめにチェック！",
-    "image_keyword": "anime live concert, voice actors, prioque",
-    "technical_terms": [
-      {
-        "term": "プリオケ",
-        "explanation": "アニメ「オルケリア」の略称。作中に登場するアイドルグループ名も指す。"
-      },
-      {
-        "term": "Orchestralia",
-        "explanation": "アニメ「プリオケ」の作中グループ「Orchestralia」の名前を冠した、記念すべき1stライブイベント。"
-      }
-    ]
-  },
   "https://natalie.mu/comic/news/667053": {
     "title": "激アツ！『機動新世紀ガンダムX』30周年記念ビジュアル解禁！高木渉＆かないみか出演のスペシャル番組も見逃すな！",
     "tags": "Anime",
@@ -4794,7 +4722,7 @@
     "sentiment": "positive",
     "sentiment_text": "期待値爆上がり！",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MSHFISWg4YV9zbmxkTHJZcjlNV3Qxb3I5dFBXcVB0VEhNakpWZE03aklHQWJkZ29wQWkxa1p4b2paLUNSYVFDRTNhUERpRE84Y3BhSmRndG4tbTgwai1fcWd4UU9ZMGZ2aHBCWlIxUmlneG5KVGoxRGEyd1ZuY0E?oc=5",
     "summary_bullets": [
       "Netflix版『ナルニア国物語』が、2027年公開延期とともに劇場公開の拡大が決定！",
@@ -4812,7 +4740,7 @@
     "sentiment": "positive",
     "sentiment_text": "アマプラが贈る、5月のビッグウェーブ到来！これは見逃し厳禁の神アプデだ！",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "3日前",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nZ3VTOWIydTQ0QmNkcVAzQTFXNlJXSHJjVmVMMml6SHJWRDZwU0NnX3dKZk10RHdvVWlURVNITzVhWTQySU01cjFB?oc=5",
     "summary_bullets": [
       "ホラーファン待望の新作『リターン・トゥ・サイレントヒル』がPrime Videoで独占配信決定！",
@@ -4889,6 +4817,73 @@
     "insight": "「T.N.T」という言葉が持つ、破壊力と創造性のイメージが、音楽シーンに新たな刺激をもたらすことを予感させます。型にはまらないサウンドや表現で、リスナーの心を揺さぶる存在となるでしょう。",
     "action_plan": "「T.N.T」というキーワードで関連情報を検索し、どんな音楽やアーティストが潜んでいるのか、いち早くチェックしてみましょう！彼らの動向に注目して、最新情報をキャッチアップしてください！",
     "image_keyword": "dynamic music, rock concert, exciting announcement",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MbWk1MTJxUU9yR0tBVHEyMXd5Z211NjhGUERNVDRVQXZ6eUFaNTdMdU9vOTZ6QV9vLXp4ZjFRNHBTYUo4UjRlWnV3Wmg4bUhXN1lYZkFaWQ?oc=5": {
+    "title": "【速報】『スト6』激アツ確定！「すぺしゃりてフェス #08」でVtuber、ストリーマー、プロが激突！5/8（金）17時開戦！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "ファン待望の祭典！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MbWk1MTJxUU9yR0tBVHEyMXd5Z211NjhGUERNVDRVQXZ6eUFaNTdMdU9vOTZ6QV9vLXp4ZjFRNHBTYUo4UjRlWnV3Wmg4bUhXN1lYZkFaWQ?oc=5",
+    "summary_bullets": [
+      "格闘ゲームの金字塔『ストリートファイター6』のビッグイベント「すぺしゃりてフェス #08」開催決定！",
+      "Vtuber、人気ストリーマー、そしてプロゲーマーが豪華共演！夢のチーム戦が実現する！",
+      "5月8日（金）17時より激戦開始！どんな名勝負が繰り広げられるか、絶対に見逃せない！"
+    ],
+    "insight": "人気と実力を兼ね備えた各界のトッププレイヤーが一堂に会することで、普段は見られないような異色の組み合わせや予想外の熱いバトルが期待できるのが最大の魅力。格ゲーファンだけでなく、配信視聴者も必見のエンタメコンテンツだ！",
+    "action_plan": "当日は配信をリアルタイムでチェックし、お気に入りのVtuberやストリーマー、プロゲーマーを応援しよう！これを機に『ストリートファイター6』を始めてみるのもアリ！",
+    "image_keyword": "Street Fighter 6 esports",
+    "technical_terms": [
+      {
+        "term": "スト6",
+        "explanation": "大人気格闘ゲーム『ストリートファイター6』の略称。"
+      },
+      {
+        "term": "Vtuber",
+        "explanation": "バーチャルYouTuberの略で、アバターを使って動画配信を行う人気クリエイターたち。"
+      },
+      {
+        "term": "ストリーマー",
+        "explanation": "主にゲーム実況などをライブ配信するインフルエンサーのこと。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/670879": {
+    "title": "「魔法科高校の劣等生」劇場版、激アツ応援イラスト第3弾が降臨！「アクセル・ワールド」HIMA先生が描く、美しき世界を見逃すな！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "これはアツい！人気絵師による神コラボで期待度MAX！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/670879",
+    "summary_bullets": [
+      "劇場版「魔法科高校の劣等生」の応援イラスト第3弾に、人気作品「アクセル・ワールド」で知られるHIMA先生が参戦決定！",
+      "繊細なイラストで定評のあるHIMA先生が、魔法科の世界をどう彩るのかファンならずとも注目度爆上がり！",
+      "豪華クリエイター陣によるスペシャルなコラボイラストで、劇場版への期待感がさらにブーストされること間違いなし！"
+    ],
+    "insight": "豪華クリエイター陣が作品への愛を込めて描く応援イラストは、まさに最高のファンサービス！ HIMA先生の独特のタッチで描かれる魔法科の世界は、作品の新たな魅力を引き出し、観る者の心を鷲掴みにするはず。",
+    "action_plan": "劇場版「魔法科高校の劣等生」の公式サイトを今すぐチェックして、公開に備えよう！そして、HIMA先生の美麗イラストが堪能できる「アクセル・ワールド」もぜひ読んでみてね！",
+    "image_keyword": "anime illustration, magic high school, HIMA art",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15UlYxN2lxbWc1VkNFSTVfbm85YkVXd2xJYXNUV3RjY2k1TkhTSndFcUZNV1l5SHVJZmg1MDF1OU9XaldvaFlUbEptQjhqUQ?oc=5": {
+    "title": "速報！『ゴシップガール』チームが仕掛けるNetflix新作、大学野球のイケメンたちが愛憎劇!? 期待度MAXの青春ドラマが始動！",
+    "tags": "Drama",
+    "sentiment": "positive",
+    "sentiment_text": "Netflix大注目！",
+    "rating": 5,
+    "time_ago": "3日前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15UlYxN2lxbWc1VkNFSTVfbm85YkVXd2xJYXNUV3RjY2k1TkhTSndFcUZNV1l5SHVJZmg1MDF1OU9XaldvaFlUbEptQjhqUQ?oc=5",
+    "summary_bullets": [
+      "あの『ゴシップガール』の製作チームが手掛ける、新たな学園ドラマがNetflixで始動決定！",
+      "舞台は大学野球リーグ！才能ある選手たちの熱い戦いと、隠された愛憎、そして秘密が描かれる",
+      "スポーツの興奮と刺激的な人間ドラマが融合した、Netflixの新ヒット作に期待が高まる"
+    ],
+    "insight": "『ゴシップガール』で社会現象を巻き起こした製作陣が、今度は大学野球という全く新しい舞台で、若者たちの複雑な人間関係と秘められたドラマを紡ぎ出します！華やかなスポットライトの裏で繰り広げられる、野心と裏切り、そして燃え上がるようなロマンスが、世界中の視聴者を釘付けにすること間違いなし！Netflixが贈る、この冬一番のアツい話題作を見逃すな！",
+    "action_plan": "この新作に備えて、まずは『ゴシップガール』シリーズをNetflixでイッキ見して、製作チームの魅惑的な世界観を再確認してみましょう！そして、Netflixからの続報をアラート設定して待ち構えるべし！",
+    "image_keyword": "college baseball drama, netflix series, youth romance",
     "technical_terms": []
   }
 }
