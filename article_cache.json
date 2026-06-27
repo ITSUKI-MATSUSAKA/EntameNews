@@ -1,193 +1,4 @@
 {
-  "https://natalie.mu/comic/news/675083": {
-    "title": "「落第賢者」アニメ化決定！実力隠しきれないエフタル爆誕PV解禁！OPはあのFLOWが熱唱！これは見逃せないッ！",
-    "tags": "Anime",
-    "sentiment": "positive",
-    "sentiment_text": "大注目の新作アニメ爆誕！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/675083",
-    "summary_bullets": [
-      "アニメ「落第賢者」の最新PVが公開され、主人公エフタルが隠しきれない実力で爽快に無双するシーンが解禁！",
-      "オープニングテーマは人気ロックバンドFLOWが担当することが発表され、作品への期待感が爆上がり！",
-      "放送に向けて期待度MAX！エフタルの熱い活躍とFLOWのド迫力主題歌に今から注目だ！"
-    ],
-    "insight": "実力を隠しきれない主人公が爽快に無双する展開は、まさに王道ファンタジーの醍醐味！FLOWのド派手なOP曲が加わることで、視聴者のテンションを最高潮に引き上げることは間違いなし！",
-    "action_plan": "アニメ放送前に原作小説や漫画を読んで、さらに世界観に没入してみましょう！FLOWのこれまでのアニソンも一緒にプレイリストに入れて予習するのもアリ！",
-    "image_keyword": "Anime fantasy action, FLOW music video, protagonist fight scene",
-    "technical_terms": []
-  },
-  "https://natalie.mu/comic/news/675105": {
-    "title": "「おそ松さん」10周年！豪華声優陣11名が大集結！爆笑と感動のイベント速報をお届け！",
-    "tags": "Anime",
-    "sentiment": "positive",
-    "sentiment_text": "祝！10周年！ファン感涙の豪華イベント開催！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/675105",
-    "summary_bullets": [
-      "「おそ松さん」10周年記念イベントに、櫻井孝宏をはじめとする豪華声優キャスト11名が大集結！",
-      "作品への深い愛を語るトークや、会場を沸かせた企画の数々でファンを熱狂の渦に巻き込んだ！",
-      "10年間の軌跡を振り返りつつ、今後の「おそ松さん」のさらなる展開に期待が高まる一夜に！"
-    ],
-    "insight": "個性豊かな六つ子と彼らを演じる実力派声優陣が織りなす予測不能なギャグと感動は、「おそ松さん」が10年間愛され続ける最大の魅力。今回のイベントは、その魅力を再確認し、ファンとの絆を深める最高の機会となりました！",
-    "action_plan": "記念すべき10周年！アニメ全シリーズを見直したり、最新情報やグッズをチェックして「おそ松さん」の世界をさらに深掘りしてみましょう！",
-    "image_keyword": "Osomatsu-san 10th anniversary event",
-    "technical_terms": []
-  },
-  "https://natalie.mu/comic/news/675107": {
-    "title": "渋谷に「あかね噺」上陸！7月開幕の展覧会で、あの熱気を全身で体感せよ！",
-    "tags": "Anime",
-    "sentiment": "positive",
-    "sentiment_text": "ファン待望！これは見逃せない！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/675107",
-    "summary_bullets": [
-      "人気アニメ「あかね噺」の初の展覧会が7月から渋谷で開催決定！",
-      "作品の舞台である落語の世界観やキャラクターの魅力を、立体的に体感できる展示が目白押し！",
-      "アニメファンも原作ファンも、作品への理解を深め、さらなる感動を味わえるファン必見のイベントだ！"
-    ],
-    "insight": "落語という伝統芸能を題材に、熱い青春と成長を描く「あかね噺」。初の展覧会では、普段アニメでは味わえない臨場感で、その奥深い世界観とキャラクターたちの息遣いを間近に感じられるのが最大の魅力です。",
-    "action_plan": "展覧会に行く前に、ぜひアニメや原作漫画を復習して、登場人物たちの熱い物語に触れてみましょう！さらに感動が深まること間違いなしです！",
-    "image_keyword": "Akane-banashi anime, exhibition, Shibuya event",
-    "technical_terms": [
-      {
-        "term": "あかね噺",
-        "explanation": "落語の世界を舞台に、主人公がプロの落語家を目指す熱血青春物語。週刊少年ジャンプで連載中。"
-      },
-      {
-        "term": "落語",
-        "explanation": "江戸時代から続く日本の伝統芸能で、一人で何役も演じ分け、身振り手振りや声色で物語を語る話芸のこと。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93MFp1SkRlNTBvcHFqTkpWR1hJRFdaYnJkcmNHN3ExaGJxQUZqYWMtY1FHUlRDMkl0NGtQZE0yN0kyY3dGOWFibGJn?oc=5": {
-    "title": "Netflixで議論沸騰！批評家92%の“衝撃ドキュメンタリー”が暴く、女子高生を動かした“ある理由”とは？",
-    "tags": "Documentary",
-    "sentiment": "negative",
-    "sentiment_text": "議論を呼ぶ衝撃作",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93MFp1SkRlNTBvcHFqTkpWR1hJRFdaYnJkcmNHN3ExaGJxQUZqYWMtY1FHUlRDMkl0NGtQZE0yN0kyY3dGOWFibGJn?oc=5",
-    "summary_bullets": [
-      "批評家スコア92%を獲得し、Netflix世界ランキングを席巻する注目のドキュメンタリーが登場！",
-      "死亡事故を起こした女子高生の“理由”に迫り、視聴者から「激怒」の声も上がるほどの衝撃展開。",
-      "深い社会的な問いを投げかけ、観る者の心に強烈なインパクトを残すこと間違いなし。"
-    ],
-    "insight": "Netflixの世界ランキング入りし、批評家絶賛の92%スコアを叩き出した本作は、単なるドキュメンタリーに留まらない。一つの事故から見えてくる現代社会の歪みや人間の本質を抉り出し、観る者の倫理観を試すような強烈な体験が待っている。",
-    "action_plan": "Netflixでこの衝撃ドキュメンタリーを今すぐチェックして、あなた自身の目で“真実”を確かめてみましょう！",
-    "image_keyword": "documentary film, controversial story, mystery girl",
-    "technical_terms": []
-  },
-  "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NWEVpWVdQWElvWU44RjZvekxTYzlERDdHS1lsNE1LMWs5d29tdVVOc00wR0RXM3VlNWs4S0VnY0Q2dllmWkFzTVlJS3BPcGRCVkJFUTdlRnItTmdGdlNudzRwb3pXU0pvRDhNaVV3?oc=5": {
-    "title": "Netflixの「おすすめ映画」が刺さらない問題、徹底解明！もう迷わない映画選びの極意とは？",
-    "tags": "Streaming",
-    "sentiment": "negative",
-    "sentiment_text": "Netflixユーザー共感！まさかの悩み共有！？",
-    "rating": 4,
-    "time_ago": "1日前",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NWEVpWVdQWElvWU44RjZvekxTYzlERDdHS1lsNE1LMWs5d29tdVVOc00wR0RXM3VlNWs4S0VnY0Q2dllmWkFzTVlJS3BPcGRCVkJFUTdlRnItTmdGdlNudzRwb3pXU0pvRDhNaVV3?oc=5",
-    "summary_bullets": [
-      "Netflixのレコメンド機能、なぜ『ハズレ』が多いのか？その深層に迫る！",
-      "あなたの映画ライフが変わるかも！パーソナライズされた視聴体験の謎を解き明かせ！",
-      "もう『見るものがない』とは言わせない！究極のNetflix活用術で映画選びの悩みを解消！"
-    ],
-    "insight": "多くのユーザーが共感するNetflixの「おすすめが刺さらない問題」の核心に迫ります。レコメンドの仕組みを理解し、あなただけの最高の映画体験を見つけるヒントが満載です！",
-    "action_plan": "まずは自分のNetflix視聴履歴と評価をチェック！レコメンド精度UPの第一歩を踏み出そう！",
-    "image_keyword": "Netflix movie recommendation",
-    "technical_terms": [
-      {
-        "term": "レコメンド機能",
-        "explanation": "ユーザーの視聴履歴や評価に基づいて、次におすすめの作品を提示してくれるシステムのこと。"
-      },
-      {
-        "term": "パーソナライズ",
-        "explanation": "個々のユーザーの好みや行動に合わせて、コンテンツやサービスを最適化すること。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TndIOVZiLTdwbkVUSWtkMmxSZGJ5cXZacjh6aktjUDF5eTlRWkQ3N1VpX3Q2eFlEQlpRWlFwb2lqa1ZZclZpWTIzSElDMmtubVdxbkRFSGpDMWJZSUJoTUg0RlNXRDdNQWIyQV93TE9zZ1BY?oc=5": {
-    "title": "ネトフリ沼へようこそ！2026年6月の激アツ56作品、新作も全部見せます！",
-    "tags": "Movie",
-    "sentiment": "positive",
-    "sentiment_text": "見放題の神リスト！",
-    "rating": 5,
-    "time_ago": "16時間前",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TndIOVZiLTdwbkVUSWtkMmxSZGJ5cXZacjh6aktjUDF5eTlRWkQ3N1VpX3Q2eFlEQlpRWlFwb2lqa1ZZclZpWTIzSElDMmtubVdxbkRFSGpDMWJZSUJoTUg0RlNXRDdNQWIyQV93TE9zZ1BY?oc=5",
-    "summary_bullets": [
-      "Netflixで2026年6月に配信される、ドラマ・映画の厳選56作品がまとめてチェックできる！",
-      "最新作から隠れた名作まで、自分にぴったりの次に見る作品が必ず見つかる必見リスト。",
-      "このリストを参考に、充実したネトフリライフを最高に楽しむ準備をしよう！"
-    ],
-    "insight": "Netflixの膨大なライブラリから、2026年6月に絶対見るべき珠玉のドラマ・映画56作品が厳選された神リスト。新作も網羅しているので、次に何を見るか迷った時に最高の羅針盤になること間違いなし！",
-    "action_plan": "まずはこのリストをブックマークして、気になる作品からNetflixで視聴を開始してみましょう！お気に入りの作品が見つかったら、SNSでシェアするのも忘れずに！",
-    "image_keyword": "Netflix recommendations, streaming guide, must-watch movies",
-    "technical_terms": []
-  },
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mMWdxRGxUVVp4d1NrWmRIS3QxLWZHbXBubElvS0Fnc0F4dWN6bXA4RWIxOHFpSER4UkpWQ3RqV0p3V1B0d3Z5SXMyV0tBNjYyaFE?oc=5": {
-    "title": "フジロック’26、超速報！XG、平沢進、山口一郎、ベースメント・ジャックス…夢の豪華ラインナップ第2弾で激アツ確定！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "これはアツい！期待値爆上がりの神ラインナップ発表！",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mMWdxRGxUVVp4d1NrWmRIS3QxLWZHbXBubElvS0Fnc0F4dWN6bXA4RWIxOHFpSER4UkpWQ3RqV0p3V1B0d3Z5SXMyV0tBNjYyaFE?oc=5",
-    "summary_bullets": [
-      "フジロック’26の超豪華ラインナップ第2弾が緊急発表！夢のフェスがさらに現実に近づく！",
-      "K-POPグループXG、レジェンド平沢進、山口一郎、ベースメント・ジャックスなど、ジャンルを超えた注目アクトが続々決定！",
-      "まだ見ぬサプライズアクトへの期待も高まる中、今後の追加情報＆チケット争奪戦から目が離せない！"
-    ],
-    "insight": "K-POP、エレクトロ、ロック、プログレと、ジャンルや世代を超えたアーティストたちが一堂に会するフジロック'26は、まさに音楽の祭典！予測不能な最高のパフォーマンスに期待が高まります。",
-    "action_plan": "発表されたアーティストたちの楽曲を今のうちに予習して、フジロック'26への準備を始めましょう！公式SNSやチケット情報も要チェックです！",
-    "image_keyword": "Fuji Rock Festival, music lineup, stage performance",
-    "technical_terms": []
-  },
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5MmoyLW1WT080QXUtZE9yallNSE1nVDFOdHhVRXYzc2hDQVY0dHh3NlBZcWExckQ4aEtvWWs2TG9FYlhiT2NROE1vbS0xMkxXTlE?oc=5": {
-    "title": "サブモーション・オーケストラが新境地へ！ミニマルなシンセが織りなすUKソウルの未来を聴け！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "待望の新作！これは聴くしかない！",
-    "rating": 4,
-    "time_ago": "3日前",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5MmoyLW1WT080QXUtZE9yallNSE1nVDFOdHhVRXYzc2hDQVY0dHh3NlBZcWExckQ4aEtvWWs2TG9FYlhiT2NROE1vbS0xMkxXTlE?oc=5",
-    "summary_bullets": [
-      "UKソウルコレクティブ、サブモーション・オーケストラが待望の6thアルバム『Passed Me By』をリリース！",
-      "これまでの彼らとは一線を画す、シンセ主導のミニマルなサウンドが新たな音楽体験を約束。",
-      "結成から15年、常に進化を続ける彼らが提示する新境地は、音楽シーンに大きなインパクトを与えること間違いなし！"
-    ],
-    "insight": "UKソウルシーンを牽引してきたサブモーション・オーケストラが、本作でシンセ主導のミニマルなサウンドに大胆なシフト。彼らの新たな音楽的冒険は、リスナーにこれまでにない没入感と洗練されたグルーヴを届けてくれるだろう。",
-    "action_plan": "まずはアルバム『Passed Me By』をストリーミングで今すぐチェック！彼らの過去作と聴き比べて、サウンドの変化と進化を体感してみよう！",
-    "image_keyword": "Electronic Soul Music",
-    "technical_terms": [
-      {
-        "term": "UKソウルコレクティブ",
-        "explanation": "イギリスを拠点に活動する、ソウルミュージックを基盤とした音楽集団のこと。複数のメンバーが共同で楽曲制作や演奏を行う形態を指す。"
-      },
-      {
-        "term": "シンセ主導のミニマル路線",
-        "explanation": "シンセサイザーが楽曲の中心となり、音数を抑えながらも深い表現や特定のムードを追求する音楽スタイル。空間性や反復が特徴的。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiSlN6VjBYZ2JDcGl4bGV5RVZGem9LdjFkRVhEUnFLM0JnRTRranFRamtjeGUtTUpPdUpTbTdRU1RpRnY1UHJXelg1cjQ3THZ1LVBPM2dXY0NLOVUzLXFJcUg0UQ?oc=5": {
-    "title": "「クジラ夜の街」新MV「初恋」が遂に解禁！切なさとエモさが絡み合う映像美に没入せよ！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "エモさ爆発！心揺さぶる最新MVで「初恋」の世界へダイブ！",
-    "rating": 4,
-    "time_ago": "1日前",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiSlN6VjBYZ2JDcGl4bGV5RVZGem9LdjFkRVhEUnFLM0JnRTRranFRamtjeGUtTUpPdUpTbTdRU1RpRnY1UHJXelg1cjQ3THZ1LVBPM2dXY0NLOVUzLXFJcUg0UQ?oc=5",
-    "summary_bullets": [
-      "人気ロックバンド「クジラ夜の街」の最新曲「初恋」のミュージックビデオが遂に公開！",
-      "彼らの叙情的な世界観が映像でより鮮やかに表現され、楽曲の魅力がさらに加速。",
-      "見る者の心に深く突き刺さるような、美しくも切ない映像体験がここに誕生！"
-    ],
-    "insight": "「クジラ夜の街」が放つ新曲「初恋」のMVは、彼ら独特の幻想的で文学的なサウンドスケープを見事に視覚化。楽曲に込められた淡い切なさと激情が、息をのむような映像美と絡み合い、聴く人の心に深く、そして静かに響き渡る珠玉の作品となっている。",
-    "action_plan": "このMVで「クジラ夜の街」に心を奪われたら、ぜひ彼らの他の楽曲もチェックして、その唯一無二の世界観をもっと深く探求してみましょう！ライブ情報も要チェックです！",
-    "image_keyword": "japanese rock music video, whale city band, first love song visual",
-    "technical_terms": []
-  },
   "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmQVVuV0hfdzcxRFpLQUtKNERxNk44eWUxa0QxZGlaeDBGNWlHLXdpa19OQ0p1dmVzZ05BSzhVeHFma2d3SEJBeTc2ZlRQYWt0dHJBS2dSdi1La0RQdHMtTkZpWHJZYjhaYzdELXg2clU?oc=5": {
     "title": "eスポーツ熱狂！VALORANT世界大会出場チーム激アツ決定！LoLも神パッチ＆新チャンプ爆誕でゲーマー歓喜！",
     "tags": "Gaming",
@@ -2216,7 +2027,7 @@
     "sentiment": "positive",
     "sentiment_text": "神レベルの新作映画が目白押し！",
     "rating": 5,
-    "time_ago": "14時間前",
+    "time_ago": "7時間前",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNDhJdENxMDdudWpFc2VwaUp0LTFHQWx1VVJpTHBXUS1zM2Fadlpnc0YyMGt0SDBJZ1ZfM0FXdm1XOTNCZGwtUDg3UlpERmVLQlMtUzlKXzFXb1E?oc=5",
     "summary_bullets": [
       "Netflixから2026年3月に公開される「神すぎる」新作映画4選が発表され、早くも話題沸騰中！",
@@ -2724,7 +2535,7 @@
     "sentiment": "positive",
     "sentiment_text": "コレクター歓喜！伝説の名盤がここに！",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "12日前",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlVyamlHVW43VHJSMWhJY3pKLWJvekRLZlRWYXl6NVBPa09NcDdsdkI5M1NaRGN6cVpjcEpNNkJaZFVrTnBFeXA2UXlGTldleC0zcldUZk9senlqLVFhTmEybnlBM243Vl94bVloWXR0bDBlZUpqeDRsWXd5RktnV1ZwQzJTTWs?oc=5",
     "summary_bullets": [
       "伝説の洋楽ロック名盤が、ファン待望の日本プレス盤LPシリーズとして復活！",
@@ -4733,7 +4544,7 @@
     "sentiment": "positive",
     "sentiment_text": "「まさかの大金星！」「日本映画が世界を席巻!?」",
     "rating": 5,
-    "time_ago": "1時間前",
+    "time_ago": "1日前",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGZW1rQlhYSFlEYjR6dzhqMHB4WFlJYmN4Ri1JeEJ6VXBBUHVxQl9NRDc1dHlVQzRlWXdZUndqRG1wSHRiUmJwRlBB?oc=5",
     "summary_bullets": [
       "大泉洋主演の映画『かくかくしかじか』がNetflix国内ランキングで初登場1位を獲得！",
@@ -4851,6 +4662,260 @@
     "insight": "PASSPO☆の新作は、チアリーディング風の青春ロックから、ホラーやアクションをイメージさせる楽曲まで、まるで映画を観るように多彩なジャンルを楽しめるのが最大の魅力！彼女たちの表現力の幅広さに驚きと興奮が止まらない！",
     "action_plan": "まずは新作を全曲聴いて、それぞれの楽曲がどんな映画をイメージさせるか妄想してみましょう！過去のPASSPO☆作品も合わせてチェックして、彼女たちの進化を体感せよ！",
     "image_keyword": "idol music, rock variety, passpo",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Vb2pSSHBvdk14bURmYjdzTWdsMnNPdm5NQ2NWR3VGZERFcXNjR2ZIdjE1STZrQkRoUWV2aDUtd0NmMTZGMmxvTXJwMVNzbnpKQ0RKSFFLZw?oc=5": {
+    "title": "世界最強決定戦！【スト6】EVOラスベガス2026が遂に開幕！Day2激闘スケジュール速報！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "格ゲーの祭典！胸熱バトルが炸裂する最高の瞬間！",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Vb2pSSHBvdk14bURmYjdzTWdsMnNPdm5NQ2NWR3VGZERFcXNjR2ZIdjE1STZrQkRoUWV2aDUtd0NmMTZGMmxvTXJwMVNzbnpKQ0RKSFFLZw?oc=5",
+    "summary_bullets": [
+      "世界最高峰の格ゲーイベント「EVOラスベガス2026」のストリートファイター6部門が熱狂の幕開け！",
+      "Day2の激闘は日本時間6月28日午前3時からスタート、世界中の強豪がぶつかり合う瞬間を見逃すな！",
+      "予測不能なドラマが生まれるであろうトーナメントで、新たなスター選手誕生の予感に期待が高まる！"
+    ],
+    "insight": "「EVOラスベガス2026」の「スト6」部門は、世界中のトッププレイヤーが集結するまさに夢舞台！超絶テクニックと戦略がぶつかり合う激戦は、格闘ゲームファンならずとも興奮すること間違いなし！",
+    "action_plan": "今すぐ配信プラットフォームをチェックして、激闘のDay2を見逃すな！お気に入りの選手を応援しよう！",
+    "image_keyword": "Street Fighter 6, EVO eSports, Fighting Game Tournament",
+    "technical_terms": [
+      {
+        "term": "スト6",
+        "explanation": "大人気対戦型格闘ゲーム『ストリートファイター6』の略称。世界中で多くのプレイヤーに愛されています。"
+      },
+      {
+        "term": "EVOラスベガス2026",
+        "explanation": "Evolution Championship Seriesの略で、ラスベガスで開催される世界最大規模の格闘ゲーム大会。毎年世界中のトッププレイヤーが集結します。"
+      },
+      {
+        "term": "Day2",
+        "explanation": "大会期間中の2日目を指し、通常は予選を勝ち抜いた選手がさらに上位を目指す、トーナメントの重要なステージです。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XOEpJVFZJZnJVUkgzZUtrazdfNVFGblFBLXJCa2dna3NDUC1YMFRlWUoxNmgzUElDSDRBMnJJNHE4YlU1b3NqX0R3SS1pX1RY?oc=5": {
+    "title": "世界が注目！『Esports World Cup 2026』、光り輝くパリで7月2日開幕！熱狂のスケジュール＆組み合わせが遂に発表！",
+    "tags": "Esports",
+    "sentiment": "positive",
+    "sentiment_text": "世界が熱狂！開幕が待ちきれない！",
+    "rating": 5,
+    "time_ago": "7時間前",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XOEpJVFZJZnJVUkgzZUtrazdfNVFGblFBLXJCa2dna3NDUC1YMFRlWUoxNmgzUElDSDRBMnJJNHE4YlU1b3NqX0R3SS1pX1RY?oc=5",
+    "summary_bullets": [
+      "世界最大のeスポーツの祭典『Esports World Cup 2026』の大会スケジュールと組み合わせが発表された！",
+      "フランスの華やかな首都パリで、2026年7月2日にいよいよ開幕！世界中のトッププレイヤーが激突する！",
+      "各タイトルでの熱い戦いや、どんなドラマが生まれるのか、今から期待で胸が膨らむ！"
+    ],
+    "insight": "『Esports World Cup 2026』は、eスポーツ界の新たな歴史を刻む一大イベント！世界中の強豪が一堂に会し、パリのステージで繰り広げられる白熱の戦いは、ファンならずとも必見のエンターテイメントとなること間違いなし！",
+    "action_plan": "公式サイトや公式SNSをフォローして、推しチームや注目ゲームの最新情報をキャッチしよう！開幕に向けて、出場選手やチームの動向をチェックして、自分だけの観戦計画を立てるのもおすすめです！",
+    "image_keyword": "esports world cup, paris gaming, valorant tournament",
+    "technical_terms": [
+      {
+        "term": "Esports World Cup",
+        "explanation": "世界規模で行われる、複数のゲームタイトルを横断する国際的なeスポーツ大会の総称です。"
+      },
+      {
+        "term": "Valorant",
+        "explanation": "ライアットゲームズが開発・運営する、人気のタクティカルシューターゲーム。競技性の高さで知られ、プロリーグも盛んです。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10SmpqZkhzWFBKdnhGOUhMR0NQSHZ3aVdubHNLd19PbTUzeWRPdWdGczJpRFBJb244VFg1NTBqS3BFdlZXMDJvRjB4eXdpX2JZ?oc=5": {
+    "title": "激震VALORANT界！KRÜ Esportsにあの熱き男、heatが電撃復帰！新たな伝説が今、始まる！",
+    "tags": "Esports",
+    "sentiment": "positive",
+    "sentiment_text": "激アツ展開！待望のヒーロー帰還！",
+    "rating": 5,
+    "time_ago": "9時間前",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10SmpqZkhzWFBKdnhGOUhMR0NQSHZ3aVdubHNLd19PbTUzeWRPdWdGczJpRFBJb244VFg1NTBqS3BFdlZXMDJvRjB4eXdpX2JZ?oc=5",
+    "summary_bullets": [
+      "人気プロチームKRÜ Esportsに、かつてのエースであるheat選手がロスターとして電撃復帰！",
+      "チームメイトのsilentzz選手との交代で、新たな布陣でVALORANTシーンに挑む！",
+      "ファン待望のカムバックにより、KRÜ Esportsの今後のパフォーマンスと戦略に大きな期待が寄せられる！"
+    ],
+    "insight": "VALORANT界を揺るがすビッグニュース！KRÜ Esportsにheat選手が再び加わることで、チームは新たな局面を迎え、その化学反応に大きな期待が寄せられています。彼の復帰がチームのプレイスタイルや戦術にどのような影響を与えるのか、今後の試合展開がますます見逃せません！",
+    "action_plan": "新生KRÜ Esportsの試合をライブでチェックして、heat選手の華麗なプレイをその目に焼き付けよう！公式SNSをフォローして最新情報を逃さずゲットするのもおすすめです！",
+    "image_keyword": "KRU Esports Valorant",
+    "technical_terms": [
+      {
+        "term": "KRÜ Esports",
+        "explanation": "南米を拠点に活動する、世界的に有名なVALORANTのプロeスポーツチーム。国際大会での実績も豊富。"
+      },
+      {
+        "term": "ロスター",
+        "explanation": "スポーツやeスポーツにおいて、公式戦に出場登録されている選手メンバーのこと。入れ替えがある場合も多い。"
+      },
+      {
+        "term": "VALORANT",
+        "explanation": "ライアットゲームズが開発・運営する、人気の一人称視点シューティング（FPS）ゲーム。世界中でプロリーグが展開されている。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/678097": {
+    "title": "『宇宙兄弟』ついに完結！感動のフィナーレを祝うスペシャル展示イベントが渋谷に降臨！",
+    "tags": "Manga",
+    "sentiment": "positive",
+    "sentiment_text": "「完結記念！これは見逃せない！」",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/678097",
+    "summary_bullets": [
+      "大人気マンガ『宇宙兄弟』の完結を記念したスペシャル展示イベントが渋谷で開催決定！",
+      "作者・小山宙哉先生が描き下ろした、1巻オマージュの感動的なビジュアルが公開！",
+      "ファンは作品の軌跡をたどり、完結の喜びと感動を分かち合える貴重なチャンス！"
+    ],
+    "insight": "長年にわたり多くの読者を宇宙への夢と兄弟の絆で魅了してきた『宇宙兄弟』の完結記念イベントは、まさにファン待望の祭典！小山宙哉先生による描き下ろしビジュアルも登場し、作品への愛と感謝が詰まった特別な空間になりそうです。",
+    "action_plan": "イベントへ行く前に、もう一度原作コミックを読み返してムッタとヒビトの宇宙への軌跡を追体験してみましょう！展示でより深い感動が待っているはずです！",
+    "image_keyword": "Space Brothers manga event, Shuya Koyama art, Shibuya exhibition",
+    "technical_terms": [
+      {
+        "term": "宇宙兄弟",
+        "explanation": "小山宙哉による人気SF漫画。兄弟が宇宙飛行士を目指す物語。"
+      },
+      {
+        "term": "完結記念展示イベント",
+        "explanation": "作品の完結を祝し、その世界観や軌跡を振り返るための特別な展覧会。"
+      },
+      {
+        "term": "1巻オマージュ",
+        "explanation": "作品の第1巻の表紙や内容を敬意を込めて再現したり、アレンジしたりすること。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/678144": {
+    "title": "「100カノ」3期PV爆誕！新キャラの声優は誰だ？！サプライズボイスにファン大興奮！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "期待度MAX！新展開にワクワクが止まらない！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/678144",
+    "summary_bullets": [
+      "「100カノ」3期メインPVで、優敷山女、茂見紅葉、土呂瀞騎士華の未発表キャストの声がサプライズ解禁！",
+      "ファンはPVで流れる新キャラのボイスから、声優陣を予想する楽しみが爆誕！",
+      "PV公開で3期への期待は最高潮！今後の追加情報やキャスト発表に注目が集まる！"
+    ],
+    "insight": "『君のことが大大大大大好きな100人の彼女』3期のメインPVが公開され、まだキャストが明かされていない新ヒロイン3人のボイスがまさかの先行披露！これにはファンも大興奮で、一体誰が声を担当しているのか、推測が盛り上がること間違いなしの、最高のサプライズ展開です！",
+    "action_plan": "いますぐ公開されたメインPVをチェックして、新キャラたちの魅力的な声に耳を傾けよう！そして、自分だけの声優予想を立ててSNSでシェアしてみよう！",
+    "image_keyword": "100 girlfriends anime, new character voice, anime PV",
+    "technical_terms": [
+      {
+        "term": "100カノ",
+        "explanation": "『君のことが大大大大大好きな100人の彼女』の略称。主人公が100人の彼女を持つことになるハーレムラブコメ漫画・アニメ作品。"
+      },
+      {
+        "term": "PV",
+        "explanation": "プロモーションビデオの略。アニメや映画などの作品の魅力を宣伝するために制作される映像のこと。"
+      }
+    ]
+  },
+  "https://natalie.mu/comic/news/677947": {
+    "title": "「本好きの下剋上」第2クール最新PV爆誕！adieuが歌うEDテーマも解禁で期待MAX！",
+    "tags": "Anime",
+    "sentiment": "positive",
+    "sentiment_text": "ファン待望の最新PV！期待度爆上がり！",
+    "rating": 5,
+    "time_ago": "最近",
+    "url": "https://natalie.mu/comic/news/677947",
+    "summary_bullets": [
+      "「本好きの下剋上」第2クールの最新本PV第3弾がついに公開！",
+      "adieu（上白石萌歌）が歌うエンディングテーマ「灯台」も同時解禁！",
+      "放送開始が待ちきれない、盛り上がり必至の最新映像に注目！"
+    ],
+    "insight": "本への情熱を燃やすマインの活躍が描かれる人気シリーズの最新PV！adieuの透明感あふれる歌声が、作品の世界観をさらに奥深く彩ること間違いなし！",
+    "action_plan": "公開された最新PVを繰り返し見て、放送開始に備えましょう！adieuのEDテーマ「灯台」も要チェック！",
+    "image_keyword": "Ascendance of a Bookworm, fantasy anime, book lover",
+    "technical_terms": [
+      {
+        "term": "本PV",
+        "explanation": "本編の映像をふんだんに使用した、作品の魅力を伝えるプロモーションビデオのことだよ！"
+      },
+      {
+        "term": "第2クール",
+        "explanation": "アニメが連続で放送される際、数ヶ月の区切りで分けられた期間の後半部分のことだよ！"
+      },
+      {
+        "term": "EDテーマ",
+        "explanation": "アニメのエンディングで流れる楽曲のこと。エンディング曲とも呼ばれるよ！"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JVE9VN09KWDBjUDZFRlNBRV9pV3BCTkYzcF9jakhKbUpnQS05bkxCZmtxY3JMOWtWTjlnd01CYU9pNnhyUXVRc0Rn?oc=5": {
+    "title": "Netflix世界席巻！『ヒット請負人』作家の最新作が2400万回再生で堂々初登場1位！これは観るしかない！",
+    "tags": "Drama",
+    "sentiment": "positive",
+    "sentiment_text": "世界が熱狂！神ヒット確定の話題作！",
+    "rating": 5,
+    "time_ago": "たった今",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JVE9VN09KWDBjUDZFRlNBRV9pV3BCTkYzcF9jakhKbUpnQS05bkxCZmtxY3JMOWtWTjlnd01CYU9pNnhyUXVRc0Rn?oc=5",
+    "summary_bullets": [
+      "『ヒット請負人』の異名を持つ人気作家の最新作がNetflix世界ランキングでいきなり初登場1位を獲得！",
+      "ドラマ化で早くも「2400万回再生」を突破し、世界中で熱狂的なブームを巻き起こしている！",
+      "話題沸騰のこの作品、次にどんな驚異的な記録を打ち立てるのか、その動向から目が離せない！"
+    ],
+    "insight": "「ヒット請負人」として知られるベストセラー作家の最新作が、Netflixで公開されるや否や世界ランキング1位に躍り出るという快挙を達成！そのドラマ化作品はすでに2400万回再生を突破し、多くの視聴者を熱狂させています。",
+    "action_plan": "Netflixで今すぐ話題の最新ドラマをチェックしてみましょう！原作小説を読んで、物語の世界をさらに深く楽しむのもおすすめです！",
+    "image_keyword": "Netflix drama series, global hit show",
+    "technical_terms": [
+      {
+        "term": "Netflix",
+        "explanation": "世界最大級のストリーミングサービスで、映画やドラマ、アニメなど多種多様なコンテンツを配信している。"
+      },
+      {
+        "term": "ヒット請負人",
+        "explanation": "手掛けた作品が次々と成功し、高い確率でヒット作を生み出すことで知られる作家やクリエイターを指す。"
+      },
+      {
+        "term": "世界ランキング",
+        "explanation": "Netflixが世界中の視聴データに基づいて発表する、作品の人気度を示す順位のこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zazd4Ul9TVHdyN0lpMDE0TzNwVmlXamhYVXVtT1ZQRC14bmg0Q2k2Szk3T0RFZFBHQkRzaEVhR3I2ZFh3dTRqNzNyTnN6aXF1?oc=5": {
+    "title": "祝・レジェンド降臨！クラフトワーク、7年ぶり来日公演の衝撃と感動を完全レポート！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "奇跡の夜を完全体験！",
+    "rating": 5,
+    "time_ago": "18日前",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zazd4Ul9TVHdyN0lpMDE0TzNwVmlXamhYVXVtT1ZQRC14bmg0Q2k2Szk3T0RFZFBHQkRzaEVhR3I2ZFh3dTRqNzNyTnN6aXF1?oc=5",
+    "summary_bullets": [
+      "テクノポップの生ける伝説、クラフトワークが7年ぶりに日本で圧巻のステージを披露！",
+      "『人間と機械』の融合が織りなす究極の音楽体験が、来日公演で完全に再現された。",
+      "今回のレポートを読めば、その歴史的ライブの興奮と感動を追体験できる！"
+    ],
+    "insight": "クラフトワークはテクノポップの創始者であり、その7年ぶりの来日公演は音楽史に残るイベントです。彼らの革新的なパフォーマンスと音響技術が融合したステージは、まさに「生ける伝説」を体感できる貴重な機会だったと言えるでしょう。",
+    "action_plan": "まずは彼らの代表曲『The Man-Machine』や『Computer Love』など名盤を聴いて、テクノポップの原点に触れてみましょう！",
+    "image_keyword": "Kraftwerk concert, Technopop live, Electronic music stage",
+    "technical_terms": [
+      {
+        "term": "テクノポップ",
+        "explanation": "電子音を多用し、機械的・未来的なサウンドが特徴のポピュラー音楽ジャンル。日本のYMOなどもこの流れ。"
+      },
+      {
+        "term": "クラフトワーク",
+        "explanation": "ドイツ出身のバンドで、テクノポップの創始者として世界的に知られる。人間と機械の融合をテーマにした音楽性が特徴。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02VmxLNXFPeWxQc1ZDODNaS1NRV2lCbldwU2Rrei1qMnVXbWtab1VzRHlHenFXbTRNS1Jrc0c0NU45VGlNWmRNRDJvWC14SVNRR2hEZzhMNXl1N0NDMUE?oc=5": {
+    "title": "音楽シーンに響く「sympathy」の鼓動！最新ニュースで彼らの世界へダイブ！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "注目の話題",
+    "rating": 4,
+    "time_ago": "21日前",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02VmxLNXFPeWxQc1ZDODNaS1NRV2lCbldwU2Rrei1qMnVXbWtab1VzRHlHenFXbTRNS1Jrc0c0NU45VGlNWmRNRDJvWC14SVNRR2hEZzhMNXl1N0NDMUE?oc=5",
+    "summary_bullets": [
+      "人気アーティストsympathyが音楽メディアskream.jpで新たな動きを見せた！",
+      "ファンが待ち望んだ最新情報が遂に解禁か、その詳細に注目が集まる！",
+      "彼らの次なるステージや音楽性への期待が最高潮に高まっている！"
+    ],
+    "insight": "skream.jpで取り上げられた「sympathy」の動向は、音楽ファンなら見逃せない大ニュース！彼らがどのような新展開を見せるのか、そのクリエイティブな世界観に触れるのが今から待ち遠しい。",
+    "action_plan": "まずはYouTubeで「sympathy」の代表曲をチェック！そして、彼らの公式サイトやSNSをフォローして、最新情報をリアルタイムでキャッチアップしましょう！",
+    "image_keyword": "rock band, music concert, stage light",
     "technical_terms": []
   }
 }
