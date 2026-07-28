@@ -1,200 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10SmpqZkhzWFBKdnhGOUhMR0NQSHZ3aVdubHNLd19PbTUzeWRPdWdGczJpRFBJb244VFg1NTBqS3BFdlZXMDJvRjB4eXdpX2JZ?oc=5": {
-    "title": "激震VALORANT界！KRÜ Esportsにあの熱き男、heatが電撃復帰！新たな伝説が今、始まる！",
-    "tags": "Esports",
-    "sentiment": "positive",
-    "sentiment_text": "激アツ展開！待望のヒーロー帰還！",
-    "rating": 5,
-    "time_ago": "9時間前",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10SmpqZkhzWFBKdnhGOUhMR0NQSHZ3aVdubHNLd19PbTUzeWRPdWdGczJpRFBJb244VFg1NTBqS3BFdlZXMDJvRjB4eXdpX2JZ?oc=5",
-    "summary_bullets": [
-      "人気プロチームKRÜ Esportsに、かつてのエースであるheat選手がロスターとして電撃復帰！",
-      "チームメイトのsilentzz選手との交代で、新たな布陣でVALORANTシーンに挑む！",
-      "ファン待望のカムバックにより、KRÜ Esportsの今後のパフォーマンスと戦略に大きな期待が寄せられる！"
-    ],
-    "insight": "VALORANT界を揺るがすビッグニュース！KRÜ Esportsにheat選手が再び加わることで、チームは新たな局面を迎え、その化学反応に大きな期待が寄せられています。彼の復帰がチームのプレイスタイルや戦術にどのような影響を与えるのか、今後の試合展開がますます見逃せません！",
-    "action_plan": "新生KRÜ Esportsの試合をライブでチェックして、heat選手の華麗なプレイをその目に焼き付けよう！公式SNSをフォローして最新情報を逃さずゲットするのもおすすめです！",
-    "image_keyword": "KRU Esports Valorant",
-    "technical_terms": [
-      {
-        "term": "KRÜ Esports",
-        "explanation": "南米を拠点に活動する、世界的に有名なVALORANTのプロeスポーツチーム。国際大会での実績も豊富。"
-      },
-      {
-        "term": "ロスター",
-        "explanation": "スポーツやeスポーツにおいて、公式戦に出場登録されている選手メンバーのこと。入れ替えがある場合も多い。"
-      },
-      {
-        "term": "VALORANT",
-        "explanation": "ライアットゲームズが開発・運営する、人気の一人称視点シューティング（FPS）ゲーム。世界中でプロリーグが展開されている。"
-      }
-    ]
-  },
-  "https://natalie.mu/comic/news/678097": {
-    "title": "『宇宙兄弟』ついに完結！感動のフィナーレを祝うスペシャル展示イベントが渋谷に降臨！",
-    "tags": "Manga",
-    "sentiment": "positive",
-    "sentiment_text": "「完結記念！これは見逃せない！」",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/678097",
-    "summary_bullets": [
-      "大人気マンガ『宇宙兄弟』の完結を記念したスペシャル展示イベントが渋谷で開催決定！",
-      "作者・小山宙哉先生が描き下ろした、1巻オマージュの感動的なビジュアルが公開！",
-      "ファンは作品の軌跡をたどり、完結の喜びと感動を分かち合える貴重なチャンス！"
-    ],
-    "insight": "長年にわたり多くの読者を宇宙への夢と兄弟の絆で魅了してきた『宇宙兄弟』の完結記念イベントは、まさにファン待望の祭典！小山宙哉先生による描き下ろしビジュアルも登場し、作品への愛と感謝が詰まった特別な空間になりそうです。",
-    "action_plan": "イベントへ行く前に、もう一度原作コミックを読み返してムッタとヒビトの宇宙への軌跡を追体験してみましょう！展示でより深い感動が待っているはずです！",
-    "image_keyword": "Space Brothers manga event, Shuya Koyama art, Shibuya exhibition",
-    "technical_terms": [
-      {
-        "term": "宇宙兄弟",
-        "explanation": "小山宙哉による人気SF漫画。兄弟が宇宙飛行士を目指す物語。"
-      },
-      {
-        "term": "完結記念展示イベント",
-        "explanation": "作品の完結を祝し、その世界観や軌跡を振り返るための特別な展覧会。"
-      },
-      {
-        "term": "1巻オマージュ",
-        "explanation": "作品の第1巻の表紙や内容を敬意を込めて再現したり、アレンジしたりすること。"
-      }
-    ]
-  },
-  "https://natalie.mu/comic/news/678144": {
-    "title": "「100カノ」3期PV爆誕！新キャラの声優は誰だ？！サプライズボイスにファン大興奮！",
-    "tags": "Anime",
-    "sentiment": "positive",
-    "sentiment_text": "期待度MAX！新展開にワクワクが止まらない！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/678144",
-    "summary_bullets": [
-      "「100カノ」3期メインPVで、優敷山女、茂見紅葉、土呂瀞騎士華の未発表キャストの声がサプライズ解禁！",
-      "ファンはPVで流れる新キャラのボイスから、声優陣を予想する楽しみが爆誕！",
-      "PV公開で3期への期待は最高潮！今後の追加情報やキャスト発表に注目が集まる！"
-    ],
-    "insight": "『君のことが大大大大大好きな100人の彼女』3期のメインPVが公開され、まだキャストが明かされていない新ヒロイン3人のボイスがまさかの先行披露！これにはファンも大興奮で、一体誰が声を担当しているのか、推測が盛り上がること間違いなしの、最高のサプライズ展開です！",
-    "action_plan": "いますぐ公開されたメインPVをチェックして、新キャラたちの魅力的な声に耳を傾けよう！そして、自分だけの声優予想を立ててSNSでシェアしてみよう！",
-    "image_keyword": "100 girlfriends anime, new character voice, anime PV",
-    "technical_terms": [
-      {
-        "term": "100カノ",
-        "explanation": "『君のことが大大大大大好きな100人の彼女』の略称。主人公が100人の彼女を持つことになるハーレムラブコメ漫画・アニメ作品。"
-      },
-      {
-        "term": "PV",
-        "explanation": "プロモーションビデオの略。アニメや映画などの作品の魅力を宣伝するために制作される映像のこと。"
-      }
-    ]
-  },
-  "https://natalie.mu/comic/news/677947": {
-    "title": "「本好きの下剋上」第2クール最新PV爆誕！adieuが歌うEDテーマも解禁で期待MAX！",
-    "tags": "Anime",
-    "sentiment": "positive",
-    "sentiment_text": "ファン待望の最新PV！期待度爆上がり！",
-    "rating": 5,
-    "time_ago": "最近",
-    "url": "https://natalie.mu/comic/news/677947",
-    "summary_bullets": [
-      "「本好きの下剋上」第2クールの最新本PV第3弾がついに公開！",
-      "adieu（上白石萌歌）が歌うエンディングテーマ「灯台」も同時解禁！",
-      "放送開始が待ちきれない、盛り上がり必至の最新映像に注目！"
-    ],
-    "insight": "本への情熱を燃やすマインの活躍が描かれる人気シリーズの最新PV！adieuの透明感あふれる歌声が、作品の世界観をさらに奥深く彩ること間違いなし！",
-    "action_plan": "公開された最新PVを繰り返し見て、放送開始に備えましょう！adieuのEDテーマ「灯台」も要チェック！",
-    "image_keyword": "Ascendance of a Bookworm, fantasy anime, book lover",
-    "technical_terms": [
-      {
-        "term": "本PV",
-        "explanation": "本編の映像をふんだんに使用した、作品の魅力を伝えるプロモーションビデオのことだよ！"
-      },
-      {
-        "term": "第2クール",
-        "explanation": "アニメが連続で放送される際、数ヶ月の区切りで分けられた期間の後半部分のことだよ！"
-      },
-      {
-        "term": "EDテーマ",
-        "explanation": "アニメのエンディングで流れる楽曲のこと。エンディング曲とも呼ばれるよ！"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JVE9VN09KWDBjUDZFRlNBRV9pV3BCTkYzcF9jakhKbUpnQS05bkxCZmtxY3JMOWtWTjlnd01CYU9pNnhyUXVRc0Rn?oc=5": {
-    "title": "Netflix世界席巻！『ヒット請負人』作家の最新作が2400万回再生で堂々初登場1位！これは観るしかない！",
-    "tags": "Drama",
-    "sentiment": "positive",
-    "sentiment_text": "世界が熱狂！神ヒット確定の話題作！",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9JVE9VN09KWDBjUDZFRlNBRV9pV3BCTkYzcF9jakhKbUpnQS05bkxCZmtxY3JMOWtWTjlnd01CYU9pNnhyUXVRc0Rn?oc=5",
-    "summary_bullets": [
-      "『ヒット請負人』の異名を持つ人気作家の最新作がNetflix世界ランキングでいきなり初登場1位を獲得！",
-      "ドラマ化で早くも「2400万回再生」を突破し、世界中で熱狂的なブームを巻き起こしている！",
-      "話題沸騰のこの作品、次にどんな驚異的な記録を打ち立てるのか、その動向から目が離せない！"
-    ],
-    "insight": "「ヒット請負人」として知られるベストセラー作家の最新作が、Netflixで公開されるや否や世界ランキング1位に躍り出るという快挙を達成！そのドラマ化作品はすでに2400万回再生を突破し、多くの視聴者を熱狂させています。",
-    "action_plan": "Netflixで今すぐ話題の最新ドラマをチェックしてみましょう！原作小説を読んで、物語の世界をさらに深く楽しむのもおすすめです！",
-    "image_keyword": "Netflix drama series, global hit show",
-    "technical_terms": [
-      {
-        "term": "Netflix",
-        "explanation": "世界最大級のストリーミングサービスで、映画やドラマ、アニメなど多種多様なコンテンツを配信している。"
-      },
-      {
-        "term": "ヒット請負人",
-        "explanation": "手掛けた作品が次々と成功し、高い確率でヒット作を生み出すことで知られる作家やクリエイターを指す。"
-      },
-      {
-        "term": "世界ランキング",
-        "explanation": "Netflixが世界中の視聴データに基づいて発表する、作品の人気度を示す順位のこと。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zazd4Ul9TVHdyN0lpMDE0TzNwVmlXamhYVXVtT1ZQRC14bmg0Q2k2Szk3T0RFZFBHQkRzaEVhR3I2ZFh3dTRqNzNyTnN6aXF1?oc=5": {
-    "title": "祝・レジェンド降臨！クラフトワーク、7年ぶり来日公演の衝撃と感動を完全レポート！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "奇跡の夜を完全体験！",
-    "rating": 5,
-    "time_ago": "18日前",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zazd4Ul9TVHdyN0lpMDE0TzNwVmlXamhYVXVtT1ZQRC14bmg0Q2k2Szk3T0RFZFBHQkRzaEVhR3I2ZFh3dTRqNzNyTnN6aXF1?oc=5",
-    "summary_bullets": [
-      "テクノポップの生ける伝説、クラフトワークが7年ぶりに日本で圧巻のステージを披露！",
-      "『人間と機械』の融合が織りなす究極の音楽体験が、来日公演で完全に再現された。",
-      "今回のレポートを読めば、その歴史的ライブの興奮と感動を追体験できる！"
-    ],
-    "insight": "クラフトワークはテクノポップの創始者であり、その7年ぶりの来日公演は音楽史に残るイベントです。彼らの革新的なパフォーマンスと音響技術が融合したステージは、まさに「生ける伝説」を体感できる貴重な機会だったと言えるでしょう。",
-    "action_plan": "まずは彼らの代表曲『The Man-Machine』や『Computer Love』など名盤を聴いて、テクノポップの原点に触れてみましょう！",
-    "image_keyword": "Kraftwerk concert, Technopop live, Electronic music stage",
-    "technical_terms": [
-      {
-        "term": "テクノポップ",
-        "explanation": "電子音を多用し、機械的・未来的なサウンドが特徴のポピュラー音楽ジャンル。日本のYMOなどもこの流れ。"
-      },
-      {
-        "term": "クラフトワーク",
-        "explanation": "ドイツ出身のバンドで、テクノポップの創始者として世界的に知られる。人間と機械の融合をテーマにした音楽性が特徴。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02VmxLNXFPeWxQc1ZDODNaS1NRV2lCbldwU2Rrei1qMnVXbWtab1VzRHlHenFXbTRNS1Jrc0c0NU45VGlNWmRNRDJvWC14SVNRR2hEZzhMNXl1N0NDMUE?oc=5": {
-    "title": "音楽シーンに響く「sympathy」の鼓動！最新ニュースで彼らの世界へダイブ！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "注目の話題",
-    "rating": 4,
-    "time_ago": "35日前",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02VmxLNXFPeWxQc1ZDODNaS1NRV2lCbldwU2Rrei1qMnVXbWtab1VzRHlHenFXbTRNS1Jrc0c0NU45VGlNWmRNRDJvWC14SVNRR2hEZzhMNXl1N0NDMUE?oc=5",
-    "summary_bullets": [
-      "人気アーティストsympathyが音楽メディアskream.jpで新たな動きを見せた！",
-      "ファンが待ち望んだ最新情報が遂に解禁か、その詳細に注目が集まる！",
-      "彼らの次なるステージや音楽性への期待が最高潮に高まっている！"
-    ],
-    "insight": "skream.jpで取り上げられた「sympathy」の動向は、音楽ファンなら見逃せない大ニュース！彼らがどのような新展開を見せるのか、そのクリエイティブな世界観に触れるのが今から待ち遠しい。",
-    "action_plan": "まずはYouTubeで「sympathy」の代表曲をチェック！そして、彼らの公式サイトやSNSをフォローして、最新情報をリアルタイムでキャッチアップしましょう！",
-    "image_keyword": "rock band, music concert, stage light",
-    "technical_terms": []
-  },
   "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01UEFCNy1EWkY0SWl1LWxBYmxfcjZOUjByVnFOV3lfQTBfZ3NFa3c2aHpLY0JvazQ2MUxKTnVQRWh1aE5MM3NESjhaSkxVSGQ4bTNXRE5Wdw?oc=5": {
     "title": "「スト6 SFL2026」全48選手、ド派手発表！8/25開幕、さらに激アツ「ディビジョン対抗戦」も電撃決定だッ！",
     "tags": "eSports",
@@ -3429,7 +3233,7 @@
     "sentiment": "positive",
     "sentiment_text": "これは神盤確定！待望の新作に世界が熱狂中！",
     "rating": 5,
-    "time_ago": "4日前",
+    "time_ago": "1日前",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlaGhJNEU4bTVnZGptZnVjcEVoSzJKRVBSa0FLQV94RVRNdU5ud2txVTRCTVlpM3pJR0Nma1VsTUlxX1lrOGdhaVpsUUtRMDdhamc?oc=5",
     "summary_bullets": [
       "インドネシア発の「極上ソウル」バンド、Thee Marloesが待望の2ndアルバム『Di Hotel Malibu』をリリース！",
@@ -5256,7 +5060,7 @@
     "sentiment": "positive",
     "sentiment_text": "未来がアツい！配信が待ちきれない！",
     "rating": 5,
-    "time_ago": "2時間前",
+    "time_ago": "1日前",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IV1hTU3U2XzRhLTV1MC1IazlnTXdGa0xVZzBvekc0dXc5b1NfaG1ZRVQ1QXR6dDNTTTNBQmZNeldnd2JBMU91TWJZNThrQQ?oc=5",
     "summary_bullets": [
       "Netflixから2026年8月に配信される海外ドラマの最新情報が早くも解禁！",
@@ -5321,5 +5125,196 @@
     "action_plan": "今すぐフジファブリックの代表曲をプレイリストに追加して、山内総一郎の世界観に浸ってみよう！最新情報の続報も要チェック！",
     "image_keyword": "Soichiro Yamauchi Fujifabric",
     "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3MkRsd21qdE9kZkRKdEJ1TXNMRklITHQ3NnFydVRob0ZzOVQtQXFHemNKSjFKOWdJT25oczlvVTBsZmxTN2l0QlNJMWNjcTlpRTdPSDhsN1NYQ1ozWTJuVXVCT2NzRGlpSHc?oc=5": {
+    "title": "激戦の『VALORANT Challengers Japan 2026』で「REJECT」準優勝！次なる頂点へ、彼らの快進撃を見逃すな！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "準優勝の快進撃！感動と興奮をありがとう！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3MkRsd21qdE9kZkRKdEJ1TXNMRklITHQ3NnFydVRob0ZzOVQtQXFHemNKSjFKOWdJT25oczlvVTBsZmxTN2l0QlNJMWNjcTlpRTdPSDhsN1NYQ1ozWTJuVXVCT2NzRGlpSHc?oc=5",
+    "summary_bullets": [
+      "プロeスポーツチーム「REJECT」のVALORANT部門が、『VALORANT Challengers Japan 2026 Season Finals』で堂々の準優勝を達成！",
+      "国内最高峰の舞台で圧倒的な実力とチームワークを証明し、日本のVALORANTシーンにその名を刻んだ！",
+      "惜しくも優勝は逃したものの、次なるステップへの期待が爆上がり！今後のREJECTのさらなる飛躍に注目が集まる！"
+    ],
+    "insight": "REJECT VALORANT部門がVCJ 2026で準優勝を飾ったことは、彼らが日本のeスポーツ界で確実にトップランナーの一角を占めている証！激戦を勝ち抜くその戦いぶりは多くのファンに感動と興奮を与え、次なる挑戦への期待を大きく膨らませています！",
+    "action_plan": "REJECT公式SNSをフォローして、選手の最新情報や今後のイベントをチェック！さらに、VALORANT Champions Tour (VCT)など、世界のVALORANTシーンも併せて観戦して、REJECTの未来を応援しよう！",
+    "image_keyword": "esports VALORANT REJECT",
+    "technical_terms": [
+      {
+        "term": "eスポーツ",
+        "explanation": "エレクトロニック・スポーツの略で、コンピューターゲームをスポーツ競技としてとらえ、対戦すること。"
+      },
+      {
+        "term": "VALORANT",
+        "explanation": "ライアットゲームズが開発した、5対5で戦うタクティカルシューターゲーム。キャラクターのスキルと銃撃戦が魅力。"
+      },
+      {
+        "term": "VALORANT Challengers Japan (VCJ)",
+        "explanation": "VALORANTの日本国内におけるプロリーグへの登竜門となる公式大会シリーズ。"
+      },
+      {
+        "term": "REJECT",
+        "explanation": "日本を代表するプロeスポーツチームの一つで、様々なゲームタイトルで活躍している。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVMG9zNDV6cEtNRXA0UzNScndkb1RwZl9Kamh2eGJzOFE0RzhqMl9XUVhLTUtqMmZJaGVXbF9oVkI3TEVUVWtiMFFrM2hvUQ?oc=5": {
+    "title": "激アツ展開！『ARC Raiders』最新プロジェクト情報「交わる道」でゲームの未来が見えた！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "期待度MAX！注目の新作情報が解禁！",
+    "rating": 4,
+    "time_ago": "3時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVMG9zNDV6cEtNRXA0UzNScndkb1RwZl9Kamh2eGJzOFE0RzhqMl9XUVhLTUtqMmZJaGVXbF9oVkI3TEVUVWtiMFFrM2hvUQ?oc=5",
+    "summary_bullets": [
+      "人気シューター『ARC Raiders』の最新プロジェクト情報「交わる道」が遂に公開！",
+      "ゲームの新たな展開や方向性を示すキーワード「交わる道」にファンは熱狂！",
+      "続報や詳細発表で、ゲームプレイへの期待がさらに高まること間違いなし！"
+    ],
+    "insight": "「交わる道」という意味深なタイトルは、従来のPvE要素と新たなPvP要素が融合する可能性や、ゲーム体験の革新を示唆しています。Embark Studiosが放つ、次世代シューターの進化に目が離せません。",
+    "action_plan": "『ARC Raiders』の公式サイトや公式X (旧Twitter)を今すぐチェックして、発表される最新情報をいち早く手に入れよう！",
+    "image_keyword": "sci-fi shooter game, futuristic action, team battle",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTN2pUZk1ZcEFtZVZ3OXhiSFd1UWh5QmtvZlkwWkRha1BwRjN0cUZ0cFVzSHNiUWpQU21JWG1YRVNUVnR6OEdiaw?oc=5": {
+    "title": "こく兄主催『スト6』「おじリーグ」が3年ぶり爆誕！レジェンド勢集結で激アツバトル再燃！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "待ってました！伝説の大会が奇跡の復活！",
+    "rating": 5,
+    "time_ago": "4時間前",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTN2pUZk1ZcEFtZVZ3OXhiSFd1UWh5QmtvZlkwWkRha1BwRjN0cUZ0cFVzSHNiUWpQU21JWG1YRVNUVnR6OEdiaw?oc=5",
+    "summary_bullets": [
+      "3年間の沈黙を破り、こく兄主催の『ストリートファイター6』大会「おじリーグ」が待望の復活！",
+      "ヌキ、大須晶、ハメコ。といったレジェンド級プレイヤーたちが集結し、白熱の激戦を繰り広げる！",
+      "新旧のファンを巻き込み、伝説のベテラン勢が魅せる円熟のプレイに注目が集まること間違いなし！"
+    ],
+    "insight": "長年の経験を持つベテランプレイヤーたちが最新作『ストリートファイター6』でどのような進化を見せるのか、そして彼らの人間ドラマも加わり、単なる勝敗を超えた深い魅力がファンを惹きつけます。",
+    "action_plan": "過去の「おじリーグ」名場面を振り返りつつ、今年の大会の配信情報をいち早くチェックして、レジェンドたちの熱い戦いをリアルタイムで応援しましょう！",
+    "image_keyword": "Street Fighter 6 tournament, veteran gamers, Japanese fighting game community",
+    "technical_terms": [
+      {
+        "term": "スト6",
+        "explanation": "人気格闘ゲーム『ストリートファイター』シリーズの最新作『ストリートファイター6』の略称。"
+      },
+      {
+        "term": "おじリーグ",
+        "explanation": "人気ゲーム実況者こく兄が主催する、ベテランゲーマー（通称：おじさんゲーマー）たちが集まって競い合う格闘ゲーム大会の名称。"
+      },
+      {
+        "term": "こく兄",
+        "explanation": "ストリーマーとして活動するベテラン格闘ゲーマー、実況者。"
+      },
+      {
+        "term": "ヌキ",
+        "explanation": "日本のプロゲーマー。ストリートファイターシリーズで数々の実績を持つレジェンドプレイヤー。"
+      },
+      {
+        "term": "大須晶",
+        "explanation": "日本のプロゲーマー。様々な格闘ゲームで活躍する。"
+      },
+      {
+        "term": "ハメコ。",
+        "explanation": "日本の格闘ゲームプレイヤー、解説者として人気が高い。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53UTdWTVBBbExfVGs0b3BzYmU2aTB5U2drU1ljZzBPeTJ2LUwzNkVWWmw3UEo5bWlram9QM1ZGTmg1Nm91Z3lBWmdkQQ?oc=5": {
+    "title": "待望の新作キタ！巨匠イ・チャンドン監督、8年ぶりの長編『もしもの愛』がNetflixで11月配信決定！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "世界が注目！超期待の衝撃作！",
+    "rating": 5,
+    "time_ago": "8時間前",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53UTdWTVBBbExfVGs0b3BzYmU2aTB5U2drU1ljZzBPeTJ2LUwzNkVWWmw3UEo5bWlram9QM1ZGTmg1Nm91Z3lBWmdkQQ?oc=5",
+    "summary_bullets": [
+      "巨匠イ・チャンドン監督、8年ぶり待望の長編映画『もしもの愛』がついにベールを脱ぐ！",
+      "Netflixにて11月に全世界独占配信決定！自宅で世界最高峰の物語に浸れるチャンス！",
+      "現代社会と人間の深淵に切り込む、監督ならではの視点に今から期待が高まる！"
+    ],
+    "insight": "『バーニング 劇場版』など数々の傑作で世界を魅了したイ・チャンドン監督が、8年の沈黙を破り放つ渾身の一作。現代社会の愛と葛藤を鋭く描く、心揺さぶる傑作に注目だ！",
+    "action_plan": "配信開始までに、監督の過去作『バーニング 劇場版』や『オアシス』を鑑賞して、イ・チャンドン監督の世界観にどっぷり浸っておくのがおすすめ！",
+    "image_keyword": "Lee Chang-dong movie, Korean film, Netflix drama",
+    "technical_terms": [
+      {
+        "term": "イ・チャンドン",
+        "explanation": "韓国映画界を代表する巨匠監督。『バーニング 劇場版』や『ポエトリー アグネスの詩』などで国際的に高い評価を得ている。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkxqUjNZMWFKdG0yZUNKNEVIMkMzRnNER3dPTGUzVzVNbVkxZmluSUZlQjgweWVLd1FKOGJTY0dvWHdnTmhtV05sOEc2VmM5SW03RFZLZ3FrRG1JMVU3RUhwTW5XU19RNHRYQ1VydEoxSXlGMVZBSXJiT3V4dEpKWnhqSWV5cGNoYVZwdld3?oc=5": {
+    "title": "Netflix 2026年8月の大注目ラインナップ発表！デ・ニーロ新作＆手塚治虫ヒーローが世界を魅了！",
+    "tags": "Streaming",
+    "sentiment": "positive",
+    "sentiment_text": "神ラインナップ！興奮が止まらない！",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkxqUjNZMWFKdG0yZUNKNEVIMkMzRnNER3dPTGUzVzVNbVkxZmluSUZlQjgweWVLd1FKOGJTY0dvWHdnTmhtV05sOEc2VmM5SW03RFZLZ3FrRG1JMVU3RUhwTW5XU19RNHRYQ1VydEoxSXlGMVZBSXJiT3V4dEpKWnhqSWV5cGNoYVZwdld3?oc=5",
+    "summary_bullets": [
+      "ハリウッドのレジェンド、ロバート・デ・ニーロ主演の新作映画『ウィスパーマン』がNetflixで独占配信決定！",
+      "漫画の神様・手塚治虫原案のSFヒーローアニメ『THE RIBBON HERO リボンヒーロー』も堂々登場！",
+      "2026年8月のNetflixは映画とアニメのビッグタイトルが揃い踏み、見逃し厳禁の超豪華月間に！"
+    ],
+    "insight": "ハリウッドの巨匠ロバート・デ・ニーロの最新作と、日本が誇る漫画の神様・手塚治虫原案のアニメが同月配信されるという奇跡のラインナップ！映画ファンもアニメファンも必見の、まさに見逃し厳禁の月となること間違いなしです。",
+    "action_plan": "Netflixで配信中のロバート・デ・ニーロ出演作や手塚治虫関連作品を今から予習して、2026年8月への期待値を爆上げしよう！",
+    "image_keyword": "Netflix new releases, De Niro movie, Tezuka anime",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ETjRhV25vb1FBM21EelAzc09iUmFubjBLMlF5UERFNzNjUGI1LVEtOUJRZHN5by05YmJRV2FlNWgyYnRpTFpYbmNhMGliSWRIREE?oc=5": {
+    "title": "ヒップホップ界のレジェンドが帰還！ザ・クール・キッズ『Gone Fishing』、あの幻の名作が待望の初フィジカル化！",
+    "tags": "Hip Hop",
+    "sentiment": "positive",
+    "sentiment_text": "ファン歓喜の神リリース！あの名作が遂に手元に！",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ETjRhV25vb1FBM21EelAzc09iUmFubjBLMlF5UERFNzNjUGI1LVEtOUJRZHN5by05YmJRV2FlNWgyYnRpTFpYbmNhMGliSWRIREE?oc=5",
+    "summary_bullets": [
+      "ザ・クール・キッズの伝説的ミックステープ『Gone Fishing (Anniversary Edition)』が初のフィジカルリリース決定！",
+      "これまでデジタルでしか聴けなかったあの名作が、高音質でコレクションできる待望の機会が到来！",
+      "独自のスタイルを確立した彼らのサウンドが、新たな世代にもフィジカルで届けられる注目のリリース！"
+    ],
+    "insight": "ヒップホップシーンに独自のスタイルを確立し、忘れがたき存在感を放つザ・クール・キッズの代表作が、時を経てファン待望のフィジカル化！往年のファンはもちろん、これまで触れる機会のなかったリスナーも、彼らの革新的なサウンドを物理的な形で手にする絶好のチャンスだ。",
+    "action_plan": "この歴史的リリースを機に、ザ・クール・キッズの他のアルバムや、彼らが影響を与えたアーティストの作品もぜひチェックしてみましょう！",
+    "image_keyword": "The Cool Kids, Hip Hop music, Gone Fishing album",
+    "technical_terms": [
+      {
+        "term": "ミックステープ",
+        "explanation": "DJが既存曲を繋ぎ合わせたり、アーティストが未発表曲などを収録して配布していた非公式な音源集。しばしば次世代のトレンドを生み出す場となった。"
+      },
+      {
+        "term": "フィジカル化",
+        "explanation": "デジタルデータとしてのみ存在していた音楽作品が、CDやレコードなどの物理的な媒体としてリリースされること。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43b2pWaHN2UWQwa1JiM2NpUEM4VzhxSDg3RXAxSkxMRndTRDhXYjc2NEhXRzBXWmJWMEQwbE1fQlF6cVpvX2V2QWpRbU1BeUZqYUE?oc=5": {
+    "title": "藤井 風がフジロックで世界を魅了！サプライズ登場から最新モードまで圧巻ライブ徹底レポート！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "伝説の神ライブ降臨！",
+    "rating": 5,
+    "time_ago": "2日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43b2pWaHN2UWQwa1JiM2NpUEM4VzhxSDg3RXAxSkxMRndTRDhXYjc2NEhXRzBXWmJWMEQwbE1fQlF6cVpvX2V2QWpRbU1BeUZqYUE?oc=5",
+    "summary_bullets": [
+      "藤井 風がフジロックの舞台で世界水準の圧巻パフォーマンスを披露！",
+      "驚きのサプライズ登場から最新楽曲まで、歴史に残るセットリストを展開。",
+      "彼の音楽が世界中でさらに大きなムーブメントを巻き起こすこと間違いなし！"
+    ],
+    "insight": "藤井 風の圧倒的なライブパフォーマンスとカリスマ性が、フジロックという大舞台で最大限に発揮されました。彼の音楽が国境を越え、世界中の人々を魅了する瞬間を目撃できた、まさに歴史的なステージです。",
+    "action_plan": "まだ藤井 風の音楽を聴いたことがない人は、ぜひ彼の主要楽曲やライブ映像をYouTubeでチェックしてみましょう！次回のライブ情報も要チェック！",
+    "image_keyword": "Fujii Kaze concert Fuji Rock",
+    "technical_terms": [
+      {
+        "term": "フジロック",
+        "explanation": "「FUJI ROCK FESTIVAL」の略で、日本最大級の野外ロックフェスティバル。新潟県苗場スキー場で開催されます。"
+      },
+      {
+        "term": "世界水準",
+        "explanation": "世界のトップレベルと比較しても遜色ない、非常に高いレベルや品質のこと。"
+      }
+    ]
   }
 }
