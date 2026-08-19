@@ -1,195 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvVXgyQjBNcjQwdlpoa05fbmJWTzRHOG01RmFDc0ZYRkdGclZjdW1tUnAzWEFCUUxxNWYxRFhwaWhzYXQ3eXc?oc=5": {
-    "title": "速報！VALORANT界のスター・Maripo選手が強豪REJECTに電撃加入！激熱の展開に期待大！",
-    "tags": "Esports",
-    "sentiment": "positive",
-    "sentiment_text": "期待の新展開",
-    "rating": 5,
-    "time_ago": "11時間前",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvVXgyQjBNcjQwdlpoa05fbmJWTzRHOG01RmFDc0ZYRkdGclZjdW1tUnAzWEFCUUxxNWYxRFhwaWhzYXQ3eXc?oc=5",
-    "summary_bullets": [
-      "VALORANT『Game Changers』で輝かしい実績を持つMaripo選手が、ついにeスポーツチームREJECTへ加入！",
-      "国内トップレベルの強豪REJECTにMaripo選手が加わることで、チームのさらなる飛躍と新戦術に注目が集まる！",
-      "今後の大会での活躍はもちろん、女性eスポーツ選手のロールモデルとしてのMaripo選手の動向から目が離せない！"
-    ],
-    "insight": "VALORANTの女性eスポーツシーンを牽引するMaripo選手と、国内屈指の人気チームREJECTのタッグは、まさに夢のコラボレーション！新たな化学反応で、eスポーツ界にどんな旋風を巻き起こすのか見ものです。",
-    "action_plan": "Maripo選手やREJECTのX（旧Twitter）アカウントをフォローして、最新情報をリアルタイムでチェックしてみましょう！VALORANTの試合配信も要チェックです！",
-    "image_keyword": "Esports Player, VALORANT, Team Joining",
-    "technical_terms": [
-      {
-        "term": "VALORANT",
-        "explanation": "ライアットゲームズが開発・運営する、人気のタクティカルシューターゲーム。5対5で戦う戦略性の高いFPS。"
-      },
-      {
-        "term": "Game Changers",
-        "explanation": "VALORANTにおける女性プレイヤーのための競技シーン。新たな才能を発掘し、活躍の場を広げている。"
-      },
-      {
-        "term": "REJECT",
-        "explanation": "日本を代表するプロeスポーツチームの一つ。様々なゲームタイトルで活躍しており、高い人気を誇る。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ha2tZWEtRZ2NpelZkY0JKZU5ocXRlazBhbmpEVjliSmdDMDFJSDFhMDMxNjRmVGFsQmk4X1pvckY2dUpmejVHUlVrejJORGw5VWpaSTdjbXRZMDVYYzdjUDM0RQ?oc=5": {
-    "title": "激熱EWC速報！VALORANTは100Tが頂点へ！LoL決勝もKarmine Corp vs Dplus Kiaの超激突が決定！さらにPRX「something」「d4v41」の神コラボデバイスが7/27発売でファン歓喜！",
-    "tags": "Esports",
-    "sentiment": "positive",
-    "sentiment_text": "超絶盛り上がり！ファン歓喜の神展開！",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ha2tZWEtRZ2NpelZkY0JKZU5ocXRlazBhbmpEVjliSmdDMDFJSDFhMDMxNjRmVGFsQmk4X1pvckY2dUpmejVHUlVrejJORGw5VWpaSTdjbXRZMDVYYzdjUDM0RQ?oc=5",
-    "summary_bullets": [
-      "EWC 2026のVALORANT部門で「100T」が激戦を制し、見事優勝の栄冠に輝いた！",
-      "League of Legends決勝は、強豪「Karmine Corp」と「Dplus Kia」による夢の対決が決定し、世界中のファンが注目！",
-      "VALORANTの人気プロゲーマー「something」と「d4v41」の超期待コラボデバイスが、7月27日についに発売開始！",
-      "FISTBUMPが毎週お届けする「週間フィストバンプ」にて、最新のeスポーツ情報が満載！"
-    ],
-    "insight": "世界最大級のeスポーツイベント「EWC 2026」の熱狂が最高潮に達し、VALORANTの激闘の結末とLoL決勝の注目カードが決定！さらに、人気プロゲーマー「something」と「d4v41」のコラボデバイス発売は、ファンにとって彼らとの一体感を味わえる最高のチャンスとなること間違いなし！",
-    "action_plan": "LoL決勝の配信をチェックして、歴史的な瞬間を目撃しよう！7月27日にはPRXのコラボデバイスを忘れずにGETして、推し選手気分を味わってみましょう！「週間フィストバンプ」で最新情報を毎週追いかけるのもおすすめです！",
-    "image_keyword": "esports valorant lol gaming",
-    "technical_terms": [
-      {
-        "term": "EWC",
-        "explanation": "Esports World Cupの略で、世界トップレベルのチームや選手が集結する大規模な国際eスポーツ大会。"
-      },
-      {
-        "term": "VALORANT",
-        "explanation": "ライアットゲームズが開発した、キャラクターごとの特殊能力と精密な銃撃戦が融合した5vs5のタクティカルシューターゲーム。"
-      },
-      {
-        "term": "League of Legends (LoL)",
-        "explanation": "ライアットゲームズが開発した、世界中で絶大な人気を誇る5vs5のオンライン対戦ゲーム（MOBA）。"
-      },
-      {
-        "term": "100T",
-        "explanation": "「100 Thieves」の略で、北米を拠点とする有名eスポーツチーム、ライフスタイルブランド。"
-      },
-      {
-        "term": "Karmine Corp",
-        "explanation": "フランスを拠点に活動する人気のeスポーツチーム。"
-      },
-      {
-        "term": "Dplus Kia",
-        "explanation": "韓国を拠点とするプロeスポーツチーム。"
-      },
-      {
-        "term": "PRX",
-        "explanation": "「Paper Rex」の略で、東南アジアを拠点に活動するVALORANTの強豪eスポーツチーム。"
-      },
-      {
-        "term": "コラボデバイス",
-        "explanation": "特定のプロゲーマーやチームと共同で開発・デザインされたゲーミング機器（マウス、キーボードなど）。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CMERmME91ZDEtVnNJdXBxQmRXMml0SHB0XzNMaDV2R0NqQkdheEk2OEhqX3ladk9odXlZMV8wbFV0Wng4WnVTbUR2NUxEZW5qVk5aRlo2SkN0X0EyamhSa3dPcks3YWJlcHFybUxkWV9JMjRlN1lMa2JwZw?oc=5": {
-    "title": "Netflix、データ戦略に変化の兆し！「エンゲージメントレポート」公開頻度変更で何が起きる？",
-    "tags": "Streaming",
-    "sentiment": "neutral",
-    "sentiment_text": "Netflixの次なる一手、要注目！",
-    "rating": 4,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CMERmME91ZDEtVnNJdXBxQmRXMml0SHB0XzNMaDV2R0NqQkdheEk2OEhqX3ladk9odXlZMV8wbFV0Wng4WnVTbUR2NUxEZW5qVk5aRlo2SkN0X0EyamhSa3dPcks3YWJlcHFybUxkWV9JMjRlN1lMa2JwZw?oc=5",
-    "summary_bullets": [
-      "Netflixが各作品の視聴動向をまとめた「エンゲージメントレポート」の公表頻度を年1回に削減すると発表！",
-      "これまで四半期ごとに公開されていた貴重な視聴データが、今後は集約された形で届けられることに。",
-      "情報開示の変更が、Netflixの今後のコンテンツ戦略や作品選定にどう影響していくのか、業界内外で注目が集まる！"
-    ],
-    "insight": "Netflixが視聴データを年1回に絞ることで、より戦略的な情報開示を進める意図が見え隠れします。この動きが、彼らのコンテンツ制作やプロモーションにどう影響し、私たちが楽しむ作品選びにどんな変化をもたらすのか、その裏側に潜む深い戦略を読み解くのが面白いポイントです。",
-    "action_plan": "Netflixの最新作品をチェックして、この発表が彼らの未来にどう繋がるか、自分なりに予測してみよう！",
-    "image_keyword": "Netflix data strategy",
-    "technical_terms": [
-      {
-        "term": "エンゲージメントレポート",
-        "explanation": "Netflixが公開している、各作品の視聴時間や人気度を示す詳細なデータ報告書のこと。"
-      },
-      {
-        "term": "Netflix",
-        "explanation": "世界中の映画やドラマ、アニメなどを楽しめる、人気の動画ストリーミングサービス。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54R1ZMTDkzOFJ6amRSSmFUWWVlN0tUNnptek9SUDl2UFM0T3hhT2FLOTRpSU5OcldpbTJTSmZjSzVkcUNtWThsbEZyZw?oc=5": {
-    "title": "『ONE PIECE』参加アーティストも参戦！ファティ・アキン監督の超話題作『白パンと独裁者』冒頭映像＆絵コンテが遂に公開！",
-    "tags": "Movie",
-    "sentiment": "positive",
-    "sentiment_text": "これは見逃せない！期待度MAXの最新情報！",
-    "rating": 4,
-    "time_ago": "3日前",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54R1ZMTDkzOFJ6amRSSmFUWWVlN0tUNnptek9SUDl2UFM0T3hhT2FLOTRpSU5OcldpbTJTSmZjSzVkcUNtWThsbEZyZw?oc=5",
-    "summary_bullets": [
-      "奇才ファティ・アキン監督の最新作『白パンと独裁者』の冒頭映像がついに公開！",
-      "Netflix実写ドラマ『ONE PIECE』に携わったアーティストによる秘蔵絵コンテも同時解禁！",
-      "独特の世界観と制作背景が明かされ、本編への期待が最高潮に膨らむ！"
-    ],
-    "insight": "『白パンと独裁者』というインパクトあるタイトルからして、ファティ・アキン監督ならではの挑発的でユーモラスな世界観が期待されます。さらに、『ONE PIECE』で腕を振るったアーティストの参加は、その映像美にも注目が集まること間違いなし！",
-    "action_plan": "本作が気になる方は、まずはファティ・アキン監督のこれまでの作品をチェックして、その独特の作風に触れてみましょう！Netflix『ONE PIECE』も合わせて観ると、参加アーティストの手腕がより深く味わえるかも！公開日を楽しみに待ちましょう！",
-    "image_keyword": "Fatih Akin movie, White Bread Dictator, ONE PIECE artist",
-    "technical_terms": [
-      {
-        "term": "ファティ・アキン",
-        "explanation": "ドイツを代表する国際的に著名な映画監督で、斬新なテーマと映像表現で知られています。"
-      },
-      {
-        "term": "絵コンテ",
-        "explanation": "映画やアニメーション制作において、各カットの映像をイラストとセリフ、動きの指示などで描いた設計図のことです。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iLWRJbFNpQXFvbTlfc2dqejl2T1pXeDdlNWlhTnZXUUpDQ3VIMjNaOEN0M184OTZqaTBPdmZGTVRvY3pHWlh5QWc5VGhPTHd6NFE?oc=5": {
-    "title": "ゼッド・ソウル『Those Words』爆誕！ベイビーフェイスも現代風にアップデートされたブラコン初作で踊りまくれ！",
-    "tags": "Music",
-    "sentiment": "positive",
-    "sentiment_text": "待望の初作！ブラコンが新時代へ突入！",
-    "rating": 4,
-    "time_ago": "14日前",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iLWRJbFNpQXFvbTlfc2dqejl2T1pXeDdlNWlhTnZXUUpDQ3VIMjNaOEN0M184OTZqaTBPdmZGTVRvY3pHWlh5QWc5VGhPTHd6NFE?oc=5",
-    "summary_bullets": [
-      "ゼッド・ソウルのデビュー作『Those Words』で、往年のブラコンが現代のサウンドで超絶進化！",
-      "ベイビーフェイスのカバー曲を含む、懐かしくも新しい珠玉のブラコンが詰まった必聴盤が遂にリリース！",
-      "伝統と革新が融合したスタイルで、R&B/ソウルシーンに新たな風を吹き込む大注目アーティストの誕生！"
-    ],
-    "insight": "ゼッド・ソウルが往年のブラック・コンテンポラリーを現代的に再構築したデビュー作『Those Words』は、ベイビーフェイスのカバー曲も収録し、R&Bファンならずとも心ときめくこと間違いなし。伝統と革新が見事に融合したサウンドは、音楽シーンに新たな刺激を与える注目の一枚だ。",
-    "action_plan": "ゼッド・ソウルの『Those Words』を今すぐストリーミングサービスでチェック！また、彼のサウンドのルーツとなったベイビーフェイスや往年のブラコンの名曲を掘り下げて聴き比べてみましょう。",
-    "image_keyword": "Zed Soul, R&B album, Modern Soul Music",
-    "technical_terms": [
-      {
-        "term": "ブラコン",
-        "explanation": "1970年代後半から1980年代にかけて流行した、ソウルやファンクを基盤にした洗練されたポップなブラックミュージックのジャンル。"
-      },
-      {
-        "term": "ベイビーフェイス",
-        "explanation": "1980年代後半から1990年代にかけて活躍したアメリカのシンガーソングライター、音楽プロデューサー。多くのR&Bヒット曲を手がけたことで知られる。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JZTlUd1lUazM2a042ZGxwc3R3NVpRYk02UzBrcmc5LVZGMjRlQ0FscGpwTFZOSWMwT25VNks2cTZSd2g0b2JHTWViNS1TUQ?oc=5": {
-    "title": "【ARC Raiders】最速カスタムを極めろ！『ライトウェイト・ストック』徹底解説で君も戦場のエースに！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "戦力UPの秘訣を大公開！",
-    "rating": 4,
-    "time_ago": "2時間前",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JZTlUd1lUazM2a042ZGxwc3R3NVpRYk02UzBrcmc5LVZGMjRlQ0FscGpwTFZOSWMwT25VNks2cTZSd2g0b2JHTWViNS1TUQ?oc=5",
-    "summary_bullets": [
-      "人気FPS『ARC Raiders』を有利に進める「ライトウェイト・ストック」の詳細な性能が明らかに！",
-      "機動力アップで戦術が大きく変わるカスタムパーツの全貌を網羅、プレイヤー必見の情報！",
-      "このモジュールを使いこなして、アークレイダースでのバトルをさらに有利に進めよう！"
-    ],
-    "insight": "ARC Raidersの戦術を劇的に変える可能性を秘めた『ライトウェイト・ストック』の深掘り情報。詳細な性能データは、プレイヤーのカスタマイズ戦略に新たな一手をもたらし、戦場での動きをより自由にするだろう。",
-    "action_plan": "早速ゲームにログインして、ライトウェイト・ストックの性能を体感してみましょう！他のモジュールとの組み合わせも試して、最強ビルドを見つけ出そう！",
-    "image_keyword": "ARC Raiders game, weapon stock, game module",
-    "technical_terms": [
-      {
-        "term": "ライトウェイト・ストック",
-        "explanation": "ゲーム『ARC Raiders』に登場する武器のカスタムパーツで、主に武器の軽量化と機動性向上に寄与する。"
-      },
-      {
-        "term": "モジュール",
-        "explanation": "ゲーム内で武器や装備に取り付けることで、性能をカスタマイズ・強化できるパーツのこと。"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54elAwbFhQdGJKWnl5aWZISHJRaHJ3cU1MT203QjFFbk96aDItczdPRjVkOG5POUtCM3pGdzUzWlBlLUhvVzlVTVlKbjZIQQ?oc=5": {
     "title": "【ARC Raiders】戦場を支配する「拡張バレル」！最強モジュールで勝利を掴め！",
     "tags": "Game",
@@ -4115,7 +3924,7 @@
     "sentiment": "positive",
     "sentiment_text": "超絶期待！豪華タッグが贈るNetflix新作、胸アツ情報が続々解禁！",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "12時間前",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tY2tWZUs1cmNKODB0T0l1XzN2Q1Y2VjM0VW84ZU1XeUlWWjBnSTdpX2NyRzl2OW9mUmlNZkh5QUJVT2F3N3Nqem1WMVRwZHc?oc=5",
     "summary_bullets": [
       "『ストレンジャー・シングス』のミリー・ボビー・ブラウンと『アベンジャーズ』ルッソ兄弟の豪華タッグによるNetflix新作映画の場面写真が世界初公開！",
@@ -4488,7 +4297,7 @@
     "sentiment": "positive",
     "sentiment_text": "「伝説再燃！」「あの名作が帰ってきた！」",
     "rating": 5,
-    "time_ago": "2日前",
+    "time_ago": "5日前",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NaXYwLWIyQTZEY3hYWEtHd3hGNzZRenJzbjBmS002VGtQdUdxMDRmNzIxa1Z4VmNLeUpvN2dCZy1FWFBWUlA1SkVR?oc=5",
     "summary_bullets": [
       "配信ドラマの黎明期を築いた伝説の独占オリジナル作品が、プライムビデオでまさかの人気急上昇！",
@@ -4784,7 +4593,7 @@
     "sentiment": "neutral",
     "sentiment_text": "注目の話題作！",
     "rating": 4,
-    "time_ago": "1日前",
+    "time_ago": "3日前",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YS1BNX1VuRkF4NUtGV0pkeVk1eGdKdDVWal9xUkR2WXJadlJ0Vnh1OXNOVFlFanIycXJuWnplWE5HRUkyOHZDVV85b3lMMVk?oc=5",
     "summary_bullets": [
       "ザック・スナイダー監督の最新作『REBEL MOON』が、公開早々から賛否両論を巻き起こしているゾ！",
@@ -5130,6 +4939,168 @@
       {
         "term": "労働者階級",
         "explanation": "工場労働者やサービス業従事者など、主に肉体労働を担う人々を指す社会階層。彼らの日常や心情は、音楽や文学のテーマとなることが多い。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uWFk1aGpaWU15cGFkQ0hMbVlwdFRKZFUzanR0MW1zMkxPcllUd0dWVFZENlhiZ1NQZUk1dXFxOHRxM2hkWHB5aFdCWEFpZw?oc=5": {
+    "title": "【ARC Raiders】ポップトリガー完全攻略！最速で敵ARCをぶっ飛ばす秘技をマスターせよ！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "期待の新作攻略！最速で頂点目指せ！",
+    "rating": 4,
+    "time_ago": "2時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uWFk1aGpaWU15cGFkQ0hMbVlwdFRKZFUzanR0MW1zMkxPcllUd0dWVFZENlhiZ1NQZUk1dXFxOHRxM2hkWHB5aFdCWEFpZw?oc=5",
+    "summary_bullets": [
+      "「ポップトリガー」を駆使した新感覚のバトル戦略で、強敵ARCを撃破する興奮が待っている！",
+      "本作の肝となるARCへの効果的なダメージ方法を最速でマスターし、ライバルに差をつけよう。",
+      "この攻略情報でトライアルをスムーズに進め、ARC Raidersの世界をさらに深く楽しむ準備を整えよう！"
+    ],
+    "insight": "ARC Raidersの攻略の鍵は、ユニークな「ポップトリガー」をいかに使いこなすか。敵を効果的に撃破し、ゲームを有利に進めるための秘策がここに凝縮されています！",
+    "action_plan": "まずはこの記事で「ポップトリガー」の基本をマスターし、今すぐゲーム内で実践してみましょう！GameWithの他の攻略記事もチェックして、最強のレイダーを目指せ！",
+    "image_keyword": "ARC Raiders game, sci-fi shooter, pop trigger combat",
+    "technical_terms": [
+      {
+        "term": "ARC Raiders",
+        "explanation": "SF世界で地球を守るために戦う、ハイスピードな協力型PvEシューターゲームだよ！"
+      },
+      {
+        "term": "ポップトリガー",
+        "explanation": "ARCに効果的にダメージを与えるための、クールで新しい戦略的攻撃方法のこと！これを使いこなして敵を撃破しよう！"
+      },
+      {
+        "term": "ARC",
+        "explanation": "ARC Raidersの世界に侵攻してきた機械生命体の脅威！地球を支配しようとする彼らを食い止めろ！"
+      },
+      {
+        "term": "トライアル",
+        "explanation": "ゲーム内で用意された様々なミッションやチャレンジのこと！腕試しや新戦略の練習に最適だよ！"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBVWZzWUthbnhzR0xCdWwxSDdLZElDNE9jODYwR0xBdTQyR0UxZGhNS19wYXdTWXBFTnJ2bFpRREp5ODJaLVE5WGMweUdxUQ?oc=5": {
+    "title": "【ARC Raiders】幻の標的イベント爆誕！君は伝説を掴めるか？！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "待望の激熱イベント開幕！",
+    "rating": 5,
+    "time_ago": "3時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBVWZzWUthbnhzR0xCdWwxSDdLZElDNE9jODYwR0xBdTQyR0UxZGhNS19wYXdTWXBFTnJ2bFpRREp5ODJaLVE5WGMweUdxUQ?oc=5",
+    "summary_bullets": [
+      "人気SFシューター「アークレイダース」で、期間限定のスペシャルイベント「幻の標的」がついにスタート！",
+      "イベントでは、限定アイテムや希少な報酬をゲットするチャンス！腕自慢のレイダーは今すぐ参戦せよ！",
+      "新たな伝説の始まりか？！このイベントがゲーム内にもたらす盛り上がりや今後の展開にも超注目！"
+    ],
+    "insight": "人気FPS「ARC Raiders」で始まる「幻の標的」イベントは、プレイヤーに新たな目標と興奮をもたらす絶好の機会だ。伝説の標的を追い求め、限定報酬を手に入れるスリルは、このゲーム最大の魅力となるだろう。",
+    "action_plan": "今すぐ「ARC Raiders」を起動してイベントに参加し、GameWithの記事や公式サイトで詳細な報酬リストをチェックしてみましょう！",
+    "image_keyword": "ARC Raiders, game event, sci-fi shooter",
+    "technical_terms": [
+      {
+        "term": "ARC Raiders",
+        "explanation": "三人称視点のSFサバイバルシューターゲームで、地球外からの脅威「ARC」に立ち向かう。"
+      },
+      {
+        "term": "幻の標的",
+        "explanation": "ゲーム内で開催される期間限定の特別なイベント名で、通常では得られない希少なアイテムや報酬が手に入る。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KZjhfRWpGUS10V1lGdGpJVmxveDJjOTBvM2Z0bVN1bllmZWJSOHFvLWk3UEUyNkh4VWJiRGNKRDBmcXhCVWpnbmVjbVFUQQ?oc=5": {
+    "title": "【アークレイダース最速攻略】幻の「グリッチARCパーツ」をGET！最強への道を開く超重要情報解禁！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "攻略大公開！見逃し厳禁！",
+    "rating": 5,
+    "time_ago": "4時間前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KZjhfRWpGUS10V1lGdGpJVmxveDJjOTBvM2Z0bVN1bllmZWJSOHFvLWk3UEUyNkh4VWJiRGNKRDBmcXhCVWpnbmVjbVFUQQ?oc=5",
+    "summary_bullets": [
+      "ゲーム内でも超貴重な「グリッチARCパーツ」の入手方法がついに判明！",
+      "高難易度ミッション「幻の標的」をクリアするための必要資源が全てわかる！",
+      "ライバルに差をつけて、ARC Raidersで最強のハンターを目指せるチャンス到来！"
+    ],
+    "insight": "ARC Raidersプレイヤーなら誰もが喉から手が出るほど欲しい「グリッチARCパーツ」の入手ルートが、この攻略情報でついに解き明かされたぞ！このレアアイテムを手に入れて、圧倒的な力を手に入れよう！",
+    "action_plan": "この記事を読んだら即座にゲームを起動して、「幻の標的」ミッションに挑戦してみよう！友達と一緒に協力プレイで挑めば、クリアも夢じゃない！",
+    "image_keyword": "ARC Raiders, game strategy, sci-fi shooter",
+    "technical_terms": [
+      {
+        "term": "グリッチARCパーツ",
+        "explanation": "ゲーム『ARC Raiders』に登場する、通常のパーツとは異なる特殊な効果や性能を持つ希少な装備品。"
+      },
+      {
+        "term": "幻の標的",
+        "explanation": "『ARC Raiders』における高難易度チャレンジミッション。クリアすることで貴重な報酬が得られる。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01SXBPSVE5UlBZVkRnVGFlN1lkVmxZWnZySnBGbXd6akR4WGdPNERTQXc5OVNudjBZRWxyandqVjliN0w3OHMzd1pXZ0RQZmxNZ1E?oc=5": {
+    "title": "PJモートンが魅せる！R&Bとゴスペルの魂がぶつかる超快作『Saturday Night / Sunday Morning』爆誕！",
+    "tags": "R&B",
+    "sentiment": "positive",
+    "sentiment_text": "魂震える名盤！待望の新作が遂に登場！",
+    "rating": 5,
+    "time_ago": "7日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01SXBPSVE5UlBZVkRnVGFlN1lkVmxZWnZySnBGbXd6akR4WGdPNERTQXc5OVNudjBZRWxyandqVjliN0w3OHMzd1pXZ0RQZmxNZ1E?oc=5",
+    "summary_bullets": [
+      "PJモートンがR&Bとゴスペルを2部構成で描いた革新的なアルバム『Saturday Night / Sunday Morning』をリリース！",
+      "彼の代名詞とも言える「誠実なソウルマン」としての魅力が凝縮された、ファン待望の傑作がここに誕生！",
+      "ジャンルの枠を超えた深遠な音楽体験は、きっとあなたの心にも温かい光を灯してくれるはず！",
+      "このアルバムを聴けば、彼の今後の活動からも目が離せなくなること間違いなし！"
+    ],
+    "insight": "PJモートンの最新作は、R&Bを「土曜の夜」、ゴスペルを「日曜の朝」に見立て、それぞれのジャンルが持つ魅力を見事に融合！彼の誠実な歌声と深いメッセージが、リスナーの心にじんわりと染み渡る、まさに珠玉のソウルミュージック体験ができます。音楽を通して人生の光と影を描き出す、彼の唯一無二の才能が光る一枚です！",
+    "action_plan": "心温まるソウルミュージックに浸りたいなら、ぜひ『Saturday Night / Sunday Morning』を今すぐチェックしてみましょう！彼の他のアルバムも聴き比べて、その音楽性の深さを体感するのもおすすめです！",
+    "image_keyword": "PJ Morton, R&B Soul Music, Gospel Album",
+    "technical_terms": [
+      {
+        "term": "R&B",
+        "explanation": "Rhythm and Blues（リズム・アンド・ブルース）の略で、アフリカ系アメリカ人のルーツを持つポピュラー音楽のジャンルだよ。"
+      },
+      {
+        "term": "ゴスペル",
+        "explanation": "主にキリスト教の聖歌を指す音楽ジャンルで、魂のこもった歌唱と力強いコーラスが特徴的だよ。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaUl9INzY2NjgxV01Dd3dGNlI5dmVyb3R6SEdGRV9NeW5VeXVBODhJWEVjRnd1N21GczdVSm9MVXIyMHN0SE9ZOFRLQ1BaV19EUUhNUngwbXIzMklnNUE?oc=5": {
+    "title": "ロックシーンを揺るがすTHE STROKESの最新情報が到着！見逃し厳禁！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "レジェンド級バンド、THE STROKESに注目の話題が浮上！",
+    "rating": 5,
+    "time_ago": "6日前",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaUl9INzY2NjgxV01Dd3dGNlI5dmVyb3R6SEdGRV9NeW5VeXVBODhJWEVjRnd1N21GczdVSm9MVXIyMHN0SE9ZOFRLQ1BaV19EUUhNUngwbXIzMklnNUE?oc=5",
+    "summary_bullets": [
+      "NYインディーロックのパイオニア、THE STROKESから新たな動きが報じられた模様！",
+      "世界中のファンが待ち望む、彼らの次のステージがいよいよ明らかに？",
+      "音楽シーンに大きな影響を与えるであろう、彼らの動向に目が離せない！"
+    ],
+    "insight": "常に革新的なサウンドとスタイルでロックシーンを牽引してきたTHE STROKES。彼らが発信する情報は、単なるニュースを超え、一つのカルチャーとして熱狂的なファンに迎え入れられます。今回の情報が、彼らの新たな創造の始まりとなるかもしれません。",
+    "action_plan": "この機会に、彼らの名盤『Is This It』や『The New Abnormal』を聴き直し、THE STROKESの音楽的進化を体感しましょう！過去のライブ映像もチェックして、彼らのパフォーマンスに酔いしれるのもおすすめです。",
+    "image_keyword": "The Strokes band rock",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XRmJrVVZnRlo4b0s4Q3lXT0NENEdibEZYeXg5UGNOZ3JKRnl0V1ZFNXhScHJYbjlpZ3RWcndZdTB6eFFnZjEwek85R2JhVGNTbFE?oc=5": {
+    "title": "Jambo Lacquer『TABIJI』で旅に出よう！極上ソウル＆ジャズが織りなす癒やしのサウンドに溺れるべし！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "耳が幸せになる新作登場！癒やしとチルが最高潮！",
+    "rating": 5,
+    "time_ago": "12日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XRmJrVVZnRlo4b0s4Q3lXT0NENEdibEZYeXg5UGNOZ3JKRnl0V1ZFNXhScHJYbjlpZ3RWcndZdTB6eFFnZjEwek85R2JhVGNTbFE?oc=5",
+    "summary_bullets": [
+      "Jambo Lacquerの最新作『TABIJI』が、ソウルとジャズを溶かし込んだ極上のチルアウトサウンドでリスナーを魅了！",
+      "レイドバックしたラップと歌が心地よく響き渡り、日常の喧騒を忘れさせる至福のリスニング体験を約束！",
+      "旅情を誘う珠玉のトラックの数々は、音楽ファンならずともヘビロテ必至の傑作アルバムとして大注目！"
+    ],
+    "insight": "Jambo Lacquerが紡ぎ出すソウルとジャズの深い滋味が、心を解き放つような心地よさを生み出しています。彼の独自の音楽性が、聴く人に穏やかな「旅」の感覚を与えてくれるでしょう。",
+    "action_plan": "今すぐ『TABIJI』を聴いて、心地よい音楽の旅に出かけよう！Jambo Lacquerの他の作品もチェックして、彼の世界観にどっぷり浸かってみるべし！",
+    "image_keyword": "hip hop jazz, chill music, japanese rapper",
+    "technical_terms": [
+      {
+        "term": "Jambo Lacquer",
+        "explanation": "日本のヒップホップアーティスト、ラッパー"
+      },
+      {
+        "term": "レイドバック",
+        "explanation": "ゆったりとした、くつろいだ雰囲気やテンポ"
       }
     ]
   }
