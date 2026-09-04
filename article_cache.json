@@ -1,215 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94TUtLb2YzbDVoWm1SNllfcEpHOExCdFJ1eEg4M0tvVTFCVjBIblNtWWVRTDZqX3E0bnRxN1RkWmZtUm50WmhhNldFMVdReVktcm5QeEc0WlZtdEVm?oc=5": {
-    "title": "豊橋に激アツ旋風！『スト6』『ぷよぷよ』eスポーツ祭典にSKE48野村実代＆倉持由香が降臨！",
-    "tags": "eSports",
-    "sentiment": "positive",
-    "sentiment_text": "超盛り上がり！夢の共演でeスポーツ熱狂！",
-    "rating": 4,
-    "time_ago": "たった今",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94TUtLb2YzbDVoWm1SNllfcEpHOExCdFJ1eEg4M0tvVTFCVjBIblNtWWVRTDZqX3E0bnRxN1RkWmZtUm50WmhhNldFMVdReVktcm5QeEc0WlZtdEVm?oc=5",
-    "summary_bullets": [
-      "豊橋で開催されたeスポーツイベントで「スト6」と「ぷよぷよ」の熱いバトルが繰り広げられたぞ！",
-      "SKE48の野村実代さんやグラビアアイドルの倉持由香さんが登場し、会場をさらにヒートアップ！",
-      "ゲームファンもアイドルファンも一緒に楽しめる、地域密着型eスポーツイベントの新たな可能性を感じさせる！"
-    ],
-    "insight": "人気ゲームの熱戦はもちろん、SKE48の野村実代さんや倉持由香さんといった豪華ゲストの参加が、eスポーツイベントに新たな魅力をプラス。ゲームの枠を超えたエンターテイメントとして、老若男女が楽しめる一体感を生み出しています。",
-    "action_plan": "このイベントを機に「スト6」や「ぷよぷよ」の世界に飛び込んでみましょう！SKE48野村実代さんや倉持由香さんのゲーム関連コンテンツも合わせてチェックすると、さらにイベントを楽しめますよ！",
-    "image_keyword": "eSports event Japan, Street Fighter Puyo Puyo, celebrity gaming",
-    "technical_terms": [
-      {
-        "term": "eスポーツ",
-        "explanation": "エレクトロニック・スポーツの略称で、ビデオゲームをスポーツ競技として捉えたもの。プレイヤー同士が腕前を競い合う。"
-      },
-      {
-        "term": "スト6",
-        "explanation": "人気格闘ゲームシリーズ「ストリートファイター6」の略称。世界中で多くのプレイヤーに愛されている。"
-      },
-      {
-        "term": "ぷよぷよ",
-        "explanation": "落ちてくるブロックを消していく人気パズルゲームシリーズ。対戦ルールが有名で、幅広い世代に親しまれている。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51WHpUdVNkdDJRNkhJakxEdllxOVhHcXlTLUNaQTF1dzFJQkRNeHN1N2hBaDh3MlhPUGVmMThLU0RNMFMwV0U5Qm1ocTNqZk9TaWc?oc=5": {
-    "title": "eスポーツ界の星、梅崎伸幸さん逝去…DFM創設者が残した伝説と未来へ繋ぐ遺志",
-    "tags": "Esports",
-    "sentiment": "negative",
-    "sentiment_text": "eスポーツ界に大きな足跡を残したパイオニア、梅崎伸幸さんのご冥福を心よりお祈り申し上げます。",
-    "rating": 5,
-    "time_ago": "5時間前",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51WHpUdVNkdDJRNkhJakxEdllxOVhHcXlTLUNaQTF1dzFJQkRNeHN1N2hBaDh3MlhPUGVmMThLU0RNMFMwV0U5Qm1ocTNqZk9TaWc?oc=5",
-    "summary_bullets": [
-      "eスポーツチーム「DetonatioN FocusMe」の創設者、梅崎伸幸さんが43歳の若さで逝去。",
-      "日本のeスポーツ黎明期を支え、DFMをトップへと導いた彼の偉大な功績を偲ぶ。",
-      "梅崎さんの遺志を継ぎ、DFMが今後どのように進化していくのか、その未来に注目が集まる。"
-    ],
-    "insight": "梅崎伸幸さんは、日本のeスポーツがまだ認知されていない時代から、その可能性を信じ、DFMをトップチームへと導きました。彼の情熱とビジョンがなければ、今日のeスポーツシーンは語れません。",
-    "action_plan": "DFMの過去の名試合を振り返り、梅崎さんが築き上げた偉大な足跡を感じてみましょう。そして、チームのSNSをチェックして、今後の活動を応援しよう！",
-    "image_keyword": "Esports pioneer, DetonatioN FocusMe, Japanese gaming leader",
-    "technical_terms": [
-      {
-        "term": "eスポーツ",
-        "explanation": "エレクトロニック・スポーツの略称で、ビデオゲームをスポーツ競技として捉え、プロ選手が競い合うエンターテイメント。"
-      },
-      {
-        "term": "DetonatioN FocusMe (DFM)",
-        "explanation": "日本を代表するプロeスポーツチームの一つで、国内外の大会で数々の実績を残している強豪チーム。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUHVUMTd1OUozRmhGaXJhdVBuUkFRY25rckMtWmEtczNMSGpxUHdCR19Da256OVhmc2NMdVh2SVViVmhWYTB5UTJ4a0IwYjZ3ZjNlTEloRUtIQWFCTl9RWGlFWWVIaV9xMkt6RF85YXdwbXhhZnNFS21CcURJQUZtWEptRdIBiAFBVV95cUxPeXVRdUJYcTNGT0NMczlRZmlHWWxqdGJxRzdlMFRyRHE5X3M3RllmM1FuQ2ZsRDRhRlNkZlpMaUtIYTVXby15SFVnUkN4Rk1lVTVrV29PanBob09ldVFDS3ZMLS15ZU90N3VtTVVvRGo0cGNUd3ZjbHVlb1JycHNUdTVVX0FHaFRy?oc=5": {
-    "title": "衝撃速報！15歳の超新星がEsports世界王者爆誕！スト6最強はチリのCRAIME選手に決定！",
-    "tags": "Esports",
-    "sentiment": "positive",
-    "sentiment_text": "若き天才爆誕！感動の瞬間！",
-    "rating": 5,
-    "time_ago": "8時間前",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUHVUMTd1OUozRmhGaXJhdVBuUkFRY25rckMtWmEtczNMSGpxUHdCR19Da256OVhmc2NMdVh2SVViVmhWYTB5UTJ4a0IwYjZ3ZjNlTEloRUtIQWFCTl9RWGlFWWVIaV9xMkt6RF85YXdwbXhhZnNFS21CcURJQUZtWEptRdIBiAFBVV95cUxPeXVRdUJYcTNGT0NMczlRZmlHWWxqdGJxRzdlMFRyRHE5X3M3RllmM1FuQ2ZsRDRhRlNkZlpMaUtIYTVXby15SFVnUkN4Rk1lVTVrV29PanBob09ldVFDS3ZMLS15ZU90N3VtTVVvRGo0cGNUd3ZjbHVlb1JycHNUdTVVX0FHaFRy?oc=5",
-    "summary_bullets": [
-      "15歳の超新星CRAIME選手が、Esports World Cup 2026の「ストリートファイター6」部門で世界一の座に輝いた！",
-      "チリ出身のCRAIME選手が、世界中の強豪を相手に圧倒的な実力を見せつけ、Esports界に新たな歴史を刻んだ。",
-      "若き王者の誕生は、今後のEsportsシーンにさらなる刺激と可能性をもたらすこと間違いなし！"
-    ],
-    "insight": "わずか15歳で人気格闘ゲーム『ストリートファイター6』の世界王者に輝いたCRAIME選手。彼の圧倒的な若さと才能が、Esportsが年齢や国境を越えて輝ける舞台であることを改めて証明した瞬間だ！",
-    "action_plan": "若き王者の華麗なプレイは必見！CRAIME選手の試合動画をYouTubeでチェックして、その衝撃を体感しよう！君も『スト6』で世界を目指してみないか？",
-    "image_keyword": "Esports Champion Teen, Street Fighter 6 Victory",
-    "technical_terms": [
-      {
-        "term": "Esports World Cup",
-        "explanation": "世界中のプロゲーマーが集まり、様々なゲームタイトルで世界一を競い合う大規模な国際大会だよ！"
-      },
-      {
-        "term": "スト6",
-        "explanation": "人気格闘ゲーム『ストリートファイター6』のこと！世界中のプレイヤーが腕を競い合う超人気タイトルなんだ。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ScE81ekVwZG0yMzloR3pEcmxHSUhLQlVKVVFEOXExWmIzODk3SVhhOEhES0p4ZVZ2d2o2bkNzNkx2a0NvOENQckJtMXVOUFo3ZzdCMF82SnllSTlkX0lZVUpMNlR1eW5tcVVTa3Z6Uml5OUpHR0ZYQzk5dlVheDQ?oc=5": {
-    "title": "綾野剛が新作で\"本気度エグい\"壮絶変身！『地面師』で魅せる新境地、地上波復活も秒読みか！？",
-    "tags": "Movie",
-    "sentiment": "positive",
-    "sentiment_text": "期待度MAXの超注目作！",
-    "rating": 5,
-    "time_ago": "2日前",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ScE81ekVwZG0yMzloR3pEcmxHSUhLQlVKVVFEOXExWmIzODk3SVhhOEhES0p4ZVZ2d2o2bkNzNkx2a0NvOENQckJtMXVOUFo3ZzdCMF82SnllSTlkX0lZVUpMNlR1eW5tcVVTa3Z6Uml5OUpHR0ZYQzk5dlVheDQ?oc=5",
-    "summary_bullets": [
-      "俳優・綾野剛が新作映画で驚異的な“壮絶変身”を遂げ、その役作りへの本気度が話題沸騰中！",
-      "主演作『地面師』での演技が各方面から絶賛されており、彼の新たな代表作となる予感にファンも大興奮。",
-      "映画のヒットとともに、ファンが長く待ち望んでいた地上波ドラマや映画への復帰が現実味を帯びてきた！"
-    ],
-    "insight": "綾野剛の役者魂が爆発した新作映画は、その徹底した役作りと振り幅の広さで観る者すべてを圧倒する。彼のエンターテイナーとしての真骨頂が味わえる、まさに必見の話題作だ！",
-    "action_plan": "『地面師』の続報をチェックしつつ、綾野剛の過去の出演作をプレイバックして、彼の変幻自在な演技の軌跡をたどってみよう！",
-    "image_keyword": "Ayano Go movie transformation",
-    "technical_terms": [
-      {
-        "term": "地面師",
-        "explanation": "不動産取引において、他人の土地の所有者になりすまして売却代金をだまし取る詐欺師のこと。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kcU9JSzVobDlmeERqVEo0M0ltQkF0VHZqQThtYkw5Uk1jTm1pWlRSd3AxV2N6bTVIaldWNnBPaDM3MTJST2NNNjQ3dDA3ZDc1a1Z1bzBsbmNqLWc?oc=5": {
-    "title": "Netflixで次は何見る？2026年最新版！激推しドラマ・番組75選を大公開！",
-    "tags": "Streaming",
-    "sentiment": "positive",
-    "sentiment_text": "おうち時間爆上げ！",
-    "rating": 5,
-    "time_ago": "2日前",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kcU9JSzVobDlmeERqVEo0M0ltQkF0VHZqQThtYkw5Uk1jTm1pWlRSd3AxV2N6bTVIaldWNnBPaDM3MTJST2NNNjQ3dDA3ZDc1a1Z1bzBsbmNqLWc?oc=5",
-    "summary_bullets": [
-      "Netflixで今観るべき、2026年最新のおすすめドラマ・番組75選が勢揃い！",
-      "話題作から隠れた名作まで、幅広いジャンルからあなたの「観たい！」が必ず見つかる！",
-      "次の休日はこれで決まり！充実のおうち時間エンタメガイドとして大活躍間違いなし。"
-    ],
-    "insight": "このリストは、Netflixで何を見ようか迷っている全ての人にとってまさにバイブル！話題作から隠れた名作まで、幅広いジャンルの75作品が紹介されているので、あなたの「観たい！」が必ず見つかります。",
-    "action_plan": "まずはリストをチェックして、気になる作品をNetflixの「マイリスト」に追加してみましょう！今週末は、最高のエンタメ体験で決まり！",
-    "image_keyword": "Netflix guide entertainment",
-    "technical_terms": []
-  },
-  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91WTdIdGozbzU0c3VJd0lnNUdvQW1VeFBfTjI2eEdIZzlvU3dpZFpRdmNPd1lZMW1VaVNTME5WSEI2WDBPYWlsNXNxYWc4b1FteHdudQ?oc=5": {
-    "title": "速報！「QT DIG∞」が『VALORANT Challengers Japan 2026』を制覇！日本代表として世界へ羽ばたく激アツ展開！",
-    "tags": "eSports",
-    "sentiment": "positive",
-    "sentiment_text": "快進撃！祝！日本代表決定！",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91WTdIdGozbzU0c3VJd0lnNUdvQW1VeFBfTjI2eEdIZzlvU3dpZFpRdmNPd1lZMW1VaVNTME5WSEI2WDBPYWlsNXNxYWc4b1FteHdudQ?oc=5",
-    "summary_bullets": [
-      "「QT DIG∞」が激戦を勝ち抜き「VALORANT Challengers Japan 2026 Season Finals」で見事優勝！",
-      "国内トップの座を掴んだ彼らが、日本代表として世界大会「VCT Pacific Stage 2 Play-ins」への出場権を獲得！",
-      "世界の強豪たちを相手に「QT DIG∞」がどこまで勝ち進むのか、日本のeスポーツファン全員が熱狂的に注目！"
-    ],
-    "insight": "「QT DIG∞」が国内リーグを制し、ついに世界の舞台へ挑戦！その粘り強い戦略とチームワークは、見る者を熱くする最高のエンターテイメントだ。彼らが日本の旗を背負って戦う姿は、きっと新たな歴史を刻むだろう！",
-    "action_plan": "「VCT Pacific Stage 2 Play-ins」の配信スケジュールを今すぐチェックして、世界に挑む「QT DIG∞」をリアルタイムで応援しよう！公式SNSで最新情報を追うのもマスト！",
-    "image_keyword": "eSports Valorant victory, Gaming tournament Japan, VCT Pacific team",
-    "technical_terms": [
-      {
-        "term": "VALORANT Challengers Japan",
-        "explanation": "人気タクティカルシューター『VALORANT』の国内公式リーグ。プロへの登竜門となる、日本で最も権威ある大会の一つ。"
-      },
-      {
-        "term": "VCT Pacific Stage 2 Play-ins",
-        "explanation": "『VALORANT Champions Tour (VCT)』という世界リーグの一部で、アジア太平洋地域の代表チームが国際大会「Masters」進出をかけて戦う予選ステージ。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMickFVX3lxTFBTQkU0YW1jMUloRE5CWFI4Q0ZwVzhVX3dfcklPeWNIM1hJQmFEdktodzFCVkFfTklEbzF4STdVeGJRZjVnU3V0Ty10VzdHSVgwVFRfbENhTDdzN0hDTThHUTJaZ2d3WEpRTzl1TFM5STExdw?oc=5": {
-    "title": "日本eスポーツ界に激震！「VALORANT Challengers Japan 2026」で「QT DIG∞」が悲願の初優勝！興奮が止まらない瞬間を見逃すな！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "「歴史を刻んだ王者誕生！感動と興奮が止まらない！」",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTQkU0YW1jMUloRE5CWFI4Q0ZwVzhVX3dfcklPeWNIM1hJQmFEdktodzFCVkFfTklEbzF4STdVeGJRZjVnU3V0Ty10VzdHSVgwVFRfbENhTDdzN0hDTThHUTJaZ2d3WEpRTzl1TFM5STExdw?oc=5",
-    "summary_bullets": [
-      "日本最大級のeスポーツ大会「VALORANT Challengers Japan 2026 Season Finals」で「QT DIG∞」が悲願の初優勝を達成！",
-      "長年の努力が実を結び、ファンも熱狂する歴史的瞬間が生まれた。",
-      "新たな王者の誕生は、今後のVALORANT eスポーツシーンに大きな波乱と期待をもたらすだろう。"
-    ],
-    "insight": "数々の激戦を乗り越え、ついに頂点に立った「QT DIG∞」。彼らの情熱と戦略が織りなすドラマは、観る者すべてを熱狂させること間違いなし！eスポーツの新たな歴史が刻まれた瞬間を目撃しよう！",
-    "action_plan": "「VALORANT Challengers Japan」の公式チャンネルで、優勝決定戦のハイライトやアーカイブ配信をすぐにチェックしてみましょう！「QT DIG∞」の今後の活躍にも注目です！",
-    "image_keyword": "VALORANT eSports victory, Japanese eSports team, gaming championship",
-    "technical_terms": [
-      {
-        "term": "VALORANT Challengers Japan",
-        "explanation": "人気タクティカルシューターゲーム「VALORANT」の日本国内プロリーグの名称。優勝チームは国際大会への出場権をかけた戦いに進むこともあります。"
-      },
-      {
-        "term": "QT DIG∞",
-        "explanation": "「VALORANT Challengers Japan 2026 Season Finals」で悲願の初優勝を飾ったeスポーツチーム名。"
-      },
-      {
-        "term": "eスポーツ",
-        "explanation": "「エレクトロニック・スポーツ」の略で、コンピューターゲームをスポーツとして競技化したもの。プロゲーマーが世界中で活躍しています。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53TE1WMEhPSGRxNWxDSENJT2JpUm9GcFp4WEpoUkN0V3BIcWJjWlQ1UnlzaEM1bDF0WUY1R0lfai1lTTJCWThzZ1d0cVdHNzlzQ0tB?oc=5": {
-    "title": "速報！REJECTのDep選手、VALORANT世界大会『Esports Nations Cup 2026』本戦へ激熱進出！",
-    "tags": "Esports",
-    "sentiment": "positive",
-    "sentiment_text": "激熱！快挙達成！",
-    "rating": 5,
-    "time_ago": "2時間前",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53TE1WMEhPSGRxNWxDSENJT2JpUm9GcFp4WEpoUkN0V3BIcWJjWlQ1UnlzaEM1bDF0WUY1R0lfai1lTTJCWThzZ1d0cVdHNzlzQ0tB?oc=5",
-    "summary_bullets": [
-      "日本屈指のVALORANTプレイヤー、REJECT所属のDep選手が『Esports Nations Cup 2026』本戦出場決定！",
-      "日本のesports界にとって歴史的な快挙！世界を相手にDep選手のスーパープレイが見られる！",
-      "2026年の本戦に向けて、Dep選手とVALORANT日本代表チームの今後の活躍に期待が高まる！"
-    ],
-    "insight": "VALORANTのトッププレイヤーであるDep選手が、世界的な舞台で日本のesportsの力を証明する機会となります。国を代表して強豪と戦う姿は、ファンならずとも胸が熱くなること間違いなし！",
-    "action_plan": "Dep選手の過去のスーパープレイ動画をチェックして、その凄さを体験してみましょう！VALORANTの公式大会や配信も要チェック！",
-    "image_keyword": "VALORANT Esports Player",
-    "technical_terms": [
-      {
-        "term": "VALORANT",
-        "explanation": "人気沸騰中の5対5で戦うタクティカルシューター（FPS）ゲーム！戦略とエイムが勝負を分ける！"
-      },
-      {
-        "term": "Esports Nations Cup 2026",
-        "explanation": "世界中の国と地域が代表チームを組んで最強を競う、まさにesports版のワールドカップ！"
-      }
-    ]
-  },
   "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBbGpTVm1IOTc5U2t2eWpwQWlIZlhzZXVHd0RPR1N0UktrVWFhTWxWbVpjQzNOcDlhUlBCY29YRFExY2RBMC1hLWVpVGpxNHhJdEM0WHVVYlRyN25uVFppcUdadw?oc=5": {
     "title": "速報！カン・ドンウォンが元K-POPアイドルに大変身！映画『ワイルド・シング』Netflixで独占配信決定！歌とダンスで魅せる衝撃作、見逃し厳禁！",
     "tags": "Movie",
@@ -4935,7 +4724,7 @@
     "sentiment": "positive",
     "sentiment_text": "「キタコレ！この夏を彩る必聴のサマーチューン！」",
     "rating": 5,
-    "time_ago": "1日前",
+    "time_ago": "4日前",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IQzdrWnI4bEF1UFBqbG1tV0NONW5IakQxTmdKOFZrRFA0MEtJYkY1R2s5cldVZ3J2ZjQ4ckpWaGw4dVo0dUo3Z3NocGFpRVZoMm40aE0zVFBZaXhTblJWWTZsLUduUQ?oc=5",
     "summary_bullets": [
       "孤高のロックシンガー秋山黄色が待望の最新作『SUMMER BUG』をリリース！",
@@ -5103,6 +4892,226 @@
       {
         "term": "インストゥルメンタルバンド",
         "explanation": "歌をメインにせず、楽器の演奏だけで音楽を表現するバンドのことです。言葉がない分、音で感情や物語を豊かに描き出します。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoYnk1SXBuT21nM0R2TGlVQ283NnNpcmV3alEyWUVZbWlJWmJkTURnWWFQaGRGeUtvTFJNS2VyZ05nOU9ZekRGeENLb0RfdXp6QjhVaE5PV3RSV3RMQk8tWk56dTgzX3dZYm1VYmQwbzdBNE0?oc=5": {
+    "title": "「TGS2026」にPCCSが降臨！eスポーツの未来を動かす「神イベント」爆誕！プロと「スト6」で激突できる激アツ体験を見逃すな！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "未来を繋ぐ！激アツeスポーツイベントがやってくる！",
+    "rating": 5,
+    "time_ago": "6時間前",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoYnk1SXBuT21nM0R2TGlVQ283NnNpcmV3alEyWUVZbWlJWmJkTURnWWFQaGRGeUtvTFJNS2VyZ05nOU9ZekRGeENLb0RfdXp6QjhVaE5PV3RSV3RMQk8tWk56dTgzX3dZYm1VYmQwbzdBNE0?oc=5",
+    "summary_bullets": [
+      "PCCSが東京ゲームショウ2026で「eスポーツの未来を、つなぎ、動かす。」をテーマに特別出展！",
+      "プロ選手と「ストリートファイター6」で直接対戦できる、ファン垂涎の体験会が開催決定！",
+      "eスポーツの今と未来を深掘りするスペシャルトークセッションで、新たな発見と興奮が待っている！"
+    ],
+    "insight": "このイベントは、単なるゲーム体験を超え、eスポーツの最前線を体感できる唯一無二のチャンス！プロのプレイを肌で感じ、未来を語る熱い議論に触れることで、あなたのeスポーツ観が変わるかも！？",
+    "action_plan": "今すぐ「ストリートファイター6」をプレイして腕を磨き、PCCSブースでのプロとの対戦に備えよう！TGS2026の最新情報も常にチェックして、参加準備は万全に！",
+    "image_keyword": "eSports event, Street Fighter 6, game show",
+    "technical_terms": [
+      {
+        "term": "東京ゲームショウ (TGS)",
+        "explanation": "毎年開催される日本最大級のゲームの見本市だよ！新作ゲームや最新情報が盛りだくさん！"
+      },
+      {
+        "term": "eスポーツ",
+        "explanation": "ビデオゲームをスポーツとして真剣に競い合うこと！プロ選手もいて、世界中で大盛り上がりなんだ！"
+      },
+      {
+        "term": "ストリートファイター6 (スト6)",
+        "explanation": "超有名格闘ゲームシリーズの最新作！世界中のプレイヤーが技を競い合う、アツいバトルが楽しめるよ！"
+      },
+      {
+        "term": "ビジネスデイ",
+        "explanation": "イベントの一般公開日とは別に、企業や関係者向けに設けられた日。一足早く業界の裏側が見えちゃうかも！"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTm9rZFNzcXlKeUtvVlpIX0tPV0JYcENiV2RHVFZIX1IwSXJiRS16NW4wRzhSTmlpNTViOUNkLWhndlF0YjFWa0RoRmFkbVIyZHlIYkViMzRGVzcxUWJzWnJ5c2FLc3VLNGhlanpFMEc1RlIwM1pRMUZkM1Jyd0xYa1RnQ2x0a09JQ0RYWW9PRGU?oc=5": {
+    "title": "速報！『Apex Genesis』でUniversitario Esportsが大激戦！eSportsの熱狂が止まらない！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "熱戦の行方を追え！注目のeSportsマッチ速報！",
+    "rating": 4,
+    "time_ago": "11時間前",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTm9rZFNzcXlKeUtvVlpIX0tPV0JYcENiV2RHVFZIX1IwSXJiRS16NW4wRzhSTmlpNTViOUNkLWhndlF0YjFWa0RoRmFkbVIyZHlIYkViMzRGVzcxUWJzWnJ5c2FLc3VLNGhlanpFMEc1RlIwM1pRMUZkM1Jyd0xYa1RnQ2x0a09JQ0RYWW9PRGU?oc=5",
+    "summary_bullets": [
+      "大注目のeSports大会『Apex Genesis』のライブスコア速報が到着！",
+      "Universitario EsportsがApex Legendsで激戦を繰り広げ、ファンを熱狂の渦に巻き込む！",
+      "今後のeSportsシーンの盛り上がり、そしてUniversitario Esportsのさらなる躍進に期待が高まる！"
+    ],
+    "insight": "eSportsの世界は常にドラマチック！一瞬たりとも目が離せない熱戦が繰り広げられ、Universitario Esportsの戦略とスキルが光るプレイはまさに必見です！",
+    "action_plan": "Universitario Esportsの公式SNSをフォローして、今後の試合スケジュールや選手の最新情報をチェックしてみましょう！次なる勝利をリアルタイムで応援する準備はOK？",
+    "image_keyword": "eSports match, Apex Legends, gaming tournament",
+    "technical_terms": [
+      {
+        "term": "eSports",
+        "explanation": "エレクトロニック・スポーツの略称で、ビデオゲームをスポーツ競技として捉え、プロ選手が競い合うこと。"
+      },
+      {
+        "term": "Apex Genesis",
+        "explanation": "人気のバトルロイヤルゲーム「Apex Legends」の大会名、またはその関連イベントを指す可能性が高い。"
+      },
+      {
+        "term": "ライブスコア",
+        "explanation": "試合の途中経過や結果がリアルタイムで更新される情報のこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OYWZoSG9Jamo2UjVIY2czTHBHQ3duQUJTZHRkRU9McG9ZbHRBZzktNDkyUmVfN3ZXZHpLZ05SUlIxdzVGQjZ5bW42UDgyRnVhY09yYVN2UGpxLXdJelFnaHdFVGVTaEhNTVhUaVU3dw?oc=5": {
+    "title": "激アツ！『ストリートファイター6』デュオ祭りが10/3に開催決定！PC Watch杯で最強タッグ爆誕か!?",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "激アツイベント",
+    "rating": 4,
+    "time_ago": "23時間前",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OYWZoSG9Jamo2UjVIY2czTHBHQ3duQUJTZHRkRU9McG9ZbHRBZzktNDkyUmVfN3ZXZHpLZ05SUlIxdzVGQjZ5bW42UDgyRnVhY09yYVN2UGpxLXdJelFnaHdFVGVTaEhNTVhUaVU3dw?oc=5",
+    "summary_bullets": [
+      "PC Watch主催の『ストリートファイター6』デュオ祭りが10月3日に開催決定、最強タッグの座を巡る熱戦が繰り広げられる！",
+      "人気格闘ゲームのタッグ戦で、友達や仲間と一緒に戦略を練り、協力して勝利を目指せる最高のチャンス！",
+      "大会の模様はオンラインで配信予定、新たなスタープレイヤーや名デュオが誕生する瞬間を見逃すな！"
+    ],
+    "insight": "『ストリートファイター6』のコミュニティが盛り上がる、見逃せないデュオ祭りの開催は、プレイヤーはもちろん観戦者にとっても熱狂必至！友達との絆を深めながら、頂点を目指すタッグプレイに注目です。",
+    "action_plan": "今すぐ友達を誘ってデュオの練習を始めよう！当日はPC Watchの配信をチェックして、推しチームを応援しよう！",
+    "image_keyword": "Street Fighter 6 tournament, fighting game duo, esports event",
+    "technical_terms": [
+      {
+        "term": "ストリートファイター6",
+        "explanation": "カプコンが開発した人気格闘ゲーム「ストリートファイター」シリーズの最新作。世界中でeスポーツとしても盛り上がっています。"
+      },
+      {
+        "term": "デュオ祭り",
+        "explanation": "2人1組のチーム（デュオ）で戦う大会形式のこと。協力プレイやタッグならではの戦略が重要になります。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TYWNJNzA5Q0VyWVR1aFVCTjloSks0UFI0UFRrS3BCNVhjU0k5eWU4Z2NSZUp4U3l3cHYwLTZTWUlnNHlzVmdjbTJB?oc=5": {
+    "title": "全世界熱狂！あのSF超大作『三体』がドラマ化でプライムビデオ急上昇中！宇宙級の興奮を見逃すな！",
+    "tags": "Drama",
+    "sentiment": "positive",
+    "sentiment_text": "期待の超大作、ついに降臨！",
+    "rating": 5,
+    "time_ago": "5時間前",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TYWNJNzA5Q0VyWVR1aFVCTjloSks0UFI0UFRrS3BCNVhjU0k5eWU4Z2NSZUp4U3l3cHYwLTZTWUlnNHlzVmdjbTJB?oc=5",
+    "summary_bullets": [
+      "中国発の世界的SF超大作『三体』が、ついに待望のドラマシリーズ化！",
+      "プライムビデオで配信開始後、早くも急上昇ランキング入りを達成し、国内外で話題沸騰中！",
+      "壮大なスケールと予測不能なストーリーで、SFドラマ界の新たな金字塔を打ち立てるか注目！"
+    ],
+    "insight": "単なるSFにとどまらない、宇宙の謎、人類の存亡、そして倫理観までを問いかける深遠な物語が、圧巻の映像で展開されるのが最大の魅力。一度見始めたら止まらない、中毒性のある作品です。",
+    "action_plan": "まずはプライムビデオでドラマ『三体』を全話一気見しましょう！その壮大な世界観に魅了されたら、ぜひ原作小説にも手を出して、物語の深淵を堪能するべし！",
+    "image_keyword": "sci-fi drama, Three-Body Problem, space epic",
+    "technical_terms": [
+      {
+        "term": "SF (サイエンス・フィクション)",
+        "explanation": "科学的な要素や仮説に基づき、未来や異世界などを舞台にした物語のジャンル。"
+      },
+      {
+        "term": "プライムビデオ",
+        "explanation": "Amazonが提供する定額制の動画配信サービスで、映画やドラマが見放題。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFYm1KX3dUWVY1TkZ2bFdSZ2NjR0xpTlVSWGo5MjZoTmRmOElNbFJaNjJOM0psRTBsaFp1WVpTQzRReWxCT3hKY2tKMUlfZmtINGVQN2E4dUM0UDlUc2NpSURuMUZhV2hF?oc=5": {
+    "title": "チョン・ドヨン＆ソル・ギョング夢の共演！Netflix映画『もしもの愛』、ついにキーアート解禁で期待爆上がり！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "超豪華共演！これは見逃せない！",
+    "rating": 5,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFYm1KX3dUWVY1TkZ2bFdSZ2NjR0xpTlVSWGo5MjZoTmRmOElNbFJaNjJOM0psRTBsaFp1WVpTQzRReWxCT3hKY2tKMUlfZmtINGVQN2E4dUM0UDlUc2NpSURuMUZhV2hF?oc=5",
+    "summary_bullets": [
+      "チョン・ドヨンとソル・ギョングという韓国映画界のトップ俳優がNetflixで奇跡の共演！",
+      "待望のNetflix映画『もしもの愛』のキーアートがついに公開され、期待感が最高潮に！",
+      "独特の世界観と深い人間ドラマが垣間見えるキーアートは、今後の情報解禁にも期待大！"
+    ],
+    "insight": "韓国映画界を代表する実力派俳優チョン・ドヨンとソル・ギョングが豪華共演する本作は、Netflixならではの質の高いドラマが期待されます。解禁されたキーアートからは、彼らが織りなす繊細で深い愛の物語が予感され、観る者の心を揺さぶること間違いなしです。",
+    "action_plan": "チョン・ドヨンとソル・ギョングの過去の出演作品をチェックして、彼らの演技の深さに触れてみましょう！",
+    "image_keyword": "Netflix Korean movie, key art, romantic drama",
+    "technical_terms": [
+      {
+        "term": "キーアート",
+        "explanation": "映画やドラマのコンセプトを象徴する、中心となるビジュアルデザインのことです。ポスターなどに使われます。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yY3BSNENEZXZCVkhLQU1GV2pjejhfaGdRSjM4eTBQVnRWX2dTU0hLQXJSRjEyMktpS3k2SXkwcEFDWmNwa05XRmxtaHczUWRhc2Z0VndUYXlPUFhRUUVjTlRoVkhuODNITVFvZWp5MG4tREg3M21BeWxGRQ?oc=5": {
+    "title": "速報！『映画クレヨンしんちゃん カスカベダンサーズ』、ついに配信開始！？お得に楽しむ方法を徹底ガイド！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "待望の配信情報解禁！",
+    "rating": 4,
+    "time_ago": "2日前",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yY3BSNENEZXZCVkhLQU1GV2pjejhfaGdRSjM4eTBQVnRWX2dTU0hLQXJSRjEyMktpS3k2SXkwcEFDWmNwa05XRmxtaHczUWRhc2Z0VndUYXlPUFhRUUVjTlRoVkhuODNITVFvZWp5MG4tREg3M21BeWxGRQ?oc=5",
+    "summary_bullets": [
+      "『映画クレヨンしんちゃん カスカベダンサーズ』の気になる配信プラットフォーム情報が解禁！",
+      "ファン必見！各サービスで賢く、お得に視聴するための裏技が詳しく解説されているぞ！",
+      "家族みんなで、おうちでワイワイしんちゃんワールドに飛び込む準備はOK？"
+    ],
+    "insight": "国民的アニメ『クレヨンしんちゃん』の最新（または話題の）映画『カスカベダンサーズ』の配信情報がついに明らかに！手軽に、そしてお得にあの感動と笑いを自宅で楽しめるチャンスは、ファンにとって見逃せないビッグニュースだ。",
+    "action_plan": "記事で紹介されている各配信サービスを今すぐチェックして、自分にピッタリな視聴方法を見つけよう！これを機に、過去の傑作しんちゃん映画を見直して気分を最高潮に盛り上げるのもアリだ！",
+    "image_keyword": "Crayon Shin-chan movie streaming, family entertainment, anime film",
+    "technical_terms": [
+      {
+        "term": "配信サービス",
+        "explanation": "インターネットを通じて映画やアニメなどのコンテンツを視聴できるサービスのこと。月額制や都度課金など様々な形式があるよ！"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14aWNqTnpyWS1VZjVfbjN1eWZBa19XNXpQejIwczF5VkJEZ2c1cVo3TG5RNDBwN3VpMXRRVUVPN1NaOG5ETmlKSVdFcU03WXpoclE?oc=5": {
+    "title": "時代を超えたグルーヴが蘇る！ジャミロクワイ伝説の名盤『Travelling Without Moving』をTHE CHARM PARKが大解剖！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "伝説のグルーヴが再び光を放つ！",
+    "rating": 5,
+    "time_ago": "3日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14aWNqTnpyWS1VZjVfbjN1eWZBa19XNXpQejIwczF5VkJEZ2c1cVo3TG5RNDBwN3VpMXRRVUVPN1NaOG5ETmlKSVdFcU03WXpoclE?oc=5",
+    "summary_bullets": [
+      "ジャミロクワイの金字塔『Travelling Without Moving』が、今改めて熱い注目を浴びる！",
+      "アーティストTHE CHARM PARKが、名盤への深い愛とグルーヴの魅力を独占解説！",
+      "時を超えて愛される音楽の魅力を再発見し、新たなファン層にも響くこと間違いなし！"
+    ],
+    "insight": "ジャミロクワイの『Travelling Without Moving』は、リリースから時を経ても色褪せない普遍的なグルーヴとメロディで世界中を魅了し続けています。今回、THE CHARM PARKの視点からその奥深さを紐解くことで、名盤の新たな発見と感動が味わえます。",
+    "action_plan": "まずはジャミロクワイ『Travelling Without Moving』をもう一度じっくり聴いて、そのグルーヴの神髄を体感してみましょう！そして、THE CHARM PARKの他の楽曲もチェックして、彼らの音楽世界に触れてみてください。",
+    "image_keyword": "Jamiroquai album, funk music, retro groove",
+    "technical_terms": [
+      {
+        "term": "グルーヴ",
+        "explanation": "音楽における、聴く人を自然と体が動かしたくなるような心地よいリズム感やノリのこと。"
+      },
+      {
+        "term": "名盤",
+        "explanation": "音楽史に残る傑作として高く評価され、多くの人に長く愛され続けるアルバムのこと。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92WS1weE03T0F0eEE2b1BIYnlCNnFJWEFISnRoTEM3S0hpVzNqT3EtdzQ1RWkxYURDaWFuZFdNSnhQVEpnUE84Q1RwTjZRM3paR2c?oc=5": {
+    "title": "Tempalay『ATOMEW』爆誕！SF級の没入感でプログレ・ヒップホップ・ゴスペルが融合した“快作”を体験せよ！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "期待の新作！",
+    "rating": 5,
+    "time_ago": "2日前",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92WS1weE03T0F0eEE2b1BIYnlCNnFJWEFISnRoTEM3S0hpVzNqT3EtdzQ1RWkxYURDaWFuZFdNSnhQVEpnUE84Q1RwTjZRM3paR2c?oc=5",
+    "summary_bullets": [
+      "Tempalayの最新作『ATOMEW』がSF映画のような超没入型サウンドスケープでリスナーを異次元に誘う！",
+      "プログレ、ノイジーヒップホップ、独自解釈のゴスペルが融合した、ジャンルを破壊する唯一無二の音楽体験がここに。",
+      "既存の音楽の枠を超え、新たな地平を切り開く彼らの挑戦は、まさに「快作」と呼ぶにふさわしいファン必聴の一枚！"
+    ],
+    "insight": "Tempalayの最新アルバム『ATOMEW』は、プログレッシブなスケール感からノイジーなヒップホップ、さらに独自の解釈を加えたゴスペルまで、あらゆるジャンルを飲み込んだまさにSF映画のような没入感のあるサウンドスケープを創造しています。彼らならではの自由な発想と実験精神が詰まった、聴く者を圧倒する唯一無二の快作です。",
+    "action_plan": "まずは『ATOMEW』を今すぐ聴いて、Tempalayが切り開く未体験の音世界に飛び込んでみましょう！彼らの過去作品やライブ映像もチェックして、その進化の軌跡を辿るのもおすすめです！",
+    "image_keyword": "Sci-Fi Music Album, Progressive Band, Japanese Indie",
+    "technical_terms": [
+      {
+        "term": "プログレ",
+        "explanation": "プログレッシブ・ロックの略。複雑な楽曲構成や演奏技術が特徴で、実験的・芸術的な要素が強いロックジャンル。"
+      },
+      {
+        "term": "ゴスペル",
+        "explanation": "キリスト教の教会音楽にルーツを持つジャンル。魂を揺さぶるパワフルな歌声とハーモニーが特徴で、近年は多様なジャンルと融合している。"
       }
     ]
   }
