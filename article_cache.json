@@ -1,168 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zejJOanBadmxINFRib25IMVdTdEVmRlZDWmtUdjlQTWMwc0xGVTRZRVN6RmJUTGZGTGQ5YUpkZEZjeTNka0Z3MS1yVlplbVU5cXgwdEtLLW10V2JQTzR5cw?oc=5": {
-    "title": "爆熱U19eスポーツ選手権2026、FENNELが運営決定！ 『VALORANT』『LoL』で未来のスターが激突！",
-    "tags": "Game",
-    "sentiment": "positive",
-    "sentiment_text": "未来のスター誕生に期待爆上げ！",
-    "rating": 5,
-    "time_ago": "12時間前",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zejJOanBadmxINFRib25IMVdTdEVmRlZDWmtUdjlQTWMwc0xGVTRZRVN6RmJUTGZGTGQ5YUpkZEZjeTNka0Z3MS1yVlplbVU5cXgwdEtLLW10V2JQTzR5cw?oc=5",
-    "summary_bullets": [
-      "プロeスポーツチームFENNELが「U19eスポーツ選手権2026」の運営を担当、若き才能の発掘に本腰！",
-      "超人気タイトル『VALORANT』と『League of Legends』で、次世代スター候補生たちが激しいバトルを繰り広げる！",
-      "11月14日から予選がスタートし、白熱の激戦を勝ち抜いたチームが12月27日の決勝で頂点を目指す！"
-    ],
-    "insight": "これは単なる大会じゃない！次世代のeスポーツ界を担う若き才能たちが、大舞台で繰り広げる熱い戦いは必見！彼らの無限の可能性と情熱に、胸が熱くなること間違いなし！",
-    "action_plan": "FENNELの公式X (旧Twitter) や大会公式サイトをチェックして、予選情報や注目選手をいち早くキャッチ！未来のスターを今から応援し始めよう！",
-    "image_keyword": "eSports championship, youth gaming, VALORANT LoL",
-    "technical_terms": [
-      {
-        "term": "FENNEL",
-        "explanation": "日本のプロeスポーツチームで、大会運営も手がける注目の組織！"
-      },
-      {
-        "term": "VALORANT",
-        "explanation": "5対5で戦うタクティカルシューター。戦略とエイム力が勝利の鍵を握る超人気ゲーム！"
-      },
-      {
-        "term": "League of Legends (LoL)",
-        "explanation": "チームで協力して敵陣を破壊する戦略性の高いMOBA。世界中で熱狂的なファンを持つ名作！"
-      },
-      {
-        "term": "U19eスポーツ選手権",
-        "explanation": "19歳以下の選手が対象の、若き才能が輝くeスポーツの全国大会！"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmTzhESXlqWW9VdVQzTV9WUjRubmJjcTNuSlRScC1na28tZEJmdWx6RlpTUldlQ21zOHBuUmcta2lUQnBWeGpVRXJjb2tocmJXajEzaGJqOA?oc=5": {
-    "title": "激アツ！『VALORANT Xross Cup 76』開催決定！賞金＆豪華副賞、さらに神キーボードもGETのチャンス！",
-    "tags": "Esports",
-    "sentiment": "positive",
-    "sentiment_text": "VALORANTファン必見！見逃し厳禁のビッグイベント！",
-    "rating": 5,
-    "time_ago": "21時間前",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmTzhESXlqWW9VdVQzTV9WUjRubmJjcTNuSlRScC1na28tZEJmdWx6RlpTUldlQ21zOHBuUmcta2lUQnBWeGpVRXJjb2tocmJXajEzaGJqOA?oc=5",
-    "summary_bullets": [
-      "賞金＆豪華副賞を懸けた『VALORANT』の熱いトーナメントが開催決定！",
-      "16チームが頂点を目指して激突、見どころ満載のバトルが期待される！",
-      "視聴者には東プレ製ゲーミングキーボードが当たるスペシャルキャンペーンも実施！"
-    ],
-    "insight": "大人気タクティカルシューター『VALORANT』のハイレベルな戦いは、eスポーツファンなら見逃せない！プロを目指す若き才能たちが繰り広げる戦略と連携、そして勝利への執念に心震える瞬間が待っています。",
-    "action_plan": "大会の公式配信をチェックして、推しチームを見つけよう！これを機に『VALORANT』をプレイして、その奥深さに触れてみるのもおすすめです！",
-    "image_keyword": "VALORANT esports tournament, gaming keyboard prize",
-    "technical_terms": [
-      {
-        "term": "VALORANT",
-        "explanation": "世界中で大人気の5対5タクティカルシューターゲーム！戦略と連携が勝利の鍵を握るぞ。"
-      },
-      {
-        "term": "東プレ製ゲーミングキーボード",
-        "explanation": "ゲーマーに絶大な人気を誇る高級キーボードブランド！正確な操作性と打鍵感でプロも愛用する逸品だ。"
-      },
-      {
-        "term": "トーナメント",
-        "explanation": "勝ち抜き形式で最強チームを決める大会のこと！一瞬の油断も許されない白熱の戦いが繰り広げられる！"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CeDA5VUdSb3VBRXYtRENSeThwNFkwU0hid1NMTkU4WTdGcTZQSGozMGM4a1p6RDdXT1BrcS1CbzY4aXpkYjJvMnRFRnNvZkdyNUhyakh6WDlwd1E3VDU0ZDdDa2dZbmdYRGtjYWVlMFRqS05yMUEwN1NmYmVuOGM?oc=5": {
-    "title": "見なきゃ損！アマプラで消えちゃう『映像美の魔術師』代表作を今すぐチェックせよ！",
-    "tags": "Movie",
-    "sentiment": "positive",
-    "sentiment_text": "緊急速報！見なきゃ損の神作品！",
-    "rating": 5,
-    "time_ago": "1日前",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CeDA5VUdSb3VBRXYtRENSeThwNFkwU0hid1NMTkU4WTdGcTZQSGozMGM4a1p6RDdXT1BrcS1CbzY4aXpkYjJvMnRFRnNvZkdyNUhyakh6WDlwd1E3VDU0ZDdDa2dZbmdYRGtjYWVlMFRqS05yMUEwN1NmYmVuOGM?oc=5",
-    "summary_bullets": [
-      "アマプラで「圧巻の映像美」を誇る、世界中にファンを持つ監督の代表作が配信終了間近！",
-      "10月中旬までに配信が終わってしまうため、この名作を観るラストチャンスを見逃すな！",
-      "まだ観てない人はもちろん、ファンも必見の傑作を今のうちに楽しんで感動を再体験しよう！"
-    ],
-    "insight": "世界を魅了する巨匠が手がけた、息をのむほど美しい映像と心を揺さぶるストーリー。配信終了前に、その類まれなる芸術性を体験する最後のチャンス！感動必至の体験があなたを待っています。",
-    "action_plan": "いますぐアマプラを起動して、この記事で紹介されている『圧巻の映像美』作品をチェックしてみましょう！気に入ったら、この監督の他の作品も深掘りしてみては？",
-    "image_keyword": "masterpiece movie, cinematic visual, streaming end",
-    "technical_terms": []
-  },
-  "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaclZYcWkyTXhETjR1N2VHQ2NVVjU2eXQybFVWaXZGcFB1X3BlT1ZTcDhIa0NsRmpNZWNQS1dvdFdkd3BnSHQ1VU8zSDlPa3BqNXVFWVlWNTlka3Bobzh4MFJ5d1ZTZEprX2dZVlJCLVZXdmtUZFZoYlllUQ?oc=5": {
-    "title": "【速報】CR所属Dual Kevin選手、EVO FRANCE 2026『ストリートファイター6』部門で劇的優勝！世界が熱狂した歴史的快挙！",
-    "tags": "Esports",
-    "sentiment": "positive",
-    "sentiment_text": "歴史的快挙に大興奮！",
-    "rating": 5,
-    "time_ago": "1時間前",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaclZYcWkyTXhETjR1N2VHQ2NVVjU2eXQybFVWaXZGcFB1X3BlT1ZTcDhIa0NsRmpNZWNQS1dvdFdkd3BnSHQ1VU8zSDlPa3BqNXVFWVlWNTlka3Bobzh4MFJ5d1ZTZEprX2dZVlJCLVZXdmtUZFZoYlllUQ?oc=5",
-    "summary_bullets": [
-      "世界的格闘ゲームの祭典「EVO FRANCE 2026」の『ストリートファイター6』部門で、CR所属のDual Kevin選手が堂々たる優勝を飾った！",
-      "数々の強豪プロゲーマーを打ち破り、熾烈な激戦を勝ち抜いたDual Kevin選手の圧倒的なスキルと戦略がファンを熱狂させた。",
-      "この快挙は、今後の格闘ゲームシーン、特に『ストリートファイター6』のeスポーツ界に新たな伝説を刻み、次なる高みへの期待感を最高潮に高める！"
-    ],
-    "insight": "EVO FRANCEという最高峰の舞台で、Dual Kevin選手が頂点に立ったことは、その卓越した才能と日々の研鑽の証！ 熱狂的なバトルは見る者全てを釘付けにし、eスポーツの新たな歴史を刻んだ見どころ満載のイベントだったこと間違いなし！ 彼が繰り広げたドラマチックな勝利は、まさに感動のエンターテイメントだ！",
-    "action_plan": "Dual Kevin選手の感動的な優勝劇を追体験すべく、YouTubeでEVO FRANCE 2026『ストリートファイター6』部門の試合アーカイブを今すぐチェックしてみましょう！ そして、あなたも『ストリートファイター6』で世界の舞台を目指してみては！？",
-    "image_keyword": "esports winner, Street Fighter 6, EVO tournament",
-    "technical_terms": [
-      {
-        "term": "EVO FRANCE",
-        "explanation": "世界最大級の格闘ゲーム大会「Evolution Championship Series（EVO）」のフランス版。プロゲーマーが集う夢の舞台で、毎年多くのドラマが生まれる。"
-      },
-      {
-        "term": "ストリートファイター6",
-        "explanation": "カプコンが開発した人気格闘ゲームシリーズの最新作。革新的なシステムと多様なキャラクターで、初心者からプロまで幅広いプレイヤーを魅了している。"
-      },
-      {
-        "term": "CR",
-        "explanation": "日本の有名プロeスポーツチーム「Crazy Raccoon（クレイジーラクーン）」の略称。多くの人気選手が所属し、多岐にわたるゲームタイトルで活躍している。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MbEc0cUc2RjBLYkZQUGtlYnFZNWlmYi1QRmIwREV6dUtwUkktVmtlemxyc3lmMEVYRE5qa0hUNV9ZMmFsLVNYdDg5OXRRVUVGZHpoWDhR?oc=5": {
-    "title": "2026年、上越でeスポーツの祭典が到来！『スマブラ』＆『スト6』頂上決戦で熱狂が爆発！",
-    "tags": "eSports",
-    "sentiment": "positive",
-    "sentiment_text": "2026年が待ちきれない！熱狂必至のeスポーツ祭典！",
-    "rating": 5,
-    "time_ago": "9時間前",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MbEc0cUc2RjBLYkZQUGtlYnFZNWlmYi1QRmIwREV6dUtwUkktVmtlemxyc3lmMEVYRE5qa0hUNV9ZMmFsLVNYdDg5OXRRVUVGZHpoWDhR?oc=5",
-    "summary_bullets": [
-      "2026年開催決定！上越e-sports頂上決戦で、全国から強豪プレイヤーが集結！",
-      "国民的タイトル『大乱闘スマッシュブラザーズ』と格闘ゲームの金字塔『ストリートファイター6』が激突！",
-      "未来のeスポーツシーンを牽引する、熱いドラマと感動が生まれる瞬間を今から期待せよ！"
-    ],
-    "insight": "格闘ゲーム界の二大巨頭『スマブラ』と『スト6』が一同に会するこのイベントは、単なる大会を超えた究極のエンターテイメント！地元上越からの発信が、日本中のeスポーツファンを熱狂の渦に巻き込むこと間違いなし！",
-    "action_plan": "今から『スマブラ』や『スト6』のプロゲーマーたちの名試合をYouTubeでチェックして、2026年の戦いに備えよう！最新情報を見逃さないよう、上越妙高タウン情報の続報も要チェック！",
-    "image_keyword": "esports tournament, fighting game, smash bros street fighter",
-    "technical_terms": [
-      {
-        "term": "e-sports",
-        "explanation": "エレクトロニック・スポーツの略称で、ビデオゲームをスポーツ競技として捉え、プレイヤーが技を競い合うこと。プロリーグや大規模な大会も世界中で開催されています。"
-      },
-      {
-        "term": "スマブラ",
-        "explanation": "任天堂の大人気対戦アクションゲーム「大乱闘スマッシュブラザーズ」シリーズの略称。様々な任天堂キャラクターが登場し、互いにステージ外へ吹き飛ばし合うのが目標。"
-      },
-      {
-        "term": "スト6",
-        "explanation": "カプコンが開発した人気格闘ゲーム「ストリートファイター6」の略称。世界中のプレイヤーがキャラクターを操作し、格闘技で技を競い合います。"
-      }
-    ]
-  },
-  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05bzJNYzRfdGVqVHU0X1oxV1lvMzZSM1RGRDk3al9iQUZCZnhtM1d2YVBnN2pFMW1xVVV4clBXU1VPVjdZTkdQSWpmUzUxOUQxc1ZVUg?oc=5": {
-    "title": "Netflixでハロウィン気分MAX！ホラー・SF・コメディ名作10選で最高の夜を遊び尽くせ！",
-    "tags": "Movie",
-    "sentiment": "positive",
-    "sentiment_text": "気分爆アガリ！今年のハロウィンはNetflixで決まり！",
-    "rating": 5,
-    "time_ago": "2日前",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05bzJNYzRfdGVqVHU0X1oxV1lvMzZSM1RGRDk3al9iQUZCZnhtM1d2YVBnN2pFMW1xVVV4clBXU1VPVjdZTkdQSWpmUzUxOUQxc1ZVUg?oc=5",
-    "summary_bullets": [
-      "Netflixが厳選した、ハロウィンを彩る映画・ドラマ10選が発表！",
-      "ホラー、SF、コメディと幅広いジャンルから名作がピックアップされ、誰もが楽しめるラインナップ！",
-      "今年のハロウィンは、これらの作品で最高のエンタメ体験を満喫するチャンス！"
-    ],
-    "insight": "Netflixが贈るハロウィンスペシャルは、怖いだけじゃない！SFのワクワク感やコメディの爆笑も織り交ぜた多種多様な作品群で、視聴者のあらゆる「見たい！」に応えてくれます。友達や家族と、最高の作品で盛り上がれること間違いなし！",
-    "action_plan": "紹介された10作品の中から、あなたの好みにぴったりの一本を見つけて、今すぐNetflixで視聴を開始しましょう！パーティーのお供にも、一人でじっくり楽しむにも最適です！",
-    "image_keyword": "Halloween movies Netflix",
-    "technical_terms": []
-  },
   "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmTjM3Tm1kUDNlQ3l1WXRQQVRVdWVuSFlKSHpHeGlLZHIzWVUzMkpybW5nbi1XYmVpT0xvdlB4b1h2VGhyTy1HS2hMNA?oc=5": {
     "title": "Netflix「トークサバイバー！」に井桁弘恵、高杉真宙、中島裕翔ら超豪華キャストが参戦！ドラマパートがアツい！",
     "tags": "TV Series",
@@ -2088,7 +1924,7 @@
     "sentiment": "positive",
     "sentiment_text": "ファン歓喜！注目のインタビュー企画！",
     "rating": 4,
-    "time_ago": "88日前",
+    "time_ago": "106日前",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50TXpqWVdwZlVlSVVXcDNfSVRTR29fWHo4aWk0dkZfUG1Ga1Nac2FndFFpT2cyQmZWZ0NHOWZqb3ZXNW44TXJUeWRnSjIzM2JIWVZaVzhhRnR3aE02bDg2ZkpITXMtX2pVOC1NWkRiVjh5Zw?oc=5",
     "summary_bullets": [
       "唯一無二の存在感SPARK!!SOUND!!SHOW!!が『チヨの部屋』に登場！",
@@ -4956,7 +4792,7 @@
     "sentiment": "positive",
     "sentiment_text": "最強タッグ爆誕！",
     "rating": 5,
-    "time_ago": "10時間前",
+    "time_ago": "1日前",
     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvSWoyejZURzJOcUdDbF9IdEZ1czlock1xRHVOM3lyY3pOYnEtTlJCOHlRTlY4UzJzWm8wTXM1UF9wSmVCdlNTMWxKYkFKQWc?oc=5",
     "summary_bullets": [
       "アクションスター、ジェイソン・ステイサムが待望のNetflixオリジナル映画に初参戦！",
@@ -5033,7 +4869,7 @@
     "sentiment": "positive",
     "sentiment_text": "伝説が蘇る！ファン垂涎の永久保存版！",
     "rating": 5,
-    "time_ago": "147日前",
+    "time_ago": "148日前",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlVyamlHVW43VHJSMWhJY3pKLWJvekRLZlRWYXl6NVBPa09NcDdsdkI5M1NaRGN6cVpjcEpNNkJaZFVrTnBFeXA2UXlGTldleC0zcldUZk9senlqLVFhTmEybnlBM243Vl94bVloWXR0bDBlZUpqeDRsWXd5RktnV1ZwQzJTTWs?oc=5",
     "summary_bullets": [
       "あの伝説的ロック名盤が、こだわりの日本プレス盤LPとして手元に蘇る大チャンス！",
@@ -5071,5 +4907,153 @@
     "action_plan": "このインタビューを読んだら、SPARK!!SOUND!!SHOW!!の最新リリースや過去のアルバムを改めて聴いてみましょう！さらに、過去の『チヨの部屋』も読み返して、スサシの軌跡をたどってみるのもおすすめです！",
     "image_keyword": "SPARK!!SOUND!!SHOW!! band interview, music magazine, rock band",
     "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6ZUhHQTE1OEtKRkhSU1huS2QtQVVMSzBUZDRiU1ZidUVTclJtWmVOM1llY3A4LXJRNjh2T1lNb1ljVHNQYmJ5UDBNZy1qTkhsZ0dGU0E1RXNFZkE?oc=5": {
+    "title": "「常闇祭3」が爆誕！ホロライブ常闇トワPresents、超熱狂『スト6』3on3で年末を駆け抜けろ！",
+    "tags": "Game",
+    "sentiment": "positive",
+    "sentiment_text": "年末ぶっ飛ばす激アツ祭典、キターーーッ！ファンも選手も最高潮の熱狂確定！",
+    "rating": 5,
+    "time_ago": "1時間前",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6ZUhHQTE1OEtKRkhSU1huS2QtQVVMSzBUZDRiU1ZidUVTclJtWmVOM1llY3A4LXJRNjh2T1lNb1ljVHNQYmJ5UDBNZy1qTkhsZ0dGU0E1RXNFZkE?oc=5",
+    "summary_bullets": [
+      "ホロライブ常闇トワ主催の神イベント「常闇祭3」が12月20日に開催決定！今回は大人気『ストリートファイター6』の3on3チームバトルだ！",
+      "自慢の腕前を持つ猛者よ集まれ！現在、白熱のトーナメントを繰り広げる参加者を募集中！エントリーして歴史に名を刻むチャンス！",
+      "年末のビッグイベントとして、どんなドラマが生まれるのか!? 豪華な参加者や意外な展開に期待が爆上がり！"
+    ],
+    "insight": "ホロライブ界の“悪魔的”歌姫、常闇トワさんがプロデュースする「常闇祭」は、毎回予想を超える熱狂を生み出す伝説的イベント！今回は大人気格闘ゲーム『スト6』でのチーム戦ということで、推しVTuberたちのガチバトルはもちろん、チームならではの戦略や連携、そして友情に胸が熱くなること間違いなし！eスポーツの緊迫感とエンタメの楽しさが最高の形で融合した、見逃し厳禁の祭典になるぞ！",
+    "action_plan": "まずは「常闇祭3」の公式情報や配信チャンネルを要チェック！常闇トワさんのYouTubeチャンネル登録はもちろん、過去の「常闇祭」アーカイブを見て、熱気を体感するのもおすすめ！さらに、これを機に『ストリートファイター6』を始めて、来年の「常闇祭」に参戦する準備を始めるのもアリかも！？",
+    "image_keyword": "Hololive Towa Esports",
+    "technical_terms": [
+      {
+        "term": "常闇トワ",
+        "explanation": "ホロライブ所属の人気VTuber（バーチャルYouTuber）。歌唱力とゲームスキルが高く評価され、多くのファンを魅了している。"
+      },
+      {
+        "term": "スト6",
+        "explanation": "対戦格闘ゲームの金字塔「ストリートファイター」シリーズの最新作「ストリートファイター6」の略称。世界中で人気を博している。"
+      },
+      {
+        "term": "3on3大会",
+        "explanation": "3人1組のチームを組んで対戦する競技形式。個人のスキルだけでなく、チームとしての戦略や連携も勝敗を分ける重要な要素となる。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hS3JaeElHS29ZOXJRQURkaUt1UWw3SGUzMWwtMGR5c1dHWEVfcnhvMWFLcjQyYUliYm1DemlTYVlZVmNTeWF1WUlkcUlNNU9oZVJoM2E0eHVwYXlrWnJEaXVTdHh6X3Rl?oc=5": {
+    "title": "VALORANT界に激震！スーパースターaspas、巨額オファーを蹴ってFUT Esportsへ電撃移籍か！？",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "eスポーツ界、期待度MAXのビッグニュース到来！",
+    "rating": 5,
+    "time_ago": "3時間前",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hS3JaeElHS29ZOXJRQURkaUt1UWw3SGUzMWwtMGR5c1dHWEVfcnhvMWFLcjQyYUliYm1DemlTYVlZVmNTeWF1WUlkcUlNNU9oZVJoM2E0eHVwYXlrWnJEaXVTdHh6X3Rl?oc=5",
+    "summary_bullets": [
+      "VALORANT界のスーパースターaspasが、まさかのFUT Esportsへ電撃移籍と報道！",
+      "中国チームからの巨額オファーを蹴って、トルコのFUT Esportsを選んだ背景に世界中が注目！",
+      "新チームでのaspasの活躍と、VALORANT eスポーツシーンがどう変化するのか目が離せない！"
+    ],
+    "insight": "世界トップクラスのデュエリストであるaspasが、より高みを目指して新たな挑戦を選ぶ姿は、ファンに大きな感動と期待を与えるでしょう。巨額のオファーを断ってまで選んだFUT Esportsでの彼の活躍は、今後のVALORANT eスポーツシーンの行方を左右するビッグイベントとなること間違いなし！",
+    "action_plan": "aspasのこれまでの神プレイ集をYouTubeでチェックして、新シーズン開幕に備えよう！FUT Esportsの公式SNSも要チェックだ！",
+    "image_keyword": "VALORANT eSports transfer",
+    "technical_terms": [
+      {
+        "term": "VALORANT",
+        "explanation": "Riot Gamesが開発・運営する、人気の無料タクティカルシューターゲーム。eスポーツも盛ん。"
+      },
+      {
+        "term": "デュエリスト",
+        "explanation": "VALORANTにおけるエージェント（キャラクター）の役割の一つ。積極的に交戦し、キルを稼ぐことでチームを勝利に導く攻撃的な役割。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RYXZnYVF1THRKN1g1Tll4b2V6clJYME9HZG5pd01hSktDamxaZ3NBUDhFdXd6UTY5RnduTHdLUFFfTWgyOXlES09RTHU1VEVDQjlRRTN4YkEyVFN4S0sxMnpvRER0dXplT1E?oc=5": {
+    "title": "日本最強はどこだ!? 『全国都道府県対抗eスポーツ選手権 2026』エキシビションマッチ概要発表で、早くも熱狂の予感！",
+    "tags": "eSports",
+    "sentiment": "positive",
+    "sentiment_text": "祭りの予感！早くも熱気が高まる注目イベント",
+    "rating": 4,
+    "time_ago": "8時間前",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RYXZnYVF1THRKN1g1Tll4b2V6clJYME9HZG5pd01hSktDamxaZ3NBUDhFdXd6UTY5RnduTHdLUFFfTWgyOXlES09RTHU1VEVDQjlRRTN4YkEyVFN4S0sxMnpvRER0dXplT1E?oc=5",
+    "summary_bullets": [
+      "2026年に開催される「全国都道府県対抗eスポーツ選手権」のエキシビションマッチ概要がついに発表！",
+      "本大会の盛り上がりを占う重要な先行イベントで、競技タイトルや出場選手に注目が集まる！",
+      "全国のeスポーツファンが待ち望む、未来の熱戦に向けた第一歩を見逃すな！"
+    ],
+    "insight": "全国の都道府県がeスポーツで激突する夢の祭典！エキシビションマッチは、本大会の競技レベルと熱気をいち早く体験できるチャンス。地域の名誉をかけた戦いは、選手だけでなく応援するファンも熱狂させること間違いなし！",
+    "action_plan": "続報や競技タイトルの詳細発表を見逃さないよう、関連ニュースや大会公式SNSをチェックしてみましょう！地元の代表選手を応援する準備を今から始めよう！",
+    "image_keyword": "eSports championship, gaming competition, japan esports",
+    "technical_terms": [
+      {
+        "term": "eスポーツ選手権",
+        "explanation": "エレクトロニック・スポーツの略で、ビデオゲームをスポーツ競技としてとらえ、対戦するイベントのこと。プロゲーマーによる真剣勝負が繰り広げられます。"
+      },
+      {
+        "term": "エキシビションマッチ",
+        "explanation": "本番の競技会や大会の前に、お披露目やデモンストレーションとして行われる試合のこと。本大会への期待を高める役割があります。"
+      }
+    ]
+  },
+  "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XbUxzMTEzOU4zZ3pMcVg1cXp3dGtKMzNJTERxWEtUZUU2Y1NmTy1iSWxMYlVMbUVVWENIODFrcHZneDlGUHh5MjZDTFJnMWl5MkhvNnNqQVoyVmRiT1BnOGw4Wk5LM29ianJwMDFn?oc=5": {
+    "title": "ロバート・パティンソン×デンゼル・ワシントン！夢の超豪華タッグが贈るNetflix映画『ザ・テイク』2027年世界独占配信決定！",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "豪華共演！超期待のビッグニュース爆誕！",
+    "rating": 5,
+    "time_ago": "12時間前",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XbUxzMTEzOU4zZ3pMcVg1cXp3dGtKMzNJTERxWEtUZUU2Y1NmTy1iSWxMYlVMbUVVWENIODFrcHZneDlGUHh5MjZDTFJnMWl5MkhvNnNqQVoyVmRiT1BnOGw4Wk5LM29ianJwMDFn?oc=5",
+    "summary_bullets": [
+      "ロバート・パティンソンとデンゼル・ワシントンという映画界の巨星が夢の初共演！",
+      "最新作『ザ・テイク』が世界中のNetflixユーザーへ独占配信されることが決定！",
+      "2027年1月15日という配信日も発表され、今から期待が高まること間違いなし！"
+    ],
+    "insight": "若きスターとベテラン名優という、世代を超えた強力タッグが織りなすケミストリーは想像するだけで鳥肌もの。Netflixによる世界独占配信というスケール感も相まって、世界中の映画ファンが待ち望む一大エンターテイメントとなること必至です。",
+    "action_plan": "今すぐNetflixでロバート・パティンソンとデンゼル・ワシントンの過去の出演作を見返して、二人の演技の幅広さを予習しておきましょう！2027年が待ち遠しくなること間違いなし！",
+    "image_keyword": "Robert Pattinson Denzel Washington movie, Netflix film, action thriller",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IekRZTHFMampPSFAtYlJnMVE5djBUR1M3cnUycXhRNVNYNkQwczVrbUVhdFFXNXBVSFJqcWI3allBMExvQlp3UVI2RVpOMlE?oc=5": {
+    "title": "Netflix映画『もしもの愛』を深掘り！傷ついた心に響く、社会正義の光とは？",
+    "tags": "Movie",
+    "sentiment": "positive",
+    "sentiment_text": "深く考えさせられる注目作",
+    "rating": 4,
+    "time_ago": "1日前",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IekRZTHFMampPSFAtYlJnMVE5djBUR1M3cnUycXhRNVNYNkQwczVrbUVhdFFXNXBVSFJqcWI3allBMExvQlp3UVI2RVpOMlE?oc=5",
+    "summary_bullets": [
+      "Netflixで注目の映画『もしもの愛』が描き出す、社会の深い傷と希望の光に迫る！",
+      "鑑賞後も心に残り続ける、現代社会の課題を深く掘り下げる社会派ドラマを体験！",
+      "『もしもの愛』が問いかける「もしも」の先にある、真の愛と正義の形を見つけ出そう！"
+    ],
+    "insight": "Netflix映画『もしもの愛』は、現代社会が抱える複雑な社会正義の問題を、繊細かつ力強い視点で描いています。観る者の心に深く問いかける、愛と倫理の物語に感動すること間違いなし！",
+    "action_plan": "Netflixで今すぐ『もしもの愛』を視聴して、あなた自身の心で社会正義と愛の真実を確かめてみましょう！",
+    "image_keyword": "Netflix movie, social justice, love drama",
+    "technical_terms": []
+  },
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVk3akRnNVJjZ0Z6UmxabEJiX2s2Vm5DQ2NrdGxkaElHOWlRNkJDSVFfYmN0amg2Y3lUMFU1dENuRTFPNkY0Mm9QazVOTWpNcWNPVnhSblpSUEwzUEc2MG91S3pwY0VqQjZTYTBVV2xSakRqLU0yZFB4aXNXYXZwWWY5Zzc?oc=5": {
+    "title": "MCR vs FALL OUT BOY！激熱DJバトル第2弾解禁！「GEKIROCK DJ PARTY」渋谷で大開催！",
+    "tags": "Music",
+    "sentiment": "positive",
+    "sentiment_text": "激熱対決！ファン歓喜の夜が渋谷に到来！",
+    "rating": 5,
+    "time_ago": "4日前",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVk3akRnNVJjZ0Z6UmxabEJiX2s2Vm5DQ2NrdGxkaElHOWlRNkJDSVFfYmN0amg2Y3lUMFU1dENuRTFPNkY0Mm9QazVOTWpNcWNPVnhSblpSUEwzUEc2MG91S3pwY0VqQjZTYTBVV2xSakRqLU0yZFB4aXNXYXZwWWY5Zzc?oc=5",
+    "summary_bullets": [
+      "伝説のバンド「MY CHEMICAL ROMANCE」と「FALL OUT BOY」がDJバトルで激突する「GEKIROCK DJ PARTY」第2弾が解禁！",
+      "「洋楽限定SPECIAL」第6弾として12/12(土)に渋谷THE GAMEにて開催、500円お得な期間限定早割チケットも販売中！",
+      "エモ・ロック好きにはたまらない夢の対決で、最高潮に盛り上がる一夜が約束されていることに期待が募る！"
+    ],
+    "insight": "伝説的エモバンドMCRとポップパンクの雄FOB、それぞれのヒット曲がフロアを揺らすDJバトルは、単なるイベントを超えた音楽の祭典！両バンドのファンはもちろん、洋楽ロック好きなら見逃せない一夜になること間違いなし！",
+    "action_plan": "今すぐ早割チケットをゲットして、歴史に残るDJバトルに備えましょう！参戦前に両バンドの代表曲をプレイリストに追加して、気分を盛り上げよう！",
+    "image_keyword": "Rock DJ Party, Band Battle, Shibuya Nightlife",
+    "technical_terms": [
+      {
+        "term": "DJタイム",
+        "explanation": "DJが選曲した音楽を流して参加者を盛り上げる時間のこと。"
+      },
+      {
+        "term": "早割チケット",
+        "explanation": "通常料金より安く、期間限定で販売される先行チケットのこと。お得にイベントに参加できる。"
+      }
+    ]
   }
 }
